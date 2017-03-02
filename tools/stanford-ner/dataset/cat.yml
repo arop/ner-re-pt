@@ -1,0 +1,16 @@
+---
+:input:
+  PESSOA: :person
+  LOCAL: :location
+  ORGANIZACAO: :organization
+  ACONTECIMENTO: :event
+  VALOR: :value
+  TEMPO: :time
+:output:
+  :default: O
+  :person: PERSON
+  :location: LOCATION
+  :organization: ORGANIZATION
+  :event: EVENT
+  :value: VALUE
+  :time: TIME
