@@ -41,3 +41,15 @@ def filter_types(tree):
     else:
       el.tag = "to_strip"
   etree.strip_tags(tree,'to_strip')
+
+#######################################
+######## SELECT SUBTYPES ONLY #########
+#######################################
+# change categories to subtypes, when there is none, strip entity
+def filter_subtypes(tree):
+  for el in tree.iterfind("//EM"):
+    if('SUBTIPO' in el.attrib):
+      el.attrib['CATEG'] = el.attrib['CATEG'] + '_' + el.attrib['TIPO'] + '_' + el.attrib['SUBTIPO']
+    else:
+      el.tag = "to_strip"
+  etree.strip_tags(tree,'to_strip')
