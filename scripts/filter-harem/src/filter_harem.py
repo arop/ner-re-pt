@@ -29,3 +29,15 @@ def filter_dataset(tree):
 
   for st in subtipos:
     strip_tags_attr_contains(tree,'EM','SUBTIPO',st)
+
+#######################################
+########## SELECT TYPES ONLY ##########
+#######################################
+# change categories to types, when there is none, strip entity
+def filter_types(tree):
+  for el in tree.iterfind("//EM"):
+    if('TIPO' in el.attrib):
+      el.attrib['CATEG'] = el.attrib['CATEG'] + '_' + el.attrib['TIPO']
+    else:
+      el.tag = "to_strip"
+  etree.strip_tags(tree,'to_strip')

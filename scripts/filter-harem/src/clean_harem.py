@@ -1,6 +1,7 @@
 from lxml import etree
 import sys
 import filter_alt_tags
+import filter_harem
 
 if(len(sys.argv) > 1):
   harem_filename = sys.argv[1]
@@ -11,9 +12,25 @@ else:
 
 tree = etree.parse(harem_filename)
 
+# deal with alternatives in categories, types
+filter_alt_tags.filter_categories_alternatives(tree)
+
+# filter only categories
+if(sys.argv[3] == "0"):
+  print "Filtering filter_categories"
+
+# filter only types
+elif(sys.argv[3] == "1"):
+  print "Filtering types"
+  filter_harem.filter_types(tree)
+
+# filter only subtypes
+elif(sys.argv[3] == "2"):
+  print "Filtering subtypes"
+  filter_harem.filter_subtypes(tree)
+
 # filter unnecessary categories, types and subtypes
-if(sys.argv[3] == "3"):
-  import filter_harem
+elif(sys.argv[3] == "3"):
   print "Filtering dataset"
   filter_harem.filter_dataset(tree)
 
