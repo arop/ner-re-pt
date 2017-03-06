@@ -1,10 +1,10 @@
 from lxml import etree
 
 out_path = "../outputs/"
-only_cat_path = out_path + "harem-only-categories.xml"
-only_types_path = out_path + "harem-only-types.xml"
-only_subtypes_path = out_path + "harem-only-subtypes.xml"
-filtered_path = out_path + "harem-filtered.xml"
+only_cat_path = out_path + "cat_all.xml"
+only_types_path = out_path + "types_all.xml"
+only_subtypes_path = out_path + "subtypes_all.xml"
+filtered_path = out_path + "filtered_all.xml"
 
 paths = [only_cat_path,only_types_path,only_subtypes_path,filtered_path]
 

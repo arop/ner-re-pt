@@ -46,8 +46,9 @@ attr_name = ['TIPO','SUBTIPO','COREL','TIPOREL','ID','COMENT']
 for at in attr_name:
   remove_attrib(tree,at)
 
-# remove elements OMITIDO, check livro HAREM pag 109, secao 5.6.1.3
-etree.strip_elements(tree,'OMITIDO')
+# strip elements inside OMITIDO, and OMITIDO itself, check livro HAREM pag 109, secao 5.6.1.3
+filter_harem.strip_inside_omitido(tree)
+etree.strip_tags(tree,'OMITIDO')
 
 # deal with ALT tags
 filter_alt_tags.filter_alt_tags(tree)

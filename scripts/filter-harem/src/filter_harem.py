@@ -53,3 +53,10 @@ def filter_subtypes(tree):
     else:
       el.tag = "to_strip"
   etree.strip_tags(tree,'to_strip')
+
+#######################################
+######## STRIP INSIDE OMITIDO #########
+#######################################
+def strip_inside_omitido(tree):
+  for el in tree.iterfind("//OMITIDO"):
+    etree.strip_tags(el,'EM')
