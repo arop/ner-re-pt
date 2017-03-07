@@ -1,4 +1,5 @@
 import sys
+import re
 
 if(len(sys.argv) > 1):
   filein = sys.argv[1]
@@ -20,8 +21,18 @@ newdata = filedata
 for cat in categories:
 	newdata = newdata.replace("<EM CATEG=\""+ cat + "\">","<START:"+cat+">")
 
-newdata = newdata.replace("</EM>","<END>")	
+newdata = newdata.replace("</EM>","<END>")
 
-f = open(fileout,'w')
+#################
+# Sentence per P tag 
+newdata = newdata.replace("<P>",'\n')
+newdata = newdata.replace("</P>",'')
+
+#######################
+# Ignore DOC tags
+newdata = re.sub(r"<DOC DOCID=\".*\">", '', newdata)
+newdata = newdata.replace("</DOC>",'\n')
+
+f = open("./outputs/"+fileout,'w')
 f.write(newdata)
 f.close()
