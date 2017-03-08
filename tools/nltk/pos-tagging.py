@@ -38,7 +38,7 @@ for (word,tag) in tagged:
 	to_file += word + '\t' + tag + '\n'
 
 # output to file
-fileout = "tagged"
+fileout = "pos-tagged.txt"
 f = open('outputs/' + fileout, 'w')
 f.write(to_file.encode('ISO-8859-1'))
 f.close()
