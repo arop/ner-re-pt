@@ -12,22 +12,55 @@ etree.strip_tags(tree, 'DOC', 'P')
 string_tree = etree.tostring(tree, encoding='ISO-8859-1')
 
 #remove first lines (with xml)
-to_file = string_tree.split('\n',3)[3]
+file_str = string_tree.split('\n',3)[3]
 
 #tokenize file
-text_as_list = word_tokenize(to_file.decode('ISO-8859-1'))
+text_as_list = word_tokenize(file_str.decode('ISO-8859-1'))
 
 tokenized = ""
 for token in text_as_list:
 	tokenized += token + '\n'
 
 #replace tokenized entity tag with single entity tag
-to_file = re.sub(r"<\nEM\nCATEG=\n''\n(\w+)\n''\n>", r"<EM CATEG='\1'>", tokenized)
-to_file = re.sub(r"<\nEM\n>\n", '', to_file)
-to_file = re.sub(r"<\n/EM\n>", r"</EM>", to_file)
+file_str = re.sub(r"<\nEM\nCATEG=\n''\n(\w+)\n''\n>", r"<EM CATEG='\1'>", tokenized)
+file_str = re.sub(r"<\nEM\n>\n", '', file_str)
+file_str = re.sub(r"<\n/EM\n>", r"</EM>", file_str)
 
 #remove last tag
-to_file = re.sub(r"<\n/colHAREM\n>", '', to_file)
+file_str = re.sub(r"<\n/colHAREM\n>", '', file_str)
+
+
+#############################
+###### SET CATEGORIES #######
+patternBegin = re.compile(r"<EM CATEG='(\w+)'>")
+patternEnd = re.compile(r"</EM>")
+insideEntity = False
+begin = False
+first = False
+to_file = ""
+
+for line in file_str.splitlines():
+	if (not insideEntity) and patternBegin.match(line): # begin tag, start tagging next time
+		entityClass = patternBegin.match(line).group(1)
+		begin = True
+		first = True
+		insideEntity = True
+	elif insideEntity and patternEnd.match(line): # end tag, finish tagging
+		begin = False
+		first = False
+		insideEntity = False
+	elif insideEntity and first: # start tag -> B
+		first = False
+		to_file += line + '\tB-' + entityClass + '\n'
+	elif insideEntity and (not first): # middle tag -> I
+		to_file += line + '\tI-' + entityClass + '\n'
+	else: # not tagging
+		to_file += line + '\tO\n'
+
+#############################
+######## REMOVE TAGS ########
+#to_file = re.sub(r"<EM CATEG='(\w+)'>\n", '', to_file)
+#to_file = re.sub(r"</EM>\n", '', to_file)
 
 # output to file
 fileout = "tokenized_w_categories.txt"
