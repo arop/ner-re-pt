@@ -1,8 +1,8 @@
 import nltk
 from nltk.corpus import floresta
-from nltk.tokenize import word_tokenize
 
-file = open('../../scripts/filter-harem/harem-to-nltk/outputs/cleaned.txt','r')
+#tokenize
+text_as_list = open('outputs/tokenized.txt','r').read().decode('ISO-8859-1').splitlines()
 
 # first time
 # nltk.download('floresta')
@@ -30,8 +30,6 @@ tagger1 = nltk.UnigramTagger(train, backoff=tagger0)
 tagger2 = nltk.BigramTagger(train, backoff=tagger1)
 #nltk.tag.accuracy(tagger2, test)
 #print tagger2.evaluate(test)
-
-text_as_list = word_tokenize(file.read().decode('ISO-8859-1'))
 
 tagged = tagger2.tag(text_as_list)
 

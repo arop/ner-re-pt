@@ -54,6 +54,6 @@ etree.strip_tags(tree,'OMITIDO')
 filter_alt_tags.filter_alt_tags(tree)
 
 # output to file
-f = open("./outputs/"+output_name,'w')
+f = open("../outputs/"+output_name,'w')
 f.write(etree.tostring(tree, encoding="ISO-8859-1"))
 f.close()

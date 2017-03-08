@@ -9,10 +9,10 @@ text = text.replace('<P>','\n<P>')
 categories = open('categories').read().splitlines()
 
 for cat in categories:
-	text = text.replace("<EM CATEG=\""+ cat + "\">",' ')
+	text = text.replace("<EM CATEG=\""+ cat + "\">",'')
 
-text = text.replace('<EM>',' ')
-text = text.replace('</EM>',' ')
+text = text.replace('<EM>','')
+text = text.replace('</EM>','')
 
 tree = etree.fromstring(text)
 

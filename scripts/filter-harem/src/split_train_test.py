@@ -30,11 +30,11 @@ for el in test:
 	out_tree_test.append(el)
 
 # output to file
-f = open("outputs/"+output_name+"_train.xml",'w')
+f = open("../outputs/"+output_name+"_train.xml",'w')
 f.write(etree.tostring(out_tree_train, encoding="ISO-8859-1"))
 f.close()
 
 # output to file
-f = open("outputs/"+output_name+"_test.xml",'w')
+f = open("../outputs/"+output_name+"_test.xml",'w')
 f.write(etree.tostring(out_tree_test, encoding="ISO-8859-1"))
 f.close()

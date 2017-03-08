@@ -1,5 +1,6 @@
 from lxml import etree
 import sys
+import re
 
 if(len(sys.argv) > 1):
   input_filename = sys.argv[1]
@@ -17,7 +18,12 @@ for ps in tree.iterfind('//P'):
 
 etree.strip_tags(tree,'temp')
 
+temp_str = etree.tostring(tree, encoding="ISO-8859-1")
+
+temp_str = re.sub(r"(?<=\w)<EM", " <EM", temp_str)
+temp_str = re.sub(r"</EM>(?=\w)", "</EM> ", temp_str)
+
 # output to file
 f = open("../outputs/"+output_name,'w')
-f.write(etree.tostring(tree, encoding="ISO-8859-1"))
+f.write(temp_str)
 f.close()
