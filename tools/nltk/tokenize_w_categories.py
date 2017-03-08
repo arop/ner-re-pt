@@ -54,13 +54,10 @@ for line in file_str.splitlines():
 		to_file += line + '\tB-' + entityClass + '\n'
 	elif insideEntity and (not first): # middle tag -> I
 		to_file += line + '\tI-' + entityClass + '\n'
+	elif (not insideEntity) and patternEnd.match(line): # close tag for cases where entities had no category
+		continue
 	else: # not tagging
 		to_file += line + '\tO\n'
-
-#############################
-######## REMOVE TAGS ########
-#to_file = re.sub(r"<EM CATEG='(\w+)'>\n", '', to_file)
-#to_file = re.sub(r"</EM>\n", '', to_file)
 
 # output to file
 fileout = "tokenized_w_categories.txt"
