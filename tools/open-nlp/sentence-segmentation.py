@@ -5,7 +5,7 @@ if(len(sys.argv) > 1):
   filein = sys.argv[1]
   fileout = sys.argv[2]
 else:
-  print "Usage: python test-pt.py <input harem> <output file>\n"
+  print "Usage: python sentence-segmentation.py <input harem> <output file>\n"
   sys.exit()
 
 #run first time
