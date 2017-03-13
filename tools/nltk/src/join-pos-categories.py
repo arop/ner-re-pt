@@ -29,6 +29,9 @@ with pos_tagged as pos, tokenized_w_categories as entities:
         else:
         	new_file += ps[0] + '\t' + ps[1] + '\t' + es[1] + '\n'
 
+new_file = new_file.replace('--SENTENCE--','')
+new_file = new_file.replace('--DOCSTART--\n','')
+
 # output to file
 f = open('outputs/' + fileout, 'w')
 f.write(new_file)
