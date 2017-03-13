@@ -1,9 +1,5 @@
 changed input-encoding and output-encoding
 
-NOT USED
-python conll02tostandoff.py -o <output-folder> <input-conll-file>
-
----------------------------------
 python opennlp2standoff.py
 
 - errors:
