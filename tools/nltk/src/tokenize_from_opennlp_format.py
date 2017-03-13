@@ -1,18 +1,11 @@
 import re
-from lxml import etree
 from nltk.tokenize import word_tokenize
 
-file = open('../../scripts/filter-harem/outputs/cat_all.xml','r').read()
+#file = open('../../scripts/filter-harem/outputs/cat_all.xml','r').read()
+#file = open('../../scripts/filter-harem/outputs/cat_train.xml','r').read()
+file = open('../../scripts/filter-harem/harem-to-opennlp/outputs/cat_test_doc.xml','r').read()
 
-file = file.replace('<P>','\n<P>')
-
-#strip DOC and P tags
-tree = etree.fromstring(file)
-etree.strip_tags(tree, 'DOC', 'P')
-string_tree = etree.tostring(tree, encoding='ISO-8859-1')
-
-#remove first lines (with xml)
-file_str = string_tree.split('\n',3)[3]
+file_str = "--SENTENCE--\n".join(file.splitlines())
 
 #tokenize file
 text_as_list = word_tokenize(file_str.decode('ISO-8859-1'))
@@ -22,18 +15,19 @@ for token in text_as_list:
 	tokenized += token + '\n'
 
 #replace tokenized entity tag with single entity tag
-file_str = re.sub(r"<\nEM\nCATEG=\n''\n(\w+)\n''\n>", r"<EM CATEG='\1'>", tokenized)
+file_str = re.sub(r"<\nSTART\n:\n(\w+)\n>", r"<EM CATEG='\1'>", tokenized)
 file_str = re.sub(r"<\nEM\n>\n", '', file_str)
-file_str = re.sub(r"<\n/EM\n>", r"</EM>", file_str)
+file_str = re.sub(r"<\nEND\n>", r"</EM>", file_str)
 
-#remove last tag
-file_str = re.sub(r"<\n/colHAREM\n>", '', file_str)
-
+file_str = re.sub(r"--\nDOCSTART\n--", r"--DOCSTART--", file_str)
+file_str = re.sub(r"--\nSENTENCE\n--", r"--SENTENCE--", file_str)
 
 #############################
 ###### SET CATEGORIES #######
 patternBegin = re.compile(r"<EM CATEG='(\w+)'>")
 patternEnd = re.compile(r"</EM>")
+docstart = re.compile(r"--DOCSTART--")
+sentencestart = re.compile(r"--SENTENCE--")
 insideEntity = False
 begin = False
 first = False
@@ -56,11 +50,15 @@ for line in file_str.splitlines():
 		to_file += line + '\tI-' + entityClass + '\n'
 	elif (not insideEntity) and patternEnd.match(line): # close tag for cases where entities had no category
 		continue
+	elif docstart.match(line):
+		to_file += line + '\t--DOCSTART--\n'
+	elif sentencestart.match(line):
+		to_file += line + '\t--SENTENCE--\n'
 	else: # not tagging
 		to_file += line + '\tO\n'
 
 # output to file
-fileout = "tokenized_w_categories.txt"
+fileout = "opennlp_tokenized.txt"
 f = open('outputs/' + fileout, 'w')
 f.write(to_file.encode('ISO-8859-1'))
 f.close()
