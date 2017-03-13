@@ -1,10 +1,15 @@
 import re
+import sys
 from nltk.tokenize import word_tokenize
 
-#file = open('../../scripts/filter-harem/outputs/cat_all.xml','r').read()
-#file = open('../../scripts/filter-harem/outputs/cat_train.xml','r').read()
-file = open('../../scripts/filter-harem/harem-to-opennlp/outputs/cat_test_doc.xml','r').read()
+if(len(sys.argv) > 1):
+  filein = sys.argv[1]
+  fileout = sys.argv[2]
+else:
+  print "Usage: python " + sys.argv[0] + " <input> <output>\n"
+  sys.exit()
 
+file = open(filein, 'r').read()
 file_str = "--SENTENCE--\n".join(file.splitlines())
 
 #tokenize file
@@ -58,7 +63,6 @@ for line in file_str.splitlines():
 		to_file += line + '\tO\n'
 
 # output to file
-fileout = "opennlp_tokenized.txt"
 f = open('outputs/' + fileout, 'w')
 f.write(to_file.encode('ISO-8859-1'))
 f.close()
