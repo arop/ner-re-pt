@@ -23,16 +23,16 @@ useWord=true
 # and suffixes only 
 useNGrams=true
 noMidNGrams=true
-maxNGramLeng=6
+maxNGramLeng=3
 usePrev=true
 useNext=true
-useDisjunctive=true
-useSequences=true
+useDisjunctive=false
+useSequences=false
 usePrevSequences=true
 # the last 4 properties deal with word shape features
-useTypeSeqs=true
-useTypeSeqs2=true
-useTypeySequences=true
+useTypeSeqs=false
+useTypeSeqs2=false
+useTypeySequences=false
 wordShape=chris2useLC
 ######
 saveFeatureIndexToDisk = true
