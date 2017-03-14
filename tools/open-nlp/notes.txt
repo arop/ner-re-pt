@@ -37,3 +37,6 @@ Used NLTK for sentence segmentation
 join faulty sentences (sentences with <END> tag with no match)
 1. match <START> and <END> tags
 1. if there is an <END> tag with no match, then join with previous sentence
+
+----------------------------
+tags have to have a space before and after!!!!!
