@@ -1,5 +1,5 @@
 # location of the training file
-trainFile = ../../scripts/filter-harem/harem-to-conll/output/filtered_train
+trainFile = ../../scripts/filter-harem/harem-to-stanford/output/filtered_train
 # location where you would like to save (serialize) your
 # classifier; adding .gz at the end automatically gzips the file,
 # making it smaller, and faster to load

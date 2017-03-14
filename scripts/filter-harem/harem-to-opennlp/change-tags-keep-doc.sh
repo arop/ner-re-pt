@@ -12,6 +12,6 @@ python "src/change_tags_keep_doc.py" "../outputs/subtypes_all.xml" "subtypes_all
 python "src/change_tags_keep_doc.py" "../outputs/subtypes_train.xml" "subtypes_train_doc.xml"
 python "src/change_tags_keep_doc.py" "../outputs/subtypes_test.xml" "subtypes_test_doc.xml"
 
-#python "src/change_tags_keep_doc.py" "../outputs/filtered_all.xml" "filtered_all_doc.xml"
-#python "src/change_tags_keep_doc.py" "../outputs/filtered_train.xml" "filtered_train_doc.xml"
-#python "src/change_tags_keep_doc.py" "../outputs/filtered_test.xml" "filtered_test_doc.xml"
+python "src/change_tags_keep_doc.py" "../outputs/filtered_all.xml" "filtered_all_doc.xml"
+python "src/change_tags_keep_doc.py" "../outputs/filtered_train.xml" "filtered_train_doc.xml"
+python "src/change_tags_keep_doc.py" "../outputs/filtered_test.xml" "filtered_test_doc.xml"
