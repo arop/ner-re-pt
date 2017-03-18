@@ -2,7 +2,7 @@ T1	Data 63 82	26 de março de 2017
 T2	Data 107 118	26 de Março
 T3	Data 151 155	2017
 T4	Evento 168 184	FameLab Portugal
-T5	Curso 189 196	FameLab
+T5	Evento 189 196	FameLab
 T6	Localizacao 501 509	Portugal
 T7	Organizacao 512 519	FameLab
 T8	Organizacao 538 553	British Council
@@ -30,3 +30,6 @@ T29	Localizacao 2087 2093	Egipto
 T30	Localizacao 2095 2108	África do Sul
 T31	Localizacao 2110 2113	EUA
 T32	Localizacao 2116 2125	Austrália
+T33	Evento 0 7	FameLab
+T34	Evento 10 44	Concurso de Comunicação de Ciência
+T35	Evento 202 250	concurso internacional de Comunicação de Ciência
