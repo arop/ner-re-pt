@@ -16,6 +16,13 @@ def strip_tags_attr_contains(tree,tag,attr,attrvalue):
       el.tag = deltag
   etree.strip_tags(tree, deltag)
 
+#strip tags which do not contain categories
+def strip_tags_without_cat(tree,tag):
+  deltag ="strip_me"
+  for el in tree.xpath("//"+str(tag)+"[not(@CATEG)]"):
+      el.tag = deltag
+  etree.strip_tags(tree, deltag)  
+
 def filter_dataset(tree):
   categorias = ['OBRA','COISA','ABSTRACCAO','OUTRO']
   tipos = ['CARGO','GRUPOCARGO','GRUPOMEMBRO','MEMBRO','GRUPOIND','POVO', 'EFEMERIDE','VIRTUAL']

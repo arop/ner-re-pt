@@ -1,0 +1,31 @@
+problems:
+	- sentences
+	- different tokenization
+		- periods (.)
+		- / 
+		- ...
+		- ©	
+		- joined words, 
+			- eg ".A" - line 2442
+			- "imaginarias-" - line 3395
+	- -LRB-/-RRB- => ()
+	- spaces
+		- remove space tokens from golden
+	- `` -> ''
+
+
+------------------------------------
++++- `` -> ''
++++- line 7754 -> ".............", remove extra line with ". O" (in out-cat.txt)
++++- extra . in line 9821 after Ph.D., don't know why... remove from out-cat.txt
+
+------------------------------------
+line 30488 - breaks in non-break space
+	- in out-cat.txt remove break
+	-- better add break in t_cat_test.txt
+
+
+------------------------------------
+./join-output-golden <ner-output> <golden> > <out>
+./conlleval [-r] < <input>
+	- -r : ignore iob tags evaluation

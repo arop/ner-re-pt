@@ -20,7 +20,7 @@ insideEntity = False
 to_file = ""
 to_clean_file = ""
 
-for line in file.splitlines()[3:]:
+for line in file.splitlines()[3:-1]:
 	if (not insideEntity) and patternBegin.match(line): # begin tag, start tagging next time
 		entityClass = patternBegin.match(line).group(1)
 		insideEntity = True
@@ -37,6 +37,10 @@ for line in file.splitlines()[3:]:
 	else: # not tagging
 		to_file += line + '\tO\n'
 		to_clean_file += line + '\n'
+
+# deal with non-break character, only occurs once
+to_file = re.sub(ur'25\s680/2000\t(\w+)\n', r'25\t\1\n680/2000\t\1\n', to_file, 1, re.U)
+to_clean_file = re.sub(ur'25\s680/2000\n', r'25\n680/2000\n', to_clean_file, 1, re.U)
 
 # output to file
 f = open(filein, 'w')

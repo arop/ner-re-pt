@@ -34,6 +34,8 @@ elif(sys.argv[3] == "3"):
   print "Filtering dataset"
   filter_harem.filter_dataset(tree)
 
+filter_harem.strip_tags_without_cat(tree,'EM')
+
 ##########################
 ### REMOVE ATTRIBUTES ####
 ##########################

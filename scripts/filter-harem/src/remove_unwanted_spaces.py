@@ -12,7 +12,7 @@ else:
 tree = etree.parse(input_filename)
 
 for ps in tree.iterfind('//P'):
-	inside_ps = etree.tostring(ps).replace('\n','').replace('\t','').replace('      ','')
+	inside_ps = etree.tostring(ps).replace('\n','').replace('\t',' ').replace('      ',' ')
 	inside_elem = etree.fromstring('<temp>'+inside_ps+'</temp>')
 	ps.getparent().replace(ps,inside_elem)
 
