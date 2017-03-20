@@ -22,7 +22,7 @@ Sousa	PESSOA
 revelou	O
 que	O
 tem	O
-``	O
+''	O
 capacidade	O
 para	O
 chegar	O
@@ -60,7 +60,7 @@ ser	O
 mais	O
 duro	O
 .	O
-``	O
+''	O
 Vai	O
 ser	O
 um	O
@@ -132,7 +132,7 @@ vai	O
 ser	O
 fácil	O
 :	O
-``	O
+''	O
 Há	O
 15	VALOR
 ou	O
@@ -177,7 +177,7 @@ até	O
 ao	O
 último	O
 dia	PESSOA
-``	O
+''	O
 .	O
 O	O
 português	O
@@ -834,7 +834,7 @@ Lisboa	LOCAL
 Sócrates	PESSOA
 :	O
 cimeira	O
-``	O
+''	O
 União	ABSTRACCAO
 Europeia	ABSTRACCAO
 -	O
@@ -1077,8 +1077,3 @@ dirigente»	O
 ,	O
 insistiu	O
 .	O
-Execution	O
-time	O
-:	O
-0.311	O
-seconds	O

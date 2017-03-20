@@ -141,7 +141,7 @@ usou	O
 uma	O
 estratégia	O
 de	O
-``	O
+''	O
 engenheirar	O
 ''	O
 os	O
@@ -172,7 +172,7 @@ infecção	O
 do	O
 influenza	O
 .	O
-``	O
+''	O
 Uma	O
 mudança	O
 de	O
@@ -257,9 +257,9 @@ hoje	O
 da	O
 revista	O
 científica	O
-``	O
+''	O
 Science	COISA
-``	O
+''	O
 .	O
 contra-revoluções	O
 musicais	O
@@ -297,7 +297,7 @@ em	O
 mil	O
 bocados	O
 .	O
-``	O
+''	O
 Se	O
 a	O
 música	O
@@ -366,7 +366,7 @@ ainda	O
 podemos	O
 falar	O
 de	O
-``	O
+''	O
 a	O
 ''	O
 música	O
@@ -398,7 +398,7 @@ essa	O
 mesma	O
 capa	O
 de	O
-``	O
+''	O
 música	O
 contemporânea	O
 ''	O
@@ -446,7 +446,7 @@ frase	O
 de	O
 Heinz-Klaus	LOCAL
 (	O
-``	O
+''	O
 já	O
 não	O
 é	O
@@ -1812,7 +1812,7 @@ Sousa	PESSOA
 Tavares	PESSOA
 -	O
 Jornal	LOCAL
-``	O
+''	O
 Expresso	O
 ''	O
 -	O
@@ -2253,7 +2253,7 @@ Tom	PESSOA
 Wolfe	PESSOA
 criam	O
 o	O
-``	O
+''	O
 new	O
 journalism	O
 ''	O
@@ -3313,7 +3313,7 @@ campeonato	O
 .	O
 Em	O
 três	O
-``	O
+''	O
 duelos	O
 ''	O
 ,	O
@@ -3430,7 +3430,7 @@ espanhol	O
 conquistou	O
 frente	O
 aos	O
-``	O
+''	O
 dragões	O
 ''	O
 o	O
@@ -3475,7 +3475,7 @@ prolongamento	O
 Simão	O
 derrotou	O
 o	O
-``	O
+''	O
 onze	O
 ''	O
 de	O
@@ -3542,7 +3542,7 @@ do	O
 FC	ORGANIZACAO
 Porto	ORGANIZACAO
 :	O
-``	TEMPO
+''	TEMPO
 a	TEMPO
 época	TEMPO
 passada	O
@@ -3898,7 +3898,7 @@ da	O
 perdida	O
 ''	O
 África	OBRA
-``	O
+''	O
 do	O
 fotojornalista	O
 Sebastião	PESSOA
@@ -4152,9 +4152,9 @@ novo	O
 ao	O
 ver	O
 o	O
-``	O
+''	O
 África	OBRA
-``	O
+''	O
 onde	O
 estão	O
 também	O
@@ -4453,9 +4453,9 @@ que	O
 agora	O
 aparecem	O
 no	O
-``	O
+''	O
 África	OBRA
-``	O
+''	O
 ,	O
 trabalhava	O
 nove	O
@@ -4735,9 +4735,9 @@ novo	O
 projecto	O
 .	O
 Com	O
-``	O
+''	O
 África	OBRA
-``	O
+''	O
 regressamos	O
 ao	O
 tempo	O
@@ -4762,8 +4762,3 @@ Carvalho	PESSOA
 fotojornalista	O
 do	O
 Expresso	PESSOA
-Execution	O
-time	O
-:	O
-0.447	O
-seconds	O

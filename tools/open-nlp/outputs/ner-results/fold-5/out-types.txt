@@ -522,7 +522,7 @@ Mosteiro	COISA_CLASSE
 Superflex	O
 lança	O
 cerveja	O
-``	O
+''	O
 pública	O
 ''	O
 29	TEMPO_TEMPO_CALEND
@@ -690,7 +690,7 @@ durante	O
 a	O
 Bienal	ACONTECIMENTO_ORGANIZADO
 .	O
-``	O
+''	O
 Agora	O
 estamos	O
 propondo	O
@@ -743,7 +743,7 @@ mercado	O
 conta	O
 Fenger	PESSOA_INDIVIDUAL
 .	O
-``	O
+''	O
 Free	O
 software	O
 ''	O
@@ -763,7 +763,7 @@ Universidade	ORGANIZACAO_INSTITUICAO
 de	O
 Copenhague	LOCAL_HUMANO
 .	O
-``	O
+''	O
 Buscamos	O
 transferir	O
 os	O
@@ -788,7 +788,7 @@ exemplo	O
 conta	O
 Nielsen	PESSOA_INDIVIDUAL
 .	O
-``	O
+''	O
 Por	O
 isso	O
 ,	O
@@ -808,7 +808,7 @@ gratuito	O
 e	O
 à	O
 Wikipedia	PESSOA_INDIVIDUAL
-``	O
+''	O
 ,	O
 diz	O
 o	O
@@ -836,7 +836,7 @@ de	O
 forma	O
 gratuita	O
 .	O
-``	O
+''	O
 Já	O
 há	O
 Free	PESSOA_INDIVIDUAL
@@ -857,7 +857,7 @@ até	O
 na	O
 República	LOCAL_HUMANO
 Tcheca	LOCAL_HUMANO
-``	O
+''	O
 ,	O
 afirma	O
 Fenger	ORGANIZACAO_INSTITUICAO
@@ -893,7 +893,7 @@ desenvolvida	O
 pela	O
 empresa	O
 .	O
-``	O
+''	O
 A	O
 única	O
 coisa	O
@@ -913,7 +913,7 @@ site	O
 do	O
 Creative	PESSOA_INDIVIDUAL
 Commons	PESSOA_INDIVIDUAL
-``	O
+''	O
 ,	O
 diz	O
 Christiansen	PESSOA_INDIVIDUAL
@@ -925,11 +925,11 @@ o	O
 Superflex	PESSOA_INDIVIDUAL
 apresenta	O
 o	O
-``	O
+''	O
 Free	COISA_OBJECTO
 Beer	COISA_OBJECTO
 Kit	COISA_OBJECTO
-``	O
+''	O
 ,	O
 uma	O
 mesa	O
@@ -955,12 +955,12 @@ aliás	O
 ,	O
 no	O
 workshop	O
-``	O
+''	O
 O	OBRA_REPRODUZIDA
 Mundo	OBRA_REPRODUZIDA
 da	OBRA_REPRODUZIDA
 Cerveja	OBRA_REPRODUZIDA
-``	O
+''	O
 ,	O
 com	O
 os	O
@@ -988,10 +988,10 @@ exibe	O
 também	O
 nove	O
 máquinas	O
-``	O
+''	O
 Counter-Game	OBRA_REPRODUZIDA
 Strategies	OBRA_REPRODUZIDA
-``	O
+''	O
 (	O
 estratégias	O
 de	O
@@ -1032,7 +1032,7 @@ Mark	OBRA_REPRODUZIDA
 Getty	OBRA_REPRODUZIDA
 afirma	O
 que	O
-``	O
+''	O
 a	O
 propriedade	O
 intelectual	O
@@ -1048,7 +1048,7 @@ século	TEMPO_TEMPO_CALEND
 conta	O
 Christiansen	PESSOA_INDIVIDUAL
 ,	O
-``	O
+''	O
 portanto	O
 ,	O
 estamos	O
@@ -1112,12 +1112,12 @@ realizada	O
 uma	O
 gincana	O
 intitulada	O
-``	O
+''	O
 Free	COISA_OBJECTO
 Beer	COISA_OBJECTO
 Pub	COISA_OBJECTO
 Quiz	COISA_OBJECTO
-``	O
+''	O
 ,	O
 na	O
 qual	O
@@ -1463,7 +1463,7 @@ etiquetas	O
 )	O
 denominadas	O
 de	O
-``	O
+''	O
 etiquetas	O
 de	O
 vigilância	O
@@ -3925,14 +3925,14 @@ de	O
 Gustave	PESSOA_INDIVIDUAL
 Flaubert	PESSOA_INDIVIDUAL
 ,	O
-``	O
+''	O
 La	OBRA_REPRODUZIDA
 Légende	OBRA_REPRODUZIDA
 de	OBRA_REPRODUZIDA
 Saint	OBRA_REPRODUZIDA
 Julien	OBRA_REPRODUZIDA
 l'Hospitalier	O
-``	O
+''	O
 ,	O
 trabalhos	O
 ignorados	O
@@ -4055,9 +4055,9 @@ obras	O
 com	O
 o	O
 título	O
-``	O
+''	O
 Abstraccionismo	COISA_CLASSE
-``	O
+''	O
 ,	O
 que	O
 serão	O
@@ -4139,7 +4139,7 @@ Espinho	LOCAL_HUMANO
 ,	O
 vítima	O
 da	O
-``	O
+''	O
 pneumónica	O
 ''	O
 que	O
@@ -4314,7 +4314,7 @@ da	O
 revista	O
 Science	ORGANIZACAO_INSTITUICAO
 .	O
-``	O
+''	O
 Este	O
 é	O
 um	O
@@ -4710,7 +4710,7 @@ revista	O
 acadêmica	O
 Pachyderm	LOCAL_HUMANO
 .	O
-``	O
+''	O
 Ao	O
 incluir	O
 os	O
@@ -4943,7 +4943,7 @@ dados	O
 quase	O
 imediatamente	O
 .	O
-``	O
+''	O
 É	O
 aí	O
 que	O
@@ -5023,7 +5023,7 @@ ele	O
 travava	O
 inesperadamente	O
 .	O
-``	O
+''	O
 Perdi	O
 os	O
 dados	O
@@ -5050,7 +5050,7 @@ adentro	O
 ,	O
 lembra	O
 .	O
-``	O
+''	O
 Não	O
 foi	O
 nada	O
@@ -5118,7 +5118,7 @@ pelo	O
 mundo	O
 todo	O
 .	O
-``	O
+''	O
 No	O
 momento	O
 ,	O
@@ -5133,7 +5133,7 @@ campo	O
 ,	O
 disse	O
 .	O
-``	O
+''	O
 Se	O
 pudermos	O
 contar	O
@@ -5506,8 +5506,3 @@ da	O
 medicina	O
 interna	O
 .	O
-Execution	O
-time	O
-:	O
-0.686	O
-seconds	O

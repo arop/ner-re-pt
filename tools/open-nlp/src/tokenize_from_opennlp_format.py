@@ -33,6 +33,9 @@ docstart = re.compile(r"--DOCSTART--")
 insideEntity = False
 to_file = ""
 
+if encoding == "UTF-8": #means its results, remove last lines
+	file_str = "\n".join(file_str.splitlines()[:-5])
+
 for line in file_str.splitlines():
 	if (not insideEntity) and patternBegin.match(line): # begin tag, start tagging next time
 		entityClass = patternBegin.match(line).group(1)
@@ -47,6 +50,8 @@ for line in file_str.splitlines():
 		continue
 	else: # not tagging
 		to_file += line + '\tO\n'
+
+to_file = re.sub('``', '\'\'', to_file)
 
 # output to file
 f = open(fileout, 'w')

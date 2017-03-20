@@ -141,11 +141,11 @@ Em	TEMPO_TEMPO_CALEND
 no	O
 âmbito	O
 da	O
-``	O
+''	O
 Reforma	O
 geral	O
 eclesiástica	O
-``	O
+''	O
 empreendida	O
 pelo	O
 ministro	O
@@ -251,12 +251,12 @@ quem	O
 trata	O
 o	O
 filme	O
-``	O
+''	O
 2	O
 filhos	O
 de	LOCAL_HUMANO
 Francisco	LOCAL_HUMANO
-``	O
+''	O
 ?	O
 Quais	O
 são	O
@@ -374,7 +374,7 @@ basquete	O
 ?	O
 Quem	O
 disse	O
-``	O
+''	O
 Ao	O
 vencedor	O
 ,	O
@@ -2807,7 +2807,7 @@ seguiam	O
 uma	O
 programação	O
 prévia.	O
-``	O
+''	O
 Ano	O
 passado	O
 a	O
@@ -2890,7 +2890,7 @@ da	O
 cultura	O
 livre	O
 .	O
-``	O
+''	O
 Naturalmente	O
 ,	O
 você	O
@@ -2971,7 +2971,7 @@ o	O
 festival	O
 crescer	O
 :	O
-``	O
+''	O
 Esse	O
 ano	O
 a	O
@@ -3166,7 +3166,7 @@ palco	O
 com	O
 o	O
 comentário	O
-``	O
+''	O
 É	O
 software	O
 livre	O
@@ -3262,7 +3262,7 @@ discurso	O
 ,	O
 largou	O
 um	O
-``	O
+''	O
 Então	O
 me	O
 dêem	O
@@ -3396,7 +3396,7 @@ platéia	O
 Pra	O
 valer	O
 :	O
-``	O
+''	O
 No	O
 final	O
 ,	O
@@ -3411,7 +3411,7 @@ melhores	O
 elogios	O
 possíveis	O
 :	O
-``	O
+''	O
 fiquei	O
 impressionado	O
 com	O
@@ -3579,7 +3579,7 @@ vez	O
 mais	O
 empolgante	O
 :	O
-``	O
+''	O
 A	O
 gente	O
 gostou	O
@@ -3938,7 +3938,7 @@ autor	O
 ,	O
 José	PESSOA_INDIVIDUAL
 Mourinho	PESSOA_INDIVIDUAL
-``	O
+''	O
 é	O
 diferente	O
 por	O
@@ -3990,7 +3990,7 @@ de	O
 há	O
 quatro	O
 séculos	O
-``	O
+''	O
 .	O
 Cada	O
 vez	O
@@ -4526,10 +4526,10 @@ três	O
 rostos	O
 ligados	O
 à	O
-``	O
+''	O
 Big	OBRA_REPRODUZIDA
 Apple	OBRA_REPRODUZIDA
-``	O
+''	O
 :	O
 Hillary	PESSOA_INDIVIDUAL
 Clinton	PESSOA_INDIVIDUAL
@@ -4687,7 +4687,7 @@ York	O
 Giants	O
 disputaram	O
 o	O
-``	O
+''	O
 play	O
 off	O
 ''	O
@@ -4707,10 +4707,10 @@ que	O
 acabaram	O
 vencedores	O
 da	O
-``	O
+''	O
 World	OBRA_REPRODUZIDA
 Séries	OBRA_REPRODUZIDA
-``	O
+''	O
 )	O
 .	O
 Para	O
@@ -4749,7 +4749,7 @@ o	O
 também	O
 magnata	O
 dos	O
-``	O
+''	O
 media	O
 ''	O
 já	O
@@ -5108,7 +5108,7 @@ relatório	O
 onde	O
 agrupa	O
 os	O
-``	O
+''	O
 mais	O
 curiosos	O
 ''	O
@@ -5131,7 +5131,7 @@ lista	O
 -O	O
 código	O
 malicioso	O
-``	O
+''	O
 mais	O
 pontual	O
 ''	O
@@ -5239,7 +5239,7 @@ categoria	O
 Lost	O
 in	O
 Translation	O
-``	O
+''	O
 vai	O
 para	O
 worms	O
@@ -5274,7 +5274,7 @@ Voter.A	O
 um	O
 worm	O
 com	O
-``	O
+''	O
 consciência	O
 cívica	O
 ''	O
@@ -5353,7 +5353,7 @@ de	O
 perguntas	O
 ,	O
 como	O
-``	O
+''	O
 Qual	O
 a	O
 sua	O
@@ -5401,8 +5401,3 @@ exemplos	O
 de	O
 malware	O
 .	O
-Execution	O
-time	O
-:	O
-0.682	O
-seconds	O
