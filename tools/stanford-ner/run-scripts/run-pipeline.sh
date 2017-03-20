@@ -8,14 +8,18 @@ printf "\n***token to conll***\n"
 ./token-to-conll.sh
 
 # train
-printf "\n***training categories***\n"
-cd train && ./train-cat.sh ; cd -
-printf "\n***training filtered***\n"
-cd train && ./train-filtered.sh ; cd -
-# printf "\n***training types***\n"
-# cd train && ./train-types.sh ; cd - # not enough RAM
-# printf "\n***training subtypes***\n"
-# cd train && ./train-subtypes.sh ; cd - # not enough RAM
+for i in {0..9}
+do
+	printf "\n*****fold "$i"*****\n"
+	printf "\n***training categories***\n"
+	cd train/fold-$i && ./train-cat.sh ; cd -
+	printf "\n***training filtered***\n"
+	cd train/fold-$i && ./train-filtered.sh ; cd -
+	# printf "\n***training types***\n"
+	# cd train/fold-$i && ./train-types.sh ; cd - # not enough RAM
+	# printf "\n***training subtypes***\n"
+	# cd train/fold-$i && ./train-subtypes.sh ; cd - # not enough RAM
+done
 
 # test - perform ner
 printf "\n***testing categories***\n"
