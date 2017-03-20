@@ -6,7 +6,6 @@ accuracy:  90.52%; precision:  63.27%; recall:  56.88%; FB1:  59.90
             LOCAL: precision:  57.78%; recall:  53.06%; FB1:  55.32  45
              OBRA: precision:  22.22%; recall:   8.00%; FB1:  11.76  9
       ORGANIZACAO: precision:  50.00%; recall:  56.25%; FB1:  52.94  18
-      		OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
            PESSOA: precision:  61.54%; recall:  72.73%; FB1:  66.67  39
             TEMPO: precision:  89.80%; recall:  65.67%; FB1:  75.86  49
             VALOR: precision:  86.36%; recall:  86.36%; FB1:  86.36  22

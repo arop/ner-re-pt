@@ -9,6 +9,8 @@ else:
 
 
 def get_avg(l):
+	if len(l) == 0:
+		return 0.0
 	return reduce(lambda x, y: x + y, l) / float(len(l))
 
 def get_accuracy(str):
@@ -24,12 +26,13 @@ def get_accuracy(str):
 def get_level_result(str):
 	chunks = str.split()
 	out = []
+	cats = chunks[0][:-1]
 
 	out.append(("category", chunks[0][:-1] ))
 	out.append(("precision",float( chunks[2][:-2] )))
 	out.append(("recall",float( chunks[4][:-2] )))
 	out.append(("FB1",float( chunks[6] )))
-	return out
+	return out, cats
 
 #####################################
 
@@ -41,15 +44,20 @@ for i in range(10):
 
 
 results = []
+cats = []
 for results_file in results_files:
 	lines = results_file.splitlines()[1:]
 	result = []
 	result.append(get_accuracy(lines[0]))
 
 	for line in lines[1:]:
-		result.append(get_level_result(line))
+		l = get_level_result(line)
+		result.append(l[0])
+		cats.append(l[1])
 
 	results.append(result)
+
+cats = list(set(cats))
 
 ##########
 ## AVGs ##
@@ -59,8 +67,7 @@ g_p = []
 g_r = []
 g_fb1 = []
 
-n_cats = len(results[0][1:])
-cats = [["",[],[],[]] for i in range(n_cats)]
+cats = dict([(i , [[],[],[]]) for i in cats])
 
 for result in results:
 	acc_line = result[0]
@@ -70,15 +77,16 @@ for result in results:
 	g_r.append(acc_line[2][1]) # get r value
 	g_fb1.append(acc_line[3][1]) # get fb1 value
 
-	for cat in range(n_cats):
+	for cat in range(len(cats)):
 		try:
-			cats[cat][0] = result[cat+1][0][1] # get category name
-			cats[cat][1].append(result[cat+1][1][1]) # get p
-			cats[cat][2].append(result[cat+1][2][1]) # get p
-			cats[cat][3].append(result[cat+1][3][1]) # get p
+			name = result[cat+1][0][1]
+			#cats[name][0] = result[cat+1][0][1] # get category name
+			cats[name][0].append(result[cat+1][1][1]) # get p
+			cats[name][1].append(result[cat+1][2][1]) # get p
+			cats[name][2].append(result[cat+1][3][1]) # get p
 		except IndexError:
-			print "One fold does not have all categories!"
-
+			#print "One fold (" + str(i) + ") does not have all categories!"
+			continue #already dealt with
 
 avg_g_acc = get_avg(g_acc)
 avg_g_p = get_avg(g_p)
@@ -93,10 +101,10 @@ to_file += "\tFB1: {:04.2f}".format(avg_g_fb1)
 to_file += "\taccuracy: {:04.2f}".format(avg_g_acc) + '\n'
 
 for cat in cats:
-	to_file += "precision: {:05.2f}".format(get_avg(cat[1])) 
-	to_file += "\trecall: {:05.2f}".format(get_avg(cat[2])) 
-	to_file += "\tFB1: {:05.2f}".format(get_avg(cat[3])) 
-	to_file += '\t' + cat[0] + '\n'
+	to_file += "precision: {:05.2f}".format(get_avg(cats[cat][0])) 
+	to_file += "\trecall: {:05.2f}".format(get_avg(cats[cat][1])) 
+	to_file += "\tFB1: {:05.2f}".format(get_avg(cats[cat][2])) 
+	to_file += '\t' + cat + '\n'
 
 f = open('../results/' + tool + '/avg/' + level + '-avg.txt', 'w')
 f.write(to_file)

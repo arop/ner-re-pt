@@ -1,0 +1,16 @@
+processed 6100 tokens with 312 phrases; found: 161 phrases; correct: 121.
+accuracy:  96.43%; precision:  75.16%; recall:  38.78%; FB1:  51.16
+ACONTECIMENTO_ORGANIZADO_: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_FISICO_AGUACURSO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_FISICO_REGIAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+LOCAL_HUMANO_CONSTRUCAO: precision:  44.44%; recall:  16.67%; FB1:  24.24  9
+LOCAL_HUMANO_DIVISAO: precision:  73.17%; recall:  55.56%; FB1:  63.16  41
+LOCAL_HUMANO_PAIS: precision:  76.19%; recall:  20.78%; FB1:  32.65  21
+LOCAL_HUMANO_REGIAO: precision: 100.00%; recall:  35.00%; FB1:  51.85  7
+LOCAL_VIRTUAL_COMSOCIAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_VIRTUAL_SITIO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       OBRA_ARTE_: precision:  42.86%; recall:  75.00%; FB1:  54.55  7
+OBRA_REPRODUZIDA_LIVRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+TEMPO_TEMPO_CALEND_DATA: precision:  83.33%; recall:  54.05%; FB1:  65.57  72
+TEMPO_TEMPO_CALEND_HORA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+TEMPO_TEMPO_CALEND_INTERVALO: precision: 100.00%; recall:  12.50%; FB1:  22.22  1
