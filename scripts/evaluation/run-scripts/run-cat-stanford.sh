@@ -2,4 +2,7 @@
 
 # join output from stanford ner and test file
 # evaluate results
-../join-output-golden.sh ../../../tools/stanford-ner/outputs/ner-results/out-cat.txt ../../../tools/stanford-ner/outputs/t_cat_test.txt | ../conlleval -r > ../results/stanford-ner/cat.txt
+for i in {0..9}
+do
+	../join-output-golden.sh ../../../tools/stanford-ner/outputs/ner-results/fold-$i/out-cat.txt ../../../tools/stanford-ner/outputs/fold-$i/t_cat_test.txt | ../conlleval -r > ../results/stanford-ner/fold-$i/cat.txt
+done
