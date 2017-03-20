@@ -1,21 +1,23 @@
 #!/bin/bash
 
-#python "src/sentence-segmentation.py" "../../scripts/filter-harem/harem-to-opennlp/outputs/cat_all.xml" "cat_all_sent.xml"
-#python "src/sentence-segmentation.py" "../../scripts/filter-harem/harem-to-opennlp/outputs/cat_train.xml" "cat_train_sent.xml"
-#python "src/sentence-segmentation.py" "../../scripts/filter-harem/harem-to-opennlp/outputs/cat_test.xml" "cat_test_sent.xml"
+PATH_IN="../../scripts/filter-harem/harem-to-opennlp/outputs/"
 
-python "src/sentence-segmentation.py" "../../scripts/filter-harem/harem-to-opennlp/outputs/cat_all_doc.xml" "cat_all_sent_doc.xml"
-python "src/sentence-segmentation.py" "../../scripts/filter-harem/harem-to-opennlp/outputs/cat_train_doc.xml" "cat_train_sent_doc.xml"
-python "src/sentence-segmentation.py" "../../scripts/filter-harem/harem-to-opennlp/outputs/cat_test_doc.xml" "cat_test_sent_doc.xml"
+for i in {0..9}
+do
+	printf "\n** fold "$i" **\n"
+	#python "src/sentence-segmentation.py" $PATH_IN"fold-"$i"/cat_all_doc.xml" "fold-"$i"/cat_all_sent_doc.xml"
+	python "src/sentence-segmentation.py" $PATH_IN"fold-"$i"/cat_train_doc.xml" "fold-"$i"/cat_train_sent_doc.xml"
+	python "src/sentence-segmentation.py" $PATH_IN"fold-"$i"/cat_test_doc.xml" "fold-"$i"/cat_test_sent_doc.xml"
 
-python "src/sentence-segmentation.py" "../../scripts/filter-harem/harem-to-opennlp/outputs/types_all_doc.xml" "types_all_sent_doc.xml"
-python "src/sentence-segmentation.py" "../../scripts/filter-harem/harem-to-opennlp/outputs/types_train_doc.xml" "types_train_sent_doc.xml"
-python "src/sentence-segmentation.py" "../../scripts/filter-harem/harem-to-opennlp/outputs/types_test_doc.xml" "types_test_sent_doc.xml"
+	#python "src/sentence-segmentation.py" $PATH_IN"fold-"$i"/types_all_doc.xml" "fold-"$i"/types_all_sent_doc.xml"
+	python "src/sentence-segmentation.py" $PATH_IN"fold-"$i"/types_train_doc.xml" "fold-"$i"/types_train_sent_doc.xml"
+	python "src/sentence-segmentation.py" $PATH_IN"fold-"$i"/types_test_doc.xml" "fold-"$i"/types_test_sent_doc.xml"
 
-python "src/sentence-segmentation.py" "../../scripts/filter-harem/harem-to-opennlp/outputs/subtypes_all_doc.xml" "subtypes_all_sent_doc.xml"
-python "src/sentence-segmentation.py" "../../scripts/filter-harem/harem-to-opennlp/outputs/subtypes_train_doc.xml" "subtypes_train_sent_doc.xml"
-python "src/sentence-segmentation.py" "../../scripts/filter-harem/harem-to-opennlp/outputs/subtypes_test_doc.xml" "subtypes_test_sent_doc.xml"
+	#python "src/sentence-segmentation.py" $PATH_IN"fold-"$i"/subtypes_all_doc.xml" "fold-"$i"/subtypes_all_sent_doc.xml"
+	python "src/sentence-segmentation.py" $PATH_IN"fold-"$i"/subtypes_train_doc.xml" "fold-"$i"/subtypes_train_sent_doc.xml"
+	python "src/sentence-segmentation.py" $PATH_IN"fold-"$i"/subtypes_test_doc.xml" "fold-"$i"/subtypes_test_sent_doc.xml"
 
-python "src/sentence-segmentation.py" "../../scripts/filter-harem/harem-to-opennlp/outputs/filtered_all_doc.xml" "filtered_all_sent_doc.xml"
-python "src/sentence-segmentation.py" "../../scripts/filter-harem/harem-to-opennlp/outputs/filtered_train_doc.xml" "filtered_train_sent_doc.xml"
-python "src/sentence-segmentation.py" "../../scripts/filter-harem/harem-to-opennlp/outputs/filtered_test_doc.xml" "filtered_test_sent_doc.xml"
+	#python "src/sentence-segmentation.py" $PATH_IN"fold-"$i"/filtered_all_doc.xml" "fold-"$i"/filtered_all_sent_doc.xml"
+	python "src/sentence-segmentation.py" $PATH_IN"fold-"$i"/filtered_train_doc.xml" "fold-"$i"/filtered_train_sent_doc.xml"
+	python "src/sentence-segmentation.py" $PATH_IN"fold-"$i"/filtered_test_doc.xml" "fold-"$i"/filtered_test_sent_doc.xml"
+done
