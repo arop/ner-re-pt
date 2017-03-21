@@ -35,7 +35,10 @@ ner(doc)
 entities = []
 for ent in doc.ents:
      entities.append([ent.text, ent.label_])
-print(entities)
+
+for ent in entities:
+  print(ent,)
+#print(entities)
 
 f = open('out_entities.txt','w')
 f.write(str(entities))

@@ -9,6 +9,7 @@ import spacy
 from spacy.pipeline import EntityRecognizer
 from spacy.gold import GoldParse
 from spacy.tagger import Tagger
+import random
 
 import sys
  
@@ -18,20 +19,17 @@ except:
     unicode = str
 
 def train_ner(nlp, train_data, entity_types):
-    # Add new words to vocab.
-    for raw_text, _ in train_data:
-        doc = nlp.make_doc(raw_text)
-        for word in doc:
-            _ = nlp.vocab[word.orth]
-
     # Train NER.
     ner = EntityRecognizer(nlp.vocab, entity_types=entity_types)
-    #for itn in range(5):
-        #random.shuffle(train_data)
-    for raw_text, entity_offsets in train_data:
-        doc = nlp.make_doc(raw_text)
-        gold = GoldParse(doc, entities=entity_offsets)
-        ner.update(doc, gold)
+    for itn in range(100):
+        random.shuffle(train_data)
+        print('Iteration: ' + str(itn))
+    	for raw_text, entity_offsets in train_data:
+        	doc = nlp.make_doc(raw_text)
+        	gold = GoldParse(doc, entities=entity_offsets)
+        	ner.update(doc, gold)
+
+	ner.model.end_training()
     return ner
 
 def save_model(ner, model_dir):
@@ -65,10 +63,14 @@ def get_training_data(input_file):
 		if line == '--NO ENTITIES--': #no entities in sentence
 			continue
 		if line == '': #end of sentence
-			train_data.append((txt[line_count], train_data_sentence))
-			train_data_sentence = []
-			line_count += 1
-			continue
+			try:
+				train_data.append((txt[line_count], train_data_sentence))
+				train_data_sentence = []
+				line_count += 1
+				continue
+			except Exception as e:
+				print(train_data_sentence, line_count)
+				raise e
 
 		#get ann information
 		tabs = line.split()
@@ -76,6 +78,14 @@ def get_training_data(input_file):
 
 	return train_data
 
+
+def create_vocab(nlp, all_data):
+    # Add new words to vocab.
+    for raw_text, _ in all_data:
+        doc = nlp.make_doc(raw_text)
+        for word in doc:
+            _ = nlp.vocab[word.orth]
+    return nlp
 
 def main(model_dir=None):
     nlp = spacy.load('pt', parser=False, entity=False, add_vectors=False)
@@ -102,32 +112,37 @@ def main(model_dir=None):
     # ]
 
     if(len(sys.argv) > 1):
-      	filein = sys.argv[1]
+      	filetrain = sys.argv[1]
+      	filetest = sys.argv[2]
     else:
-      	print ("Usage: python " + sys.argv[0] + " <input filename>\n")
+      	print ("Usage: python " + sys.argv[0] + " <input filename train> <test>\n")
       	sys.exit()
 
-    train_data = get_training_data(filein)
+    train_data = get_training_data(filetrain)
+    test_data = get_training_data(filetest)
+
+    nlp = create_vocab(nlp, train_data + test_data)
+
     categories = open('categories','r').read().splitlines()
 
-    ner = train_ner(nlp, train_data, categories)
+    #ner = train_ner(nlp, train_data, categories)
+    ner = train_ner(nlp, test_data, categories)
 
-    #doc = nlp.make_doc(u'O Jorge Pimenta comprou o Facebook. Fez sopa ja ontem, 2 dias já depois comeu-a.')
+    # doc = nlp.make_doc(u'O Jorge Pimenta comprou o Facebook. Fez sopa ja ontem, 2 dias já depois comeu-a.')
 
-    text = open( '../../scripts/filter-harem/harem-to-standoff/outputs/cat_test-standoff.txt', 'r').read().decode('ISO-8859-1')
-    t = ''
-    for line in text.splitlines():
-    	for l in line.split():
-    		t += l + " "
+    # text = open( '../../scripts/filter-harem/harem-to-standoff/outputs/cat_test-standoff.txt', 'r').read().decode('ISO-8859-1')
+    # t = ''
+    # for line in text.splitlines():
+    # 	for l in line.split():
+    # 		t += l + " "
 
-	#print (t)
-    doc = nlp.make_doc(t)
+    # doc = nlp.make_doc(t)
 
-    nlp.tagger(doc)
-    ner(doc)
+    # nlp.tagger(doc)
+    # ner(doc)
 
-    for word in doc:
-        print(word.text, word.tag_, word.ent_type_, word.ent_iob)
+    # for word in doc:
+    #    print(word.text, word.tag_, word.ent_type_, word.ent_iob)
 
     if model_dir is not None:
         save_model(ner, model_dir)

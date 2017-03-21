@@ -1,17 +1,16 @@
 #!/bin/bash
 
-python "src/change_tags_keep_doc.py" "../outputs/cat_all.xml" "cat_all_doc.xml"
-python "src/change_tags_keep_doc.py" "../outputs/cat_train.xml" "cat_train_doc.xml"
-python "src/change_tags_keep_doc.py" "../outputs/cat_test.xml" "cat_test_doc.xml"
+for i in {0..9}
+do
+	python "src/change_tags_keep_doc.py" "../outputs/fold-"$i"/cat_train.xml" "fold-"$i"/cat_train_doc.xml"
+	python "src/change_tags_keep_doc.py" "../outputs/fold-"$i"/cat_test.xml" "fold-"$i"/cat_test_doc.xml"
 
-python "src/change_tags_keep_doc.py" "../outputs/types_all.xml" "types_all_doc.xml"
-python "src/change_tags_keep_doc.py" "../outputs/types_train.xml" "types_train_doc.xml"
-python "src/change_tags_keep_doc.py" "../outputs/types_test.xml" "types_test_doc.xml"
+	python "src/change_tags_keep_doc.py" "../outputs/fold-"$i"/types_train.xml" "fold-"$i"/types_train_doc.xml"
+	python "src/change_tags_keep_doc.py" "../outputs/fold-"$i"/types_test.xml" "fold-"$i"/types_test_doc.xml"
 
-python "src/change_tags_keep_doc.py" "../outputs/subtypes_all.xml" "subtypes_all_doc.xml"
-python "src/change_tags_keep_doc.py" "../outputs/subtypes_train.xml" "subtypes_train_doc.xml"
-python "src/change_tags_keep_doc.py" "../outputs/subtypes_test.xml" "subtypes_test_doc.xml"
+	python "src/change_tags_keep_doc.py" "../outputs/fold-"$i"/subtypes_train.xml" "fold-"$i"/subtypes_train_doc.xml"
+	python "src/change_tags_keep_doc.py" "../outputs/fold-"$i"/subtypes_test.xml" "fold-"$i"/subtypes_test_doc.xml"
 
-python "src/change_tags_keep_doc.py" "../outputs/filtered_all.xml" "filtered_all_doc.xml"
-python "src/change_tags_keep_doc.py" "../outputs/filtered_train.xml" "filtered_train_doc.xml"
-python "src/change_tags_keep_doc.py" "../outputs/filtered_test.xml" "filtered_test_doc.xml"
+	python "src/change_tags_keep_doc.py" "../outputs/fold-"$i"/filtered_train.xml" "fold-"$i"/filtered_train_doc.xml"
+	python "src/change_tags_keep_doc.py" "../outputs/fold-"$i"/filtered_test.xml" "fold-"$i"/filtered_test_doc.xml"
+done
