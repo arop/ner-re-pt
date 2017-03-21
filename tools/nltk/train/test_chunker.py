@@ -1,35 +1,36 @@
 import nltk
-import nltk.data
-from nltk.corpus import floresta
+import sys
+import pickle
 
-# from http://www.nltk.org/howto/portuguese_en.html
-def simplify_tag(t):
-     if "+" in t:
-         return t[t.index("+")+1:]
-     else:
-         return t
+if len(sys.argv) > 1:
+	model = sys.argv[1]
+	test_file = sys.argv[2]
+	fileout = sys.argv[3]
+else:
+	print "Usage: python " + sys.argv[0] + " <model> <test file>\n"
+	sys.exit()
 
-tsents = floresta.tagged_sents()
-tsents = [[(w.lower(),simplify_tag(t)) for (w,t) in sent] for sent in tsents if sent]
-train = tsents[100:]
-test = tsents[:100]
+f = open(test_file,'r')
+text = f.read().decode('UTF-8')
+f.close()
 
-tagger0 = nltk.DefaultTagger('n')
-#nltk.tag.accuracy(tagger0, test)
-#print tagger0.evaluate(test)
+tagged = []
+for line in text.splitlines():
+	temp = line.split()
+	tagged.append((temp[0], temp[1]))
 
-tagger1 = nltk.UnigramTagger(train, backoff=tagger0)
-#nltk.tag.accuracy(tagger1, test)
-#print tagger1.evaluate(test)
+chunker = pickle.load(open(model))
 
-tagger2 = nltk.BigramTagger(train, backoff=tagger1)
-#nltk.tag.accuracy(tagger2, test)
-#print tagger2.evaluate(test)
+ner_result = chunker.parse(tagged)
 
-text = "Isto vai servir para testar o Jorge Rocha para saber se o tagger funciona mesmo. Se funcionar vai identificar Facebook e Universidade do Porto."
-tagged = tagger2.tag(text.split())
+conll_result = nltk.chunk.util.tree2conlltags(ner_result)
 
-#chunker = nltk.data.load('chunkers/harem_NaiveBayes.pickle')
-#chunker = nltk.data.load('chunkers/harem_Maxent.pickle')
-chunker = nltk.data.load('chunkers/harem_DecisionTree.pickle')
-print chunker.parse(tagged)
+txt = ""
+for (word, pos, tag) in conll_result:
+	#txt += word + '\t' + pos + '\t' + tag + '\n'
+	if not (word == '--SENTENCE--' or word == '--DOCSTART--'):
+		txt += word + '\t' + tag + '\n'
+
+f = open(fileout,'w')
+f.write(txt.encode('UTF-8'))
+f.close()

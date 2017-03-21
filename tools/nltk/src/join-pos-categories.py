@@ -33,6 +33,6 @@ new_file = new_file.replace('--SENTENCE--','')
 new_file = new_file.replace('--DOCSTART--\n','')
 
 # output to file
-f = open('outputs/' + fileout, 'w')
+f = open(fileout, 'w')
 f.write(new_file)
 f.close()
