@@ -1,7 +1,7 @@
-precision: 78.19	recall: 49.84	FB1: 60.80	accuracy: 92.13
-precision: 53.62	recall: 15.84	FB1: 22.62	ACONTECIMENTO
-precision: 64.85	recall: 26.08	FB1: 36.42	ORGANIZACAO
-precision: 89.86	recall: 69.86	FB1: 78.49	TEMPO
-precision: 70.70	recall: 49.36	FB1: 57.13	VALOR
-precision: 70.88	recall: 52.70	FB1: 60.03	PESSOA
-precision: 70.01	recall: 41.27	FB1: 51.58	LOCAL
+precision: 67.55	recall: 45.25	FB1: 54.14	accuracy: 92.13
+precision: 38.14	recall: 09.88	FB1: 15.13	ACONTECIMENTO
+precision: 60.41	recall: 32.01	FB1: 41.14	ORGANIZACAO
+precision: 73.49	recall: 60.50	FB1: 66.26	TEMPO
+precision: 49.59	recall: 38.04	FB1: 42.39	VALOR
+precision: 68.21	recall: 45.93	FB1: 54.15	PESSOA
+precision: 65.91	recall: 43.59	FB1: 52.22	LOCAL

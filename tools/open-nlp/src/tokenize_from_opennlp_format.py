@@ -31,6 +31,8 @@ patternBegin = re.compile(r"<EM CATEG='(\w+)'>")
 patternEnd = re.compile(r"</EM>")
 docstart = re.compile(r"--DOCSTART--")
 insideEntity = False
+begin = False
+first = False
 to_file = ""
 
 if encoding == "UTF-8": #means its results, remove last lines
@@ -39,11 +41,18 @@ if encoding == "UTF-8": #means its results, remove last lines
 for line in file_str.splitlines():
 	if (not insideEntity) and patternBegin.match(line): # begin tag, start tagging next time
 		entityClass = patternBegin.match(line).group(1)
+		begin = True
+		first = True
 		insideEntity = True
 	elif insideEntity and patternEnd.match(line): # end tag, finish tagging
+		begin = False
+		first = False
 		insideEntity = False
-	elif insideEntity: # tag
-		to_file += line + '\t' + entityClass + '\n'
+	elif insideEntity and first: # start tag -> B
+		first = False
+		to_file += line + '\tB-' + entityClass + '\n'
+	elif insideEntity and (not first): # middle tag -> I
+		to_file += line + '\tI-' + entityClass + '\n'
 	elif (not insideEntity) and patternEnd.match(line): # close tag for cases where entities had no category
 		continue
 	elif docstart.match(line):

@@ -30,3 +30,7 @@ cd test && ./test-filtered.sh ; cd -
 # cd test && ./test-types.sh ; cd - # not enough RAM
 # printf "\n***testing subtypes***\n"
 # cd test && ./test-subtypes.sh ; cd - # not enough RAM
+
+# Add IOB tags
+printf "\n*** Adding IOB tags ***\n"
+./add-IOB.sh

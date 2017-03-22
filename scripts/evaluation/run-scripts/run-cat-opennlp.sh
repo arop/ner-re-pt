@@ -4,7 +4,8 @@
 # evaluate results
 for i in {0..9}
 do
-	../join-output-golden.sh ../../../tools/open-nlp/outputs/ner-results/fold-$i/out-cat.txt ../../../tools/open-nlp/outputs/ner-results/fold-$i/out-cat-gold.txt | ../conlleval -r > ../results/open-nlp/fold-$i/cat.txt
+	TOOL=../../../tools/open-nlp/outputs/ner-results/fold-$i
+	../join-output-golden.sh $TOOL/out-cat.txt $TOOL/out-cat-gold.txt | ../conlleval > ../results/open-nlp/fold-$i/cat.txt
 done
 
 python ../src/avg-results.py open-nlp cat

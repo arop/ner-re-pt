@@ -1,10 +1,10 @@
-processed 2679 tokens with 77 phrases; found: 28 phrases; correct: 21.
-accuracy:  97.72%; precision:  75.00%; recall:  27.27%; FB1:  40.00
+processed 2679 tokens with 41 phrases; found: 20 phrases; correct: 11.
+accuracy:  97.72%; precision:  55.00%; recall:  26.83%; FB1:  36.07
 ABSTRACCAO_IDEIA_: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
 LOCAL_HUMANO_DIVISAO: precision:  75.00%; recall:  47.37%; FB1:  58.06  12
 LOCAL_HUMANO_PAIS: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 LOCAL_VIRTUAL_SITIO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 OBRA_ARTE_EDIFICIO: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
 ORGANIZACAO_ADMINISTRACAO_: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-TEMPO_TEMPO_CALEND_DATA: precision: 100.00%; recall:  26.67%; FB1:  42.11  12
+TEMPO_TEMPO_CALEND_DATA: precision:  50.00%; recall:  14.29%; FB1:  22.22  4
 TEMPO_TEMPO_CALEND_HORA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0

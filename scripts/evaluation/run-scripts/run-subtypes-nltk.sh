@@ -5,9 +5,9 @@
 for i in {0..9}
 do
 	TOOL=../../../tools/nltk/outputs/ner-results/fold-$i
-	../join-output-golden.sh $TOOL/out-subtypes-DT.txt $TOOL/out-subtypes-gold.txt | ../conlleval -r > ../results/nltk/fold-$i/subtypes-DT.txt
-	../join-output-golden.sh $TOOL/out-subtypes-ME.txt $TOOL/out-subtypes-gold.txt | ../conlleval -r > ../results/nltk/fold-$i/subtypes-ME.txt
-	../join-output-golden.sh $TOOL/out-subtypes-NB.txt $TOOL/out-subtypes-gold.txt | ../conlleval -r > ../results/nltk/fold-$i/subtypes-NB.txt
+	../join-output-golden.sh $TOOL/out-subtypes-DT.txt $TOOL/out-subtypes-gold.txt | ../conlleval > ../results/nltk/fold-$i/subtypes-DT.txt
+	../join-output-golden.sh $TOOL/out-subtypes-ME.txt $TOOL/out-subtypes-gold.txt | ../conlleval > ../results/nltk/fold-$i/subtypes-ME.txt
+	../join-output-golden.sh $TOOL/out-subtypes-NB.txt $TOOL/out-subtypes-gold.txt | ../conlleval > ../results/nltk/fold-$i/subtypes-NB.txt
 done
 
 python ../src/avg-results.py nltk subtypes-DT
