@@ -2,7 +2,7 @@ from lxml import etree
 import sys
 import re
 
-if(len(sys.argv) > 1):
+if(len(sys.argv) > 2):
   input_filename = sys.argv[1]
   output_name = sys.argv[2]
 else:

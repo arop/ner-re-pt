@@ -8,8 +8,9 @@ from random import shuffle
 if(len(sys.argv) > 1):
   harem_filename = sys.argv[1]
   output_name = sys.argv[2]
+  repeat = sys.argv[3]
 else:
-  print "Usage: python " + sys.argv[0] + " <input file> <output file>"
+  print "Usage: python " + sys.argv[0] + " <input file> <output file> <n repeat>"
   sys.exit()
 
 tree = etree.parse(harem_filename)
@@ -41,11 +42,11 @@ for i in range(len(folds)):
 		out_tree_test.append(el)
 
 	# output to file
-	f = open("../outputs/fold-"+str(i)+"/"+output_name+"_train.xml",'w')
+	f = open("../outputs/repeat-"+str(repeat)+"/fold-"+str(i)+"/"+output_name+"_train.xml",'w')
 	f.write(etree.tostring(out_tree_train, encoding="ISO-8859-1"))
 	f.close()
 
 	# output to file
-	f = open("../outputs/fold-"+str(i)+"/"+output_name+"_test.xml",'w')
+	f = open("../outputs/repeat-"+str(repeat)+"/fold-"+str(i)+"/"+output_name+"_test.xml",'w')
 	f.write(etree.tostring(out_tree_test, encoding="ISO-8859-1"))
 	f.close()
