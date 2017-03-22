@@ -3,7 +3,16 @@
 # perform ner on test set
 # remove empty lines (sentence segmentation)
 # from http://unix.stackexchange.com/questions/76061/can-sed-remove-double-newline-characters
-for i in {0..9}
+for r in {1..3}
 do
-	java -d64 -Xmx6g -cp ../stanford-corenlp.jar edu.stanford.nlp.ie.crf.CRFClassifier -tokenizerFactory edu.stanford.nlp.process.WhitespaceTokenizer -loadClassifier ../../models/fold-$i/cat-ner-model.ser.gz -textFile "../../outputs/fold-"$i"/t_cat_test.txt-clean.txt" -outputFormat tsv -encoding iso-8859-1 |  tr -s '\n' > ../../outputs/ner-results/fold-$i/out-cat.txt
+	for i in {0..9}
+	do
+		CRF=edu.stanford.nlp.ie.crf.CRFClassifier
+		TOKENIZER=edu.stanford.nlp.process.WhitespaceTokenizer
+		CLASSIFIER=../../models/repeat-$r/fold-$i/cat-ner-model.ser.gz
+		TXT="../../outputs/repeat-"$r"/fold-"$i"/t_cat_test.txt-clean.txt"
+		OUT=../../outputs/ner-results/fold-$i/out-cat.txt
+
+		java -d64 -Xmx6g -cp ../stanford-corenlp.jar $CRF -tokenizerFactory $TOKENIZER -loadClassifier $CLASSIFIER -textFile $TXT -outputFormat tsv -encoding iso-8859-1 |  tr -s '\n' > $OUT
+	done
 done
