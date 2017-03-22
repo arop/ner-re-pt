@@ -1,19 +1,27 @@
 #!/bin/bash
 
+SCRIPT="src/pos-tagging-docs.py"
 printf "\n*** pos tagging ***\n"
-for i in {0..9}
+
+for r in {1..3}
 do
-	printf "\n** fold "$i" **\n"
-	python "src/pos-tagging-docs.py" "outputs/fold-"$i"/t-cat-train-doc.txt" "fold-"$i"/pos-cat-docs-train.txt"
-	python "src/pos-tagging-docs.py" "outputs/fold-"$i"/t-cat-test-doc.txt" "fold-"$i"/pos-cat-docs-test.txt"
+	printf "\n** repeat "$r" **\n"
 
-	python "src/pos-tagging-docs.py" "outputs/fold-"$i"/t-types-train-doc.txt" "fold-"$i"/pos-types-docs-train.txt"
-	python "src/pos-tagging-docs.py" "outputs/fold-"$i"/t-types-test-doc.txt" "fold-"$i"/pos-types-docs-test.txt"
+	for i in {0..9}
+	do
+		FOLDER=repeat-$r/fold-$i
+		
+		printf "\n** fold "$i" **\n"
+		python $SCRIPT "outputs/"$FOLDER"/t-cat-train-doc.txt" $FOLDER"/pos-cat-docs-train.txt"
+		python $SCRIPT "outputs/"$FOLDER"/t-cat-test-doc.txt" $FOLDER"/pos-cat-docs-test.txt"
 
-	python "src/pos-tagging-docs.py" "outputs/fold-"$i"/t-subtypes-train-doc.txt" "fold-"$i"/pos-subtypes-docs-train.txt"
-	python "src/pos-tagging-docs.py" "outputs/fold-"$i"/t-subtypes-test-doc.txt" "fold-"$i"/pos-subtypes-docs-test.txt"
+		python $SCRIPT "outputs/"$FOLDER"/t-types-train-doc.txt" $FOLDER"/pos-types-docs-train.txt"
+		python $SCRIPT "outputs/"$FOLDER"/t-types-test-doc.txt" $FOLDER"/pos-types-docs-test.txt"
 
-	python "src/pos-tagging-docs.py" "outputs/fold-"$i"/t-filtered-train-doc.txt" "fold-"$i"/pos-filtered-docs-train.txt"
-	python "src/pos-tagging-docs.py" "outputs/fold-"$i"/t-filtered-test-doc.txt" "fold-"$i"/pos-filtered-docs-test.txt"
+		python $SCRIPT "outputs/"$FOLDER"/t-subtypes-train-doc.txt" $FOLDER"/pos-subtypes-docs-train.txt"
+		python $SCRIPT "outputs/"$FOLDER"/t-subtypes-test-doc.txt" $FOLDER"/pos-subtypes-docs-test.txt"
+
+		python $SCRIPT "outputs/"$FOLDER"/t-filtered-train-doc.txt" $FOLDER"/pos-filtered-docs-train.txt"
+		python $SCRIPT "outputs/"$FOLDER"/t-filtered-test-doc.txt" $FOLDER"/pos-filtered-docs-test.txt"
+	done
 done
-
