@@ -88,64 +88,43 @@ def create_vocab(nlp, all_data):
     return nlp
 
 def main(model_dir=None):
-    nlp = spacy.load('pt', parser=False, entity=False, add_vectors=False)
+    nlp = spacy.load('en_default', parser=False, entity=False, add_vectors=False)
 
     # v1.1.2 onwards
     if nlp.tagger is None:
-        # print('---- WARNING ----')
-        # print('Data directory not found')
-        # print('please run: `python -m spacy.pt.download --force all` for better performance')
-        # print('Using feature templates for tagging')
-        print('-----------------')
+        print('Setting tagger')
         nlp.tagger = Tagger(nlp.vocab, features=Tagger.feature_templates)
-
-    # train_data = [
-    #     (
-    #         'Who is Shaka Khan?',
-    #         [(len('Who is '), len('Who is Shaka Khan'), 'PERSON')]
-    #     ),
-    #     (
-    #         'I like London and Berlin.',
-    #         [(len('I like '), len('I like London'), 'LOC'),
-    #         (len('I like London and '), len('I like London and Berlin'), 'LOC')]
-    #     )
-    # ]
 
     if(len(sys.argv) > 1):
       	filetrain = sys.argv[1]
-      	filetest = sys.argv[2]
+      	#model_dir = sys.argv[2]
+      	level = sys.argv[3]
     else:
-      	print ("Usage: python " + sys.argv[0] + " <input filename train> <test>\n")
+      	print ("Usage: python " + sys.argv[0] + " <input filename train> <model_dir> <level>\n")
       	sys.exit()
 
     train_data = get_training_data(filetrain)
-    test_data = get_training_data(filetest)
 
-    nlp = create_vocab(nlp, train_data + test_data)
+    nlp = create_vocab(nlp, train_data)
 
-    categories = open('categories','r').read().splitlines()
+    cat = ['ABSTRACCAO','OUTRO','LOCAL','ACONTECIMENTO','TEMPO','PESSOA','OBRA','ORGANIZACAO','VALOR','COISA']
+    types = ['ABSTRACCAO_IDEIA','LOCAL_HUMANO','ACONTECIMENTO_EVENTO','ACONTECIMENTO_EFEMERIDE','TEMPO_TEMPO_CALEND','PESSOA_POVO','PESSOA_INDIVIDUAL','OBRA_REPRODUZIDA','ABSTRACCAO_DISCIPLINA','PESSOA_GRUPOMEMBRO','ORGANIZACAO_INSTITUICAO','PESSOA_CARGO','OBRA_PLANO','ORGANIZACAO_ADMINISTRACAO','TEMPO_GENERICO','ABSTRACCAO_NOME','TEMPO_FREQUENCIA','LOCAL_FISICO','VALOR_QUANTIDADE','COISA_SUBSTANCIA','LOCAL_VIRTUAL','COISA_OBJECTO','PESSOA_GRUPOIND','ORGANIZACAO_EMPRESA','PESSOA_MEMBRO','COISA_CLASSE','ACONTECIMENTO_ORGANIZADO','TEMPO_DURACAO','VALOR_MOEDA','VALOR_CLASSIFICACAO','OBRA_ARTE','PESSOA_GRUPOCARGO','COISA_MEMBROCLASSE','ABSTRACCAO_ESTADO','ABSTRACCAO_','ORGANIZACAO_','OUTRO_','ACONTECIMENTO_','LOCAL_OUTRO','COISA_OUTRO']
+    subtypes = ['LOCAL_HUMANO_DIVISAO','TEMPO_TEMPO_CALEND_DATA','LOCAL_HUMANO_PAIS','OBRA_REPRODUZIDA_LIVRO','PESSOA_POVO_','LOCAL_HUMANO_REGIAO','TEMPO_TEMPO_CALEND_INTERVALO','LOCAL_FISICO_AGUACURSO','LOCAL_FISICO_AGUAMASSA','TEMPO_TEMPO_CALEND_HORA','LOCAL_FISICO_PLANETA','LOCAL_HUMANO_RUA','LOCAL_HUMANO_CONSTRUCAO','LOCAL_FISICO_OUTRO','LOCAL_VIRTUAL_SITIO','OBRA_REPRODUZIDA_PROGRAMA','ORGANIZACAO_INSTITUICAO_','LOCAL_HUMANO_OUTRO','OBRA_REPRODUZIDA_MUSICA','OBRA_REPRODUZIDA_OUTRO','ORGANIZACAO_INSTITUICAO_SUB','ORGANIZACAO_ADMINISTRACAO_','LOCAL_FISICO_REGIAO','ABSTRACCAO_IDEIA_','OBRA_ARTE_CONSTRUCAO','OBRA_ARTE_OUTRO','LOCAL_FISICO_RELEVO','ORGANIZACAO_ADMINISTRACAO_SUB','LOCAL_VIRTUAL_COMSOCIAL','ACONTECIMENTO_EFEMERIDE_','ACONTECIMENTO_EVENTO_','COISA_OBJECTO_','LOCAL_FISICO_ILHA','OBRA_PLANO_','OBRA_REPRODUZIDA_FILME','ORGANIZACAO_EMPRESA_','LOCAL_VIRTUAL_OBRA','ORGANIZACAO_EMPRESA_SUB','ACONTECIMENTO_ORGANIZADO_','OBRA_REPRODUZIDA_','LOCAL_VIRTUAL_OUTRO','OBRA_ARTE_','ABSTRACCAO_NOME_','TEMPO_DURACAO_','OBRA_REPRODUZIDA_TEATRO','OBRA_ARTE_PINTURA','OBRA_ARTE_EDIFICIO']
+    filtered = ['LOCAL','ACONTECIMENTO','TEMPO','PESSOA','ORGANIZACAO','VALOR']
 
-    #ner = train_ner(nlp, train_data, categories)
-    ner = train_ner(nlp, test_data, categories)
+    if level == 'cat':
+    	categories = cat
+    elif level == 'types':
+    	categories = types
+    elif level == 'subtypes':
+    	categories = subtypes
+    else:
+    	categories = filtered
 
-    # doc = nlp.make_doc(u'O Jorge Pimenta comprou o Facebook. Fez sopa ja ontem, 2 dias já depois comeu-a.')
-
-    # text = open( '../../scripts/filter-harem/harem-to-standoff/outputs/cat_test-standoff.txt', 'r').read().decode('ISO-8859-1')
-    # t = ''
-    # for line in text.splitlines():
-    # 	for l in line.split():
-    # 		t += l + " "
-
-    # doc = nlp.make_doc(t)
-
-    # nlp.tagger(doc)
-    # ner(doc)
-
-    # for word in doc:
-    #    print(word.text, word.tag_, word.ent_type_, word.ent_iob)
+    ner = train_ner(nlp, train_data, categories)
 
     if model_dir is not None:
-        save_model(ner, model_dir)
+        save_model(ner, model_dir + '/' + level)
 
 
 if __name__ == '__main__':
