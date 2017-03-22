@@ -16,19 +16,19 @@ do
 		printf "\n*****fold "$i"*****\n"
 		printf "\n***training categories***\n"
 		python ../src/change-prop.py ../props/prop.prop cat $r $i
-		cd train/repeat-$r/fold-$i && time ./train-cat.sh ; cd -
+		cd train && time ./train.sh ; cd -
 
 		printf "\n***training filtered***\n"
 		python ../src/change-prop.py ../props/prop.prop filtered $r $i
-		cd train/repeat-$r/fold-$i && time ./train-filtered.sh ; cd -
+		cd train && time ./train.sh ; cd -
 
 		# printf "\n***training types***\n"
 		# python ../src/change-prop.py ../props/prop.prop types $r $i
-		# cd train/repeat-$r/fold-$i && time ./train-types.sh ; cd - # not enough RAM
+		# cd train && time ./train.sh ; cd - # not enough RAM
 
 		# printf "\n***training subtypes***\n"
 		# python ../src/change-prop.py ../props/prop.prop subtypes $r $i
-		# cd train/repeat-$r/fold-$i && time ./train-subtypes.sh ; cd - # not enough RAM
+		# cd train && time ./train.sh ; cd - # not enough RAM
 	done
 done
 
