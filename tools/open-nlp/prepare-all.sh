@@ -1,6 +1,6 @@
 #!/bin/bash
 
-./sentence-segmentation.sh
-./join-faulty-sentences.sh
-./clean-docs.sh
-./output-no-tags.sh
+time ./sentence-segmentation.sh
+time ./join-faulty-sentences.sh
+time ./clean-docs.sh
+time ./output-no-tags.sh

@@ -1,21 +1,24 @@
 #!/bin/bash
 
-for i in {0..9}
+SCRIPT="src/clean-doc.py"
+
+for i in {1..3}
 do
-	printf "\n** fold "$i" **\n"
-	#python "src/clean-doc.py" "outputs/fold-"$i"/cat_all_sent_doc.xml" "outputs/fold-"$i"/cat_all_sent_doc.xml"
-	python "src/clean-doc.py" "outputs/fold-"$i"/cat_train_sent_doc.xml" "outputs/fold-"$i"/cat_train_sent_doc.xml"
-	python "src/clean-doc.py" "outputs/fold-"$i"/cat_test_sent_doc.xml" "outputs/fold-"$i"/cat_test_sent_doc.xml"
+	printf "\n** repeat "$r" **\n"
+	for i in {0..9}
+	do
+		FOLDER=outputs/repeat-$r/fold-$i
+		printf "\n** fold "$i" **\n"
+		python $SCRIPT $FOLDER"/cat_train_sent_doc.xml" $FOLDER"/cat_train_sent_doc.xml"
+		python $SCRIPT $FOLDER"/cat_test_sent_doc.xml" $FOLDER"/cat_test_sent_doc.xml"
 
-	#python "src/clean-doc.py" "outputs/fold-"$i"/types_all_sent_doc.xml" "outputs/fold-"$i"/types_all_sent_doc.xml"
-	python "src/clean-doc.py" "outputs/fold-"$i"/types_train_sent_doc.xml" "outputs/fold-"$i"/types_train_sent_doc.xml"
-	python "src/clean-doc.py" "outputs/fold-"$i"/types_test_sent_doc.xml" "outputs/fold-"$i"/types_test_sent_doc.xml"
+		python $SCRIPT $FOLDER"/types_train_sent_doc.xml" $FOLDER"/types_train_sent_doc.xml"
+		python $SCRIPT $FOLDER"/types_test_sent_doc.xml" $FOLDER"/types_test_sent_doc.xml"
 
-	#python "src/clean-doc.py" "outputs/fold-"$i"/subtypes_all_sent_doc.xml" "outputs/fold-"$i"/subtypes_all_sent_doc.xml"
-	python "src/clean-doc.py" "outputs/fold-"$i"/subtypes_train_sent_doc.xml" "outputs/fold-"$i"/subtypes_train_sent_doc.xml"
-	python "src/clean-doc.py" "outputs/fold-"$i"/subtypes_test_sent_doc.xml" "outputs/fold-"$i"/subtypes_test_sent_doc.xml"
+		python $SCRIPT $FOLDER"/subtypes_train_sent_doc.xml" $FOLDER"/subtypes_train_sent_doc.xml"
+		python $SCRIPT $FOLDER"/subtypes_test_sent_doc.xml" $FOLDER"/subtypes_test_sent_doc.xml"
 
-	#python "src/clean-doc.py" "outputs/fold-"$i"/filtered_all_sent_doc.xml" "outputs/fold-"$i"/filtered_all_sent_doc.xml"
-	python "src/clean-doc.py" "outputs/fold-"$i"/filtered_train_sent_doc.xml" "outputs/fold-"$i"/filtered_train_sent_doc.xml"
-	python "src/clean-doc.py" "outputs/fold-"$i"/filtered_test_sent_doc.xml" "outputs/fold-"$i"/filtered_test_sent_doc.xml"
+		python $SCRIPT $FOLDER"/filtered_train_sent_doc.xml" $FOLDER"/filtered_train_sent_doc.xml"
+		python $SCRIPT $FOLDER"/filtered_test_sent_doc.xml" $FOLDER"/filtered_test_sent_doc.xml"
+	done
 done

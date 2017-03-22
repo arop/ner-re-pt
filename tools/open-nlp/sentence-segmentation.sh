@@ -1,23 +1,25 @@
 #!/bin/bash
 
 PATH_IN="../../scripts/filter-harem/harem-to-opennlp/outputs/"
+SCRIPT="src/sentence-segmentation.py"
 
-for i in {0..9}
+for r in {1..3}
 do
-	printf "\n** fold "$i" **\n"
-	#python "src/sentence-segmentation.py" $PATH_IN"fold-"$i"/cat_all_doc.xml" "fold-"$i"/cat_all_sent_doc.xml"
-	python "src/sentence-segmentation.py" $PATH_IN"fold-"$i"/cat_train_doc.xml" "fold-"$i"/cat_train_sent_doc.xml"
-	python "src/sentence-segmentation.py" $PATH_IN"fold-"$i"/cat_test_doc.xml" "fold-"$i"/cat_test_sent_doc.xml"
+	printf "\n** repeat "$r" **\n"
+	for i in {0..9}
+	do
+		FOLDER="repeat-"$r"/fold-"$i
+		printf "\n** fold "$i" **\n"
+		python $SCRIPT $PATH_IN$FOLDER"/cat_train_doc.xml" $FOLDER"/cat_train_sent_doc.xml"
+		python $SCRIPT $PATH_IN$FOLDER"/cat_test_doc.xml" $FOLDER"/cat_test_sent_doc.xml"
 
-	#python "src/sentence-segmentation.py" $PATH_IN"fold-"$i"/types_all_doc.xml" "fold-"$i"/types_all_sent_doc.xml"
-	python "src/sentence-segmentation.py" $PATH_IN"fold-"$i"/types_train_doc.xml" "fold-"$i"/types_train_sent_doc.xml"
-	python "src/sentence-segmentation.py" $PATH_IN"fold-"$i"/types_test_doc.xml" "fold-"$i"/types_test_sent_doc.xml"
+		python $SCRIPT $PATH_IN$FOLDER"/types_train_doc.xml" $FOLDER"/types_train_sent_doc.xml"
+		python $SCRIPT $PATH_IN$FOLDER"/types_test_doc.xml" $FOLDER"/types_test_sent_doc.xml"
 
-	#python "src/sentence-segmentation.py" $PATH_IN"fold-"$i"/subtypes_all_doc.xml" "fold-"$i"/subtypes_all_sent_doc.xml"
-	python "src/sentence-segmentation.py" $PATH_IN"fold-"$i"/subtypes_train_doc.xml" "fold-"$i"/subtypes_train_sent_doc.xml"
-	python "src/sentence-segmentation.py" $PATH_IN"fold-"$i"/subtypes_test_doc.xml" "fold-"$i"/subtypes_test_sent_doc.xml"
+		python $SCRIPT $PATH_IN$FOLDER"/subtypes_train_doc.xml" $FOLDER"/subtypes_train_sent_doc.xml"
+		python $SCRIPT $PATH_IN$FOLDER"/subtypes_test_doc.xml" $FOLDER"/subtypes_test_sent_doc.xml"
 
-	#python "src/sentence-segmentation.py" $PATH_IN"fold-"$i"/filtered_all_doc.xml" "fold-"$i"/filtered_all_sent_doc.xml"
-	python "src/sentence-segmentation.py" $PATH_IN"fold-"$i"/filtered_train_doc.xml" "fold-"$i"/filtered_train_sent_doc.xml"
-	python "src/sentence-segmentation.py" $PATH_IN"fold-"$i"/filtered_test_doc.xml" "fold-"$i"/filtered_test_sent_doc.xml"
+		python $SCRIPT $PATH_IN$FOLDER"/filtered_train_doc.xml" $FOLDER"/filtered_train_sent_doc.xml"
+		python $SCRIPT $PATH_IN$FOLDER"/filtered_test_doc.xml" $FOLDER"/filtered_test_sent_doc.xml"
+	done
 done
