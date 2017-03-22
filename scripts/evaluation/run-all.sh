@@ -13,7 +13,7 @@
 # cd run-scripts && ./run-subtypes-opennlp.sh ; cd -
 
 # nltk
-# cd run-scripts && ./run-cat-nltk.sh ; cd -
-# cd run-scripts && ./run-types-nltk.sh ; cd -
-# cd run-scripts && ./run-subtypes-nltk.sh ; cd -
-cd run-scripts && ./run-filtered-nltk.sh ; cd -
+cd run-scripts && ./run-cat-nltk.sh ; cd -
+cd run-scripts && ./run-types-nltk.sh ; cd -
+cd run-scripts && ./run-subtypes-nltk.sh ; cd -
+# cd run-scripts && ./run-filtered-nltk.sh ; cd -

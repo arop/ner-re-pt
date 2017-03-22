@@ -1,0 +1,26 @@
+processed 6796 tokens with 497 phrases; found: 345 phrases; correct: 187.
+accuracy:  93.61%; precision:  54.20%; recall:  37.63%; FB1:  44.42
+I-ACONTECIMENTO_ORGANIZADO_: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+I-LOCAL_FISICO_AGUAMASSA: precision: 100.00%; recall:  33.33%; FB1:  50.00  2
+I-LOCAL_FISICO_ILHA: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+I-LOCAL_FISICO_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-LOCAL_FISICO_PLANETA: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+I-LOCAL_FISICO_REGIAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+I-LOCAL_HUMANO_CONSTRUCAO: precision:  50.00%; recall:   7.02%; FB1:  12.31  8
+I-LOCAL_HUMANO_DIVISAO: precision:  62.30%; recall:  40.00%; FB1:  48.72  61
+I-LOCAL_HUMANO_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+I-LOCAL_HUMANO_PAIS: precision:  60.87%; recall:  37.84%; FB1:  46.67  23
+I-LOCAL_HUMANO_REGIAO: precision: 100.00%; recall:  28.57%; FB1:  44.44  4
+I-LOCAL_HUMANO_RUA: precision:  41.67%; recall:  17.24%; FB1:  24.39  12
+I-LOCAL_VIRTUAL_COMSOCIAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     I-OBRA_ARTE_: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+    I-OBRA_PLANO_: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+I-OBRA_REPRODUZIDA_FILME: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-OBRA_REPRODUZIDA_LIVRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  7
+I-OBRA_REPRODUZIDA_MUSICA: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+I-OBRA_REPRODUZIDA_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+I-ORGANIZACAO_ADMINISTRACAO_: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+I-ORGANIZACAO_EMPRESA_: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-TEMPO_TEMPO_CALEND_DATA: precision:  73.12%; recall:  57.07%; FB1:  64.11  160
+I-TEMPO_TEMPO_CALEND_HORA: precision:   6.25%; recall:  33.33%; FB1:  10.53  48
+I-TEMPO_TEMPO_CALEND_INTERVALO: precision:   0.00%; recall:   0.00%; FB1:   0.00  6

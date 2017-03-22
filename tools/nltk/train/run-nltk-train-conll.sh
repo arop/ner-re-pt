@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# 202min + 45min = 4h
 READER=nltk.corpus.reader.conll.ConllChunkCorpusReader
 for i in {0..9}
 do
@@ -7,25 +8,25 @@ do
 	FOLDER=../outputs/fold-$i
 	MODEL=./models/fold-$i
 	# CATEGORIES
-	#iconv -f ISO-8859-1 -t UTF-8 $FOLDER/out-conll-cat.txt > ../outputs/fold-$i/out-conll-cat-utf8.txt
-	#python change_categories.py cat
-	#python train_chunker.py $FOLDER --fileids 'out-conll-cat-utf8.txt' --filename $MODEL/cat_NaiveBayes.pickle --reader $READER --classifier NaiveBayes --no-eval
-	#python train_chunker.py $FOLDER --fileids 'out-conll-cat-utf8.txt' --filename $MODEL/cat_Maxent.pickle --reader $READER --classifier Maxent --no-eval
-	#python train_chunker.py $FOLDER --fileids 'out-conll-cat-utf8.txt' --filename $MODEL/cat_DecisionTree.pickle --reader $READER --classifier DecisionTree --no-eval
+	iconv -f ISO-8859-1 -t UTF-8 $FOLDER/out-conll-cat.txt > ../outputs/fold-$i/out-conll-cat-utf8.txt
+	python change_categories.py cat
+	python train_chunker.py $FOLDER --fileids 'out-conll-cat-utf8.txt' --filename $MODEL/cat_NaiveBayes.pickle --reader $READER --classifier NaiveBayes --no-eval
+	python train_chunker.py $FOLDER --fileids 'out-conll-cat-utf8.txt' --filename $MODEL/cat_Maxent.pickle --reader $READER --classifier Maxent --no-eval
+	python train_chunker.py $FOLDER --fileids 'out-conll-cat-utf8.txt' --filename $MODEL/cat_DecisionTree.pickle --reader $READER --classifier DecisionTree --no-eval
 
 	# TYPES
-	#iconv -f ISO-8859-1 -t UTF-8 $FOLDER/out-conll-types.txt > $FOLDER/out-conll-types-utf8.txt
-	#python change_categories.py types
-	#python train_chunker.py $FOLDER --fileids 'out-conll-types-utf8.txt' --filename $MODEL/types_NaiveBayes.pickle --reader $READER --classifier NaiveBayes --no-eval
-	#python train_chunker.py $FOLDER --fileids 'out-conll-types-utf8.txt' --filename $MODEL/types_Maxent.pickle --reader $READER --classifier Maxent --no-eval
-	#python train_chunker.py $FOLDER --fileids 'out-conll-types-utf8.txt' --filename $MODEL/types_DecisionTree.pickle --reader $READER --classifier DecisionTree --no-eval
+	iconv -f ISO-8859-1 -t UTF-8 $FOLDER/out-conll-types.txt > $FOLDER/out-conll-types-utf8.txt
+	python change_categories.py types
+	python train_chunker.py $FOLDER --fileids 'out-conll-types-utf8.txt' --filename $MODEL/types_NaiveBayes.pickle --reader $READER --classifier NaiveBayes --no-eval
+	python train_chunker.py $FOLDER --fileids 'out-conll-types-utf8.txt' --filename $MODEL/types_Maxent.pickle --reader $READER --classifier Maxent --no-eval
+	python train_chunker.py $FOLDER --fileids 'out-conll-types-utf8.txt' --filename $MODEL/types_DecisionTree.pickle --reader $READER --classifier DecisionTree --no-eval
 
 	# SUBTYPES
-	#iconv -f ISO-8859-1 -t UTF-8 $FOLDER/out-conll-subtypes.txt > $FOLDER/out-conll-subtypes-utf8.txt
-	#python change_categories.py subtypes
-	#python train_chunker.py $FOLDER --fileids 'out-conll-subtypes-utf8.txt' --filename $MODEL/subtypes_NaiveBayes.pickle --reader $READER --classifier NaiveBayes --no-eval
-	#python train_chunker.py $FOLDER --fileids 'out-conll-subtypes-utf8.txt' --filename $MODEL/subtypes_Maxent.pickle --reader $READER --classifier Maxent --no-eval
-	#python train_chunker.py $FOLDER --fileids 'out-conll-subtypes-utf8.txt' --filename $MODEL/subtypes_DecisionTree.pickle --reader $READER --classifier DecisionTree --no-eval
+	iconv -f ISO-8859-1 -t UTF-8 $FOLDER/out-conll-subtypes.txt > $FOLDER/out-conll-subtypes-utf8.txt
+	python change_categories.py subtypes
+	python train_chunker.py $FOLDER --fileids 'out-conll-subtypes-utf8.txt' --filename $MODEL/subtypes_NaiveBayes.pickle --reader $READER --classifier NaiveBayes --no-eval
+	python train_chunker.py $FOLDER --fileids 'out-conll-subtypes-utf8.txt' --filename $MODEL/subtypes_Maxent.pickle --reader $READER --classifier Maxent --no-eval
+	python train_chunker.py $FOLDER --fileids 'out-conll-subtypes-utf8.txt' --filename $MODEL/subtypes_DecisionTree.pickle --reader $READER --classifier DecisionTree --no-eval
 
 	# FILTERED 45min
 	iconv -f ISO-8859-1 -t UTF-8 $FOLDER/out-conll-filtered.txt > $FOLDER/out-conll-filtered-utf8.txt

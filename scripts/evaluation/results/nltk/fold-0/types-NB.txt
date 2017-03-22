@@ -1,0 +1,28 @@
+processed 5891 tokens with 1301 phrases; found: 1205 phrases; correct: 466.
+accuracy:  79.22%; precision:  38.67%; recall:  35.82%; FB1:  37.19
+I-ABSTRACCAO_DISCIPLINA: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+I-ABSTRACCAO_ESTADO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-ABSTRACCAO_NOME: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-ACONTECIMENTO_EFEMERIDE: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-ACONTECIMENTO_ORGANIZADO: precision:  75.00%; recall:   7.41%; FB1:  13.48  8
+   I-COISA_CLASSE: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  I-COISA_OBJECTO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   I-LOCAL_FISICO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   I-LOCAL_HUMANO: precision:  39.32%; recall:  52.70%; FB1:  45.04  323
+  I-LOCAL_VIRTUAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      I-OBRA_ARTE: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     I-OBRA_PLANO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-OBRA_REPRODUZIDA: precision:  20.00%; recall:   2.99%; FB1:   5.19  10
+I-ORGANIZACAO_ADMINISTRACAO: precision:  75.00%; recall:   8.82%; FB1:  15.79  4
+I-ORGANIZACAO_EMPRESA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-ORGANIZACAO_INSTITUICAO: precision:   6.10%; recall:  25.00%; FB1:   9.80  82
+   I-PESSOA_CARGO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-PESSOA_GRUPOMEMBRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-PESSOA_INDIVIDUAL: precision:  39.59%; recall:  71.11%; FB1:  50.86  485
+    I-PESSOA_POVO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  I-TEMPO_DURACAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-TEMPO_FREQUENCIA: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+ I-TEMPO_GENERICO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-TEMPO_TEMPO_CALEND: precision:  44.87%; recall:  48.56%; FB1:  46.64  263
+I-VALOR_CLASSIFICACAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-VALOR_QUANTIDADE: precision:  59.09%; recall:  52.00%; FB1:  55.32  22

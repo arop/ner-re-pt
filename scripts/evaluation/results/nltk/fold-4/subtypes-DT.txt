@@ -1,0 +1,23 @@
+processed 6808 tokens with 328 phrases; found: 264 phrases; correct: 114.
+accuracy:  94.92%; precision:  43.18%; recall:  34.76%; FB1:  38.51
+I-ABSTRACCAO_IDEIA_: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-ACONTECIMENTO_ORGANIZADO_: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-LOCAL_FISICO_AGUAMASSA: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+I-LOCAL_FISICO_REGIAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+I-LOCAL_HUMANO_CONSTRUCAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  9
+I-LOCAL_HUMANO_DIVISAO: precision:  60.00%; recall:  35.59%; FB1:  44.68  35
+I-LOCAL_HUMANO_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+I-LOCAL_HUMANO_PAIS: precision:  69.70%; recall:  71.88%; FB1:  70.77  33
+I-LOCAL_HUMANO_REGIAO: precision:  80.00%; recall:  22.22%; FB1:  34.78  5
+I-LOCAL_HUMANO_RUA: precision: 100.00%; recall:  18.18%; FB1:  30.77  2
+I-LOCAL_VIRTUAL_COMSOCIAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+I-LOCAL_VIRTUAL_SITIO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-OBRA_REPRODUZIDA_LIVRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+I-OBRA_REPRODUZIDA_MUSICA: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+I-OBRA_REPRODUZIDA_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+I-ORGANIZACAO_ADMINISTRACAO_: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-ORGANIZACAO_INSTITUICAO_: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-ORGANIZACAO_INSTITUICAO_SUB: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+I-TEMPO_TEMPO_CALEND_DATA: precision:  60.00%; recall:  42.25%; FB1:  49.59  100
+I-TEMPO_TEMPO_CALEND_HORA: precision:   1.69%; recall:  14.29%; FB1:   3.03  59
+I-TEMPO_TEMPO_CALEND_INTERVALO: precision:  12.50%; recall:   5.26%; FB1:   7.41  8

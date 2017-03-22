@@ -1,0 +1,27 @@
+processed 7067 tokens with 1258 phrases; found: 1185 phrases; correct: 435.
+accuracy:  82.52%; precision:  36.71%; recall:  34.58%; FB1:  35.61
+I-ABSTRACCAO_DISCIPLINA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-ABSTRACCAO_IDEIA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-ABSTRACCAO_NOME: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+I-ACONTECIMENTO_EFEMERIDE: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-ACONTECIMENTO_ORGANIZADO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   I-COISA_CLASSE: precision:  66.67%; recall:   9.52%; FB1:  16.67  3
+  I-COISA_OBJECTO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   I-LOCAL_FISICO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   I-LOCAL_HUMANO: precision:  32.31%; recall:  56.76%; FB1:  41.18  325
+  I-LOCAL_VIRTUAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     I-OBRA_PLANO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-OBRA_REPRODUZIDA: precision:  19.23%; recall:  10.42%; FB1:  13.51  26
+I-ORGANIZACAO_ADMINISTRACAO: precision:  16.67%; recall:   9.09%; FB1:  11.76  6
+I-ORGANIZACAO_EMPRESA: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+I-ORGANIZACAO_INSTITUICAO: precision:  42.86%; recall:  10.98%; FB1:  17.48  21
+   I-PESSOA_CARGO: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+I-PESSOA_GRUPOMEMBRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  22
+I-PESSOA_INDIVIDUAL: precision:  32.78%; recall:  74.41%; FB1:  45.51  479
+    I-PESSOA_POVO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  I-TEMPO_DURACAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-TEMPO_FREQUENCIA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ I-TEMPO_GENERICO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-TEMPO_TEMPO_CALEND: precision:  52.12%; recall:  40.59%; FB1:  45.64  236
+    I-VALOR_MOEDA: precision:  50.00%; recall:   5.56%; FB1:  10.00  4
+I-VALOR_QUANTIDADE: precision:  58.49%; recall:  40.26%; FB1:  47.69  53

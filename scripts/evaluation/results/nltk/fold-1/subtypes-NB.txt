@@ -1,0 +1,18 @@
+processed 6796 tokens with 497 phrases; found: 459 phrases; correct: 138.
+accuracy:  90.46%; precision:  30.07%; recall:  27.77%; FB1:  28.87
+I-LOCAL_FISICO_AGUAMASSA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-LOCAL_FISICO_ILHA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-LOCAL_FISICO_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-LOCAL_HUMANO_CONSTRUCAO: precision: 100.00%; recall:  10.53%; FB1:  19.05  6
+I-LOCAL_HUMANO_DIVISAO: precision:  30.11%; recall:  29.47%; FB1:  29.79  93
+I-LOCAL_HUMANO_PAIS: precision:   9.38%; recall:  24.32%; FB1:  13.53  96
+I-LOCAL_HUMANO_REGIAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-LOCAL_HUMANO_RUA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-LOCAL_VIRTUAL_COMSOCIAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-OBRA_REPRODUZIDA_FILME: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-OBRA_REPRODUZIDA_LIVRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+I-OBRA_REPRODUZIDA_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-ORGANIZACAO_EMPRESA_: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-TEMPO_TEMPO_CALEND_DATA: precision:  36.26%; recall:  46.34%; FB1:  40.69  262
+I-TEMPO_TEMPO_CALEND_HORA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I-TEMPO_TEMPO_CALEND_INTERVALO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
