@@ -1,10 +1,11 @@
 import sys
 
-if(len(sys.argv) > 1):
+if(len(sys.argv) > 3):
   tool = sys.argv[1]
   level = sys.argv[2]
+  repeat = sys.argv[3]
 else:
-  print "Usage: python " + sys.argv[0] + " <tool> <level>\n"
+  print "Usage: python " + sys.argv[0] + " <tool> <level> <repeat>\n"
   sys.exit()
 
 
@@ -38,7 +39,7 @@ def get_level_result(str):
 
 results_files = []
 for i in range(10):
-	f = open('../results/' + tool + '/fold-' + str(i) + '/' + level + '.txt', 'r')
+	f = open('../results/' + tool + '/repeat-' + repeat + '/fold-' + str(i) + '/' + level + '.txt', 'r')
 	results_files.append(f.read())
 	f.close()
 
@@ -106,7 +107,7 @@ for cat in cats:
 	to_file += "\tFB1: {:05.2f}".format(get_avg(cats[cat][2])) 
 	to_file += '\t' + cat + '\n'
 
-f = open('../results/' + tool + '/avg/' + level + '-avg.txt', 'w')
+f = open('../results/' + tool + '/repeat-' + repeat + '/avg/' + level + '-avg.txt', 'w')
 f.write(to_file)
 f.close()
 

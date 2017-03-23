@@ -1,0 +1,19 @@
+processed 770 tokens with 65 phrases; found: 58 phrases; correct: 26.
+accuracy:  90.13%; precision:  44.83%; recall:  40.00%; FB1:  42.28
+ ABSTRACCAO_IDEIA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  ABSTRACCAO_NOME: precision:  50.00%; recall:  50.00%; FB1:  50.00  2
+     COISA_CLASSE: precision: 100.00%; recall:  28.57%; FB1:  44.44  4
+     LOCAL_FISICO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     LOCAL_HUMANO: precision:  17.65%; recall: 100.00%; FB1:  30.00  17
+ OBRA_REPRODUZIDA: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ORGANIZACAO_ADMINISTRACAO: precision:  66.67%; recall:  44.44%; FB1:  53.33  6
+ORGANIZACAO_EMPRESA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ORGANIZACAO_INSTITUICAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+     PESSOA_CARGO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+PESSOA_GRUPOMEMBRO: precision: 100.00%; recall:  33.33%; FB1:  50.00  1
+PESSOA_INDIVIDUAL: precision:  62.50%; recall:  66.67%; FB1:  64.52  16
+    TEMPO_DURACAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ TEMPO_FREQUENCIA: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+TEMPO_TEMPO_CALEND: precision:  50.00%; recall: 100.00%; FB1:  66.67  4
+      VALOR_MOEDA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ VALOR_QUANTIDADE: precision:   0.00%; recall:   0.00%; FB1:   0.00  1

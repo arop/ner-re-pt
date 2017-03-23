@@ -1,0 +1,29 @@
+processed 10536 tokens with 284 phrases; found: 178 phrases; correct: 118.
+accuracy:  95.99%; precision:  66.29%; recall:  41.55%; FB1:  51.08
+ABSTRACCAO_IDEIA_: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+ACONTECIMENTO_EVENTO_: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   COISA_OBJECTO_: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_FISICO_AGUACURSO: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+LOCAL_FISICO_AGUAMASSA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_FISICO_ILHA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_FISICO_RELEVO: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+LOCAL_HUMANO_CONSTRUCAO: precision: 100.00%; recall:  13.33%; FB1:  23.53  2
+LOCAL_HUMANO_DIVISAO: precision:  51.79%; recall:  36.25%; FB1:  42.65  56
+LOCAL_HUMANO_OUTRO: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+LOCAL_HUMANO_PAIS: precision:  66.67%; recall:  51.43%; FB1:  58.06  27
+LOCAL_HUMANO_REGIAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ LOCAL_HUMANO_RUA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_VIRTUAL_OBRA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_VIRTUAL_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_VIRTUAL_SITIO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       OBRA_ARTE_: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+OBRA_ARTE_PINTURA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+OBRA_REPRODUZIDA_FILME: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+OBRA_REPRODUZIDA_LIVRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+OBRA_REPRODUZIDA_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+OBRA_REPRODUZIDA_TEATRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ORGANIZACAO_ADMINISTRACAO_: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ORGANIZACAO_INSTITUICAO_: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ORGANIZACAO_INSTITUICAO_SUB: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+TEMPO_TEMPO_CALEND_DATA: precision:  79.75%; recall:  71.59%; FB1:  75.45  79
+TEMPO_TEMPO_CALEND_INTERVALO: precision: 100.00%; recall:  50.00%; FB1:  66.67  4

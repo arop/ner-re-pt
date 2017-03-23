@@ -2,10 +2,14 @@
 
 # join output from stanford ner and test file
 # evaluate results
-for i in {0..9}
+for r in {1..3}
 do
-	TOOL=../../../tools/open-nlp/outputs/ner-results/fold-$i
-	../join-output-golden.sh $TOOL/out-cat.txt $TOOL/out-cat-gold.txt | ../conlleval > ../results/open-nlp/fold-$i/cat.txt
-done
+	for i in {0..9}
+	do
+		TOOL=../../../tools/open-nlp/outputs/repeat-$r/ner-results/fold-$i
+		OUT_RES=../results/open-nlp/repeat-$r/fold-$i
+		../join-output-golden.sh $TOOL/out-cat.txt $TOOL/out-cat-gold.txt | ../conlleval > $OUT_RES/cat.txt
+	done
 
-python ../src/avg-results.py open-nlp cat
+	python ../src/avg-results.py open-nlp cat $r
+done

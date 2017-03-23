@@ -1,0 +1,28 @@
+processed 3561 tokens with 318 phrases; found: 263 phrases; correct: 131.
+accuracy:  90.23%; precision:  49.81%; recall:  41.19%; FB1:  45.09
+ABSTRACCAO_DISCIPLINA: precision:   0.00%; recall:   0.00%; FB1:   0.00  7
+ ABSTRACCAO_IDEIA: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  ABSTRACCAO_NOME: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ACONTECIMENTO_EFEMERIDE: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ACONTECIMENTO_EVENTO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ACONTECIMENTO_ORGANIZADO: precision:  77.78%; recall:  63.64%; FB1:  70.00  9
+     COISA_CLASSE: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+     LOCAL_FISICO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     LOCAL_HUMANO: precision:  36.73%; recall:  69.23%; FB1:  48.00  49
+    LOCAL_VIRTUAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       OBRA_PLANO: precision:  33.33%; recall:  25.00%; FB1:  28.57  3
+ OBRA_REPRODUZIDA: precision:  33.33%; recall:  23.81%; FB1:  27.78  15
+ORGANIZACAO_ADMINISTRACAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  7
+ORGANIZACAO_EMPRESA: precision:  42.86%; recall:  13.04%; FB1:  20.00  7
+ORGANIZACAO_INSTITUICAO: precision:  46.15%; recall:  20.69%; FB1:  28.57  13
+     PESSOA_CARGO: precision:  20.00%; recall:  12.50%; FB1:  15.38  5
+  PESSOA_GRUPOIND: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+PESSOA_GRUPOMEMBRO: precision:  42.86%; recall:  15.00%; FB1:  22.22  7
+PESSOA_INDIVIDUAL: precision:  62.92%; recall:  74.67%; FB1:  68.29  89
+      PESSOA_POVO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    TEMPO_DURACAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ TEMPO_FREQUENCIA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   TEMPO_GENERICO: precision:  25.00%; recall:  33.33%; FB1:  28.57  4
+TEMPO_TEMPO_CALEND: precision:  83.33%; recall:  55.56%; FB1:  66.67  30
+VALOR_CLASSIFICACAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ VALOR_QUANTIDADE: precision:  50.00%; recall:  50.00%; FB1:  50.00  10
