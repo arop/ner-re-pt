@@ -10,6 +10,7 @@ from spacy.pipeline import EntityRecognizer
 from spacy.gold import GoldParse
 from spacy.tagger import Tagger
 import random
+#from spacy.pt import Portuguese
 
 import sys
  
@@ -21,7 +22,8 @@ except:
 def train_ner(nlp, train_data, entity_types):
     # Train NER.
     ner = EntityRecognizer(nlp.vocab, entity_types=entity_types)
-    for itn in range(100):
+
+    for itn in range(20):
         random.shuffle(train_data)
         print('Iteration: ' + str(itn))
     	for raw_text, entity_offsets in train_data:
@@ -49,7 +51,6 @@ def save_model(ner, model_dir):
     ner.vocab.dump(str(model_dir / 'vocab' / 'lexemes.bin'))
     with (model_dir / 'vocab' / 'strings.json').open('w', encoding='utf8') as file_:
         ner.vocab.strings.dump(file_)
-
 
 def get_training_data(input_file):
 	ann = open(input_file + '.ann', 'r').read().decode('ISO-8859-1').splitlines()
@@ -79,25 +80,26 @@ def get_training_data(input_file):
 	return train_data
 
 
-def create_vocab(nlp, all_data):
+def create_vocab(nlp, data):
     # Add new words to vocab.
-    for raw_text, _ in all_data:
+    for raw_text, _ in data:
         doc = nlp.make_doc(raw_text)
         for word in doc:
             _ = nlp.vocab[word.orth]
     return nlp
 
 def main(model_dir=None):
-    nlp = spacy.load('en_default', parser=False, entity=False, add_vectors=False)
+    # nlp = Portuguese()
+    nlp = spacy.get_lang_class('pt')(path=None)
 
     # v1.1.2 onwards
     if nlp.tagger is None:
         print('Setting tagger')
         nlp.tagger = Tagger(nlp.vocab, features=Tagger.feature_templates)
 
-    if(len(sys.argv) > 1):
+    if(len(sys.argv) > 3):
       	filetrain = sys.argv[1]
-      	#model_dir = sys.argv[2]
+      	model_dir = sys.argv[2]
       	level = sys.argv[3]
     else:
       	print ("Usage: python " + sys.argv[0] + " <input filename train> <model_dir> <level>\n")
@@ -125,7 +127,6 @@ def main(model_dir=None):
 
     if model_dir is not None:
         save_model(ner, model_dir + '/' + level)
-
 
 if __name__ == '__main__':
     main('ner')

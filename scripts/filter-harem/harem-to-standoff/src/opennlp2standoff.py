@@ -9,7 +9,7 @@
 import re
 import sys
 
-if(len(sys.argv) > 1):
+if(len(sys.argv) > 2):
   filein = sys.argv[1]
   fileout = sys.argv[2]
 else:
@@ -19,21 +19,21 @@ else:
 def get_standoff(line):
 	standoff = []
 	while True:
-		matched = re.search(r"<START:\w+>",line)
+		matched = re.search(r"<START:\w+>\s",line)
 		if matched is None:
 			break
 		beginPos = matched.span()[0]
 		line = line[:beginPos] + line[matched.span()[1]:]
-		tag = matched.group()[ len("<START:") : len(matched.group()) - 1 ]
-		matched = re.search(r"<END>",line)
+		tag = matched.group()[ len("<START:") : len(matched.group()) - 2 ]
+		matched = re.search(r"\s<END>",line)
 
 		if matched is None:
 			print 'ERROR: NO MATCH FOR <END>\n'
 			print line
 			break
 
-		endPos = matched.span()[0] - 1 
-		line = line[:endPos + 1] + line[matched.span()[1]:]
+		endPos = matched.span()[0]
+		line = line[:endPos] + line[matched.span()[1]:]
 
 		standoff.append((beginPos, endPos, tag))
 	return standoff, line

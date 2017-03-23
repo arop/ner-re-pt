@@ -1,7 +1,7 @@
 #!/bin/bash
 
 OPENNLP=../../../tools/open-nlp
-for r in {1..3}
+for r in {0..3}
 do
 	for i in {0..9}
 	do
