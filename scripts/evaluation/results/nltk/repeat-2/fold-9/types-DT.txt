@@ -1,0 +1,23 @@
+processed 998 tokens with 80 phrases; found: 86 phrases; correct: 17.
+accuracy:  87.98%; precision:  19.77%; recall:  21.25%; FB1:  20.48
+ABSTRACCAO_DISCIPLINA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ACONTECIMENTO_ORGANIZADO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     COISA_CLASSE: precision:  33.33%; recall:  11.11%; FB1:  16.67  3
+    COISA_OBJECTO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     LOCAL_HUMANO: precision:  53.85%; recall:  33.33%; FB1:  41.18  13
+    LOCAL_VIRTUAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       OBRA_PLANO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ OBRA_REPRODUZIDA: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+ORGANIZACAO_ADMINISTRACAO: precision:  20.00%; recall:  50.00%; FB1:  28.57  5
+ORGANIZACAO_EMPRESA: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ORGANIZACAO_INSTITUICAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+     PESSOA_CARGO: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+  PESSOA_GRUPOIND: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+PESSOA_INDIVIDUAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  11
+      PESSOA_POVO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    TEMPO_DURACAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+ TEMPO_FREQUENCIA: precision:  40.00%; recall:  28.57%; FB1:  33.33  5
+   TEMPO_GENERICO: precision:   0.00%; recall:   0.00%; FB1:   0.00  8
+TEMPO_TEMPO_CALEND: precision:  26.32%; recall:  38.46%; FB1:  31.25  19
+      VALOR_MOEDA: precision:  25.00%; recall:  14.29%; FB1:  18.18  4
+ VALOR_QUANTIDADE: precision:   0.00%; recall:   0.00%; FB1:   0.00  3

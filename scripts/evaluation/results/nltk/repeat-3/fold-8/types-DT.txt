@@ -1,0 +1,28 @@
+processed 3236 tokens with 314 phrases; found: 314 phrases; correct: 68.
+accuracy:  84.05%; precision:  21.66%; recall:  21.66%; FB1:  21.66
+ABSTRACCAO_DISCIPLINA: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  ABSTRACCAO_NOME: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+ACONTECIMENTO_EFEMERIDE: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ACONTECIMENTO_EVENTO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ACONTECIMENTO_ORGANIZADO: precision:  46.67%; recall:  50.00%; FB1:  48.28  15
+     COISA_CLASSE: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+     LOCAL_FISICO: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+     LOCAL_HUMANO: precision:  44.44%; recall:  41.67%; FB1:  43.01  45
+    LOCAL_VIRTUAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       OBRA_PLANO: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+ OBRA_REPRODUZIDA: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+ORGANIZACAO_ADMINISTRACAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+ORGANIZACAO_EMPRESA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ORGANIZACAO_INSTITUICAO: precision:  21.43%; recall:  37.50%; FB1:  27.27  14
+     PESSOA_CARGO: precision:  18.18%; recall:  25.00%; FB1:  21.05  11
+  PESSOA_GRUPOIND: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+PESSOA_GRUPOMEMBRO: precision: 100.00%; recall:  30.43%; FB1:  46.67  7
+PESSOA_INDIVIDUAL: precision:  19.57%; recall:  13.24%; FB1:  15.79  46
+      PESSOA_POVO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    TEMPO_DURACAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+ TEMPO_FREQUENCIA: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+   TEMPO_GENERICO: precision:  13.33%; recall:  66.67%; FB1:  22.22  15
+TEMPO_TEMPO_CALEND: precision:  23.81%; recall:  24.39%; FB1:  24.10  42
+VALOR_CLASSIFICACAO: precision: 100.00%; recall:  10.00%; FB1:  18.18  2
+      VALOR_MOEDA: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ VALOR_QUANTIDADE: precision:   6.82%; recall:  31.58%; FB1:  11.21  88
