@@ -1,6 +1,6 @@
 #!/bin/bash
 
-./tokenize.sh # 13min
-./pos-tag.sh # 5min
-./join-pos-entities.sh #5s
-./output-gold.sh #5s
+time ./tokenize.sh # 13min
+time ./pos-tag.sh # 5min
+time ./join-pos-entities.sh #5s
+time ./output-gold.sh #5s

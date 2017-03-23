@@ -2,6 +2,7 @@
 
 READER=nltk.corpus.reader.conll.ConllChunkCorpusReader
 
+# 12h30 for repeats 1..3
 for r in {1..3}
 do
 	printf "\n** repeat "$r" **\n"	

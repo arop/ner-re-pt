@@ -1,0 +1,4 @@
+types and subtypes get overflow when training maxent
+
+maxent only has 10 iterations, perhaps the reason for the low metrics
+(opennlp maxent has 100 iterations)

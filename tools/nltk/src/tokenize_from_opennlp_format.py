@@ -63,6 +63,6 @@ for line in file_str.splitlines():
 		to_file += line + '\tO\n'
 
 # output to file
-f = open('outputs/' + fileout, 'w')
+f = open(fileout, 'w')
 f.write(to_file.encode('ISO-8859-1'))
 f.close()

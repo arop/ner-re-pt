@@ -100,7 +100,7 @@ def load_corpus_reader(corpus, reader=None, fileids=None, sent_tokenizer=None, w
 		#############################
 		filtered = ['LOCAL','ACONTECIMENTO','TEMPO','PESSOA','ORGANIZACAO','VALOR']
 		########### HERE ############
-		kwargs['chunk_types'] = subtypes
+		kwargs['chunk_types'] = filtered
 
 		real_corpus = reader_cls(root, fileids, **kwargs)
 	

@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# 25min for repeats 1..3
 for r in {1..3}
 do
 	printf "\n** repeat "$r" **\n"
@@ -8,7 +9,7 @@ do
 	do
 		printf "\n** fold "$i" **\n"
 		OUT=../outputs/repeat-$r/fold-$i
-		RESULTS=../outputs/ner-results/repeat-$r/fold-$i
+		RESULTS=../outputs/repeat-$r/ner-results/fold-$i
 		MODELS=models/repeat-$r/fold-$i
 
 		iconv -f ISO-8859-1 -t UTF-8 $OUT/pos-cat-docs-test.txt > $OUT/pos-cat-docs-test-utf8.txt
