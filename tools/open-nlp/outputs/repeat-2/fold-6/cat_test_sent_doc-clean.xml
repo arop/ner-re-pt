@@ -1,0 +1,241 @@
+--DOCSTART--
+  Sistema de Posicionamento Global         
+ O  Sistema de Posicionamento Global  , vulgarmente conhecido por  GPS  (do acrónimo do inglês  Global Positioning System  ), é um sistema de posicionamento por satélite americano,  por vezes  incorrectamente designado de sistema de navegação, utilizado para determinação da posição de um receptor na superfície da  Terra  ou em órbita.
+Existem atualmente dois sistemas efetivos de posicionamento por satélite; o  GPS  americano e o  Glonass  russo; também existem mais dois sistemas em implantação; o  Galileo  europeu e o  Compass  chinês.
+O sistema  GPS  foi criado e é controlado pelo     Departamento de Defesa    dos    Estados Unidos da América   ,  DoD  , e pode ser utilizado por qualquer pessoa, gratuitamente, necessitando apenas de um receptor que capte o sinal emitido pelos satélites.
+O  DoD  fornece dois tipos de serviços  GPS  :  Standard  e  Precision  .
+Contrariamente ao que inicialmente acontecia, actualmente os dois serviços estão disponíveis em regime aberto em qualquer parte do mundo.
+O sistema está dividido em três partes: espacial, de controlo e utilizador.
+O segmento espacial é composto pela constelação de satélites.
+O segmento de controlo é formado pelas estações terrestres dispersas pelo mundo ao longo da  Zona Equatorial  , responsáveis pela monitorização das órbitas dos satélites, sincronização dos relógios atómicos de bordo dos satélites e actualização dos dados de almanaque que os satélites transmitem.
+O segmento do utilizador consiste num receptor que capta os sinais emitidos pelos satélites.
+Um receptor  GPS  (  GPSR  ) descodifica as transmissões do sinal de código e fase de múltiplos satélites e calcula a sua posição com base nas distâncias a estes.
+A posição é dada por latitude, longitude e altitude, coordenadas geodésicas referentes ao sistema  WGS84  .
+--DOCSTART--
+    
+TECNOLOGIA E TRADIÇÃO TRIBAL A SERVIÇO DA NATUREZA    
+ Deck Cowboy  (deckcowboy@riseup.net)    
+ NORDHOEK  ,  África do Sul  - Com o olhar fixo na tela de seu laptop,  Louis Liebenberg  compara dois mapas da mesma região.
+Enquanto um deles está densamente preenchido por pontos amarelos, o outro está bem mais vazio.
+As marcas indicam avistamentos de gorilas das planícies registradas por rastreadores tribais antes e depois de um surto do vírus ebola no santuário de  Lossi  , na  República Federativa do Congo  .
+Usando o  CyberTracker  , um software com o qual os ecologistas podem registrar suas observações em campo usando computadores portáteis conectados a aparelhos de posicionamento global (  GPS  ), os rastreadores puderam reunir dados que comprovam a degradação da população local da espécie.
+Inicialmente céticos, os cientistas  mais tarde  confirmaram suas constatações de que o vírus estava matando os gorilas e outros animais, e publicaram um artigo numa edição recente da revista  Science  .
+"Este é um exemplo incrível de como a coleta regular de dados pode nos ajudar", disse  Liebenberg  .
+Para ele, fundador sul-africano da  CyberTracker Conservation  , as constatações não apenas ilustram a capacidade do dispositivo de melhorar o monitoramento e a interpretação de ecossistemas, mas também comprovam que rastreadores analfabetos podem recolher informações com tanta eficiência quanto cientistas com Ph.D.
+O  CyberTracker  é apenas mais uma das modernas tecnologias atualmente à disposição dos ecologistas, que cada vez mais recorrem a ferramentas como análises de  DNA  e imagens de satélite para obter uma maior compreensão da natureza.
+ Liebenberg  teve a idéia de criar o sistema  CyberTracker  enquanto acompanhava caçadores bosquímanos no deserto do  Kalahari  .
+Fascinado desde pequeno pela arte tribal de seguir rastros,  Liebenberg  desenvolveu a teoria de que as atividades ancestrais de caça e coleta representam nada menos do que a própria origem da ciência.
+Rastrear um animal, argumenta o pesquisador, exige um processo de observação e confrontação de hipóteses muito semelhante ao método científico.
+O que  um dia  foi necessário à sobrevivência, no entanto, é  hoje  uma prática em extinção.
+Atualmente,  Liebenberg  afirma conhecer apenas seis caçadores tribais que usam suas habilidades para subsistência.
+A maioria dos jovens das tribos da região  hoje  freqüentam a escola - ao contrário de seus pais e avós, que eram analfabetos - mas raramente chegam a aprender as técnicas e o conhecimento de mundo necessários para caçar como as gerações anteriores.
+Se fosse possível encontrar um meio de colocar o conhecimento dos bosquímanos a serviço da preservação ambiental, tanto a natureza quanto as comunidades desse povo poderiam se beneficiar.
+ Em 1996  ,  Liebenberg  e o cientista da computação  Lindsey Steventon  lançaram o primeiro modelo do  CyberTracker  , com o objetivo de transformar o rastreamento tradicional numa profissão moderna.
+ No mesmo ano  , os rastreadores  Karel Benadie  e  James Minye  usaram o  CyberTracker  para estudar o rinoceronte negro, uma espécie ameaçada de extinção, no  Parque Nacional de Karoo  na  África do Sul  .
+Eles recolheram dados sobre os padrões de alimentação dos animais e sua vulnerabilidade à caça clandestina.
+ Em 1999  ,  Liebenberg  ,  Steventon  e os dois rastreadores, que não possuem educação formal, publicaram um artigo na revista acadêmica  Pachyderm  .
+"Ao incluir os rastreadores em nossas atividades de monitoramento ambiental, estamos expandindo eficientemente a própria ciência", disse  Liebenberg  .
+Mas não são apenas os rastreadores tribais que usam o  CyberTracker  .
+Estudantes e observadores de aves também aproveitam as vantagens do sistema.
+Ele já foi usado até por equipes de cientistas em expedições no  Ártico  , no monitoramento de lobos no estado norte-americano de  Idaho  , da poluição dos rios na  Tanzânia  e do raríssimo rinoceronte de  Sumatra  , em  Bornéu  .
+O software pode ser personalizado, e é oferecido gratuitamente na  Web  .
+ Cerca de 400  projetos em  30  países estão usando o sistema, afirma  Liebenberg  .
+O software consiste em uma série de camadas contendo menus baseados em figuras nos quais os pesquisadores registram suas observações.
+Eles selecionam ícones para representar as plantas e animais que observam, e para descrever seu comportamento e suas características.
+O  GPS  registra o local e a hora de cada observação.
+Rastreadores experientes normalmente podem identificar um único indivíduo de determinada espécie, ou pelo menos saber seu sexo, idade e estado de saúde, apenas observando suas pegadas.
+Com cada rastreador registrando  até 300  observações  por dia  , o dispositivo permite a coleta de quantidades imensas de informação, que pode ser analisada em mapas e bancos de dados quase imediatamente.
+"É aí que novos padrões vêm à tona: correlações entre espécies diferentes, características da paisagem e outros fatores que não poderiam ser descobertos de outra maneira", afirma  Jason Knight  , instrutor da  Wilderness Awareness School  em  Duvall  ,  Washington  .
+No entanto,  Christina Eisenberg  , uma bióloga que estuda os lobos e trabalha para o  Serviço Americano de Vida Selvagem e Aquática  conta que parou de usar o sistema porque ele travava inesperadamente.
+"Perdi os dados  de um dia inteiro  de trabalho, depois de me embrenhar milhas e milhas sobre terreno acidentado mato adentro", lembra.
+"Não foi nada agradável".
+Vários projetos usando o  CyberTracker  em áreas de preservação da  África do Sul  também estão interrompidos, em parte devido ao preconceito contra rastreadores analfabetos e a falta de entusiasmo por parte dos administradores, diz  Liebenberg  .
+Mesmo assim, ele pretende desenvolver o  CyberTracker  , transformando-o num sistema para monitorar mudanças ambientais e compartilhar informações pelo mundo todo.
+"No momento, faltam cientistas para reunir informação em campo", disse.
+"Se pudermos contar com a ajuda das pessoas que vivem nesses lugares, poderemos, teoricamente, monitorar todo o ecossistema global.
+Fonte: Centro de Mídia Independente (www.midiaindependente.org).
+Link : Cybertracker (www.cybertracker.co.za).
+--DOCSTART--
+
+ 2008  : preços de bens e serviços sobem acima da inflação
+Os preços de diversos bens e serviços vão aumentar,  no próximo ano  , acima da inflação de  2,1%  prevista pelo  Governo   para 2008  , com destaque para o pão, com os industriais do sector a estimarem uma evolução de dois dígitos.
+A electricidade vai aumentar, de acordo com a proposta da  Entidade Reguladora dos Serviços Energéticos  (  ERSE  ), aprovada pelo  Conselho Tarifário  ,  2,9%  , em média, em  Portugal Continental  ,  2,6%  nos  Açores  e  4,9%  na  Madeira  .
+A maioria dos consumidores domésticos podem assim esperar uma subida da factura mensal de  1,08 euros   no próximo ano  , mas os clientes industriais sofrerão um aumento médio de  3,0%  , com maior peso para os de muita alta tensão (  MAT  ) e alta tensão (  AT  ) que terão uma subida de  3,9%  .
+Os clientes de média tensão (  MT  ) terão um aumento de  2,7%  , enquanto os de baixa tensão especial (  BTE  ), normalmente pequenas empresas, terão um aumento de  2,5%  .
+Um dos casos em que a subida dos preços mais ultrapassa o valor da inflação prevista pelo  Governo  é o do pão, que deverá aumentar  10 a 15%   em Janeiro  ou  Fevereiro  , segundo contas feitas pela direcção da   Associação dos Industriais de Panificação, Pastelaria e Similares  do  Norte  (  AIPAN  ).
+Em declarações à agência  Lusa  ,  António Fontes  , da  AIPAN  , disse que o preço do pão terá de aumentar para fazer face à subida de  92%  registada  ao longo de 2007  no preço da matéria-prima de base (farinha).
+Desde o último aumento do preço do pão,  em Janeiro de 2004  , o preço da farinha mais do que duplicou, o das leveduras subiu  40%  , o da energia  25%  , o do gás  32%  , o do gasóleo  70%  e os custos com pessoal  14%  , explicou.
+O preço do arroz, cujo consumo per capita em  Portugal  é o mais alto da  Europa  , deverá igualmente aumentar, apesar de os industriais não conseguirem ainda prever o valor real a pagar pelos consumidores.
+A  Associação Nacional dos Industriais de Arroz  (  ANIA  ) explicou que um conjunto de factores a nível do mercado internacional - aumento do preço das matérias-primas com parte da produção a ser desviada para o fabrico de biocombustíveis - provocou em  Portugal  um acréscimo do valor por tonelada de  200 a 230 euros   em 2006  para  280 a 290 euros   este ano  .
+Nos transportes públicos, a subida é, em média, de  3,9%  , e nas portagens das auto-estradas será de  2,6%  , também, em média, seguindo o estipulado na lei, que obriga as concessionárias a apresentar "  até 15 de Novembro  as propostas de aumentos de portagens, tendo como por base a última inflação homóloga conhecida.
+Nem todas as portagens sofrerão alterações, uma vez que os contratos de concessão determinam que os aumentos sejam arredondados em múltiplos de  5 cêntimos  .
+O tabaco também vai pesar mais na carteira: o  Governo  decidiu  em 2005  que o  Imposto sobre o Tabaco  teria um aumento médio anual de  15%   até 2009  e,  a partir de Janeiro de 2008  , um maço das marcas mais comercializadas poderá mesmo aumentar, em média,  30 cêntimos  .
+Sem contas fechadas, os  CTT  adiantam que «os preços dos serviços de correios não vão aumentar já  em Janeiro  » e, na água, o  Instituto Regulador das Águas e Resíduos  (  IRAR  ) diz que o procedimento  para 2008  está actualmente em curso, prevendo-se a sua conclusão  em Janeiro  .
+Quanto às empresas concessionárias dos sistemas municipais, as tarifas são definidas  no momento  do estabelecimento da concessão e actualizadas de acordo com as regras constantes do respectivo contrato com aprovação pelo município.
+Mas nem tudo são más notícias, tendo em conta que o  Salário Mínimo Nacional  vai aumentar,  a partir do dia 1 de Janeiro  ,  5,7%  , para  426 euros  .
+O valor fixado insere-se no acordo tripartido assinado  no ano passado  e que prevê uma evolução significativa do salário mínimo, de modo a atingir os  450 euros   em 2009  e os  500 euros   em 2011  .
+O "  Indexante de Apoios Sociais  (  IAS  ), o referencial de actualização e cálculo das prestações sociais, deverá situar-se nos  407,4 euros  , o que traduz um crescimento de  2,4%  ,   a partir de Janeiro do próximo ano  , segundo as contas feitas pela agência  Lusa  .
+Em relação à actualização das pensões atribuídas pelo sistema de   Segurança Social  , as pensões de valor igual ou inferior a  1,5 IAS  (  611,10 euros  ) são actualizadas em  2,7%  , as pensões  entre 1,5 IAS e 6 IAS  tem uma actualização de  2,17%  e as pensões de valor superior a  6 IAS  tem um aumento de  1,88%  .
+Estes valores foram calculados com base na lei 53-B/2006,  de 29 de Dezembro  , que cria o indexante dos apoios sociais e novas regras de actualização das pensões e outras prestações sociais do sistema de  Segurança Social  .
+--DOCSTART--
+
+ Camacho  ganhou sempre a  Jesualdo  mas não ao  FC Porto 
+AS ESTATÍSTICAS DO CLÁSSICO DE SÁBADO QUANTO À LIGA 
+Se as estatísticas quiserem dizer alguma coisa,  Camacho  pode encarar o clássico  de sábado  com optimismo.
+O espanhol soma por vitórias os  3  jogos frente a  Jesualdo Ferreira  , técnico ao qual sucedeu no comando do  Benfica  ,  em 2002/2003  .
+No entanto, há outra leitura que tem de ser feita: o espanhol jamais venceu o  FC Porto  para o campeonato.
+Em três "duelos", face a  Jesualdo  , então ao comando do  Sp.Braga  ,  Camacho  venceu  por duas vezes  como visitante (  3-1   em 2002/2003  e 3-0  em 2003/2004  ) e uma como anfitrião (  2-0   em 2003/2004  ).
+O espanhol está 100 por cento vitorioso face a  Jesualdo  , mas nunca enceu o  FC Porto  para o campeonato, tendo como melhor registo o empate na  Luz  ,  em 2003/2004  (  1-1  ).
+Na mesma temporada,  Camacho  perdeu no  FC Porto  por  2-0  e, na anterior, já tinha perdido em casa por  1-0  .
+No entanto, pesar de não ter qualquer triunfo no campeonato, o espanhol conquistou frente aos "dragões" o único título da sua carreira.
+ A 16 de Maio de 2004  , na final da   Taça  de  Portugal  , o  FC Porto  adiantou-se, por  Derlei  , mas o grego  Fyssas  empatou e, no prolongamento,  Simão  derrotou o "onze" de  José Mourinho  , que,   10 dias depois  , viria a vencer a  Liga dos Campeões  (  3-0  ao  AS Mónaco  ).
+Por seu lado,  Jesualdo Ferreira  tem um balanço negativo nos confrontos com o  Benfica  , com quatro vitórias, três empates e cinco derrotas (  13-19  em golos), mas nunca perdeu ao comando do  FC Porto  : "a época passada, venceu no  Dragão  (  3-2  ) e empatou na  Luz  (  1-1  ).
+--DOCSTART--
+    
+  Mosteiro de Santa Cruz         
+História    
+ A   Igreja de Santa Cruz  de  Coimbra  foi fundada  em 1131  por  D. Telo  (  São Teotónio  ) e  11  outros religiosos, que adotaram a regra dos  Cónegos Regrantes de Santo Agostinho   .
+A nova  Igreja  recebeu muitos privilégios papais e doações dos primeiros  reis de Portugal   , tornando-se a mais importante casa monástica do reino.
+Sua escola foi uma das melhores instituições de ensino do  Portugal  medieval , tendo uma grande biblioteca (agora na     Biblioteca Pública Municipal  do    Porto   ) e um activo scriptorium.
+ Nos tempos  de  D. Afonso Henriques  , primeiro monarca português, o scriptorium de  Santa Cruz  foi usado como máquina de consolidação do poder real.
+A importância da  Igreja  é evidenciada pelo fato de que  D. Afonso Henriques  e seu sucessor,  D. Sancho I  , foram sepultados lá.
+Na  Idade Média  , o mais famoso estudante da  Igreja de Santa Cruz  foi  Fernando Martins de Bulhões  , o futuro   Santo António  de  Lisboa  (ou   Santo António  de  Pádua  ).
+ Em 1220  , o religioso assiste à chegada à  Igreja  dos restos mortais de cinco frades franciscanos martirizados no  Marrocos  (os   Mártires  do  Marrocos  ), e decide fazer-se missionário e partir de  Portugal  .
+ No início do século XVI  , o  rei D. Manuel I  ordena uma grande reforma, reconstruindo e redecorando a igreja e o mosteiro.
+ Nessa época  são transladados os restos de  Afonso Henriques  e  Sancho I  dos seus sarcófagos originais para novos túmulos decorados em estilo manuelino.
+ Entre 1530 e 1577  funcionou uma imprensa no claustro.
+É possível que o poeta  Luís de Camões  tenha estudado em  Santa Cruz  , uma vez que um parente seu (  D. Bento de Camões  ) era prior do mosteiro na época , e há evidências em sua poesia de uma estadia em  Coimbra  .
+--DOCSTART--
+    
+ Paquistão  após o assassinato    
+de  Benazir Bhutto     
+ 28/Dezembro/2007  ·  0:01  ·  147  Comentários    
+É sempre chocante assistir à decomposição de um país.
+Mas, após o assassinato de  Benazir Bhutto  , é o que está acontecendo com o  Paquistão  .
+O momento é tenso.
+Uma revolta popular pode estourar.
+Agora, que faria sentido declarar  Estado de Emergência   e impor a  Lei Marcial  , o  presidente Pervez Musharraf  está desautorizado.
+Afinal,  há coisa de dois meses  , aplicou um golpe contra a  Suprema Corte  utilizando-se justamente desta tática.
+Será que ousaria um novo  Estado de Emergência  ?
+Será que sobreviveria a tal decreto?
+Será que o  Exército  se manterá fiel a ele?
+Será que o  Serviço de Inteligência  , tão ligado ao norte islâmico, ainda o respeita minimamente?
+O que acontecerá não é possível prever.
+Eleições estão marcadas  para 8 de janeiro  ,  Bhutto  era favorita.
+O partido mais votado do parlamento eleito fará o primeiro ministro.
+Num país estável, o assassinato de um dos principais candidatos  a essa altura  seria justificativa para suspender o pleito e realizá-lo adiante, quando o partido vitimado tivesse chances de apresentar novo candidato.
+Mas, se já foi  um dia  , o  Paquistão  deixou de ser um país normal, quanto mais estável.
+O ideal seria que eleições ocorressem.
+É preciso manter a mínima aparência de democracia sob o risco de que ela desapareça de vez.
+Os partidários de  Bhutto  ,  ontem  , acusavam  Musharraf  do assassinato.
+Mas será?
+Em campanha, a ex-primeira-ministra mostrava-se particularmente agressiva contra o  Talibã  , o radicalismo islâmico e sua cria, a  al-Qaeda  , alojados ao norte.
+ Benazir Bhutto  contava com a simpatia dos  EUA  por conta.
+Não há dúvidas de que, como premiê,  Bhutto  forçaria o  presidente Musharraf  a ampliar sua ofensiva.
+A conversa da experiente política com o presidente afegão  Hamid Karzai  , o outro  chefe de Estado  preocupado com esta briga,  faz poucos dias  , é indício de qual sua prioridade no governo.
+Após seu assassinato, o presidente, que acaba de abandonar a farda de general, não tem como garantir sequer sua sobrevivência política.
+Se o conflito entre ambos era aberto, ausência de  Bhutto  piora a situação.
+Se a lógica ainda prevalecer no país em frangalhos, parece evidente que os maiores interessados em sua morte são justamente o  Talibã  e a  al-Qaeda  .
+Isto, é claro, se a lógica valer de algo.
+A  al-Qaeda   às vezes  assume seus atentados.
+Outras vezes, não.
+No  Onze de Setembro  , ficou em silêncio  por mais de mês  enquanto a comunidade internacional cobrava provas de seu envolvimento antes de autorizar um ataque dos  EUA  ao  Afeganistão  .
+Neste caso, a falta de autoria clara favorece o caos.
+O caos interessa à turma de  bin-Laden  .
+Com  Bhutto  de fora, os olhos voltam-se para outro ex-premiê, também candidato,  Nawaz Sharif  .
+Mal se passara  uma hora  da morte de  Bhutto  quando ele entrou no   Hospital Geral  de  Rawalpindi  para as condolências.
+Dada a confusão que imperava, foi um feito.
+É arte política, sujeito hábil.
+Embora os dois ensaiassem uma aliança,  Sharif  não poderia ser mais diferente de  Bhutto  .
+Se ela era pró-  EUA  , ele não esconde seus laços com a  Arábia Saudita  .
+E se acaso sauditas e norte-americanos são oficialmente aliados, na realidade da política local a ação é diferente.
+A  al-Qaeda  é um grupo saudita.
+A  Arábia Saudita  era um dos três países do mundo que reconheciam, no  Afeganistão  , o governo  Talibã  .
+A vertente de islamismo radical que impera no norte do  Paquistão  é profundamente semelhante à que a  Arábia Saudita  espalha pelo mundo.
+ Sharif  não é fundamentalista.
+Mas a geopolítica que o sustenta e financia é tão atada aos sauditas que um gabinete liderado por ele é marcado por uma interrogação.
+O que vai imperar?
+A  Arábia Saudita  interessada em regimes islâmicos como os defendidos pelos radicais?
+Ou a  Arábia Saudita  interessada em combater o terrorismo?
+No  Paquistão  , as duas opções são incompatíveis.
+Enterros no  Paquistão  acontecem rápido.
+Provavelmente  hoje  , talvez  amanhã  .
+Se demorar mais, escaparam à tradição - coisa sempre perigosa - para evitar as multidões.
+A multidão é incontrolável.
+Se o país rachar.
+Se houver um golpe de  Estado  .
+Se radicais islâmicos conseguirem um atalho para o poder.
+O mundo respira fundo.
+O "  Paquistão  é uma potência nuclear.
+--DOCSTART--
+    
+ Actualmente é de  570,6 euros         
+  Espanha  aumenta salário mínimo para  600 euros         
+ O  Governo  socialista espanhol aprovou  hoje  o aumento do salário mínimo em  Espanha  , fazendo-o passar dos actuais  570,6 euros  para  600 euros   no próximo ano  .
+«Aprovámos o decreto que estabelece o salário mínimo interprofissional nos  600 euros   por mês  , com efeito  a partir de 1 de Janeiro  », anunciou o    chefe do Governo  ,  José Luís Rodriguez Zapatero  , numa conferência de imprensa do último  Conselho de Ministros   deste ano  .
+Este aumento foi conseguido graças ao acordo com os sindicatos e o patronato acrescentou  Zapatero  , que afirmou que esse valor correspondia às suas promessas eleitorais, precisando que o salário mínimo estava nos  460 euros   em 2004  , aquando da sua ascensão ao poder.
+O chefe do governo vai disputar um segundo mandato de quatro anos nas eleições legislativas de  9 de Março  , e salienta  frequentemente  o seu balanço económico positivo.
+ Em Outubro  ,  Zapatero  prometeu igualmente aumentar o salário mínimo até aos  800 euros   por mês  em caso de reeleição.
+À excepção dos antigos países do bloco de leste, a  Espanha  é um dos países que tem o salário mínimo mais baixo da  União Europeia  , juntamente com  Portugal  ,  Grécia  e  Malta  .
+--DOCSTART--
+    
+O vírus na maçã.
+A chamada  Cultura Pop  sempre foi gerada no caldeirão fervente das periferias.
+Obvio ululante.
+Mesmo a cultura  HipHop  , este emaranhado de atitudes sócio culturais atribuído à juventude desvalida das grandes metrópoles norte americanas, pode ser descrita, coerentemente, como o ôvo do futuro, gerado no mais remoto e desprezado dos passados.
+Pura relatividade, portanto.
+Sejamos francos: Não há 'modernidade', 'novidade' possível (pelo menos em se tratando de música e dança populares) fora do contexto efervescente das periferias.
+Fora dos guetos e favelas nada se cria.
+Tudo se copia.
+Sempre foi assim e, talvez, sempre será.
+O eixo irradiador de toda esta fervura é o mesmo eixo de um centro econômico de cada época, cada ocasião, no caso,  em nossos dias  ,  Nova York  , onde vicejaram o  Rap  , o  Street Dance  , o  Grafitti  , manifestações criadas nas periferias da grande maçã podre, a  Big Apple  sem  Beatles  , sem  MacIntosh  , sem nada.
+Cultura popular orgânica, com potência de vírus (benigno?
+), estas manifestações são, em ultima análise, o antídoto humanizador para o veneno intrínseco a um sistema arcaico e carcomido (pelo menos do ponto de vista cultural), totalmente 'out' e 'nada a ver'.
+Se duvidam, experimentem traçar uma linha de tempo e enxerguem (em preto &amp; branco, é claro), lá longe,  nos idos dos anos 50  , um grupo de negros marcando o tempo com o estalar dos dedos, criando vocais em contraponto, nas esquinas de conjuntos habitacionais infectos ou cantos de quadras de basqueteball suburbanas.
+ Soul  e  Funk  básicos (e ainda o velho  Rock and Roll  ), rolando já ali naquelas manifestações atávicas, quase ancestrais.
+Firmem a vista e vejam o que se dança nestas esquinas.
+Andem para trás, um pouco mais, e vejam o som das plaquetas metálicas do sapateado ecoando no paralelepípedos das ruas.
+Isto mesmo!
+É aquele mesmo sapateado do  Gregory Heynes  , do  Sammy Davis Junior  ,  antes  mal assimilado pelos  Fred Astaires  de ocasião, usufruidores dos lucros do mainstream, este ambiente insípido, onde tudo que uns criam os outros copiam.
+Saiam da  Broadway  , rápido, e vejam mais longe ainda o som vibrante do bate-enxadas e do baticum ritmado das botas dos trabalhadores das estradas de ferro que cruzaram os  States  de leste á oeste, unificando as distancias,  antes  , sofridamente, percorridas à cavalo ou pelas empoeiradas diligências que conhecemos nos filmes de  Far West  (e bota Far nisto).
+Escutem o que eles cantam.
+Há work songs,  Gospels  ,  Spirituals  ,  Rhytm'n' Blues  ,  Soul  e  Funk  ainda rolando por ali.
+Querem regredir um pouco mais?
+Não?
+Ok.
+Já sabemos muito bem onde isto vai dar.
+Mas, vejam bem, são cruzamentos entre vias as mais diversas, os mais inusitados caminhos.
+Não importa muito se são negros ou brancos os criadores dos elementos básicos desta cultura urbanopop, que nos apaixona a todos.
+Afinal, são meros seres humanos os criadores desta força emocional que nos mantém, a todos, unidos, vivos e felizes.
+Os criadores são o que são - ocorre que, no caso deste nosso estranho mundo 'moderno', eles têm sido negros (ou não brancos, tanto faz)  desde há muito tempo  - É que o universo capitalista é mesmo este insano criador de periferias, pústulas urbanas, lixo debaixo do tapete, encruzilhadas e guerras.
+Mundo extremista, cruel, que ainda morre disto  um dia  .
+Mas, e o  Kuduro  ?
+Brasileiros que somos, se focarmos mais ainda a nossa lente, vamos encontrar no  Kuduro  , a mais pura essência (os tonalistas também odeiam este conceito) de nossa tão ambígua e fugidia brasilidade.
+Duvidam?
+--DOCSTART--
+
+ Fernão de Magalhães 
+ Fernão de Magalhães  ,  algumas vezes  referenciado como  Fernando de Magalhães  , (  primavera de 1480 --- 27 de abril de 1521  ) foi um navegador português que, ao serviço do  rei de Espanha  , comandou a expedição marítima que efectuou a primeira viagem de circum-navegação ao globo.
+Foi o primeiro a dobrar estreito  hoje  conhecido pelo seu nome (o  Estreito de Magalhães  ) e o primeiro europeu a navegar no  Oceano Pacífico  .
+ Fernão de Magalhães  morre nas  Filipinas  no curso daquela expedição, posteriormente chefiada por  Juan Sebastián Elcano   1522  .
+Alista-se com  25 anos  na armada que foi à  Índia  , comandada por  Francisco de Almeida  , embora o seu nome não figure nas crónicas; sabe-se no entanto que ali permaneceu  oito anos  , que esteve em  Goa  ,  Cochim  ,  Quíloa  , que acompanhou  Diogo Lopes de Sequeira  a  Malaca  , viagem que acabou em naufrágio.
+No  Oriente  ,  Magalhães  estabeleceu estreitas relações de amizade com  Francisco Serrão  , que veio a ser feitor nas  Molucas  ; dele teria tido informações quanto à situação dos lugares produtores de especiarias.
+Tendo-se distinguido na defesa de  Azamor  , em que acompanhara o  duque de Bragança  , pediu a  D. Manuel  uma recompensa para seus feitos; mas os boatos que corriam sobre a maneira pouco escrupulosa como dividira as presas de uma incursão tinham chegado aos ouvidos do  Rei  .
+Este, apesar das suas justificações, e não o considerando culpado, não lhe concedeu as mercês pedidas.
+ Em 1517  foi a  Sevilha  com  Rui Faleiro  , tendo encontrado no feitor da  Casa de la Contratación  da cidade um adepto do projecto que entretanto concebera: dar a  Espanha  a possibilidade de atingir as  Molucas  pelo  Ocidente  , por mares não reservados aos portugueses no  Tratado de Tordesilhas  e, além disso, segundo  Faleiro  , provar que as ilhas das especiarias se situavam no hemisfério castelhano.
+Com a influência do  bispo de Burgos   conseguiram a aprovação do projecto por parte de  Carlos V  , e começaram os morosos preparativos para a viagem, cheios de incidentes; depois da ruptura com  Rui Faleiro  ,  Magalhães  continuou a aparelhagem dos cinco navios que, com  256  homens de tripulação, partiram de  Sanlúcar de Barrameda   em 20 de Setembro de 1519  .
+A esquadra tinha cinco navios e era tripulada por  250  homens.
+--DOCSTART--
+
+ GP Brasil  :  Raikkonen  campeão do  Mundo  
+FINLANDÊS DA  FERRARI  ARREBATOU TÍTULO CONTRA FAVORITISMO DA  MCLAREN  
+O finlandês  Kimi Raikkonen  sagrou-se campeão do  Mundo   de  F1  vencendo o   GP  do  Brasil  , à frente do companheiro de equipa na  Ferrari   Filipe Massa  e do espanhol  Fernando Alonso  .
+ Lewis Hamilton  , colega de  Alonso  na  McLaren  , não passou da  7.ª  posição, depois de partir em vantagem pontual no  Campeonato do Mundo  , e teve de contentar-se com o segundo lugar, com  109  pontos, a apenas um do novo campeão, mas os mesmos que  Alonso  , embora com mais vitórias.
+Emoção
+Não faltou emoção em  Interlagos  no  Circuito José Carlos Pace  desde a primeira volta da corrida decisiva do  Mundial  , incluindo alguns acidentes entre actores secundários... e deslizes dos protagonistas.
+O  Ferrari  de  Raikkonnen  partiu que nem um cavallino rampante e juntou-se ao companheiro de equipa tapando  Alonso  , que por sua vez ganhara uma posição colega  Lewis Hamilton  .
+O líder do campeonato, que podia muito bem esperar para ver como decorria a prova, tentou passar o bicampeão e cometeu um erro de trajectória na 4.ª curva da primeira volta, saindo de pista e descendo para a  8.ª  posição, atrás dos  Toyota  .
+Quando já recuperara para o quinto posto, eis que o britânico abranda com problemas na electrónica, acabando na  18.ª  posição, o que o obriga a fazer uma corrida de trás para a frente na busca do título!
+A  8  voltas do fim,  Raikkonen  liderava e já era campeão virtual, atrás de  Alonso  (  3.º  na prova) e  Hamilton  (  8.º  ) : o domínio da  Ferrari  era total na corrida, e só destinatário do título era incerto...
+Mas a  5  voltas do fim o finlandês fez a melhor volta do dia, enquanto  Hamilton  era apenas  7.º  ...  a 15 segundos   de  Heidfeld  , e muito longe do  5.º  lugar que lhe daria o título.
+Festa à brasileira para  Raikkonen  com dobradinha de  Massa  bem saborosa para a  Ferrari  :   GP  do  Brasil  e  Mundiais  de pilotos e construtores...

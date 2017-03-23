@@ -1,0 +1,635 @@
+--DOCSTART--
+Como se chama o vocalista do grupo <START:PESSOA_GRUPOMEMBRO> U2 <END> ?
+Com que idade morreu <START:PESSOA_INDIVIDUAL> Elvis Presley <END> ?
+Onde está a <START:OBRA_ARTE> Estátua da Liberdade <END> ?
+Em que cidade italiana fica o <START:OBRA_ARTE> Coliseu <END> ?
+Em que cidade fica a <START:LOCAL_HUMANO> Praça Navona <END> ?
+Onde é que foi construída em <START:LOCAL_HUMANO> Itália <END> a <START:OBRA_ARTE> Villa Medici <END> ?
+Que companhia britânica foi absorvida pela <START:ORGANIZACAO_EMPRESA> BMW <END> <START:TEMPO_TEMPO_CALEND> em 1994 <END> ?
+Quantos milhões de libras pagou a <START:ORGANIZACAO_EMPRESA> BMW <END> pela <START:ORGANIZACAO_EMPRESA> Rover <END> ?
+Em que país foi construída a primeira fábrica da <START:ORGANIZACAO_EMPRESA> BMW <END> no estrangeiro?
+Quem foi eleito como primeiro presidente negro da <START:LOCAL_HUMANO> África do Sul <END> ?
+Como se chamava o vocalista dos <START:PESSOA_GRUPOMEMBRO> Nirvana <END> ?
+Que <START:PESSOA_CARGO> presidente dos Estados Unidos <END>  é que <START:PESSOA_INDIVIDUAL> Francisco Durán <END> tentou matar?
+Que filho de um <START:PESSOA_CARGO> ex-presidente dos EUA <END>  foi eleito <START:PESSOA_CARGO> governador do Texas <END>  <START:TEMPO_TEMPO_CALEND> em 1994 <END> ?
+Para quantos Óscares foi nomeado " <START:OBRA_REPRODUZIDA> A Lista de Schindler <END> "?
+Quem recebeu o Óscar de Melhor Actor por « <START:OBRA_REPRODUZIDA> Forrest Gump <END> »?
+Como se chamava o autor de « <START:OBRA_REPRODUZIDA> Romeu e Julieta <END> "?
+Quantos pisos tem o <START:LOCAL_HUMANO> Empire State Building <END> ?
+Como se chama o <START:PESSOA_CARGO> patrão da Microsoft <END> ?
+Em que ano foi assassinado <START:PESSOA_INDIVIDUAL> John F. Kennedy <END> ?
+Com que actriz era casado <START:PESSOA_INDIVIDUAL> Arthur Miller <END> ?
+Que político era <START:PESSOA_CARGO> chanceler da Alemanha <END>  antes de  <START:PESSOA_INDIVIDUAL> Helmut Kohl <END> ?
+Em que ano caiu o  <START:LOCAL_HUMANO> Muro <END> de <START:LOCAL_HUMANO> Berlim <END>  ?
+Qual a altura do <START:LOCAL_FISICO> Evereste <END> ?
+Em que cidade francesa fica o <START:LOCAL_HUMANO> Moulin Rouge <END> ?
+Quando é que nasceu <START:PESSOA_INDIVIDUAL> Franz Kafka <END> ?
+Quando é que foi construída a <START:OBRA_ARTE> Esfinge <END> ?
+Quem escreveu o romance não-publicado " <START:OBRA_REPRODUZIDA> Cruz sem Amor <END> "?
+Em que cidade bávara fica a sede da <START:ORGANIZACAO_EMPRESA> Adidas AG <END> ?
+O que é o Titanic?
+Quem é o desenhador de <START:OBRA_REPRODUZIDA> Astérix e Obélix <END> ?
+Quem é <START:PESSOA_INDIVIDUAL> Albert Einstein <END> ?
+Quem é o <START:PESSOA_INDIVIDUAL> Godfather of Soul <END> ?
+Quem é o marido da <START:PESSOA_INDIVIDUAL> rainha Isabel II <END> ?
+Quem é o chefe de estado da <START:LOCAL_HUMANO> Austrália <END> ?
+Qual o verdadeiro nome de <START:PESSOA_INDIVIDUAL> Romy Schneider <END> ?
+Quando é que nasceu <START:PESSOA_INDIVIDUAL> Aldous Huxley <END> ?
+Como se chama o pai de <START:PESSOA_INDIVIDUAL> Steffi Graf <END> ?
+Contra quem é que ela não jogou nas meias-finais de <START:ACONTECIMENTO_ORGANIZADO> Roland Garros <END> <START:TEMPO_TEMPO_CALEND> em 1994 <END> ?
+Quando é que <START:PESSOA_INDIVIDUAL> Goethe <END> fundou a <START:ORGANIZACAO_INSTITUICAO> Sociedade das Sextas <END> ?
+Em que ano assistiu ele à coroação do <START:PESSOA_INDIVIDUAL> Imperador José II <END> ?
+Em que ano nasceu ele?
+Em que cidade é que ele morreu?
+Quando foi criado o Prémio Schiller?
+Que filme ganhou o Óscar <START:TEMPO_TEMPO_CALEND> em 1992 <END> na categoria de <START:OUTRO_> Melhor Filme <END> ?
+Quem foi o realizador de « <START:OBRA_REPRODUZIDA> E tudo o vento levou <END> »?
+Em que ano recebeu ele o Óscar por « <START:OBRA_REPRODUZIDA> E tudo o vento levou <END> »?
+Como se chamava a autora de " <START:OBRA_REPRODUZIDA> E tudo o vento levou <END> "?
+O que significa a sigla <START:ABSTRACCAO_NOME> IRA <END> ?
+Qual o significado da sigla <START:ABSTRACCAO_NOME> NSUK <END> ?
+De que grupo era vocalista <START:PESSOA_INDIVIDUAL> Freddy Mercury <END> ?
+Em que ano morreu ele?
+Quem foi o inventor da <START:COISA_CLASSE> Coca Cola <END> ?
+Quando foi criada a <START:COISA_CLASSE> Coca Cola <END> ?
+Quem abriu o  <START:ACONTECIMENTO_EVENTO> Baile <END> da <START:PESSOA_GRUPOMEMBRO> Opera de Viena <END> ?
+Quantos estados membros tinha a <START:ORGANIZACAO_ADMINISTRACAO> UE <END> <START:TEMPO_TEMPO_CALEND> em 1994 <END> ?
+Em que cidade teve lugar a cimeira da <START:ORGANIZACAO_ADMINISTRACAO> UE <END> que começou <START:TEMPO_TEMPO_CALEND> a 26 de Junho de 1995 <END> ?
+Quantos estados membros tinha a <START:LOCAL_HUMANO> UE <END> <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
+Que estados europeus aderiram à <START:ORGANIZACAO_ADMINISTRACAO> UE <END> <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
+<START:PESSOA_INDIVIDUAL> Rudy Giuliani <END> era o presidente da câmara de que cidade americana?
+Quando é que terá lugar a estreia de « <START:OBRA_REPRODUZIDA> O Fantasma da Ópera <END> » de <START:PESSOA_INDIVIDUAL> Andrew Lloyd Webber <END> em <START:LOCAL_HUMANO> Basileia <END> ?
+Que musical dele foi interpretado pelo coro ecuménico juvenil de <START:LOCAL_HUMANO> Friedrichsdorf <END> <START:TEMPO_TEMPO_CALEND> de 1994 <END> ?
+Quanto dinheiro pagou ele por uma pintura de <START:PESSOA_INDIVIDUAL> Picasso <END> num leilão?
+Que musical de <START:PESSOA_INDIVIDUAL> Andrew Llyod Webber <END> foi interpretado em <START:LOCAL_HUMANO> Essen <END> <START:TEMPO_TEMPO_CALEND> em 1996 <END> ?
+Em que ano nasceu <START:PESSOA_INDIVIDUAL> Christian von Holst <END> em <START:LOCAL_HUMANO> Gdansk <END> ?
+Quem é <START:PESSOA_INDIVIDUAL> Werner Herzog <END> ?
+Em que cidade fica o <START:LOCAL_HUMANO> Passeio da Fama <END> ?
+Em quantos países foram transmitidas as  <START:ACONTECIMENTO_ORGANIZADO> Olimpíadas <END> de <START:LOCAL_HUMANO> Albertville <END> ?
+Qual era a alcunha de <START:PESSOA_INDIVIDUAL> Al Capone <END> ?
+Quem era ele?
+Quando é que ele foi alvejado?
+Que idade tinha ele quando levou a sua família para <START:LOCAL_HUMANO> Chicago <END> ?
+Desde quando é que a <START:LOCAL_HUMANO> Suíça <END> é membro da <START:ORGANIZACAO_ADMINISTRACAO> UNESCO <END> ?
+Quem era a presidente do comité suíço da <START:ORGANIZACAO_ADMINISTRACAO> UNESCO <END> <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
+Quantos estados-membros tinha a organização <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
+O prémio UNESCO da <START:ABSTRACCAO_DISCIPLINA> Paz <END> é de quantos dólares?
+Quem era o presidente do júri do  <START:ACONTECIMENTO_ORGANIZADO> 47º Festival Cinematográfico <END> de <START:LOCAL_HUMANO> Cannes <END> ?
+Que filme recebeu a Palma de Ouro no  <START:ACONTECIMENTO_ORGANIZADO> 47º Festival <END> de <START:LOCAL_HUMANO> Cannes <END> ?
+Quantos filmes competiam pela Palma de Ouro do  <START:ACONTECIMENTO_ORGANIZADO> 47º Festival <END> de <START:LOCAL_HUMANO> Cannes <END> ?
+Quem recebeu o prémio de melhor actriz no  <START:ACONTECIMENTO_ORGANIZADO> 47º Festival <END> de <START:LOCAL_HUMANO> Cannes <END> ?
+Quantos golos é que o <START:PESSOA_INDIVIDUAL> Pelé <END> marcou na sua carreira?
+Em que três categorias é que <START:PESSOA_INDIVIDUAL> Whitney Houston <END> ganhou o prémio Single por " <START:OBRA_REPRODUZIDA> I will always love you <END> "?
+O que é o Grammy?
+Que autor foi o primeiro árabe galardoado com o Nobel da Literatura?
+O que são os " <START:ACONTECIMENTO_EVENTO> Estudos sobre a Histeria <END> "?
+Quem foi o fundador da psicoanálise?
+De que cidade é <START:PESSOA_INDIVIDUAL> Friedensreich Hundertwasser <END> ?
+Quando é que acabou a <START:ACONTECIMENTO_EFEMERIDE> Guerra do Vietname <END> ?
+Quantos soldados é que os <START:ORGANIZACAO_ADMINISTRACAO> EUA <END> tinham estacionados no <START:LOCAL_HUMANO> Vietname <END> durante a <START:ACONTECIMENTO_EFEMERIDE> Guerra <END> <START:TEMPO_TEMPO_CALEND> nos anos 60 <END> ?
+Quantas pessoas morreram na <START:ACONTECIMENTO_EFEMERIDE> Guerra do Vietname <END> ?
+Quem era <START:PESSOA_CARGO> presidente dos EUA <END>  quando a guerra chegou ao fim?
+O que era Napola?
+O que é Madame Tussaud?
+O que é a Mona Lisa?
+Quanto dinheiro ganhou « <START:OBRA_REPRODUZIDA> Parque Jurássico <END> » de <START:PESSOA_INDIVIDUAL> Steven Spielberg <END> ?
+Quem escreveu " <START:OBRA_REPRODUZIDA> Mein Kampf <END> "?
+Quem é <START:PESSOA_INDIVIDUAL> Helmut Newton <END> ?
+Quando é que os japoneses atacaram <START:LOCAL_HUMANO> Pearl Harbor <END> ?
+Quantos americanos morreram no ataque a <START:LOCAL_HUMANO> Pearl Harbor <END> <START:TEMPO_TEMPO_CALEND> a 7 de dezembro de 1941 <END> ?
+Que grupo ganhou o <START:ACONTECIMENTO_ORGANIZADO> Festival da Eurovisão <END> em <START:LOCAL_HUMANO> Brighton <END> <START:TEMPO_TEMPO_CALEND> em 1974 <END> ?
+Quando é que teve lugar o primeiro <START:ACONTECIMENTO_ORGANIZADO> Festival da Eurovisão <END> ?
+Onde é que teve lugar o primeiro <START:ACONTECIMENTO_ORGANIZADO> Festival da Eurovisão <END> ?
+Qual o significado da sigla <START:ABSTRACCAO_NOME> UNICEF <END> ?
+Quando é que foi criada a <START:ORGANIZACAO_ADMINISTRACAO> UNICEF <END> ?
+Onde é que é a sede da <START:ORGANIZACAO_ADMINISTRACAO> UNICEF <END> ?
+De que banda rock é vocalista <START:PESSOA_INDIVIDUAL> Anthony Kiedis <END> ?
+O que é <START:ABSTRACCAO_DISCIPLINA> Stadium Arcadium <END> ?
+Diga três albuns da banda.
+Quando é que teve lugar a primeira <START:ACONTECIMENTO_ORGANIZADO> Love Parade <END> ?
+Quando é que <START:PESSOA_INDIVIDUAL> Audrey Hepburn <END> e <START:PESSOA_INDIVIDUAL> Mel Ferrer <END> se casaram?
+Onde é que mora <START:TEMPO_GENERICO> hoje <END> o filho de <START:PESSOA_INDIVIDUAL> Audrey Hepburn <END> ?
+De que organização é que ela foi nomeada embaixadora extraordinária?
+Quem é que falou <START:TEMPO_TEMPO_CALEND> em Setembro de 1939 <END> no <START:ACONTECIMENTO_ORGANIZADO> 17º Congresso Internacional do PEN-clube <END> sobre o problema da liberdade?
+Diga três filmes de <START:PESSOA_INDIVIDUAL> Martin Scorsese <END> .
+Em que universidade é que ele estudou <START:ABSTRACCAO_DISCIPLINA> Cinematografia <END> <START:TEMPO_TEMPO_CALEND> em 1960 <END> ?
+Para quantos Óscares é que ele já foi nomeado?
+Quem é o autor da obra « <START:OBRA_REPRODUZIDA> A Última Tentação de Cristo <END> »?
+Quando é que foi fundada a  <START:ORGANIZACAO_INSTITUICAO> Universidade <END> de <START:LOCAL_HUMANO> Santiago de Compostela <END> ?
+De que região espanhola é que <START:LOCAL_HUMANO> Santiago <END> é capital?
+Que organização nomeou <START:LOCAL_HUMANO> Santiago de Compsotela <END> Património Mundial <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
+O que é a « <START:ACONTECIMENTO_> Rota da Prata <END> »?
+Onde fica <START:LOCAL_HUMANO> Hiroxima <END> ?
+Diga os oito bairros de <START:LOCAL_HUMANO> Hiroxima <END> .
+Qual a área total de <START:LOCAL_HUMANO> Hiroxima <END> ?
+O que é a <START:ACONTECIMENTO_EVENTO> CeBIT <END> ?
+Quantos exibidores tinha a <START:LOCAL_HUMANO> CeBIT <END> <START:TEMPO_TEMPO_CALEND> em 2005 <END> ?
+Quem realizou o filme « <START:OBRA_REPRODUZIDA> Morte em Veneza <END> »?
+Onde é que tem lugar a <START:ACONTECIMENTO_ORGANIZADO> Semana Verde <END> ?
+Quem era <START:PESSOA_INDIVIDUAL> Herbert Erhardt <END> ?
+Quando foi construído o estádio do <START:LOCAL_HUMANO> Malmö <END> ?
+Onde é que teve lugar o  <START:ACONTECIMENTO_ORGANIZADO> Campeonato do Mundo de Futebol <END> <START:TEMPO_TEMPO_CALEND> de 1970 <END> ?
+Quando é que teve lugar a primeira <START:ACONTECIMENTO_ORGANIZADO> Oktoberfest <END> ?
+Quantas pessoas morreram no atentado na <START:ACONTECIMENTO_ORGANIZADO> Oktoberfest <END> ?
+Quem é <START:PESSOA_INDIVIDUAL> Henning Mankell <END> ?
+Como se chama o inspector da polícia no seu livro « <START:OBRA_REPRODUZIDA> Assassino sem rosto <END> »?
+Diga duas afiliadas da <START:ORGANIZACAO_EMPRESA> Volvo <END> .
+Quando foi criada a <START:ORGANIZACAO_EMPRESA> Volvo Car Corporation <END> ?
+Quem foram os fundadores da <START:ORGANIZACAO_EMPRESA> Volvo <END> ?
+Qual é a área do <START:LOCAL_HUMANO> Pentâgono <END> ?
+Quantos lados têm o <START:LOCAL_HUMANO> Pentâgono <END> ?
+Que significa a sigla <START:ABSTRACCAO_NOME> RAF <END> ?
+Quem era <START:PESSOA_INDIVIDUAL> Rolf Heissler <END> ?
+Diga três membros da RAF.
+Onde fica a <START:LOCAL_HUMANO> Galeria dos Ofícios <END> ?
+O que é a <START:LOCAL_HUMANO> Galeria dos Ofícios <END> ?
+Qual é a altura do <START:LOCAL_FISICO> Monte Branco <END> ?
+Quando é que o <START:LOCAL_FISICO> Monte Branco <END> foi escalado pela primeira vez?
+De que consiste o <START:COISA_OBJECTO> Monte Branco <END> ?
+Qual o comprimento da alameda principal do <START:LOCAL_HUMANO> Prater <END> ?
+O que e o "Wurstelprater"?
+Onde fica o <START:LOCAL_HUMANO> Calafati <END> ?
+Quando foi publicada a <START:OBRA_PLANO> API Web <END> do <START:ORGANIZACAO_EMPRESA> Google <END>  
+Qual é o objectivo do <START:OBRA_PLANO> Protocolo de Quioto <END> ?
+Diga três estados signatários do <START:OBRA_PLANO> Protocolo <END> .
+Quantos estados aderiram ao <START:OBRA_PLANO> Protocolo de Quioto <END> ?
+Quem é o líder da organização <START:ORGANIZACAO_INSTITUICAO> Pro Familia <END> ?
+Quantos membros têm a organização?
+Qual é o pico mais alto de <START:LOCAL_FISICO> África <END> ?
+Quando é que foi criado o <START:LOCAL_OUTRO> Parque Nacional do Kilimanjaro <END> ?
+De que material é feito o <START:COISA_OBJECTO> Kilimanjaro <END> ?
+A que partido pertence <START:PESSOA_INDIVIDUAL> Angela Merkel <END> ?
+Como se chama o irmão dela?
+Quem disse  "Die multikulturelle Gegelllschaft ist gescheitert" ?
+.
+O que é uma Okiya?
+O que são hanamachi?
+Em que cidades japonesas ainda existem?
+Quanto custou a construção da <START:OBRA_ARTE> Torre Eiffel <END> ?
+Quem é <START:PESSOA_INDIVIDUAL> Samuel Hahnemann <END> ?
+Em homeopatia, como se que chama o processo de diluição?
+Em quantos livros está dividido « <START:OBRA_REPRODUZIDA> O Senhor dos Anéis <END> »?
+Onde fica o <START:OBRA_ARTE> Alhambra <END> ?
+Onde fica a sede da <START:ORGANIZACAO_EMPRESA> Warner Bros. <END> ?
+Com que companhia se fundiu a <START:ORGANIZACAO_EMPRESA> Warner Bros. <END> <START:TEMPO_TEMPO_CALEND> em 2000 <END> ?
+Que profissão praticou <START:PESSOA_INDIVIDUAL> Gerhard Schröder <END> e 1978 a 1990?
+Em que encontro ele foi representado por <START:PESSOA_INDIVIDUAL> Chirac <END> ?
+Como se chama a quarta mulher dele?
+Qual a profundidade do <START:LOCAL_FISICO> Grand Canyon <END> ?
+Como se chamam as três cataratas do <START:LOCAL_FISICO> Canyon <END> ?
+Que marca fez <START:PESSOA_INDIVIDUAL> Benetton <END> famoso?
+Onde fica o Carlton Center?
+O que é Putuo?
+Quando foi fundada a <START:ORGANIZACAO_EMPRESA> SEAT <END> ?
+A que companhia alemã pertence <START:TEMPO_GENERICO> hoje <END> a <START:ORGANIZACAO_EMPRESA> SEAT <END> ?
+Em que concerto participaram os <START:PESSOA_GRUPOMEMBRO> Coldplay <END> <START:TEMPO_TEMPO_CALEND> a 2 de Julho de 2005 <END> ?
+Que idade tinha <START:PESSOA_INDIVIDUAL> Cate Blanchett <END> quando lhe morreu o pai?
+Qual foi o primeiro filme dela?
+De que país é <START:PESSOA_INDIVIDUAL> Peter Jackson <END> ?
+O que significa viquingue?
+O que é o Santo Ofício?
+Até quando existiu a <START:ORGANIZACAO_INSTITUICAO> Inquisição <END> em <START:LOCAL_HUMANO> França <END> ?
+Como se chamava a mãe de <START:PESSOA_INDIVIDUAL> Nero <END> ?
+<START:PESSOA_INDIVIDUAL> Isabel Allende <END> é parente de que antigo <START:PESSOA_CARGO> presidente do Chile <END> ?
+Onde ficam as universidades de <START:ORGANIZACAO_INSTITUICAO> Yale <END> e <START:ORGANIZACAO_INSTITUICAO> Harvard <END> ?
+Qual é o maior estado da <START:LOCAL_HUMANO> Nova Inglaterra <END> ?
+Porque é que foi construída a <START:OBRA_ARTE> Coluna da Vitória <END> em <START:LOCAL_HUMANO> Berlim <END> ?
+Como se chama a escultura de bronze que existe na <START:LOCAL_HUMANO> Coluna da Vitória <END> ?
+Quando é que morreu <START:PESSOA_INDIVIDUAL> Alfred Hitchcock <END> ?
+Para onde é que ele emigrou <START:TEMPO_TEMPO_CALEND> em 1939 <END> ?
+Como é que se chamava o seu primeiro filme americano?
+Quem organiza o  <START:ACONTECIMENTO_ORGANIZADO> Carnaval <END> do <START:LOCAL_HUMANO> Rio <END> ?
+Qual é o comprimento da arena do <START:LOCAL_HUMANO> Sambódromo <END> ?
+--DOCSTART--
+    
+ História protege <START:PESSOA_GRUPOMEMBRO> Briosa <END>        
+ CONIMBRICENSES VENCEU NA <START:LOCAL_HUMANO> FIGUEIRA DA FOZ <END> NAS DUAS ÚLTIMAS ÉPOCAS        
+ <START:ORGANIZACAO_INSTITUICAO> Naval <END> e <START:ORGANIZACAO_INSTITUICAO> Académica <END> não podem deixar <START:TEMPO_TEMPO_CALEND> amanhã <END> de olhar para a tradição.
+É que a <START:PESSOA_GRUPOMEMBRO> Briosa <END> venceu sempre na <START:LOCAL_HUMANO> Figueira da Foz <END> ( <START:TEMPO_TEMPO_CALEND> 2005/06 <END> : <START:VALOR_CLASSIFICACAO> 1-0 <END> e <START:TEMPO_TEMPO_CALEND> 2006/07 <END> : <START:VALOR_CLASSIFICACAO> 1-0 <END> ) mas, por outro lado, a <START:PESSOA_GRUPOMEMBRO> Naval <END> também costuma brilhar em <START:LOCAL_HUMANO> Coimbra <END> -- <START:TEMPO_TEMPO_CALEND> 2005/06 <END> : <START:VALOR_CLASSIFICACAO> 2-2 <END> e <START:TEMPO_TEMPO_CALEND> 2006/07 <END> : <START:VALOR_CLASSIFICACAO> 2-1 <END> ) e, <START:TEMPO_TEMPO_CALEND> neste momento <END> , até está mais bem posicionada na <START:ACONTECIMENTO_ORGANIZADO> Liga <END> .
+<START:TEMPO_TEMPO_CALEND> No ano passado <END> , <START:PESSOA_INDIVIDUAL> Joeano <END> marcou o golo do triunfo na <START:LOCAL_HUMANO> Figueira da Foz <END> , mas <START:PESSOA_INDIVIDUAL> Domingos <END> desvaloriza tudo isso.
+«A história nem sempre se repete e não há jogos iguais.
+Aliás, a <START:PESSOA_GRUPOMEMBRO> Naval <END> fez uma boa recuperação e vamos encontrar um adversário forte.» Para facilitar os índices de motivação, o técnico pede, na <START:LOCAL_HUMANO> Figueira da Foz <END> , «mais adeptos da <START:PESSOA_GRUPOMEMBRO> Académica <END> do que da <START:PESSOA_GRUPOMEMBRO> Naval <END> ».
+--DOCSTART--
+    
+ <START:PESSOA_INDIVIDUAL> George Steiner <END> - holocausto ou holocaustos?
+<START:PESSOA_INDIVIDUAL> George Steiner <END> esteve recentemente em <START:LOCAL_HUMANO> Portugal <END> e de acordo com notícia no <START:LOCAL_VIRTUAL> Ciência Hoje <END> o ensaísta vem proferir um discurso que a <START:PESSOA_POVO> Europa <END> é uma civilização decadente e que aparecerão outros locais do planeta como a <START:LOCAL_HUMANO> China <END> e a <START:LOCAL_HUMANO> Índia <END> ?.
+Esta afirmação levantou-me uma série de inquitações:        
+ Ora a <START:ORGANIZACAO_ADMINISTRACAO> Índia <END> e a <START:ORGANIZACAO_ADMINISTRACAO> China <END> já têm o seu espaço, as suas incongruências e cometendo os piores atentados ecológicos de sempre enquanto <START:TEMPO_GENERICO> hoje <END> há uma <START:ORGANIZACAO_ADMINISTRACAO> Europa <END> que tem feito da sustentabilidade um exemplo a este planeta...exigir mais é possível, concerteza.
+Mas <START:PESSOA_INDIVIDUAL> George Steiner <END> ( <START:PESSOA_INDIVIDUAL> G.S. <END> ), proferiu uma outra barbaridade ainda mais grave uma civilização que mata os seus judeus não recupera ...Não visitou o memorial em <START:LOCAL_HUMANO> Berlim <END> , concerteza...ou tão aplaudido sábio terá esquecido de <START:PESSOA_INDIVIDUAL> Aristides Sousa Mendes <END> ou de <START:PESSOA_INDIVIDUAL> Oskar Schindler <END> ?
+Por mim <START:PESSOA_INDIVIDUAL> G.S. <END> que fique pela <START:LOCAL_HUMANO> América <END> e ataque outros holocaustos que não criticou: <START:ACONTECIMENTO_EFEMERIDE> Guantanamo <END> , o muro internacional no <START:LOCAL_HUMANO> México <END> , que ataque a administração   <START:ORGANIZACAO_ADMINISTRACAO> Bush <END> que ainda não assinou o <START:OBRA_PLANO> Protocolo de Quioto <END> , que ataque um país que mantem a pena de morte, que ataque um país onde é constitucional o uso de armas...e lembrar-lhe que há muitos holocaustos no mundo...        
+ <START:PESSOA_INDIVIDUAL> G.S. <END> , enquanto aufere uns bons milhões de dólares e estará num gabinete provavelmente nada ecológico, com ar condicionado, podia sair um pouco da sua aura de eterna vítima de anti-semitismo e demonstar mais solidariedade com estas irracionalidades no <START:LOCAL_HUMANO> Mundo <END> <START:TEMPO_TEMPO_CALEND> de hoje <END> como <START:ACONTECIMENTO_EFEMERIDE> Angola <END> e que são também holocautos tão ou mais graves que <START:ACONTECIMENTO_EFEMERIDE> Kosovo <END> e/ou <START:ACONTECIMENTO_EFEMERIDE> Israel-Palestina <END> : <START:ACONTECIMENTO_EFEMERIDE> Darfur <END> , <START:ACONTECIMENTO_EFEMERIDE> Birmânia <END> , <START:ACONTECIMENTO_EFEMERIDE> Congo <END> , <START:ACONTECIMENTO_EFEMERIDE> Ruanda <END> , <START:ACONTECIMENTO_EFEMERIDE> Singapura <END> , <START:ACONTECIMENTO_EFEMERIDE> Indonésia <END> , <START:ACONTECIMENTO_EFEMERIDE> Tibete <END> , povos da <START:LOCAL_HUMANO> Amazónia <END> , <START:PESSOA_GRUPOMEMBRO> Curdos <END> e Nações sem Estado.
+--DOCSTART--
+    
+<START:PESSOA_GRUPOMEMBRO> Superflex <END> lança cerveja "pública"    
+<START:TEMPO_TEMPO_CALEND> 29 de Novembro de 2007 <END>    
+Matéria publicada originalmente na <START:LOCAL_VIRTUAL> Folha <END> online    
+<START:PESSOA_INDIVIDUAL> FABIO CYPRIANO <END> DA    
+<START:PESSOA_GRUPOMEMBRO> REPORTAGEM LOCAL <END>    
+Uma nova marca de cerveja é lançada, <START:TEMPO_TEMPO_CALEND> hoje <END> , na galeria <START:LOCAL_HUMANO> Vermelho <END> : a <START:COISA_CLASSE> Free Beer <END> .
+Entretanto, ao contrário das marcas tradicionais, que tratam como segredo de Estado a receita de suas bebidas, no próprio rótulo da <START:COISA_CLASSE> Free Beer <END> está estampada sua receita.
+A <START:ABSTRACCAO_DISCIPLINA> Free Beer <END> é a nova ação do coletivo dinamarquês <START:PESSOA_GRUPOMEMBRO> Superflex <END> , composto por <START:PESSOA_INDIVIDUAL> Bjornstjerne Reuter Christiansen <END> , <START:PESSOA_INDIVIDUAL> Jakob Fenger <END> e <START:PESSOA_INDIVIDUAL> Rasmus Nielsen <END> .
+<START:TEMPO_TEMPO_CALEND> No ano passado <END> , o grupo trouxe polêmica à  <START:ACONTECIMENTO_ORGANIZADO> 27ª Bienal <END> de <START:LOCAL_HUMANO> São Paulo <END> com o <START:COISA_CLASSE> Guaraná Power <END> , censurado pela presidência da instituição, que afirmou que não se tratava de uma obra de arte.
+Apesar do veto, o <START:COISA_CLASSE> Guaraná Power <END> , feito em colaboração com a  <START:ORGANIZACAO_INSTITUICAO> Cooperativa de Agricultores <END> da <START:LOCAL_HUMANO> Região de Maués <END> , na <START:LOCAL_HUMANO> Amazônia <END> , chegou a ser distribuído em museus e na própria <START:LOCAL_HUMANO> Vermelho <END> , durante a <START:ACONTECIMENTO_ORGANIZADO> Bienal <END> .
+"Agora estamos propondo uma marca aberta e, nesse sentido, sugerimos um novo modelo econômico, que permite a qualquer um produzir e distribuir cerveja, a partir de uma receita que é pública, além de criar consumidores não obedientes, como gosta o mercado", conta <START:PESSOA_INDIVIDUAL> Fenger <END> .
+"Free software"    
+A <START:COISA_CLASSE> Free Beer <END> surgiu <START:TEMPO_TEMPO_CALEND> em 2004 <END> , numa parceria com estudantes da  <START:ORGANIZACAO_INSTITUICAO> Universidade <END> de <START:LOCAL_HUMANO> Copenhague <END> .
+"Buscamos transferir os princípios do software livre para algo físico, e a cerveja se tornou um bom exemplo", conta <START:PESSOA_INDIVIDUAL> Nielsen <END> .
+"Por isso, a <START:ABSTRACCAO_IDEIA> Free Beer <END> tem sido comparada ao <START:ABSTRACCAO_IDEIA> Linux <END> [sistema operacional gratuito] e à <START:ABSTRACCAO_IDEIA> Wikipedia <END> ", diz o artista.
+Quem quiser produzir e comercializar a <START:COISA_CLASSE> Free Beer <END> pode baixar do site www.freebeer.org a logomarca da cerveja, de forma gratuita.
+"Já há <START:COISA_CLASSE> Free Beer <END> sendo produzida na <START:LOCAL_HUMANO> Inglaterra <END> , nos <START:LOCAL_HUMANO> Estados Unidos <END> , na <START:LOCAL_HUMANO> Dinamarca <END> e até na <START:LOCAL_HUMANO> República Tcheca <END> ", afirma <START:PESSOA_INDIVIDUAL> Fenger <END> .
+No <START:LOCAL_HUMANO> Brasil <END> , a <START:COISA_CLASSE> Free Beer <END> está sendo produzida pela <START:ORGANIZACAO_EMPRESA> Cervejaria Germânia <END> , que irá comercializar a bebida durante a exposição a partir da versão 3.4, desenvolvida pela empresa.
+"A única coisa que pedimos é que cada nova versão seja também tornada pública no site do <START:ORGANIZACAO_INSTITUICAO> Creative Commons <END> ", diz <START:PESSOA_INDIVIDUAL> Christiansen <END> .
+Na <START:LOCAL_HUMANO> Vermelho <END> , o <START:PESSOA_GRUPOMEMBRO> Superflex <END> apresenta o " <START:COISA_CLASSE> Free Beer Kit <END> ", uma mesa com todos os ingredientes e instrumentos necessários para a produção da cerveja, o que será utilizado, aliás, no workshop " <START:ACONTECIMENTO_EVENTO> O Mundo da Cerveja <END> ", com os especialistas <START:PESSOA_INDIVIDUAL> Cilene Saorin <END> e <START:PESSOA_INDIVIDUAL> Arnaldo Ribeiro <END> , <START:TEMPO_TEMPO_CALEND> no próximo dia 15 de dezembro <END> , <START:TEMPO_TEMPO_CALEND> às 14 h <END> .
+O grupo exibe também nove máquinas " <START:COISA_CLASSE> Counter-Game Strategies <END> " (estratégias de contra-jogos), típicos brinquedos de quermesse, como jogo de argolas ou rodas giratórias, que, contudo, abordam de forma irônica o universo dos direitos autorais e da pirataria.
+" <START:PESSOA_INDIVIDUAL> Mark Getty <END> afirma que "a propriedade intelectual é o petróleo <START:TEMPO_GENERICO> do século 21 <END> '", conta <START:PESSOA_INDIVIDUAL> Christiansen <END> , "portanto, estamos tratando de um tema muito sério.
+Afinal, quantas guerras não foram realizadas por conta do petróleo?".
+<START:TEMPO_TEMPO_CALEND> No próximo sábado <END> , <START:TEMPO_TEMPO_CALEND> às 16h <END> , <START:PESSOA_INDIVIDUAL> Ronaldo Lemos <END> , <START:PESSOA_CARGO> diretor do Creative Commons <END>  no <START:LOCAL_HUMANO> Brasil <END> , irá participar de um debate com os membros do <START:PESSOA_GRUPOMEMBRO> Superflex <END> , na <START:LOCAL_HUMANO> Vermelho <END> , e logo após será realizada uma gincana intitulada " <START:ABSTRACCAO_NOME> Free Beer Pub Quiz <END> ", na qual participantes receberão prêmios ao responderem questões sobre propriedade intelectual e direitos autorais.
+--DOCSTART--
+    
+ Biografia de <START:PESSOA_GRUPOMEMBRO> Fitacola <END>        
+ Os <START:PESSOA_GRUPOMEMBRO> Fitacola <END> são um grupo de amigos, que <START:TEMPO_TEMPO_CALEND> um dia <END> , <START:TEMPO_TEMPO_CALEND> em 2003 <END> em <START:LOCAL_HUMANO> Coimbra <END> , se lembraram de formar uma banda na garagem e brincar aos músicos, imitando os ídolos que admiravam.
+O projecto foi continuando nesta toada de brincadeira e divertimento <START:TEMPO_TEMPO_CALEND> até 2005 <END> , altura em que a banda fixou a formação actual.
+Desde então, aquilo que começou por ser uma brincadeira de amigos, saiu para fora da garagem.
+Começaram a surgir concertos e reacções, bastante positivas, ao seu desempenho.
+Os <START:PESSOA_GRUPOMEMBRO> Fitacola <END> caracterizam-se por um som jovem.
+Uma atitude rebelde e inconformista perante a vida, e uma postura enérgica em palco.
+As letras, sempre em português, contêm sempre uma mensagem de acção, positiva, procurando combater o que consideram estar mal na sociedade, representando a juventude e uma geração que usa a voz dos <START:PESSOA_GRUPOMEMBRO> Fitacola <END> para provar que não é a tal «geração rasca», tendo objectivos, valor e vontade de agir e mudar o que está mal.
+Esta característica de humildade e carisma da banda explica a grande popularidade que a banda atinge entre as camadas mais jovens e faixas etárias estudantes pré-universitárias.
+A banda é tida como um modelo e exemplo de atitude saudável e activa perante a vida por parte de um número cada vez maior de fãs da banda, que nela se revê e nas suas letras, músicas e atitude.
+Concertos de maior destaque:    
+ <START:TEMPO_DURACAO> Em dois anos <END> a banda já superou a marca dos <START:VALOR_QUANTIDADE> 75 <END> concertos, entre os quais se destacam:        
+   <START:ACONTECIMENTO_ORGANIZADO> Cercal Rock 9ª edição <END> .
+<START:ACONTECIMENTO_ORGANIZADO> Festival Acção Directa 2005 <END>  ( <START:LOCAL_HUMANO> Açores <END> <START:LOCAL_HUMANO> Ilha Terceira <END> )        
+   <START:ACONTECIMENTO_ORGANIZADO> Recepção ao Caloiro 2005 <END> ( <START:LOCAL_HUMANO> Covilhã <END> )  com Squeeze theeze pleeze e <START:PESSOA_GRUPOMEMBRO> Fonzie <END>        
+   <START:ACONTECIMENTO_ORGANIZADO> Queima das Fitas de Coimbra 2006 <END> com <START:PESSOA_GRUPOMEMBRO> Hands on Approach <END> e <START:PESSOA_GRUPOMEMBRO> Boss AC <END>        
+  <START:ACONTECIMENTO_ORGANIZADO> Semana Académica <END> da <START:ORGANIZACAO_INSTITUICAO> Universidade <END> de <START:LOCAL_HUMANO> Aveiro <END>  (     <START:TEMPO_TEMPO_CALEND> 2006 <END> )  com <START:PESSOA_GRUPOMEMBRO> Pluto <END> e <START:PESSOA_GRUPOMEMBRO> Expensive Soul <END>        
+  <START:ACONTECIMENTO_ORGANIZADO> Semana Académica 2006 <END>   ( <START:LOCAL_HUMANO> Castelo Branco <END> )  com <START:PESSOA_GRUPOMEMBRO> Tara Perdida <END>        
+ <START:LOCAL_HUMANO> Hardclub <END> ( <START:LOCAL_HUMANO> V.N. Gaia <END> .)
+- com <START:PESSOA_GRUPOMEMBRO> Twenty Toon <END>        
+   <START:ACONTECIMENTO_ORGANIZADO> Recepção ao Caloiro 2006 <END>  ( <START:LOCAL_HUMANO> IPC <END> ) <START:LOCAL_HUMANO> Coimbra <END> com <START:PESSOA_GRUPOMEMBRO> Peste &amp; Sida <END> e <START:PESSOA_GRUPOMEMBRO> Asher Lane <END> ( <START:LOCAL_HUMANO> Alemanha <END> )        
+   <START:ACONTECIMENTO_ORGANIZADO> RockOff 2006 VI edição <END> ( <START:LOCAL_HUMANO> Cantanhede <END> )        
+<START:ACONTECIMENTO_ORGANIZADO> Março Jovem 2006 <END> ( <START:LOCAL_HUMANO> C.M. Seixal <END> )  com <START:PESSOA_GRUPOMEMBRO> Triplet <END>        
+   <START:ACONTECIMENTO_ORGANIZADO> Vans/Eastpak Club Tour 2007 <END>     ( <START:LOCAL_HUMANO> Almada <END> )  com <START:PESSOA_GRUPOMEMBRO> SK6 <END> , <START:PESSOA_GRUPOMEMBRO> Humble <END> , <START:PESSOA_GRUPOMEMBRO> Devil in Me <END> , <START:PESSOA_GRUPOMEMBRO> Tara Perdida <END> e <START:PESSOA_GRUPOMEMBRO> Strike Anywhere <END>        
+  <START:ACONTECIMENTO_ORGANIZADO> Sesimbra Xtream Beach Fest 2007 <END> ( <START:LOCAL_HUMANO> Sesimbra <END> )        
+Discografia:    
+ Os <START:PESSOA_GRUPOMEMBRO> Fitacola <END> contam para já, apenas com um <START:COISA_CLASSE> EP <END> , edição de autor, com <START:VALOR_QUANTIDADE> 6 <END> musicas, intitulado « <START:ABSTRACCAO_NOME> Rebobina e Pensa <END> ».
+Notícias recentes/projectos:    
+ <START:TEMPO_TEMPO_CALEND> Neste nomento <END> os <START:PESSOA_GRUPOMEMBRO> Fitacola <END> estiveram <START:TEMPO_DURACAO> três semanas <END> em estúdio a gravar aquele que será o seu primeiro álbum.
+Será composto por <START:VALOR_QUANTIDADE> 12 <END> temas e o seu lançamento está previsto <START:TEMPO_TEMPO_CALEND> para os primeiros meses de 2008 <END> .
+Elementos:    
+ <START:PESSOA_INDIVIDUAL> Diogo <END> Guitarra        
+ <START:PESSOA_INDIVIDUAL> Libelinha <END> Baixo/coros        
+ <START:PESSOA_INDIVIDUAL> Besugo <END> Guitarra        
+ <START:PESSOA_INDIVIDUAL> Xico <END> Bateria/coros      
+
+  --DOCSTART--
+
+<START:PESSOA_GRUPOMEMBRO> Team Suzuki Cepsa <END> - Notícias
+<START:TEMPO_TEMPO_CALEND> 27 Março de 2005 <END>
+<START:PESSOA_INDIVIDUAL> Luís Correia <END> domina concorrência em <START:ACONTECIMENTO_EVENTO> Casais S.Quintino <END>
+<START:PESSOA_INDIVIDUAL> Luís Correia <END> em <START:COISA_CLASSE> Suzuki RMZ 250 <END> voltou a demonstrar o seu excelente momento de forma ao dominar por completo a classe <START:COISA_CLASSE> 125cc <END> na 2ª jornada do <START:ACONTECIMENTO_ORGANIZADO> Campeonato Nacional de Motocross <END> , que se realizou <START:TEMPO_TEMPO_CALEND> este domingo <END> em <START:LOCAL_HUMANO> Casais de S.Quintino <END> .
+Numa pista em bom estado, apesar da ameaça de chuva que pairou na região <START:TEMPO_TEMPO_CALEND> durante o domingo de Páscoa <END> , foram muitos os espectadores que resolveram ver o espectáculo do <START:COISA_CLASSE> Motocross <END> .
+E o piloto a dar mais espectáculo foi <START:PESSOA_INDIVIDUAL> Luís Correia <END> que deu um recital de condução aos seus mais directos adversários, averbando uma vitória que não deixa margens para dúvidas.
+Para o piloto do <START:PESSOA_GRUPOMEMBRO> Team Suzuki Cepsa <END> , <START:TEMPO_GENERICO> o dia <END> até começou muito bem com a conquista do <START:VALOR_CLASSIFICACAO> 1º <END> lugar na grelha de partida.
+Na partida não conseguiu chegar à primeira curva na liderança mas após algumas voltas, cedo instalou-se no comando do numeroso pelotão, distanciando-se <START:TEMPO_TEMPO_CALEND> a partir desse momento <END> dos seus perseguidores.
+Com esta vitória cimentou a liderança na classificação actual do <START:ACONTECIMENTO_ORGANIZADO> Campeonato Nacional de Motocross <END> , classe <START:COISA_CLASSE> 125 <END> .
+Os seus companheiros de equipa tiveram prestações diferentes, tendo <START:PESSOA_INDIVIDUAL> Ricardo Pereira <END> alcançado o <START:VALOR_CLASSIFICACAO> 6º <END> lugar e <START:PESSOA_INDIVIDUAL> Hugo Basaula <END> o <START:VALOR_CLASSIFICACAO> 15º <END> lugar.
+Para o mais jovem membro do <START:PESSOA_GRUPOMEMBRO> Team Suzuki Cepsa <END> , <START:PESSOA_INDIVIDUAL> Hugo Basaula <END> , esta manga começou muito bem, pois o piloto fez uma partida fenomenal e assumiu a <START:VALOR_CLASSIFICACAO> 3ª <END> posição no pelotão.
+Mas uma queda que sofreu num salto, fez com que tivesse que recuperar da última posição e já com muito tempo de atraso para os seus adversários.
+Após uma recuperação endiabrada conseguiu então a <START:VALOR_CLASSIFICACAO> 15º <END> posição final.
+<START:PESSOA_INDIVIDUAL> Ricardo Pereira <END> esteve mais uma vez muito regular e rápido terminando no <START:VALOR_CLASSIFICACAO> 6º <END> lugar com a <START:COISA_CLASSE> Suzuki RMZ 250 <END> .
+Na classe maior, <START:PESSOA_INDIVIDUAL> Ricardo Pazos <END> , partiu determinado a melhorar a sua prestação relativamente à Águeda, e com uma condução mais adaptada à <START:COISA_CLASSE> Suzuki RMZ 450 <END> , alcançou o <START:VALOR_CLASSIFICACAO> 3º <END> lugar, muito perto de <START:PESSOA_INDIVIDUAL> Paulo Gonçalves <END> que secundou <START:PESSOA_INDIVIDUAL> Hugo Santos <END> no  Podium .
+<START:TEMPO_TEMPO_CALEND> No final da tarde <END> realizou-se a manga do <START:COISA_CLASSE> Absoluto <END> , e mais uma vez <START:PESSOA_INDIVIDUAL> Luís Correia <END> demonstrou porque é o piloto mais rápido a correr em <START:LOCAL_HUMANO> Portugal <END> com máquinas da classe <START:COISA_CLASSE> 125 <END> .
+Alcançou o <START:VALOR_CLASSIFICACAO> 3º <END> lugar em termos de <START:COISA_CLASSE> Absoluto <END> e foi o melhor piloto da classe <START:COISA_CLASSE> 125 <END> .
+Para <START:PESSOA_INDIVIDUAL> Ricardo Pazos <END> esta manga ficou marcada por uma queda espectacular que sofreu logo na volta inicial e quando tentava assumir a liderança, numa descida em que os pilotos alcançam velocidades muito elevadas.
+Apesar do grande aparato da queda, <START:PESSOA_INDIVIDUAL> Ricardo Pazos <END> pode prosseguir em prova, pois os seus equipamentos protegeram-no de lesões graves, nomeadamente o capacete <START:COISA_CLASSE> CMS <END> , botas <START:COISA_CLASSE> Oxtar <END> e equipamento <START:COISA_CLASSE> Shift <END> .
+Apesar de ter quase uma volta de atraso para os seus adversários, não baixou os braços e realizou uma grande recuperação, alcançando o <START:VALOR_CLASSIFICACAO> 12º <END> lugar.
+Para o publico presente a luta travada entre <START:PESSOA_INDIVIDUAL> Hugo Basaula <END> e <START:PESSOA_INDIVIDUAL> Ricardo Pereira <END> foi empolgante, pois os pilotos trocavam de posições em todo o percurso da pista.
+No final seria <START:PESSOA_INDIVIDUAL> Ricardo Pereira <END> a levar a melhor sobre o colega de equipa, alcançando o <START:VALOR_CLASSIFICACAO> 11º <END> lugar e <START:PESSOA_INDIVIDUAL> Hugo Basaula <END> o <START:VALOR_CLASSIFICACAO> 17º <END> lugar.
+Esta prova também contava para o <START:ACONTECIMENTO_ORGANIZADO> Troféu Suzuki Cepsa Cetelem Motojornal <END> , e o lugar mais alto do Podium  voltou a ser ocupado por <START:PESSOA_INDIVIDUAL> Ricardo Pereira <END> , que assim permanece invicto deste o início desta iniciativa <START:TEMPO_TEMPO_CALEND> em 2004 <END> .
+--DOCSTART--
+
+Que país declarou a independência <START:TEMPO_TEMPO_CALEND> em 1291 <END> ?
+O que se passou <START:TEMPO_TEMPO_CALEND> a 4 de Julho de 1776 <END> ?
+De quem trata o filme " <START:OBRA_REPRODUZIDA> 2 filhos de Francisco <END> "?
+Quais são as sete colinas de <START:LOCAL_HUMANO> Roma <END> ?
+Qual é a mais pequena delas?
+Quem é o dono delas?
+Em qual delas fica a residência do presidente?
+De que estado foi governador <START:PESSOA_INDIVIDUAL> Adhemar de Barros <END> ?
+Quem eram os almóadas?
+Quem fabrica os foguetões <START:COISA_CLASSE> Ariane <END> ?
+Quantas pessoas morreram no atentado na estação de <START:LOCAL_HUMANO> Bolonha <END> ?
+Quem é <START:PESSOA_INDIVIDUAL> Boaventura Kloppenburg <END> ?
+Quando é que a baleia azul foi extinta?
+O que está escrito na bandeira do <START:LOCAL_HUMANO> Brasil <END> ?
+Que árvore está na bandeira do <START:LOCAL_HUMANO> Líbano <END> ?
+Por que estado é senador <START:PESSOA_INDIVIDUAL> Barack Obama <END> ?
+O que é um barrete frígio?
+Quantos jogadores tem um time de basquete?
+Quem disse  "Ao vencedor, as batatas!"
+?
+Que princesa portuguesa foi <START:PESSOA_CARGO> rainha da Dinamarca <END> ?
+Que inglês foi treinador do <START:PESSOA_GRUPOMEMBRO> Porto <END> ?
+Que mar banha <START:LOCAL_HUMANO> Braga <END> ?
+O que é a navegação de cabotagem?
+<START:LOCAL_HUMANO> Caen <END> é a capital de que departamento?
+O que é um caiaque?
+Como se chama <START:ABSTRACCAO_NOME> Cayenne <END> em português?
+Quem viajava no avião que se despenhou em <START:LOCAL_HUMANO> Camarate <END> ?
+Que cidade era capital do <START:LOCAL_HUMANO> Brasil <END> antes do governo ser transferido para <START:LOCAL_HUMANO> Brasília <END> ?
+Que rei morreu <START:TEMPO_TEMPO_CALEND> em 1718 <END> ?
+O que eram cartas de alforria?
+Que cidade francesa foi residência dos <START:PESSOA_GRUPOCARGO> Papas <END> ?
+Quando foi fundado o <START:ORGANIZACAO_INSTITUICAO> Nacional da Madeira <END> ?
+Onde?
+Qual o diâmetro de <START:COISA_OBJECTO> Ceres <END> ?
+Diga o nome de um chá branco.
+Em que distrito fica <START:LOCAL_HUMANO> Chaves <END> ?
+Quantas freguesias tem o concelho?
+Que municípios ficam a oeste?
+Quantos habitantes tinha <START:TEMPO_TEMPO_CALEND> em 2006 <END> ?
+Quais são as cidades-estado da <START:LOCAL_HUMANO> Alemanha <END> ?
+De onde é nativo o cisne branco?
+A quem pertence o <START:COISA_OBJECTO> Cisne Branco <END> ?
+Quando foi registado pela primeira vez o cometa <START:COISA_OBJECTO> Halley <END> ?
+Em que famosa obra aparece o cometa?
+Que batalha aparece nessa obra?
+Quem venceu o <START:ACONTECIMENTO_ORGANIZADO> Campeonato do Mundo de Contra-Relógio <END> <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
+Em que país se disputou a prova?
+Qual o tempo do vencedor?
+E quem venceu <START:TEMPO_TEMPO_CALEND> em 1994 <END> ?
+Com quem se casou a <START:PESSOA_INDIVIDUAL> rainha Cristina <END> ?
+Que idade tinha ela quando morreu?
+Quem foi o <START:VALOR_CLASSIFICACAO> 13º <END> <START:PESSOA_CARGO> rei de Portugal <END> ?
+O que é a defesa siciliana?
+Que empresa editou a <START:OBRA_REPRODUZIDA> Diciopédia <END> ?
+Que dinastia reinava em <START:LOCAL_HUMANO> Portugal <END> <START:TEMPO_TEMPO_CALEND> em 1500 <END> ?
+O que são os <START:LOCAL_HUMANO> DOM <END> franceses?
+Quantos são eles?
+Qual deles fica na <START:LOCAL_HUMANO> Europa <END> ?
+Em que zona de <START:LOCAL_HUMANO> Espanha <END> nasce o rio <START:LOCAL_FISICO> Douro <END> ?
+Onde fica o parque <START:LOCAL_HUMANO> Eduardo VII <END> ?
+Quantos focos tem uma elipse?
+Quantos pontos vale um ensaio no râguebi?
+O que é o enxaimel?
+Diga uma escritora sarda.
+Como se chamava o sabre dos samurai?
+Quem foi <START:PESSOA_INDIVIDUAL> Ésquilo <END> ?
+Em que constelação fica <START:COISA_OBJECTO> Vega <END> ?
+E <START:COISA_OBJECTO> Régulo <END> ?
+Qual a freguesia mais populosa de <START:LOCAL_HUMANO> Évora <END> ?
+Que equipa é treinada por <START:PESSOA_INDIVIDUAL> Fernando Santos <END> ?
+Que equipa era treinada por <START:PESSOA_INDIVIDUAL> Fernando Santos <END> <START:TEMPO_TEMPO_CALEND> em 1994 <END> ?
+Em que estado brasileiro fica <START:LOCAL_HUMANO> Faro <END> ?
+Em que época é que o <START:PESSOA_GRUPOMEMBRO> FC Porto <END> ganhou a <START:ACONTECIMENTO_ORGANIZADO> Liga dos Campeões <END> ?
+Que pássaro renascia das próprias cinzas?
+Que percentagem dos finlandeses fala sueco?
+Quando é que <START:PESSOA_INDIVIDUAL> F.H. Cardoso <END> tomou posse como presidente?
+O que é a <START:ABSTRACCAO_ESTADO> FIDE <END> ?
+Que profundidade atinge a <START:LOCAL_FISICO> Fossa das Marianas <END> ?
+Onde fica?
+Quando se atingiu o seu fundo?
+Por que veículo?
+Quantas horas há de diferença entre <START:LOCAL_HUMANO> Nova Iorque <END> e <START:LOCAL_HUMANO> São Francisco <END> ?
+Além da girafa, que outro animal pertence à família  <START:COISA_CLASSE> Giraffidae <END> ?
+Que espada usavam as legiões romanas?
+Quando caíu <START:ORGANIZACAO_ADMINISTRACAO> Granada <END> ?
+O que é a Granja do Torto?
+Qual é a latitude e longitude da <START:LOCAL_HUMANO> Guarda <END> ?
+De que estado foi <START:PESSOA_INDIVIDUAL> Hans Modrow <END> primeiro-ministro?
+Quem foi <START:PESSOA_INDIVIDUAL> Henrik Ibsen <END> ?
+Quem matou <START:PESSOA_INDIVIDUAL> Philipe Henriot <END> ?
+O que é o <START:ABSTRACCAO_ESTADO> ICBAS <END> ?
+Qual a população da <START:LOCAL_HUMANO> Ilha de Moçambique <END> ?
+Qual o estado mais populoso da <START:LOCAL_HUMANO> Índia <END> ?
+O que é o jagartee?
+Quem é <START:PESSOA_INDIVIDUAL> James Baker <END> ?
+Como se chamam os filhos de <START:PESSOA_INDIVIDUAL> Jimmy Carter <END> ?
+Quando se realizaram os  <START:ACONTECIMENTO_ORGANIZADO> Jogos Olímpicos <END> de <START:LOCAL_HUMANO> Munique <END> ?
+Que senador americano foi prisioneiro no <START:LOCAL_HUMANO> Vietname <END> ?
+Em que dia ocorreu a batalha de <START:ACONTECIMENTO_EFEMERIDE> La Lys <END> ?
+Em que ilha dos <START:LOCAL_FISICO> Açores <END> fica a Lagoa?
+Quem é o <START:PESSOA_INDIVIDUAL> Lampadinha <END> ?
+O lehendakari é presidente de quê?
+Quando é que foi assinada a <START:OBRA_PLANO> Lei Áurea <END> ?
+Por quem?
+Que é o que <START:PESSOA_INDIVIDUAL> Arafat <END> usava na cabeça?
+Quem era a locomotiva humana?
+Em que concelho fica <START:LOCAL_HUMANO> Loivos do Monte <END> ?
+Quem abriu os  <START:ACONTECIMENTO_ORGANIZADO> Jogos Olímpicos <END> de <START:TEMPO_TEMPO_CALEND> 1948 <END> ?
+O que é M31?
+Quando nasceu <START:PESSOA_INDIVIDUAL> Machado de Assis <END> ?
+O que é a <START:ABSTRACCAO_> Igreja Maronita <END> ?
+Quanto custou a <START:COISA_OBJECTO> Mars Observer <END> ?
+O que é o mascarpone?
+De que região provêm?
+Em que sobremesa se usa?
+Quando foi inaugurado o metropolitano de <START:LOCAL_HUMANO> Lisboa <END> ?
+Quantas estações tem agora?
+Qual o verdadeiro nome de <START:PESSOA_INDIVIDUAL> Michael Caine <END> ?
+A que altitude está <START:LOCAL_HUMANO> Miguel Pereira <END> ?
+O que é que <START:PESSOA_INDIVIDUAL> Jean Valjean <END> roubou?
+Qual era a divisa austríaca <START:TEMPO_TEMPO_CALEND> antes de 2002 <END> ?
+Quem foi <START:PESSOA_INDIVIDUAL> Monteiro Lobato <END> ?
+Em que instituição estudou?
+O que é que ele estudou?
+Quando é que ele criou a <START:COISA_OBJECTO> Emília <END> ?
+Quantos municípios tem o distrito do <START:LOCAL_HUMANO> Porto <END> ?
+Quem ganhou a <START:ACONTECIMENTO_ORGANIZADO> NBA <END> <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
+O que é a <START:COISA_OUTRO> constante de Néper <END> ?
+O que são os números <START:COISA_CLASSE> E <END> ?
+Qual o período de gestação de ocapi?
+Qual o seu peso?
+Que concelho fica a leste de <START:LOCAL_HUMANO> Oeiras <END> ?
+Que cidades realizaram <START:ACONTECIMENTO_ORGANIZADO> Jogos Olímpicos <END> <START:TEMPO_TEMPO_CALEND> antes de 1900 <END> ?
+Diga um recipiente da Grande Cruz do Mérito.
+Quando começa <START:TEMPO_GENERICO> o outono <END> no hemisfério sul?
+Quem é <START:PESSOA_INDIVIDUAL> José Eduardo Pinto da Costa <END> ?
+Onde é que ele nasceu?
+Quantos centímetros há num pé?
+Quem era <START:PESSOA_CARGO> rei de Portugal <END>  <START:TEMPO_TEMPO_CALEND> em 1860 <END> ?
+Qual a área do  <START:LOCAL_OUTRO> Parque Nacional <END> da <START:LOCAL_HUMANO> Peneda-Gerês <END> ?
+Em que anos foi <START:PESSOA_INDIVIDUAL> Nelson Piquet <END> campeão do mundo?
+Quem foi <START:PESSOA_INDIVIDUAL> Pirro <END> ?
+Qual o primeiro nome do <START:PESSOA_INDIVIDUAL> presidente Trovoada <END> ?
+Quantas regiões tem <START:LOCAL_HUMANO> Marrocos <END> ?
+Qual é a maior delas?
+Onde é estão sepultados <START:PESSOA_INDIVIDUAL> Fernando <END> e <START:PESSOA_INDIVIDUAL> Isabel <END> ?
+Qual é a principal indústria da <START:LOCAL_HUMANO> República Dominicana <END> ?
+Em que período existiu a <START:ORGANIZACAO_ADMINISTRACAO> República de Veneza <END> ?
+Onde é que desagua o <START:LOCAL_FISICO> Ural <END> ?
+Qual é o seu comprimento?
+Qual o comprimento total da rodovia <START:LOCAL_HUMANO> Dom Pedro I <END> ?
+Quem comandou os gregos em <START:ACONTECIMENTO_EFEMERIDE> Salamina <END> ?
+Quem se tornou rei após a morte de <START:PESSOA_INDIVIDUAL> D. Afonso Henriques <END> ?
+Que ordem foi fundada por <START:PESSOA_INDIVIDUAL> Santa Clara <END> ?
+O que é o Saquê ?
+Quantos senadores tem o <START:ORGANIZACAO_ADMINISTRACAO> Senado <END> brasileiro actualmente?
+Quantos anos tem os seus mandatos?
+Quantos senadores tem cada estado?
+Quantos senadores havia <START:TEMPO_TEMPO_CALEND> em 1972 <END> ?
+Quem foi o último <START:PESSOA_CARGO> rei da Bulgária <END> ?
+Diga uma catedral de <START:LOCAL_HUMANO> Sófia <END> .
+Em que jornal escreve o <START:PESSOA_INDIVIDUAL> Miguel Sousa Tavares <END> ?
+A que partido pertencia <START:PESSOA_INDIVIDUAL> Spadolini <END> ?
+Quais são as línguas oficiais da <START:LOCAL_HUMANO> Suíça <END> ?
+E quantos cantões tem?
+Quando é que <START:ORGANIZACAO_ADMINISTRACAO> Berna <END> aderiu à <START:ORGANIZACAO_ADMINISTRACAO> Confederação <END> ?
+Que selecções disputaram a final da  <START:ACONTECIMENTO_ORGANIZADO> Taça América <END> <START:TEMPO_TEMPO_CALEND> de 1995 <END> ?
+Quantos espartanos lutaram na <START:ACONTECIMENTO_EFEMERIDE> Batalha das Termópilas <END> ?
+Quem sucedeu a <START:PESSOA_INDIVIDUAL> Augusto <END> ?
+Qual é a capital de <START:LOCAL_HUMANO> Timor Ocidental <END> ?
+Qual o estilo arquitectónico da <START:OBRA_ARTE> Torre dos Clérigos <END> ?
+Quantos degraus tem a torre?
+Qual á a altura dela?
+Quando foi erigida?
+O que era uma trirreme?
+Como se chamava o avião supersónico russo?
+Qual o túnel ferroviário mais comprido do mundo?
+E qual o seu comprimento?
+Em que país fica?
+O que é o <START:COISA_OBJECTO> Tux <END> ?
+Que animal é?
+Quem o criou?
+Quando?
+Diga uma emissora de televisão brasileira que tenha iniciado as suas actividades <START:TEMPO_TEMPO_CALEND> antes de 1970 <END> .
+O que é a <START:ABSTRACCAO_ESTADO> TVI <END> ?
+O que é a Union Jack?
+Onde é que nasceu o <START:PESSOA_INDIVIDUAL> Vítor Baía <END> ?
+Onde é que começou a jogar futebol?
+Quantos golos é que marcou na sua carreira?
+Que idade tinha ele quando se mudou para o <START:ORGANIZACAO_INSTITUICAO> FC Porto <END> ?
+Quem é <START:PESSOA_INDIVIDUAL> George Vassiliou <END> ?
+Quero o nome de um vinho húngaro.
+Que clube foi campeão português de voleibol <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
+E quem venceu a  <START:ACONTECIMENTO_ORGANIZADO> Taça <END> de <START:LOCAL_HUMANO> Portugal <END> <START:TEMPO_TEMPO_CALEND> nesse ano <END> ?
+Quais são os signos do Zodíaco?
+Quantas ilhas tem <START:LOCAL_HUMANO> Cabo Verde <END> ?
+Quantas são habitadas?
+Em qual delas nasceu <START:PESSOA_INDIVIDUAL> Eugénio Tavares <END> ?
+E em qual deles fica a <START:LOCAL_HUMANO> Praia <END> ?
+--DOCSTART--
+    
+ « PolivalênciaVacas - Para o <START:ORGANIZACAO_INSTITUICAO> BCE <END> somos vacas!!
+Para o <START:ORGANIZACAO_INSTITUICAO> Banco Central Europeu <END> somos gado!!
+Os politicos comprados por <START:ORGANIZACAO_ADMINISTRACAO> Bruxelas <END> gerem as manadas nacionais.
+Se somos mais caros do que produzimos, mais vale abater.
+Esta é a politica de saude deste admiravel mundo novo.
+- -    
+ Fui <START:TEMPO_TEMPO_CALEND> ontem <END> ( <START:TEMPO_TEMPO_CALEND> terça <END> ) às urgencias pediátricas de cascais com a minmha filhiha de <START:VALOR_QUANTIDADE> 4 anos <END> e ...        
+ "Vai ter que voltar, porque só funciona <START:TEMPO_TEMPO_CALEND> das 08h00 às 09h00 <END> "        
+Desculpem??
+Que M... é esta??!
+Que grande M... é esta??!
+Este é o país real, mas a situação é surreal.
+Não aconteceu com um amigo, conhecido, ou familiar.
+Aconteceu COMIGO!!
+Em primeira mão.
+Que é que eles querem?
+Vamos reagir eficaz e eficientemente.
+1º - Assinar a petição contra o desmembramento, só possivel pela cegueira provocada pela rentabilidade que enche os bolsos de alguns e lixa todos, dos cuidados INDISPENSAVEIS de saude em <START:LOCAL_HUMANO> Portugal <END> .
+Petição contra esta abominavel realidade    
+ 2º - Arranjar uma petição de cidadãos a exigir a extinção do <START:ORGANIZACAO_INSTITUICAO> BCE <END> .
+Quero lá saber se é impossível, retrógrado, ou excessivo.
+Eles que se cuidem.
+Tem que ser possível domesticá-los, e se não for, exterminá-los.
+Que se vão encher para outro planeta.
+Quem paga os ordenados exorbitantes que eles ganham?
+Nós!!
+Para quê!??
+Só que não somos gado.
+Somos cidadão e temos que nos saber fazer respeitar.
+Portanto, toca a fazer esta petição, para os por em sentido e sentirem cagufa no rabinho!
+--DOCSTART--
+    
+ARQUITETURA E HISTÓRIA    
+ A partir do <START:LOCAL_HUMANO> Forte de Santiago <END> , na <START:LOCAL_HUMANO> Ponta do Calabouço <END> , a evolução do conjunto arquitetônico do <START:LOCAL_HUMANO> Museu <END> acompanhou a trajetória urbana da cidade do <START:LOCAL_HUMANO> Rio de Janeiro <END> .
+À fortificação inicial veio se juntar a <START:OBRA_ARTE> Casa do Trem <END> , destinada à guarda do "trem de artilharia", conjunto de apetrechos bélicos usados na defesa da cidade, e, <START:TEMPO_TEMPO_CALEND> mais tarde <END> , o <START:OBRA_ARTE> Arsenal de Guerra <END> .
+<START:TEMPO_TEMPO_CALEND> No início do século XX <END> o <START:OBRA_ARTE> Arsenal <END> é transferido para a <START:LOCAL_HUMANO> Ponta do Caju <END> , abrindo o caminho para a adaptação do conjunto para suas novas funções : <START:LOCAL_HUMANO> Pavilhão das Grandes Indústrias <END> da " <START:ACONTECIMENTO_EVENTO> Exposição Internacional de 1922 <END>  ".
+Por determinação do <START:PESSOA_INDIVIDUAL> Presidente Epitácio Pessoa <END> , o <START:LOCAL_HUMANO> Pavilhão <END> abrigou, em duas de suas salas, o núcleo inicial do <START:ORGANIZACAO_INSTITUICAO> Museu Histórico Nacional <END> .
+Com o encerramento da <START:ACONTECIMENTO_EVENTO> Exposição <END> , o <START:LOCAL_HUMANO> Museu <END> veio ocupando progressivamente toda a área.
+PATROCINADORES    
+     <START:ORGANIZACAO_ADMINISTRACAO> Ministério da Cultura <END>        
+ <START:ORGANIZACAO_INSTITUICAO> Instituto do Patrimônio Histórico e Artístico Nacional <END>        
+ <START:ORGANIZACAO_INSTITUICAO> Associação dos Amigos do Museu Histórico Nacional <END>        
+ <START:ORGANIZACAO_INSTITUICAO> Banco Nacional de Desenvolvimento Econômico e Social <END>        
+ <START:ORGANIZACAO_INSTITUICAO> Caixa Econômica Federal <END>        
+ <START:ORGANIZACAO_EMPRESA> Holcim (Brasil) S. A. <END>        
+ <START:ORGANIZACAO_INSTITUICAO> Vitae <END> --        
+ Recuperar a arquitetura original, ampliar espaços destinados ao público, aprimorar os serviços oferecidos aos visitantes, democratizar o acesso dos mais diversos segmentos da sociedade e viabilizar uma circulação e um percurso adequados ao discurso museográfico: essas foram as diretrizes que nortearam o " <START:OBRA_PLANO> Projeto de Restauração e Modernização do Museu Histórico Nacional 2003 - 2006 <END> ", concluído <START:TEMPO_TEMPO_CALEND> em 19 de maio de 2006 <END> .
+A primeira fase das obras, totalmente financiada pelo <START:ORGANIZACAO_ADMINISTRACAO> Ministério da Cultura <END> num total de <START:VALOR_MOEDA> R$ 1.980.000,00 <END> , foi inaugurada <START:TEMPO_TEMPO_CALEND> dia 9 de setembro de 2004 <END> , com a presença do    <START:PESSOA_CARGO> Primeiro Ministro <END>   de <START:LOCAL_HUMANO> Portugal <END>  , <START:PESSOA_INDIVIDUAL> Pedro Santana Lopes <END> , da    <START:PESSOA_CARGO> Ministra da Cultura <END> de <START:LOCAL_HUMANO> Portugal <END> , <START:PESSOA_INDIVIDUAL> Maria João Bustorff Silva <END> , e do <START:PESSOA_CARGO> Ministro de Estado da Cultura <END> , <START:PESSOA_INDIVIDUAL> Gilberto Passos Gil Moreira <END> , já que <START:TEMPO_TEMPO_CALEND> nesta data <END> foi aberta a exposição internacional « <START:ACONTECIMENTO_EVENTO> Artes Tradicionais de Portugal <END> », promovida pela <START:ORGANIZACAO_INSTITUICAO> Fundação Gulbenkian <END> .
+Iniciada <START:TEMPO_TEMPO_CALEND> em dezembro de 2003 <END> , a primeira fase das obras incluiu a recuperação de uma área de <START:VALOR_QUANTIDADE> 1.500 metros quadrados <END> que estavam completamente sem uso <START:TEMPO_TEMPO_CALEND> há mais de trinta anos <END> e apresentavam um avançado processo de deteriorização.
+Nesse local, foram instalados os novos acessos ao circuito de exposições (escadas rolantes e elevador para portadores de necessidades especiais) e os espaços para atendimento ao público - guarda volumes, cafeteria, sanitários públicos e bilheteria - além de áreas para serviços internos.
+A partir da assinatura de contrato entre o <START:ORGANIZACAO_INSTITUICAO> Museu Histórico Nacional <END> , a <START:ORGANIZACAO_INSTITUICAO> Associação dos Amigos do Museu Histórico Nacional <END> e a <START:ORGANIZACAO_INSTITUICAO> Caixa Econômica Federal <END> realizada <START:TEMPO_TEMPO_CALEND> no dia 26 de novembro de 2004 <END> , foram liberados recursos no valor de <START:VALOR_MOEDA> R$ 1.900.000,00 <END> para o início da segunda fase das obras ainda <START:TEMPO_TEMPO_CALEND> em dezembro de 2005 <END> .
+Nesse etapa foi desmontada a laje construída <START:TEMPO_TEMPO_CALEND> em 1940 <END> , quando parte do conjunto arquitetônico era utilizada pelo <START:ORGANIZACAO_ADMINISTRACAO> Ministério da Agricultura <END> , para abrigar um canteiro de experiências agrícolas e que gerava no pavimento térreo uma área de insalubridade que comprometia a integridade física do acervo sob a guarda do <START:ORGANIZACAO_INSTITUICAO> Museu <END> .
+Essa obra foi fundamental para resgatar a arquitetura original <START:TEMPO_TEMPO_CALEND> de 1922 <END> , devolvendo ao público um belíssimo pátio interno interligado aos <START:LOCAL_HUMANO> Pátios da Minerva <END> e dos <START:LOCAL_HUMANO> Canhões <END> e um espaço nobre para exposições, além de permitir que parte da <START:OBRA_ARTE> Reserva Técnica <END> seja vista, sem prejudicar a segurança do acervo.
+Com uma área de <START:VALOR_QUANTIDADE> 2.000 metros <END> , o novo pátio recebeu o nome de <START:ABSTRACCAO_NOME> Gustavo Barroso <END> , numa homenagem ao fundador e primeiro diretor do <START:ORGANIZACAO_INSTITUICAO> Museu Histórico Nacional <END>  .
+Com o patrocínio da <START:ORGANIZACAO_EMPRESA> HOLCIM (Brasil) S. A . <END> foram recuperados <START:VALOR_QUANTIDADE> 1.000 metros quadrados <END> de galerias voltadas para o <START:LOCAL_HUMANO> Pátio Gustavo Barroso <END> para a implantação da exposição permanente " <START:COISA_OBJECTO> Do Móvel Ao Automóvel: Transitando pela História <END> ", reunindo a preciosa coleção de meios de transportes terrestres do <START:ORGANIZACAO_INSTITUICAO> Museu Histórico Nacional <END> em sua totalidade, a partir de restauração viabilizada graças a <START:ORGANIZACAO_INSTITUICAO> Vitae - Apoio à Cultura, Educação e Promoção Social <END> .
+Com recursos do <START:ORGANIZACAO_ADMINISTRACAO> Ministério da Cultura <END> foram concluidas as obras da terceira fase do « <START:OBRA_PLANO> Projeto de Restauração e Modernização do Museu Histórico Nacional 2003 - 2006 <END>  " com o objetivo de ampliar o auditório, visando dobrar a capacidade de atendimento de cem para duzentos lugares e, possibilitando a um maior número de interessados o acesso aos cursos e seminários promovidos pelo <START:ORGANIZACAO_INSTITUICAO> Museu <END> .
+Ainda com recursos do <START:ORGANIZACAO_ADMINISTRACAO> Ministério da Cultura <END> , o <START:LOCAL_HUMANO> Pátio dos Canhões <END> foi reformado, contando com o apoio do  <START:ORGANIZACAO_INSTITUICAO> Arsenal de Guerra <END> do <START:LOCAL_HUMANO> Rio <END> e do <START:ORGANIZACAO_INSTITUICAO> Instituto Benjamin Constant <END> para a confecção das novas legendas das peças expostas, inclusive em braille.
+Com o patrocínio do <START:ORGANIZACAO_INSTITUICAO> Banco Nacional de Desenvolvimento Econômico e Social <END> , essa etapa incluiu, ainda, a recuperação de três amplas galerias de exposição permanente situadas no segundo andar, além da realização de obras estruturais no terceiro andar, onde funciona a <START:ORGANIZACAO_INSTITUICAO> Administração <END> .
+As galerias revitalizadas com os recursos do <START:ORGANIZACAO_INSTITUICAO> BNDES <END> abrigam o multivídeo panorâmico " <START:OBRA_REPRODUZIDA> A Trajetória de um museu <END> ", que apresenta o <START:LOCAL_HUMANO> Museu Histórico Nacional <END> ao visitante, e a exposição " <START:ACONTECIMENTO_EVENTO> Oreretama <END> ", que abre pela primeira vez no <START:LOCAL_HUMANO> Museu Histórico Nacional <END> um espaço permanente dedicado ao índio brasileiro. "
+<START:ACONTECIMENTO_EVENTO> Oreretama <END> » apresenta também uma ambientação representando uma gruta do sítio arqueológico da <START:LOCAL_FISICO> Serra da Capivara <END> e os sambaquis do litoral, incluindo objetos retirados de sítios do <START:LOCAL_HUMANO> Estado do Rio de Janeiro <END> .
+Com o " <START:OBRA_PLANO> Projeto de Restauração e Modernização do Museu Histórico Nacional 2003 - 2006 <END>  ", o <START:ORGANIZACAO_INSTITUICAO> Museu Histórico Nacional <END> segue a tendência mundial dos grandes museus nacionais de se adequarem às necessidades impostas pelo aumento do fluxo de visitantes e à valorização das instituições culturais <START:TEMPO_TEMPO_CALEND> nesse novo milênio <END> .
+A solenidade do término das obras do " <START:OBRA_PLANO> Projeto de Restauração e Modernização do Museu Histórico Nacional 2003 - 2006 <END> " foi realizada <START:TEMPO_TEMPO_CALEND> no dia 19 de maio de 2006 <END> , no âmbito das comemorações <START:TEMPO_GENERICO> do Dia Internacional <END> de Museus  , com a presença do <START:PESSOA_CARGO> Ministro de Estado da Cultura <END> , <START:PESSOA_INDIVIDUAL> Gilberto Passos Gil Moreira <END> .
+ARQUIVO HISTÓRICO    
+ O <START:ORGANIZACAO_INSTITUICAO> Museu Histórico Nacional <END> oferece ao público <START:LOCAL_HUMANO> Arquivo Histórico <END> , com <START:VALOR_QUANTIDADE> 50.000 <END> documentos iconográficos e manuscritos sobre a história do <START:ABSTRACCAO_IDEIA> Brasil <END> , e <START:LOCAL_HUMANO> Biblioteca <END> com <START:VALOR_QUANTIDADE> 57.000 <END> obras versando sobre história, história da arte, museologia, heraldica, numismática, genealogia e moda.
+Oferece, ainda, o <START:ORGANIZACAO_INSTITUICAO> Centro de Referência Luso-Brasileiro <END> , ligado ao <START:ORGANIZACAO_INSTITUICAO> Arquivo Histórico <END> e criado <START:TEMPO_TEMPO_CALEND> em 1998 <END> , no âmbito das comemorações dos <START:VALOR_QUANTIDADE> 500 anos <END> da chegada dos portugueses ao <START:LOCAL_HUMANO> Brasil <END> .
+O <START:COISA_OBJECTO> Arquivo <END> pode ser consultado <START:TEMPO_TEMPO_CALEND> de segunda a sexta-feira <END> , <START:TEMPO_TEMPO_CALEND> das 10h às 16h30m <END> , mediante agendamento prévio através do telefone (0xx21) 2550-9268.
+O <START:ORGANIZACAO_INSTITUICAO> Museu <END> mantém, ainda, <START:ORGANIZACAO_INSTITUICAO> Arquivo Institucional <END> sobre a trajetória do próprio <START:LOCAL_HUMANO> Museu Histórico Nacional <END> , com documentos, fotografias, impressos, recortes de jornal, etc.
+As fotos utilizadas para ilustrar o item " ARQUITETURA E HISTÓRIA " integram este acervo.
+O <START:LOCAL_HUMANO> Arquivo Institucional <END> é aberto a consultas, mediante agendamento prévio através do telefone 21-25509265.
+Retrato do <START:PESSOA_INDIVIDUAL> Imperador D. Pedro II <END>        
+ Fotografia <START:PESSOA_INDIVIDUAL> Francisco Pesce <END> , <START:TEMPO_TEMPO_CALEND> 1888 <END> O <START:LOCAL_HUMANO> Arquivo Histórico <END> reúne importantes documentos manuscritos e iconográficos referentes à nossa história e divididos em coleções, como a " <START:COISA_OBJECTO> Coleção Família Imperial <END> ", compreendendo <START:VALOR_QUANTIDADE> 1.445 <END> documentos de diversas procedências, relacionados aos <START:PESSOA_INDIVIDUAL> Imperadores D. Pedro I <END> e <START:PESSOA_INDIVIDUAL> D. Pedro II <END> e respectivos familiares.
+São gravuras e álbuns de fotografias com retratos da realeza e nobreza da época, vistas de cidades brasileiras e estrangeiras e documentos pessoais, como os exercícios de caligrafia de <START:PESSOA_INDIVIDUAL> D. Pedro II <END> ; de correspondência entre membros da família imperial e outros, além de homenagens como poesias, sonetos, hinos ou músicas dedicados a membros da família.
+<START:PESSOA_INDIVIDUAL> Ântonio Carlos Gomes <END>        
+ Il <START:OBRA_REPRODUZIDA> Guarany <END>        
+ Folha de rosto da <START:OBRA_ARTE> Partitura <END>        
+ O <START:ORGANIZACAO_INSTITUICAO> Arquivo Histórico <END> preserva, ainda, importante coleção referente ao compositor brasileiro <START:PESSOA_INDIVIDUAL> Ântonio Carlos Gomes <END> , que inclui o primeiro volume da partitura original de um de seus primeiros trabalhos, a ópera " <START:OBRA_REPRODUZIDA> Joana de Flandres <END> ".
+Formada a partir de diversas doações, a coleção reúne <START:VALOR_QUANTIDADE> 216 <END> documentos, entre desenhos de cenários, cartas, fotografias, partituras originais e libretos de algumas obras como " <START:OBRA_REPRODUZIDA> Condor <END> ", " <START:OBRA_REPRODUZIDA> Morena <END> " e " <START:OBRA_REPRODUZIDA> Colombo <END> ", preciosos para uma melhor compreensão do trabalho de <START:PESSOA_INDIVIDUAL> Carlos Gomes <END> , cuja obra de maior sucesso, " <START:OBRA_REPRODUZIDA> O Guarani <END> ", estreou no <START:LOCAL_HUMANO> Teatro Scala <END> de <START:LOCAL_HUMANO> Milão <END>    <START:TEMPO_TEMPO_CALEND> em 1870 <END> , sendo encenada em diversos países.
+A <START:COISA_OBJECTO> Coleção Eusébio de Queirós <END> engloba <START:VALOR_QUANTIDADE> 350 <END> documentos, sobretudo correspondências trocadas entre políticos e seus familiares, versando, principalmente, sobre a repressão ao tráfico negreiro e temas políticos e judiciais.
+Magistrado e político brasileiro, nascido em <START:LOCAL_HUMANO> Angola <END> <START:TEMPO_TEMPO_CALEND> em 1812 <END> , <START:PESSOA_INDIVIDUAL> Eusébio de Queirós Coutinho Matoso da Câmara <END> exerceu o cargo de <START:PESSOA_CARGO> Ministro da Justiça <END> <START:TEMPO_TEMPO_CALEND> de 1848 a 1852 <END> , destacando-se como autor de duas importantes leis do <START:ORGANIZACAO_ADMINISTRACAO> Império <END> : a lei 556 , que criava o <START:OBRA_PLANO> Código Comercial <END> , e o decreto 708 , que estabelecia medidas para a repressão ao tráfico de africanos.
+<START:ABSTRACCAO_DISCIPLINA> Missão Salesiana <END> em <START:LOCAL_HUMANO> Mato Grosso <END> , <START:TEMPO_TEMPO_CALEND> 1908 <END>        
+Meninas bororos freqüentam a escola    
+ Documentação pessoal, álbuns de fotografias e documentos cartográficos compõem a "     <START:COISA_OBJECTO> Coleção Miguel Calmon Du Pin e Almeida <END> ", engenheiro e político brasileiro, que ocupou o cargo de <START:PESSOA_CARGO> Ministro de Viação e Obras Públicas <END> no <START:ORGANIZACAO_ADMINISTRACAO> Governo Afonso Pena <END> , <START:TEMPO_TEMPO_CALEND> entre 1906 e 1909 <END> e de <START:PESSOA_CARGO> Ministro da Agricultura <END> no mandato de <START:PESSOA_INDIVIDUAL> Artur Bernardes <END> , <START:TEMPO_TEMPO_CALEND> de 1922 a 1926 <END> .
+As fotografias documentam as principais obras que significaram a incorporação dos ideais de progresso e modernização pelo <START:ORGANIZACAO_ADMINISTRACAO> Brasil <END> <START:TEMPO_TEMPO_CALEND> no começo do século XX <END> , assim como as diversas áreas indígenas encontradas ao longo deste trabalho.
+Aquarelas de <START:PESSOA_INDIVIDUAL> Sophia Jobim <END> para Ilustrar suas aulas de indumentária        
+ A moda também faz parte do <START:ORGANIZACAO_INSTITUICAO> Arquivo Histórico <END> .
+Quem pesquisa a indumentária civil e militar não pode deixar de consultar as coleções " <START:COISA_OBJECTO> Sophia Jobim Magno de Carvalho <END> " e " <START:COISA_OBJECTO> Uniformes Militares <END> ".
+Museóloga e desenhista, <START:PESSOA_INDIVIDUAL> Sophia Jobim <END> lecionava na <START:ORGANIZACAO_INSTITUICAO> Escola Nacional de Belas Artes <END> a disciplina de <START:ABSTRACCAO_DISCIPLINA> Indumentária Histórica <END> .
+Através de suas constantes viagens pelo mundo, colecionou um vasto acervo de trajes típicos, fundando, <START:TEMPO_TEMPO_CALEND> em 1960 <END> , o primeiro    <START:LOCAL_HUMANO> Museu de Indumentária Histórica e Antigüidades <END>   da   <START:LOCAL_HUMANO> América Latina <END>  em sua residência no bairro carioca de <START:LOCAL_HUMANO> Santa Teresa <END> .
+Toda a coleção <START:COISA_OBJECTO> Sophia Jobim <END> é doada ao <START:ORGANIZACAO_INSTITUICAO> Museu <END> após a sua morte.
+Os trajes típicos são preservados na <START:LOCAL_HUMANO> Reserva Técnica <END> , os livros na <START:LOCAL_HUMANO> Biblioteca <END> e os <START:VALOR_QUANTIDADE> 1.124 <END> documentos textuais e iconográficos, inclusive livros de receitas de pratos regionais e álbuns de fotografia de eventos relacionados à trajetória da titular da coleção, estão à disposição do pesquisador no <START:LOCAL_HUMANO> Arquivo Histórico <END> .
+Já a coleção de uniformes militares é composta por <START:VALOR_QUANTIDADE> 836 <END> documentos iconográficos, dos quais destacam-se <START:VALOR_QUANTIDADE> 228 <END> aquarelas de autoria de <START:PESSOA_INDIVIDUAL> José Wasth Rodrigues <END> ; álbuns de aquarelas, <START:TEMPO_TEMPO_CALEND> do século XVIII <END> , de uniformes militares do período colonial e de desenhos copiados de modelos de uniformes existentes no    <START:ORGANIZACAO_INSTITUICAO> Arquivo Histórico e Colonial <END>   de   <START:LOCAL_HUMANO> Lisboa <END>  .
+O valor documental destas obras reside na constituição dos traços da indumentária militar brasileira, do período colonial ao republicano , tornando-se fonte de consulta obrigatória com relação a este tema.
+<START:PESSOA_INDIVIDUAL> Juan Gutierrez <END>        
+ Documentou a <START:ACONTECIMENTO_EFEMERIDE> Revolta da Armada <END> ( <START:TEMPO_TEMPO_CALEND> 1893/94 <END> )        
+ <START:VALOR_QUANTIDADE> Cerca de 10.200 <END> fotografias, entre as quais os primeiros processos fotográficos, como daguerreótipos e ambrotipos, integram o acervo do <START:ORGANIZACAO_INSTITUICAO> Arquivo Histórico <END> .
+São fotografias de <START:PESSOA_INDIVIDUAL> Marc Ferrez <END> e <START:PESSOA_INDIVIDUAL> Augusto Malta <END> , além de cartões postais de diversas épocas.
+Destaque para a " <START:COISA_OBJECTO> Coleção Juan Gutierrez <END> ".
+Fotógrafo espanhol, <START:PESSOA_INDIVIDUAL> Gutierrez <END> atuou no <START:LOCAL_HUMANO> Rio de Janeiro <END> <START:TEMPO_TEMPO_CALEND> entre 1880 e 1890 <END> .
+Documentou a <START:ACONTECIMENTO_EFEMERIDE> Revolta da Armada <END> ( <START:TEMPO_TEMPO_CALEND> 1893/94 <END> ), retratando as fortificações, os soldados e o armamento utilizado sem, contudo, apresentar cenas do embate.
+Suas lentes captaram, ainda, vistas de vários bairros da antiga cidade do <START:LOCAL_HUMANO> Rio de Janeiro <END> , reproduzindo sua arquitetura e seu cotidiano.
+Conheça toda a coleção de fotografias de <START:PESSOA_INDIVIDUAL> Gutierrez <END> em nossa <START:LOCAL_VIRTUAL> Galeria Virtual <END> .
+Desenhos, gravuras e aquarelas de importantes artistas como <START:PESSOA_INDIVIDUAL> Rugendas <END> , <START:PESSOA_INDIVIDUAL> Debret <END> , <START:PESSOA_INDIVIDUAL> Norfini <END> e <START:PESSOA_INDIVIDUAL> Reis Carvalho <END> , retratam cidades e paisagens brasileiras <START:TEMPO_GENERICO> ao longo dos séculos XIX <END> e <START:TEMPO_GENERICO> XX <END> , estando também preservados no <START:ORGANIZACAO_INSTITUICAO> Arquivo Histórico <END> .
+<START:PESSOA_INDIVIDUAL> Nair de Teffé <END>        
+ Dita <START:ABSTRACCAO_NOME> Rian <END> ( <START:TEMPO_TEMPO_CALEND> 1886-1981 <END> )        
+Caricatura    
+ Outra curiosa coleção pertencente ao acervo do <START:ORGANIZACAO_INSTITUICAO> Museu <END> é formada por <START:VALOR_QUANTIDADE> 26 <END> caricaturas de <START:PESSOA_INDIVIDUAL> Rian <END> , entre as quais as dos <START:PESSOA_INDIVIDUAL> Presidentes Juscelino Kubitsckek <END> , <START:PESSOA_INDIVIDUAL> Eurico Gaspar Dutra <END> , <START:PESSOA_INDIVIDUAL> João Café Filho <END> e <START:PESSOA_INDIVIDUAL> Humberto de Alencar Castelo Branco <END> .
+Os traços irônicos de <START:PESSOA_INDIVIDUAL> Rian <END> fixaram, sobretudo, personalidades políticas e figuras da alta sociedade.
+<START:PESSOA_INDIVIDUAL> Rian <END> , na realidade <START:PESSOA_INDIVIDUAL> Nair de Teffé <END> , já era conhecida caricaturista ao casar-se, <START:TEMPO_TEMPO_CALEND> em 1913 <END> , com o então <START:PESSOA_CARGO> Presidente da República <END> , <START:PESSOA_INDIVIDUAL> Hermes da Fonseca <END> .
+Com trabalhos publicados em revistas nacionais e estrangeiras, como o <START:COISA_CLASSE> Semanário Fon-Fon <END> , <START:COISA_CLASSE> Le Rire <END> e a <START:COISA_CLASSE> Gazeta de Notícias <END> , escandalizou <START:TEMPO_FREQUENCIA> muitas vezes <END> o     <START:PESSOA_GRUPOMEMBRO> Palácio do Catete <END> com suas atitudes excêntricas.
+--DOCSTART--
+    
+    <START:LOCAL_HUMANO> New York <END>   ,   <START:LOCAL_HUMANO> New York <END>         
+ <START:TEMPO_TEMPO_CALEND> No mês passado <END> , o    presidente da <START:ORGANIZACAO_ADMINISTRACAO> Câmara <END>   de   <START:LOCAL_HUMANO> Nova Iorque <END>  , <START:PESSOA_INDIVIDUAL> Michael Bloomberg <END> , decidiu entregar o cartão de militante do <START:ORGANIZACAO_INSTITUICAO> Partido Conservador <END> .
+O gesto foi entendido como o arregaçar de mangas para entrar na corrida presidencial numa candidatura independente.
+E se ele avançar, as mais recentes sondagens indicam que o boletim de voto das eleições <START:TEMPO_TEMPO_CALEND> de 2008 <END> podem ter três rostos ligados à " <START:LOCAL_HUMANO> Big Apple <END> ": <START:PESSOA_INDIVIDUAL> Hillary Clinton <END> , senadora pelo estado de <START:LOCAL_HUMANO> Nova Iorque <END> , <START:PESSOA_INDIVIDUAL> Rudy Giuliani <END> , o republicano que já foi <START:PESSOA_CARGO> presidente da Câmara <END>  da cidade, e <START:PESSOA_INDIVIDUAL> Michael Bloomberg <END> , o homem que sucedeu a <START:PESSOA_INDIVIDUAL> Giuliani <END> no cargo.
+Este cenário deverá irritar solenemente a classe política de cidades como <START:LOCAL_HUMANO> Boston <END> , <START:LOCAL_HUMANO> St. Louis <END> , <START:LOCAL_HUMANO> Chicago <END> , ou <START:LOCAL_HUMANO> Los Angeles <END> , que nunca viram com agrado a intromissão de políticos nova-iorquinos nos assuntos presidenciais.
+Aliás, os últimos sete presidentes eleitos vieram de regiões no <START:LOCAL_HUMANO> Sul <END> ou do <START:LOCAL_HUMANO> Oeste <END> , e ser oriundo do <START:LOCAL_HUMANO> Nordeste <END> americano passou a ser quase considerado uma garantia de derrota eleitoral (que o digam <START:PESSOA_INDIVIDUAL> Dukakis <END> ou <START:PESSOA_INDIVIDUAL> Kerry <END> ).
+Como recordava um artigo num recente número da revista <START:LOCAL_VIRTUAL> New Yorker <END> , <START:PESSOA_POVO> Nova Iorque <END> já não via uma coisa assim <START:TEMPO_TEMPO_CALEND> desde 1951 <END> , quando, no campeonato de basebol, as equipas de <START:ORGANIZACAO_INSTITUICAO> Brooklin Dodgers <END> e dos <START:ORGANIZACAO_INSTITUICAO> New York Giants <END> disputaram o "play off" para decidir quem iria à final com os <START:PESSOA_GRUPOMEMBRO> New York Yankees <END> (que acabaram vencedores da " <START:ACONTECIMENTO_ORGANIZADO> World Séries <END> ").
+Para uma eventual candidatura, <START:PESSOA_INDIVIDUAL> Bloomberg <END> nem sequer está preocupado com o facto de arrancar tarde, numas eleições em que as primárias servem para angariar fundos (em anteriores eleições, o também magnata dos "media" já gastou <START:VALOR_MOEDA> mais de 160 milhões de dólares <END> do seu bolso, e tem muitos mais para gastar).
+Além disso, <START:PESSOA_INDIVIDUAL> Bloomberg <END> conta com o efeito de subida de popularidade dos independentes nos <START:LOCAL_HUMANO> EUA <END> .
+Os estudos dizem que <START:VALOR_QUANTIDADE> cerca de 40% <END> dos eleitores não tem simpatia por nenhum dos partidos.
+E este dado torna o estatuto de independente muito atraente -- um fenómeno semelhante ao verificado com a candidatura de <START:PESSOA_INDIVIDUAL> Manuel Alegre <END> , nas últimas presidenciais portuguesas, ou com aquilo que esperam conseguir <START:PESSOA_INDIVIDUAL> Helena Roseta <END> e <START:PESSOA_INDIVIDUAL> Carmona Rodrigues <END> nas próximas eleições intercalares para a  <START:ORGANIZACAO_ADMINISTRACAO> Câmara <END> de <START:LOCAL_HUMANO> Lisboa <END> .

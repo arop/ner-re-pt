@@ -2,7 +2,7 @@
 
 SCRIPT="src/clean-doc.py"
 
-for i in {1..3}
+for r in {1..3}
 do
 	printf "\n** repeat "$r" **\n"
 	for i in {0..9}

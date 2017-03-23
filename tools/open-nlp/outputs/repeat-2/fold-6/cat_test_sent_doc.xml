@@ -1,0 +1,241 @@
+--DOCSTART--
+ <START:COISA> Sistema de Posicionamento Global <END>        
+ O <START:COISA> Sistema de Posicionamento Global <END> , vulgarmente conhecido por <START:ABSTRACCAO> GPS <END> (do acrónimo do inglês <START:ABSTRACCAO> Global Positioning System <END> ), é um sistema de posicionamento por satélite americano, <START:TEMPO> por vezes <END> incorrectamente designado de sistema de navegação, utilizado para determinação da posição de um receptor na superfície da <START:LOCAL> Terra <END> ou em órbita.
+Existem atualmente dois sistemas efetivos de posicionamento por satélite; o <START:COISA> GPS <END> americano e o <START:COISA> Glonass <END> russo; também existem mais dois sistemas em implantação; o <START:COISA> Galileo <END> europeu e o <START:COISA> Compass <END> chinês.
+O sistema <START:COISA> GPS <END> foi criado e é controlado pelo    <START:ORGANIZACAO> Departamento de Defesa <END>   dos   <START:LOCAL> Estados Unidos da América <END>  , <START:ORGANIZACAO> DoD <END> , e pode ser utilizado por qualquer pessoa, gratuitamente, necessitando apenas de um receptor que capte o sinal emitido pelos satélites.
+O <START:ORGANIZACAO> DoD <END> fornece dois tipos de serviços <START:COISA> GPS <END> : <START:COISA> Standard <END> e <START:COISA> Precision <END> .
+Contrariamente ao que inicialmente acontecia, actualmente os dois serviços estão disponíveis em regime aberto em qualquer parte do mundo.
+O sistema está dividido em três partes: espacial, de controlo e utilizador.
+O segmento espacial é composto pela constelação de satélites.
+O segmento de controlo é formado pelas estações terrestres dispersas pelo mundo ao longo da <START:LOCAL> Zona Equatorial <END> , responsáveis pela monitorização das órbitas dos satélites, sincronização dos relógios atómicos de bordo dos satélites e actualização dos dados de almanaque que os satélites transmitem.
+O segmento do utilizador consiste num receptor que capta os sinais emitidos pelos satélites.
+Um receptor <START:COISA> GPS <END> ( <START:COISA> GPSR <END> ) descodifica as transmissões do sinal de código e fase de múltiplos satélites e calcula a sua posição com base nas distâncias a estes.
+A posição é dada por latitude, longitude e altitude, coordenadas geodésicas referentes ao sistema <START:COISA> WGS84 <END> .
+--DOCSTART--
+    
+TECNOLOGIA E TRADIÇÃO TRIBAL A SERVIÇO DA NATUREZA    
+<START:PESSOA> Deck Cowboy <END> (deckcowboy@riseup.net)    
+<START:LOCAL> NORDHOEK <END> , <START:LOCAL> África do Sul <END> - Com o olhar fixo na tela de seu laptop, <START:PESSOA> Louis Liebenberg <END> compara dois mapas da mesma região.
+Enquanto um deles está densamente preenchido por pontos amarelos, o outro está bem mais vazio.
+As marcas indicam avistamentos de gorilas das planícies registradas por rastreadores tribais antes e depois de um surto do vírus ebola no santuário de <START:LOCAL> Lossi <END> , na <START:LOCAL> República Federativa do Congo <END> .
+Usando o <START:COISA> CyberTracker <END> , um software com o qual os ecologistas podem registrar suas observações em campo usando computadores portáteis conectados a aparelhos de posicionamento global ( <START:COISA> GPS <END> ), os rastreadores puderam reunir dados que comprovam a degradação da população local da espécie.
+Inicialmente céticos, os cientistas <START:TEMPO> mais tarde <END> confirmaram suas constatações de que o vírus estava matando os gorilas e outros animais, e publicaram um artigo numa edição recente da revista <START:LOCAL> Science <END> .
+"Este é um exemplo incrível de como a coleta regular de dados pode nos ajudar", disse <START:PESSOA> Liebenberg <END> .
+Para ele, fundador sul-africano da <START:ORGANIZACAO> CyberTracker Conservation <END> , as constatações não apenas ilustram a capacidade do dispositivo de melhorar o monitoramento e a interpretação de ecossistemas, mas também comprovam que rastreadores analfabetos podem recolher informações com tanta eficiência quanto cientistas com Ph.D.
+O <START:COISA> CyberTracker <END> é apenas mais uma das modernas tecnologias atualmente à disposição dos ecologistas, que cada vez mais recorrem a ferramentas como análises de <START:COISA> DNA <END> e imagens de satélite para obter uma maior compreensão da natureza.
+<START:PESSOA> Liebenberg <END> teve a idéia de criar o sistema <START:COISA> CyberTracker <END> enquanto acompanhava caçadores bosquímanos no deserto do <START:LOCAL> Kalahari <END> .
+Fascinado desde pequeno pela arte tribal de seguir rastros, <START:PESSOA> Liebenberg <END> desenvolveu a teoria de que as atividades ancestrais de caça e coleta representam nada menos do que a própria origem da ciência.
+Rastrear um animal, argumenta o pesquisador, exige um processo de observação e confrontação de hipóteses muito semelhante ao método científico.
+O que <START:TEMPO> um dia <END> foi necessário à sobrevivência, no entanto, é <START:TEMPO> hoje <END> uma prática em extinção.
+Atualmente, <START:PESSOA> Liebenberg <END> afirma conhecer apenas seis caçadores tribais que usam suas habilidades para subsistência.
+A maioria dos jovens das tribos da região <START:TEMPO> hoje <END> freqüentam a escola - ao contrário de seus pais e avós, que eram analfabetos - mas raramente chegam a aprender as técnicas e o conhecimento de mundo necessários para caçar como as gerações anteriores.
+Se fosse possível encontrar um meio de colocar o conhecimento dos bosquímanos a serviço da preservação ambiental, tanto a natureza quanto as comunidades desse povo poderiam se beneficiar.
+<START:TEMPO> Em 1996 <END> , <START:PESSOA> Liebenberg <END> e o cientista da computação <START:PESSOA> Lindsey Steventon <END> lançaram o primeiro modelo do <START:COISA> CyberTracker <END> , com o objetivo de transformar o rastreamento tradicional numa profissão moderna.
+<START:TEMPO> No mesmo ano <END> , os rastreadores <START:PESSOA> Karel Benadie <END> e <START:PESSOA> James Minye <END> usaram o <START:COISA> CyberTracker <END> para estudar o rinoceronte negro, uma espécie ameaçada de extinção, no <START:LOCAL> Parque Nacional de Karoo <END> na <START:LOCAL> África do Sul <END> .
+Eles recolheram dados sobre os padrões de alimentação dos animais e sua vulnerabilidade à caça clandestina.
+<START:TEMPO> Em 1999 <END> , <START:PESSOA> Liebenberg <END> , <START:PESSOA> Steventon <END> e os dois rastreadores, que não possuem educação formal, publicaram um artigo na revista acadêmica <START:LOCAL> Pachyderm <END> .
+"Ao incluir os rastreadores em nossas atividades de monitoramento ambiental, estamos expandindo eficientemente a própria ciência", disse <START:PESSOA> Liebenberg <END> .
+Mas não são apenas os rastreadores tribais que usam o <START:COISA> CyberTracker <END> .
+Estudantes e observadores de aves também aproveitam as vantagens do sistema.
+Ele já foi usado até por equipes de cientistas em expedições no <START:LOCAL> Ártico <END> , no monitoramento de lobos no estado norte-americano de <START:LOCAL> Idaho <END> , da poluição dos rios na <START:LOCAL> Tanzânia <END> e do raríssimo rinoceronte de <START:LOCAL> Sumatra <END> , em <START:LOCAL> Bornéu <END> .
+O software pode ser personalizado, e é oferecido gratuitamente na <START:LOCAL> Web <END> .
+<START:VALOR> Cerca de 400 <END> projetos em <START:VALOR> 30 <END> países estão usando o sistema, afirma <START:PESSOA> Liebenberg <END> .
+O software consiste em uma série de camadas contendo menus baseados em figuras nos quais os pesquisadores registram suas observações.
+Eles selecionam ícones para representar as plantas e animais que observam, e para descrever seu comportamento e suas características.
+O <START:COISA> GPS <END> registra o local e a hora de cada observação.
+Rastreadores experientes normalmente podem identificar um único indivíduo de determinada espécie, ou pelo menos saber seu sexo, idade e estado de saúde, apenas observando suas pegadas.
+Com cada rastreador registrando <START:VALOR> até 300 <END> observações <START:TEMPO> por dia <END> , o dispositivo permite a coleta de quantidades imensas de informação, que pode ser analisada em mapas e bancos de dados quase imediatamente.
+"É aí que novos padrões vêm à tona: correlações entre espécies diferentes, características da paisagem e outros fatores que não poderiam ser descobertos de outra maneira", afirma <START:PESSOA> Jason Knight <END> , instrutor da <START:ORGANIZACAO> Wilderness Awareness School <END> em <START:LOCAL> Duvall <END> , <START:LOCAL> Washington <END> .
+No entanto, <START:PESSOA> Christina Eisenberg <END> , uma bióloga que estuda os lobos e trabalha para o <START:ORGANIZACAO> Serviço Americano de Vida Selvagem e Aquática <END> conta que parou de usar o sistema porque ele travava inesperadamente.
+"Perdi os dados <START:TEMPO> de um dia inteiro <END> de trabalho, depois de me embrenhar milhas e milhas sobre terreno acidentado mato adentro", lembra.
+"Não foi nada agradável".
+Vários projetos usando o <START:COISA> CyberTracker <END> em áreas de preservação da <START:LOCAL> África do Sul <END> também estão interrompidos, em parte devido ao preconceito contra rastreadores analfabetos e a falta de entusiasmo por parte dos administradores, diz <START:PESSOA> Liebenberg <END> .
+Mesmo assim, ele pretende desenvolver o <START:COISA> CyberTracker <END> , transformando-o num sistema para monitorar mudanças ambientais e compartilhar informações pelo mundo todo.
+"No momento, faltam cientistas para reunir informação em campo", disse.
+"Se pudermos contar com a ajuda das pessoas que vivem nesses lugares, poderemos, teoricamente, monitorar todo o ecossistema global.
+Fonte: Centro de Mídia Independente (www.midiaindependente.org).
+Link : Cybertracker (www.cybertracker.co.za).
+--DOCSTART--
+
+<START:TEMPO> 2008 <END> : preços de bens e serviços sobem acima da inflação
+Os preços de diversos bens e serviços vão aumentar, <START:TEMPO> no próximo ano <END> , acima da inflação de <START:VALOR> 2,1% <END> prevista pelo <START:ORGANIZACAO> Governo <END> <START:TEMPO> para 2008 <END> , com destaque para o pão, com os industriais do sector a estimarem uma evolução de dois dígitos.
+A electricidade vai aumentar, de acordo com a proposta da <START:ORGANIZACAO> Entidade Reguladora dos Serviços Energéticos <END> ( <START:ORGANIZACAO> ERSE <END> ), aprovada pelo <START:ORGANIZACAO> Conselho Tarifário <END> , <START:VALOR> 2,9% <END> , em média, em <START:LOCAL> Portugal Continental <END> , <START:VALOR> 2,6% <END> nos <START:LOCAL> Açores <END> e <START:VALOR> 4,9% <END> na <START:LOCAL> Madeira <END> .
+A maioria dos consumidores domésticos podem assim esperar uma subida da factura mensal de <START:VALOR> 1,08 euros <END> <START:TEMPO> no próximo ano <END> , mas os clientes industriais sofrerão um aumento médio de <START:VALOR> 3,0% <END> , com maior peso para os de muita alta tensão ( <START:OUTRO> MAT <END> ) e alta tensão ( <START:OUTRO> AT <END> ) que terão uma subida de <START:VALOR> 3,9% <END> .
+Os clientes de média tensão ( <START:OUTRO> MT <END> ) terão um aumento de <START:VALOR> 2,7% <END> , enquanto os de baixa tensão especial ( <START:OUTRO> BTE <END> ), normalmente pequenas empresas, terão um aumento de <START:VALOR> 2,5% <END> .
+Um dos casos em que a subida dos preços mais ultrapassa o valor da inflação prevista pelo <START:ORGANIZACAO> Governo <END> é o do pão, que deverá aumentar <START:VALOR> 10 a 15% <END> <START:TEMPO> em Janeiro <END> ou <START:TEMPO> Fevereiro <END> , segundo contas feitas pela direcção da  <START:ORGANIZACAO> Associação dos Industriais de Panificação, Pastelaria e Similares <END> do <START:LOCAL> Norte <END> ( <START:ORGANIZACAO> AIPAN <END> ).
+Em declarações à agência <START:ORGANIZACAO> Lusa <END> , <START:PESSOA> António Fontes <END> , da <START:ORGANIZACAO> AIPAN <END> , disse que o preço do pão terá de aumentar para fazer face à subida de <START:VALOR> 92% <END> registada <START:TEMPO> ao longo de 2007 <END> no preço da matéria-prima de base (farinha).
+Desde o último aumento do preço do pão, <START:TEMPO> em Janeiro de 2004 <END> , o preço da farinha mais do que duplicou, o das leveduras subiu <START:VALOR> 40% <END> , o da energia <START:VALOR> 25% <END> , o do gás <START:VALOR> 32% <END> , o do gasóleo <START:VALOR> 70% <END> e os custos com pessoal <START:VALOR> 14% <END> , explicou.
+O preço do arroz, cujo consumo per capita em <START:LOCAL> Portugal <END> é o mais alto da <START:LOCAL> Europa <END> , deverá igualmente aumentar, apesar de os industriais não conseguirem ainda prever o valor real a pagar pelos consumidores.
+A <START:ORGANIZACAO> Associação Nacional dos Industriais de Arroz <END> ( <START:ORGANIZACAO> ANIA <END> ) explicou que um conjunto de factores a nível do mercado internacional - aumento do preço das matérias-primas com parte da produção a ser desviada para o fabrico de biocombustíveis - provocou em <START:LOCAL> Portugal <END> um acréscimo do valor por tonelada de <START:VALOR> 200 a 230 euros <END> <START:TEMPO> em 2006 <END> para <START:VALOR> 280 a 290 euros <END> <START:TEMPO> este ano <END> .
+Nos transportes públicos, a subida é, em média, de <START:VALOR> 3,9% <END> , e nas portagens das auto-estradas será de <START:VALOR> 2,6% <END> , também, em média, seguindo o estipulado na lei, que obriga as concessionárias a apresentar " <START:TEMPO> até 15 de Novembro <END> as propostas de aumentos de portagens, tendo como por base a última inflação homóloga conhecida.
+Nem todas as portagens sofrerão alterações, uma vez que os contratos de concessão determinam que os aumentos sejam arredondados em múltiplos de <START:VALOR> 5 cêntimos <END> .
+O tabaco também vai pesar mais na carteira: o <START:ORGANIZACAO> Governo <END> decidiu <START:TEMPO> em 2005 <END> que o <START:OUTRO> Imposto sobre o Tabaco <END> teria um aumento médio anual de <START:VALOR> 15% <END> <START:TEMPO> até 2009 <END> e, <START:TEMPO> a partir de Janeiro de 2008 <END> , um maço das marcas mais comercializadas poderá mesmo aumentar, em média, <START:VALOR> 30 cêntimos <END> .
+Sem contas fechadas, os <START:ORGANIZACAO> CTT <END> adiantam que «os preços dos serviços de correios não vão aumentar já <START:TEMPO> em Janeiro <END> » e, na água, o <START:ORGANIZACAO> Instituto Regulador das Águas e Resíduos <END> ( <START:ORGANIZACAO> IRAR <END> ) diz que o procedimento <START:TEMPO> para 2008 <END> está actualmente em curso, prevendo-se a sua conclusão <START:TEMPO> em Janeiro <END> .
+Quanto às empresas concessionárias dos sistemas municipais, as tarifas são definidas <START:TEMPO> no momento <END> do estabelecimento da concessão e actualizadas de acordo com as regras constantes do respectivo contrato com aprovação pelo município.
+Mas nem tudo são más notícias, tendo em conta que o <START:OUTRO> Salário Mínimo Nacional <END> vai aumentar, <START:TEMPO> a partir do dia 1 de Janeiro <END> , <START:VALOR> 5,7% <END> , para <START:VALOR> 426 euros <END> .
+O valor fixado insere-se no acordo tripartido assinado <START:TEMPO> no ano passado <END> e que prevê uma evolução significativa do salário mínimo, de modo a atingir os <START:VALOR> 450 euros <END> <START:TEMPO> em 2009 <END> e os <START:VALOR> 500 euros <END> <START:TEMPO> em 2011 <END> .
+O " <START:OUTRO> Indexante de Apoios Sociais <END> ( <START:OUTRO> IAS <END> ), o referencial de actualização e cálculo das prestações sociais, deverá situar-se nos <START:VALOR> 407,4 euros <END> , o que traduz um crescimento de <START:VALOR> 2,4% <END> ,  <START:TEMPO> a partir de Janeiro do próximo ano <END> , segundo as contas feitas pela agência <START:ORGANIZACAO> Lusa <END> .
+Em relação à actualização das pensões atribuídas pelo sistema de  <START:ORGANIZACAO> Segurança Social <END> , as pensões de valor igual ou inferior a <START:VALOR> 1,5 IAS <END> ( <START:VALOR> 611,10 euros <END> ) são actualizadas em <START:VALOR> 2,7% <END> , as pensões <START:VALOR> entre 1,5 IAS e 6 IAS <END> tem uma actualização de <START:VALOR> 2,17% <END> e as pensões de valor superior a <START:VALOR> 6 IAS <END> tem um aumento de <START:VALOR> 1,88% <END> .
+Estes valores foram calculados com base na lei 53-B/2006, <START:TEMPO> de 29 de Dezembro <END> , que cria o indexante dos apoios sociais e novas regras de actualização das pensões e outras prestações sociais do sistema de <START:ORGANIZACAO> Segurança Social <END> .
+--DOCSTART--
+
+<START:PESSOA> Camacho <END> ganhou sempre a <START:PESSOA> Jesualdo <END> mas não ao <START:PESSOA> FC Porto <END>
+AS ESTATÍSTICAS DO CLÁSSICO DE SÁBADO QUANTO À LIGA 
+Se as estatísticas quiserem dizer alguma coisa, <START:PESSOA> Camacho <END> pode encarar o clássico <START:TEMPO> de sábado <END> com optimismo.
+O espanhol soma por vitórias os <START:VALOR> 3 <END> jogos frente a <START:PESSOA> Jesualdo Ferreira <END> , técnico ao qual sucedeu no comando do <START:PESSOA> Benfica <END> , <START:TEMPO> em 2002/2003 <END> .
+No entanto, há outra leitura que tem de ser feita: o espanhol jamais venceu o <START:PESSOA> FC Porto <END> para o campeonato.
+Em três "duelos", face a <START:PESSOA> Jesualdo <END> , então ao comando do <START:PESSOA> Sp.Braga <END> , <START:PESSOA> Camacho <END> venceu <START:TEMPO> por duas vezes <END> como visitante ( <START:VALOR> 3-1 <END> <START:TEMPO> em 2002/2003 <END> e 3-0 <START:TEMPO> em 2003/2004 <END> ) e uma como anfitrião ( <START:VALOR> 2-0 <END> <START:TEMPO> em 2003/2004 <END> ).
+O espanhol está 100 por cento vitorioso face a <START:PESSOA> Jesualdo <END> , mas nunca enceu o <START:PESSOA> FC Porto <END> para o campeonato, tendo como melhor registo o empate na <START:LOCAL> Luz <END> , <START:TEMPO> em 2003/2004 <END> ( <START:VALOR> 1-1 <END> ).
+Na mesma temporada, <START:PESSOA> Camacho <END> perdeu no <START:LOCAL> FC Porto <END> por <START:VALOR> 2-0 <END> e, na anterior, já tinha perdido em casa por <START:VALOR> 1-0 <END> .
+No entanto, pesar de não ter qualquer triunfo no campeonato, o espanhol conquistou frente aos "dragões" o único título da sua carreira.
+<START:TEMPO> A 16 de Maio de 2004 <END> , na final da  <START:ACONTECIMENTO> Taça <END> de <START:LOCAL> Portugal <END> , o <START:PESSOA> FC Porto <END> adiantou-se, por <START:PESSOA> Derlei <END> , mas o grego <START:PESSOA> Fyssas <END> empatou e, no prolongamento, <START:PESSOA> Simão <END> derrotou o "onze" de <START:PESSOA> José Mourinho <END> , que,  <START:TEMPO> 10 dias depois <END> , viria a vencer a <START:ACONTECIMENTO> Liga dos Campeões <END> ( <START:VALOR> 3-0 <END> ao <START:PESSOA> AS Mónaco <END> ).
+Por seu lado, <START:PESSOA> Jesualdo Ferreira <END> tem um balanço negativo nos confrontos com o <START:PESSOA> Benfica <END> , com quatro vitórias, três empates e cinco derrotas ( <START:VALOR> 13-19 <END> em golos), mas nunca perdeu ao comando do <START:PESSOA> FC Porto <END> : "a época passada, venceu no <START:LOCAL> Dragão <END> ( <START:VALOR> 3-2 <END> ) e empatou na <START:LOCAL> Luz <END> ( <START:VALOR> 1-1 <END> ).
+--DOCSTART--
+    
+ <START:OBRA> Mosteiro de Santa Cruz <END>        
+História    
+ A  <START:LOCAL> Igreja de Santa Cruz <END> de <START:LOCAL> Coimbra <END> foi fundada <START:TEMPO> em 1131 <END> por <START:PESSOA> D. Telo <END> ( <START:PESSOA> São Teotónio <END> ) e <START:VALOR> 11 <END> outros religiosos, que adotaram a regra dos <START:ABSTRACCAO> Cónegos Regrantes de Santo Agostinho <END>  .
+A nova <START:ORGANIZACAO> Igreja <END> recebeu muitos privilégios papais e doações dos primeiros <START:PESSOA> reis de Portugal <END>  , tornando-se a mais importante casa monástica do reino.
+Sua escola foi uma das melhores instituições de ensino do <START:OUTRO> Portugal <END> medieval , tendo uma grande biblioteca (agora na    <START:LOCAL> Biblioteca Pública Municipal <END> do   <START:LOCAL> Porto <END>  ) e um activo scriptorium.
+<START:TEMPO> Nos tempos <END> de <START:PESSOA> D. Afonso Henriques <END> , primeiro monarca português, o scriptorium de <START:ORGANIZACAO> Santa Cruz <END> foi usado como máquina de consolidação do poder real.
+A importância da <START:ORGANIZACAO> Igreja <END> é evidenciada pelo fato de que <START:PESSOA> D. Afonso Henriques <END> e seu sucessor, <START:PESSOA> D. Sancho I <END> , foram sepultados lá.
+Na <START:OUTRO> Idade Média <END> , o mais famoso estudante da <START:ORGANIZACAO> Igreja de Santa Cruz <END> foi <START:PESSOA> Fernando Martins de Bulhões <END> , o futuro  <START:PESSOA> Santo António <END> de <START:LOCAL> Lisboa <END> (ou  <START:PESSOA> Santo António <END> de <START:LOCAL> Pádua <END> ).
+<START:TEMPO> Em 1220 <END> , o religioso assiste à chegada à <START:LOCAL> Igreja <END> dos restos mortais de cinco frades franciscanos martirizados no <START:LOCAL> Marrocos <END> (os  <START:PESSOA> Mártires <END> do <START:LOCAL> Marrocos <END> ), e decide fazer-se missionário e partir de <START:LOCAL> Portugal <END> .
+<START:TEMPO> No início do século XVI <END> , o <START:PESSOA> rei D. Manuel I <END> ordena uma grande reforma, reconstruindo e redecorando a igreja e o mosteiro.
+<START:TEMPO> Nessa época <END> são transladados os restos de <START:PESSOA> Afonso Henriques <END> e <START:PESSOA> Sancho I <END> dos seus sarcófagos originais para novos túmulos decorados em estilo manuelino.
+<START:TEMPO> Entre 1530 e 1577 <END> funcionou uma imprensa no claustro.
+É possível que o poeta <START:PESSOA> Luís de Camões <END> tenha estudado em <START:ORGANIZACAO> Santa Cruz <END> , uma vez que um parente seu ( <START:PESSOA> D. Bento de Camões <END> ) era prior do mosteiro na época , e há evidências em sua poesia de uma estadia em <START:LOCAL> Coimbra <END> .
+--DOCSTART--
+    
+<START:LOCAL> Paquistão <END> após o assassinato    
+de <START:PESSOA> Benazir Bhutto <END>    
+<START:TEMPO> 28/Dezembro/2007 <END> · <START:TEMPO> 0:01 <END> · <START:VALOR> 147 <END> Comentários    
+É sempre chocante assistir à decomposição de um país.
+Mas, após o assassinato de <START:PESSOA> Benazir Bhutto <END> , é o que está acontecendo com o <START:ORGANIZACAO> Paquistão <END> .
+O momento é tenso.
+Uma revolta popular pode estourar.
+Agora, que faria sentido declarar <START:OBRA> Estado de Emergência <END>  e impor a <START:OBRA> Lei Marcial <END> , o <START:PESSOA> presidente Pervez Musharraf <END> está desautorizado.
+Afinal, <START:TEMPO> há coisa de dois meses <END> , aplicou um golpe contra a <START:ORGANIZACAO> Suprema Corte <END> utilizando-se justamente desta tática.
+Será que ousaria um novo <START:OBRA> Estado de Emergência <END> ?
+Será que sobreviveria a tal decreto?
+Será que o <START:ORGANIZACAO> Exército <END> se manterá fiel a ele?
+Será que o <START:ORGANIZACAO> Serviço de Inteligência <END> , tão ligado ao norte islâmico, ainda o respeita minimamente?
+O que acontecerá não é possível prever.
+Eleições estão marcadas <START:TEMPO> para 8 de janeiro <END> , <START:PESSOA> Bhutto <END> era favorita.
+O partido mais votado do parlamento eleito fará o primeiro ministro.
+Num país estável, o assassinato de um dos principais candidatos <START:TEMPO> a essa altura <END> seria justificativa para suspender o pleito e realizá-lo adiante, quando o partido vitimado tivesse chances de apresentar novo candidato.
+Mas, se já foi <START:TEMPO> um dia <END> , o <START:LOCAL> Paquistão <END> deixou de ser um país normal, quanto mais estável.
+O ideal seria que eleições ocorressem.
+É preciso manter a mínima aparência de democracia sob o risco de que ela desapareça de vez.
+Os partidários de <START:PESSOA> Bhutto <END> , <START:TEMPO> ontem <END> , acusavam <START:PESSOA> Musharraf <END> do assassinato.
+Mas será?
+Em campanha, a ex-primeira-ministra mostrava-se particularmente agressiva contra o <START:ABSTRACCAO> Talibã <END> , o radicalismo islâmico e sua cria, a <START:ORGANIZACAO> al-Qaeda <END> , alojados ao norte.
+<START:PESSOA> Benazir Bhutto <END> contava com a simpatia dos <START:ORGANIZACAO> EUA <END> por conta.
+Não há dúvidas de que, como premiê, <START:PESSOA> Bhutto <END> forçaria o <START:PESSOA> presidente Musharraf <END> a ampliar sua ofensiva.
+A conversa da experiente política com o presidente afegão <START:PESSOA> Hamid Karzai <END> , o outro <START:PESSOA> chefe de Estado <END> preocupado com esta briga, <START:TEMPO> faz poucos dias <END> , é indício de qual sua prioridade no governo.
+Após seu assassinato, o presidente, que acaba de abandonar a farda de general, não tem como garantir sequer sua sobrevivência política.
+Se o conflito entre ambos era aberto, ausência de <START:PESSOA> Bhutto <END> piora a situação.
+Se a lógica ainda prevalecer no país em frangalhos, parece evidente que os maiores interessados em sua morte são justamente o <START:ORGANIZACAO> Talibã <END> e a <START:ORGANIZACAO> al-Qaeda <END> .
+Isto, é claro, se a lógica valer de algo.
+A <START:ORGANIZACAO> al-Qaeda <END> <START:TEMPO> às vezes <END> assume seus atentados.
+Outras vezes, não.
+No <START:ACONTECIMENTO> Onze de Setembro <END> , ficou em silêncio <START:TEMPO> por mais de mês <END> enquanto a comunidade internacional cobrava provas de seu envolvimento antes de autorizar um ataque dos <START:ORGANIZACAO> EUA <END> ao <START:LOCAL> Afeganistão <END> .
+Neste caso, a falta de autoria clara favorece o caos.
+O caos interessa à turma de <START:PESSOA> bin-Laden <END> .
+Com <START:PESSOA> Bhutto <END> de fora, os olhos voltam-se para outro ex-premiê, também candidato, <START:PESSOA> Nawaz Sharif <END> .
+Mal se passara <START:TEMPO> uma hora <END> da morte de <START:PESSOA> Bhutto <END> quando ele entrou no  <START:LOCAL> Hospital Geral <END> de <START:LOCAL> Rawalpindi <END> para as condolências.
+Dada a confusão que imperava, foi um feito.
+É arte política, sujeito hábil.
+Embora os dois ensaiassem uma aliança, <START:PESSOA> Sharif <END> não poderia ser mais diferente de <START:PESSOA> Bhutto <END> .
+Se ela era pró- <START:ORGANIZACAO> EUA <END> , ele não esconde seus laços com a <START:ORGANIZACAO> Arábia Saudita <END> .
+E se acaso sauditas e norte-americanos são oficialmente aliados, na realidade da política local a ação é diferente.
+A <START:ORGANIZACAO> al-Qaeda <END> é um grupo saudita.
+A <START:ORGANIZACAO> Arábia Saudita <END> era um dos três países do mundo que reconheciam, no <START:LOCAL> Afeganistão <END> , o governo <START:ORGANIZACAO> Talibã <END> .
+A vertente de islamismo radical que impera no norte do <START:LOCAL> Paquistão <END> é profundamente semelhante à que a <START:PESSOA> Arábia Saudita <END> espalha pelo mundo.
+<START:PESSOA> Sharif <END> não é fundamentalista.
+Mas a geopolítica que o sustenta e financia é tão atada aos sauditas que um gabinete liderado por ele é marcado por uma interrogação.
+O que vai imperar?
+A <START:ORGANIZACAO> Arábia Saudita <END> interessada em regimes islâmicos como os defendidos pelos radicais?
+Ou a <START:ORGANIZACAO> Arábia Saudita <END> interessada em combater o terrorismo?
+No <START:LOCAL> Paquistão <END> , as duas opções são incompatíveis.
+Enterros no <START:LOCAL> Paquistão <END> acontecem rápido.
+Provavelmente <START:TEMPO> hoje <END> , talvez <START:TEMPO> amanhã <END> .
+Se demorar mais, escaparam à tradição - coisa sempre perigosa - para evitar as multidões.
+A multidão é incontrolável.
+Se o país rachar.
+Se houver um golpe de <START:ORGANIZACAO> Estado <END> .
+Se radicais islâmicos conseguirem um atalho para o poder.
+O mundo respira fundo.
+O " <START:LOCAL> Paquistão <END> é uma potência nuclear.
+--DOCSTART--
+    
+ Actualmente é de <START:VALOR> 570,6 euros <END>        
+ <START:ORGANIZACAO> Espanha <END> aumenta salário mínimo para <START:VALOR> 600 euros <END>        
+ O <START:ORGANIZACAO> Governo <END> socialista espanhol aprovou <START:TEMPO> hoje <END> o aumento do salário mínimo em <START:LOCAL> Espanha <END> , fazendo-o passar dos actuais <START:VALOR> 570,6 euros <END> para <START:VALOR> 600 euros <END> <START:TEMPO> no próximo ano <END> .
+«Aprovámos o decreto que estabelece o salário mínimo interprofissional nos <START:VALOR> 600 euros <END> <START:TEMPO> por mês <END> , com efeito <START:TEMPO> a partir de 1 de Janeiro <END> », anunciou o   <START:PESSOA> chefe do Governo <END> , <START:PESSOA> José Luís Rodriguez Zapatero <END> , numa conferência de imprensa do último <START:ACONTECIMENTO> Conselho de Ministros <END> <START:TEMPO> deste ano <END> .
+Este aumento foi conseguido graças ao acordo com os sindicatos e o patronato acrescentou <START:PESSOA> Zapatero <END> , que afirmou que esse valor correspondia às suas promessas eleitorais, precisando que o salário mínimo estava nos <START:VALOR> 460 euros <END> <START:TEMPO> em 2004 <END> , aquando da sua ascensão ao poder.
+O chefe do governo vai disputar um segundo mandato de quatro anos nas eleições legislativas de <START:TEMPO> 9 de Março <END> , e salienta <START:TEMPO> frequentemente <END> o seu balanço económico positivo.
+<START:TEMPO> Em Outubro <END> , <START:PESSOA> Zapatero <END> prometeu igualmente aumentar o salário mínimo até aos <START:VALOR> 800 euros <END> <START:TEMPO> por mês <END> em caso de reeleição.
+À excepção dos antigos países do bloco de leste, a <START:LOCAL> Espanha <END> é um dos países que tem o salário mínimo mais baixo da <START:LOCAL> União Europeia <END> , juntamente com <START:LOCAL> Portugal <END> , <START:LOCAL> Grécia <END> e <START:LOCAL> Malta <END> .
+--DOCSTART--
+    
+O vírus na maçã.
+A chamada <START:ABSTRACCAO> Cultura Pop <END> sempre foi gerada no caldeirão fervente das periferias.
+Obvio ululante.
+Mesmo a cultura <START:ABSTRACCAO> HipHop <END> , este emaranhado de atitudes sócio culturais atribuído à juventude desvalida das grandes metrópoles norte americanas, pode ser descrita, coerentemente, como o ôvo do futuro, gerado no mais remoto e desprezado dos passados.
+Pura relatividade, portanto.
+Sejamos francos: Não há 'modernidade', 'novidade' possível (pelo menos em se tratando de música e dança populares) fora do contexto efervescente das periferias.
+Fora dos guetos e favelas nada se cria.
+Tudo se copia.
+Sempre foi assim e, talvez, sempre será.
+O eixo irradiador de toda esta fervura é o mesmo eixo de um centro econômico de cada época, cada ocasião, no caso, <START:TEMPO> em nossos dias <END> , <START:LOCAL> Nova York <END> , onde vicejaram o <START:ABSTRACCAO> Rap <END> , o <START:ABSTRACCAO> Street Dance <END> , o <START:ABSTRACCAO> Grafitti <END> , manifestações criadas nas periferias da grande maçã podre, a <START:LOCAL> Big Apple <END> sem <START:PESSOA> Beatles <END> , sem <START:COISA> MacIntosh <END> , sem nada.
+Cultura popular orgânica, com potência de vírus (benigno?
+), estas manifestações são, em ultima análise, o antídoto humanizador para o veneno intrínseco a um sistema arcaico e carcomido (pelo menos do ponto de vista cultural), totalmente 'out' e 'nada a ver'.
+Se duvidam, experimentem traçar uma linha de tempo e enxerguem (em preto &amp; branco, é claro), lá longe, <START:TEMPO> nos idos dos anos 50 <END> , um grupo de negros marcando o tempo com o estalar dos dedos, criando vocais em contraponto, nas esquinas de conjuntos habitacionais infectos ou cantos de quadras de basqueteball suburbanas.
+<START:ABSTRACCAO> Soul <END> e <START:ABSTRACCAO> Funk <END> básicos (e ainda o velho <START:ABSTRACCAO> Rock and Roll <END> ), rolando já ali naquelas manifestações atávicas, quase ancestrais.
+Firmem a vista e vejam o que se dança nestas esquinas.
+Andem para trás, um pouco mais, e vejam o som das plaquetas metálicas do sapateado ecoando no paralelepípedos das ruas.
+Isto mesmo!
+É aquele mesmo sapateado do <START:PESSOA> Gregory Heynes <END> , do <START:PESSOA> Sammy Davis Junior <END> , <START:TEMPO> antes <END> mal assimilado pelos <START:OUTRO> Fred Astaires <END> de ocasião, usufruidores dos lucros do mainstream, este ambiente insípido, onde tudo que uns criam os outros copiam.
+Saiam da <START:LOCAL> Broadway <END> , rápido, e vejam mais longe ainda o som vibrante do bate-enxadas e do baticum ritmado das botas dos trabalhadores das estradas de ferro que cruzaram os <START:LOCAL> States <END> de leste á oeste, unificando as distancias, <START:TEMPO> antes <END> , sofridamente, percorridas à cavalo ou pelas empoeiradas diligências que conhecemos nos filmes de <START:ABSTRACCAO> Far West <END> (e bota Far nisto).
+Escutem o que eles cantam.
+Há work songs, <START:ABSTRACCAO> Gospels <END> , <START:ABSTRACCAO> Spirituals <END> , <START:ABSTRACCAO> Rhytm'n' Blues <END> , <START:ABSTRACCAO> Soul <END> e <START:ABSTRACCAO> Funk <END> ainda rolando por ali.
+Querem regredir um pouco mais?
+Não?
+Ok.
+Já sabemos muito bem onde isto vai dar.
+Mas, vejam bem, são cruzamentos entre vias as mais diversas, os mais inusitados caminhos.
+Não importa muito se são negros ou brancos os criadores dos elementos básicos desta cultura urbanopop, que nos apaixona a todos.
+Afinal, são meros seres humanos os criadores desta força emocional que nos mantém, a todos, unidos, vivos e felizes.
+Os criadores são o que são - ocorre que, no caso deste nosso estranho mundo 'moderno', eles têm sido negros (ou não brancos, tanto faz) <START:TEMPO> desde há muito tempo <END> - É que o universo capitalista é mesmo este insano criador de periferias, pústulas urbanas, lixo debaixo do tapete, encruzilhadas e guerras.
+Mundo extremista, cruel, que ainda morre disto <START:TEMPO> um dia <END> .
+Mas, e o <START:ABSTRACCAO> Kuduro <END> ?
+Brasileiros que somos, se focarmos mais ainda a nossa lente, vamos encontrar no <START:ABSTRACCAO> Kuduro <END> , a mais pura essência (os tonalistas também odeiam este conceito) de nossa tão ambígua e fugidia brasilidade.
+Duvidam?
+--DOCSTART--
+
+<START:PESSOA> Fernão de Magalhães <END>
+<START:PESSOA> Fernão de Magalhães <END> , <START:TEMPO> algumas vezes <END> referenciado como <START:ABSTRACCAO> Fernando de Magalhães <END> , ( <START:TEMPO> primavera de 1480 --- 27 de abril de 1521 <END> ) foi um navegador português que, ao serviço do <START:PESSOA> rei de Espanha <END> , comandou a expedição marítima que efectuou a primeira viagem de circum-navegação ao globo.
+Foi o primeiro a dobrar estreito <START:TEMPO> hoje <END> conhecido pelo seu nome (o <START:ABSTRACCAO> Estreito de Magalhães <END> ) e o primeiro europeu a navegar no <START:LOCAL> Oceano Pacífico <END> .
+<START:PESSOA> Fernão de Magalhães <END> morre nas <START:LOCAL> Filipinas <END> no curso daquela expedição, posteriormente chefiada por <START:PESSOA> Juan Sebastián Elcano <END> <START:TEMPO> 1522 <END> .
+Alista-se com <START:VALOR> 25 anos <END> na armada que foi à <START:LOCAL> Índia <END> , comandada por <START:PESSOA> Francisco de Almeida <END> , embora o seu nome não figure nas crónicas; sabe-se no entanto que ali permaneceu <START:TEMPO> oito anos <END> , que esteve em <START:LOCAL> Goa <END> , <START:LOCAL> Cochim <END> , <START:LOCAL> Quíloa <END> , que acompanhou <START:PESSOA> Diogo Lopes de Sequeira <END> a <START:LOCAL> Malaca <END> , viagem que acabou em naufrágio.
+No <START:LOCAL> Oriente <END> , <START:PESSOA> Magalhães <END> estabeleceu estreitas relações de amizade com <START:PESSOA> Francisco Serrão <END> , que veio a ser feitor nas <START:LOCAL> Molucas <END> ; dele teria tido informações quanto à situação dos lugares produtores de especiarias.
+Tendo-se distinguido na defesa de <START:LOCAL> Azamor <END> , em que acompanhara o <START:PESSOA> duque de Bragança <END> , pediu a <START:PESSOA> D. Manuel <END> uma recompensa para seus feitos; mas os boatos que corriam sobre a maneira pouco escrupulosa como dividira as presas de uma incursão tinham chegado aos ouvidos do <START:PESSOA> Rei <END> .
+Este, apesar das suas justificações, e não o considerando culpado, não lhe concedeu as mercês pedidas.
+<START:TEMPO> Em 1517 <END> foi a <START:LOCAL> Sevilha <END> com <START:PESSOA> Rui Faleiro <END> , tendo encontrado no feitor da <START:LOCAL> Casa de la Contratación <END> da cidade um adepto do projecto que entretanto concebera: dar a <START:ORGANIZACAO> Espanha <END> a possibilidade de atingir as <START:LOCAL> Molucas <END> pelo <START:LOCAL> Ocidente <END> , por mares não reservados aos portugueses no <START:OBRA> Tratado de Tordesilhas <END> e, além disso, segundo <START:PESSOA> Faleiro <END> , provar que as ilhas das especiarias se situavam no hemisfério castelhano.
+Com a influência do <START:PESSOA> bispo de Burgos <END>  conseguiram a aprovação do projecto por parte de <START:PESSOA> Carlos V <END> , e começaram os morosos preparativos para a viagem, cheios de incidentes; depois da ruptura com <START:PESSOA> Rui Faleiro <END> , <START:PESSOA> Magalhães <END> continuou a aparelhagem dos cinco navios que, com <START:VALOR> 256 <END> homens de tripulação, partiram de <START:LOCAL> Sanlúcar de Barrameda <END> <START:TEMPO> em 20 de Setembro de 1519 <END> .
+A esquadra tinha cinco navios e era tripulada por <START:VALOR> 250 <END> homens.
+--DOCSTART--
+
+<START:ACONTECIMENTO> GP Brasil <END> : <START:PESSOA> Raikkonen <END> campeão do <START:LOCAL> Mundo <END> 
+FINLANDÊS DA <START:PESSOA> FERRARI <END> ARREBATOU TÍTULO CONTRA FAVORITISMO DA <START:PESSOA> MCLAREN <END> 
+O finlandês <START:PESSOA> Kimi Raikkonen <END> sagrou-se campeão do <START:LOCAL> Mundo <END>  de <START:ABSTRACCAO> F1 <END> vencendo o  <START:ACONTECIMENTO> GP <END> do <START:LOCAL> Brasil <END> , à frente do companheiro de equipa na <START:PESSOA> Ferrari <END> <START:PESSOA> Filipe Massa <END> e do espanhol <START:PESSOA> Fernando Alonso <END> .
+<START:PESSOA> Lewis Hamilton <END> , colega de <START:PESSOA> Alonso <END> na <START:PESSOA> McLaren <END> , não passou da <START:VALOR> 7.ª <END> posição, depois de partir em vantagem pontual no <START:ACONTECIMENTO> Campeonato do Mundo <END> , e teve de contentar-se com o segundo lugar, com <START:VALOR> 109 <END> pontos, a apenas um do novo campeão, mas os mesmos que <START:PESSOA> Alonso <END> , embora com mais vitórias.
+Emoção
+Não faltou emoção em <START:LOCAL> Interlagos <END> no <START:LOCAL> Circuito José Carlos Pace <END> desde a primeira volta da corrida decisiva do <START:ACONTECIMENTO> Mundial <END> , incluindo alguns acidentes entre actores secundários... e deslizes dos protagonistas.
+O <START:COISA> Ferrari <END> de <START:PESSOA> Raikkonnen <END> partiu que nem um cavallino rampante e juntou-se ao companheiro de equipa tapando <START:PESSOA> Alonso <END> , que por sua vez ganhara uma posição colega <START:PESSOA> Lewis Hamilton <END> .
+O líder do campeonato, que podia muito bem esperar para ver como decorria a prova, tentou passar o bicampeão e cometeu um erro de trajectória na 4.ª curva da primeira volta, saindo de pista e descendo para a <START:VALOR> 8.ª <END> posição, atrás dos <START:PESSOA> Toyota <END> .
+Quando já recuperara para o quinto posto, eis que o britânico abranda com problemas na electrónica, acabando na <START:VALOR> 18.ª <END> posição, o que o obriga a fazer uma corrida de trás para a frente na busca do título!
+A <START:VALOR> 8 <END> voltas do fim, <START:PESSOA> Raikkonen <END> liderava e já era campeão virtual, atrás de <START:PESSOA> Alonso <END> ( <START:VALOR> 3.º <END> na prova) e <START:PESSOA> Hamilton <END> ( <START:VALOR> 8.º <END> ) : o domínio da <START:PESSOA> Ferrari <END> era total na corrida, e só destinatário do título era incerto...
+Mas a <START:VALOR> 5 <END> voltas do fim o finlandês fez a melhor volta do dia, enquanto <START:PESSOA> Hamilton <END> era apenas <START:VALOR> 7.º <END> ... <START:TEMPO> a 15 segundos <END>  de <START:PESSOA> Heidfeld <END> , e muito longe do <START:VALOR> 5.º <END> lugar que lhe daria o título.
+Festa à brasileira para <START:PESSOA> Raikkonen <END> com dobradinha de <START:PESSOA> Massa <END> bem saborosa para a <START:PESSOA> Ferrari <END> :  <START:ACONTECIMENTO> GP <END> do <START:LOCAL> Brasil <END> e <START:ACONTECIMENTO> Mundiais <END> de pilotos e construtores...
