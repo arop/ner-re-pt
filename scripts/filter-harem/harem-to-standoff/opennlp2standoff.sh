@@ -1,17 +1,21 @@
 #!/bin/bash
 
 OPENNLP=../../../tools/open-nlp
-for i in {0..9}
+for r in {1..3}
 do
-	python "src/opennlp2standoff.py" $OPENNLP"/outputs/fold-"$i"/cat_train_sent_doc.xml" "outputs/fold-"$i"/cat_train"
-	python "src/opennlp2standoff.py" $OPENNLP"/outputs/fold-"$i"/cat_test_sent_doc.xml" "outputs/fold-"$i"/cat_test"
+	for i in {0..9}
+	do
+		FOLDER=outputs/repeat-$r/fold-$i
+		python "src/opennlp2standoff.py" $OPENNLP"/"$FOLDER"/cat_train_sent_doc.xml" $FOLDER"/cat_train"
+		python "src/opennlp2standoff.py" $OPENNLP"/"$FOLDER"/cat_test_sent_doc.xml" $FOLDER"/cat_test"
 
-	python "src/opennlp2standoff.py" $OPENNLP"/outputs/fold-"$i"/types_train_sent_doc.xml" "outputs/fold-"$i"/types_train"
-	python "src/opennlp2standoff.py" $OPENNLP"/outputs/fold-"$i"/types_test_sent_doc.xml" "outputs/fold-"$i"/types_test"
+		python "src/opennlp2standoff.py" $OPENNLP"/"$FOLDER"/types_train_sent_doc.xml" $FOLDER"/types_train"
+		python "src/opennlp2standoff.py" $OPENNLP"/"$FOLDER"/types_test_sent_doc.xml" $FOLDER"/types_test"
 
-	python "src/opennlp2standoff.py" $OPENNLP"/outputs/fold-"$i"/subtypes_train_sent_doc.xml" "outputs/fold-"$i"/subtypes_train"
-	python "src/opennlp2standoff.py" $OPENNLP"/outputs/fold-"$i"/subtypes_test_sent_doc.xml" "outputs/fold-"$i"/subtypes_test"
+		python "src/opennlp2standoff.py" $OPENNLP"/"$FOLDER"/subtypes_train_sent_doc.xml" $FOLDER"/subtypes_train"
+		python "src/opennlp2standoff.py" $OPENNLP"/"$FOLDER"/subtypes_test_sent_doc.xml" $FOLDER"/subtypes_test"
 
-	python "src/opennlp2standoff.py" $OPENNLP"/outputs/fold-"$i"/filtered_train_sent_doc.xml" "outputs/fold-"$i"/filtered_train"
-	python "src/opennlp2standoff.py" $OPENNLP"/outputs/fold-"$i"/filtered_test_sent_doc.xml" "outputs/fold-"$i"/filtered_test"
+		python "src/opennlp2standoff.py" $OPENNLP"/"$FOLDER"/filtered_train_sent_doc.xml" $FOLDER"/filtered_train"
+		python "src/opennlp2standoff.py" $OPENNLP"/"$FOLDER"/filtered_test_sent_doc.xml" $FOLDER"/filtered_test"
+	done
 done
