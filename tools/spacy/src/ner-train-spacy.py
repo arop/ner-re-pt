@@ -6,11 +6,10 @@ import json
 import pathlib
 
 import spacy
-from spacy.pipeline import EntityRecognizer
+from spacy.pipeline import BeamEntityRecognizer
 from spacy.gold import GoldParse
 from spacy.tagger import Tagger
 import random
-#from spacy.pt import Portuguese
 
 import sys
  
@@ -21,7 +20,7 @@ except:
 
 def train_ner(nlp, train_data, entity_types):
     # Train NER.
-    ner = EntityRecognizer(nlp.vocab, entity_types=entity_types)
+    ner = BeamEntityRecognizer(nlp.vocab, entity_types=entity_types)
 
     for itn in range(20):
         random.shuffle(train_data)
@@ -89,7 +88,6 @@ def create_vocab(nlp, data):
     return nlp
 
 def main(model_dir=None):
-    # nlp = Portuguese()
     nlp = spacy.get_lang_class('pt')(path=None)
 
     # v1.1.2 onwards
