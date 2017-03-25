@@ -1,0 +1,28 @@
+processed 7313 tokens with 490 phrases; found: 366 phrases; correct: 166.
+accuracy:  91.48%; precision:  45.36%; recall:  33.88%; FB1:  38.79
+ABSTRACCAO_DISCIPLINA: precision:  66.67%; recall:   4.55%; FB1:   8.51  3
+ ABSTRACCAO_IDEIA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  ABSTRACCAO_NOME: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ACONTECIMENTO_EFEMERIDE: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ACONTECIMENTO_ORGANIZADO: precision:  50.00%; recall:   6.67%; FB1:  11.76  2
+     COISA_CLASSE: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+ COISA_SUBSTANCIA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     LOCAL_FISICO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     LOCAL_HUMANO: precision:  50.00%; recall:  60.23%; FB1:  54.64  106
+    LOCAL_VIRTUAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       OBRA_PLANO: precision:  50.00%; recall:  37.50%; FB1:  42.86  6
+ OBRA_REPRODUZIDA: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+ORGANIZACAO_ADMINISTRACAO: precision:  75.00%; recall:  22.50%; FB1:  34.62  12
+ORGANIZACAO_EMPRESA: precision:  25.00%; recall:   7.14%; FB1:  11.11  4
+ORGANIZACAO_INSTITUICAO: precision:  56.76%; recall:  60.00%; FB1:  58.33  37
+     PESSOA_CARGO: precision:  66.67%; recall:  46.15%; FB1:  54.55  9
+PESSOA_GRUPOCARGO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+PESSOA_GRUPOMEMBRO: precision:  25.00%; recall:   2.86%; FB1:   5.13  4
+PESSOA_INDIVIDUAL: precision:  37.19%; recall:  68.18%; FB1:  48.13  121
+      PESSOA_POVO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    TEMPO_DURACAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ TEMPO_FREQUENCIA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   TEMPO_GENERICO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+TEMPO_TEMPO_CALEND: precision:  56.10%; recall:  38.33%; FB1:  45.54  41
+      VALOR_MOEDA: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+ VALOR_QUANTIDADE: precision:  12.50%; recall:  10.00%; FB1:  11.11  8

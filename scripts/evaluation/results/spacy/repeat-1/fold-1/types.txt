@@ -1,0 +1,27 @@
+processed 6676 tokens with 436 phrases; found: 302 phrases; correct: 166.
+accuracy:  91.52%; precision:  54.97%; recall:  38.07%; FB1:  44.99
+ABSTRACCAO_DISCIPLINA: precision:  33.33%; recall:  12.50%; FB1:  18.18  3
+  ABSTRACCAO_NOME: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+ACONTECIMENTO_EFEMERIDE: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ACONTECIMENTO_EVENTO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ACONTECIMENTO_ORGANIZADO: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+     COISA_CLASSE: precision:   0.00%; recall:   0.00%; FB1:   0.00  6
+ COISA_SUBSTANCIA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     LOCAL_FISICO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     LOCAL_HUMANO: precision:  54.93%; recall:  54.17%; FB1:  54.55  71
+    LOCAL_VIRTUAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       OBRA_PLANO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ OBRA_REPRODUZIDA: precision:  28.57%; recall:  50.00%; FB1:  36.36  7
+ORGANIZACAO_ADMINISTRACAO: precision:  81.82%; recall:  37.50%; FB1:  51.43  11
+ORGANIZACAO_EMPRESA: precision:  50.00%; recall:   7.69%; FB1:  13.33  2
+ORGANIZACAO_INSTITUICAO: precision:  61.82%; recall:  58.62%; FB1:  60.18  55
+     PESSOA_CARGO: precision:  50.00%; recall: 100.00%; FB1:  66.67  4
+PESSOA_GRUPOMEMBRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+PESSOA_INDIVIDUAL: precision:  52.17%; recall:  63.16%; FB1:  57.14  69
+      PESSOA_POVO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    TEMPO_DURACAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ TEMPO_FREQUENCIA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   TEMPO_GENERICO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+TEMPO_TEMPO_CALEND: precision:  73.47%; recall:  42.35%; FB1:  53.73  49
+      VALOR_MOEDA: precision:  25.00%; recall:   7.14%; FB1:  11.11  4
+ VALOR_QUANTIDADE: precision:  38.46%; recall:  10.42%; FB1:  16.39  13

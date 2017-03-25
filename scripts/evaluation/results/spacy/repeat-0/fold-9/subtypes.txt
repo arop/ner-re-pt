@@ -1,0 +1,9 @@
+processed 2715 tokens with 41 phrases; found: 7 phrases; correct: 5.
+accuracy:  97.53%; precision:  71.43%; recall:  12.20%; FB1:  20.83
+ABSTRACCAO_IDEIA_: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_HUMANO_DIVISAO: precision:  50.00%; recall:  10.53%; FB1:  17.39  4
+LOCAL_HUMANO_PAIS: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_VIRTUAL_SITIO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ORGANIZACAO_ADMINISTRACAO_: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+TEMPO_TEMPO_CALEND_DATA: precision: 100.00%; recall:  21.43%; FB1:  35.29  3
+TEMPO_TEMPO_CALEND_HORA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
