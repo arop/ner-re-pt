@@ -8,11 +8,8 @@ else:
 	print "Usage: " + sys.argv[0] + " <level> <fold> <repeat>\n"
 	sys.exit()
 
-#one = open('repeat-'+repeat+'/ner-results/fold-'+fold+'/out-'+level+'.txt','r').read().splitlines()
-#two = open('repeat-'+repeat+'/ner-results/fold-'+fold+'/out-'+level+'-gold.txt','r').read().splitlines()
-
-one = open('out_gold.txt','r').read().splitlines()
-two = open('out_entities.txt','r').read().splitlines()
+one = open('repeat-'+repeat+'/fold-'+fold+'/'+level+'.txt','r').read().splitlines()
+two = open('repeat-'+repeat+'/fold-'+fold+'/out-'+level+'-gold.txt','r').read().splitlines()
 
 i = 0
 for i,line in enumerate(one):

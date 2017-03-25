@@ -90,6 +90,9 @@ for span in gold:
 		if not re.match(r'\s',t) and not re.match(r'--DOCSTART--',t):
 			to_gold += t + '\t' + tag + '\n'
 
+to_gold = re.sub(r'\tU-(\w+)',r'\tB-\1',to_gold)
+to_gold = re.sub(r'\tL-(\w+)',r'\tI-\1',to_gold)
+
 f = open('outputs/'+model+'-gold.txt','w')
 f.write(to_gold.encode('ISO-8859-1'))
 f.close()

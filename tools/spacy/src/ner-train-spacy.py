@@ -22,7 +22,7 @@ def train_ner(nlp, train_data, entity_types):
     # Train NER.
     ner = BeamEntityRecognizer(nlp.vocab, entity_types=entity_types)
 
-    for itn in range(20):
+    for itn in range(10):
         random.shuffle(train_data)
         print('Iteration: ' + str(itn))
     	for raw_text, entity_offsets in train_data:
