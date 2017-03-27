@@ -1,10 +1,11 @@
 import re
 import sys
 
-if len(sys.argv) > 1:
+if len(sys.argv) > 2:
 	filein = sys.argv[1]
+	fileout = sys.argv[2]
 else:
-	print "Usage: python " + sys.argv[0] + " <input file>\n"
+	print "Usage: python " + sys.argv[0] + " <input file> <output file>\n"
 	sys.exit()
 
 f = open(filein,'r')
@@ -26,6 +27,6 @@ for i,line in enumerate(f_str[1:]):
 
 to_file = "\n".join(f_str)
 
-o = open(filein,'w')
+o = open(fileout,'w')
 o.write(to_file)
 o.close()

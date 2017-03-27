@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # stanford
-# cd run-scripts && ./run-cat-stanford.sh ; cd -
-# cd run-scripts && ./run-filtered-stanford.sh ; cd -
+cd run-scripts && ./run-cat-stanford.sh ; cd -
+cd run-scripts && ./run-filtered-stanford.sh ; cd -
 # cd run-scripts && ./run-types-stanford.sh ; cd -
 # cd run-scripts && ./run-subtypes-stanford.sh ; cd -
 
@@ -19,7 +19,7 @@
 # cd run-scripts && ./run-filtered-nltk.sh ; cd -
 
 # spacy
-cd run-scripts && ./run-cat-spacy.sh ; cd -
-cd run-scripts && ./run-types-spacy.sh ; cd -
-cd run-scripts && ./run-subtypes-spacy.sh ; cd -
-cd run-scripts && ./run-filtered-spacy.sh ; cd -
+# cd run-scripts && ./run-cat-spacy.sh ; cd -
+# cd run-scripts && ./run-types-spacy.sh ; cd -
+# cd run-scripts && ./run-subtypes-spacy.sh ; cd -
+# cd run-scripts && ./run-filtered-spacy.sh ; cd -
