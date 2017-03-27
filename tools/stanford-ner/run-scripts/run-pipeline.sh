@@ -2,13 +2,13 @@
 
 # tokenize train and test set, in filter-harem/outputs/
 printf "***tokenizing***\n"
-time ./tokenize.sh
+#time ./tokenize.sh
 # convert tokens to conll annotation scheme
 printf "\n***token to conll***\n"
-time ./token-to-conll.sh
+#time ./token-to-conll.sh
 
 # train
-for r in {1..3}
+for r in 3
 do
 	printf "\n*****repeat "$r"*****\n"
 	for i in {0..9}

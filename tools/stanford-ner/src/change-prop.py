@@ -19,8 +19,8 @@ f = open(filein, 'r')
 file = f.read()
 f.close()
 
-trainFile = '../../../outputs/repeat-' + repeat + '/fold-' + fold + '/t_' + level + '_train.txt\n'
-serializeTo = '../../../models/repeat-' + repeat + '/fold-' + fold + '/' + level + '-ner-model.ser.gz\n'
+trainFile = '../../outputs/repeat-' + repeat + '/fold-' + fold + '/t_' + level + '_train.txt\n'
+serializeTo = '../../models/repeat-' + repeat + '/fold-' + fold + '/' + level + '-ner-model.ser.gz\n'
 
 file = re.sub(r'trainFile = .+\n','trainFile = ' + trainFile, file)
 file = re.sub(r'serializeTo = .+\n','serializeTo = ' + serializeTo, file)

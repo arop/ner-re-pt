@@ -3,7 +3,7 @@
 # perform ner on test set
 # remove empty lines (sentence segmentation)
 # from http://unix.stackexchange.com/questions/76061/can-sed-remove-double-newline-characters
-for r in {1..3}
+for r in {1..2}
 do
 	for i in {0..9}
 	do
