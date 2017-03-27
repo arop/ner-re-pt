@@ -1,2 +1,16 @@
 types and subtypes require more than 8gb of ram
 were trained using a different prop file, with less features
+
+--------------------
+**** TRAINING ****
+-- DIFFERENT ENV --
+cat r1-f8
+cat r2-f2
+cat r3-f9
+
+-- DONE BUT OUT OF MEMORY --
+cat r1-f9
+cat r2-f7
+
+each filtered takes ~5min
+each categories takes ~15min

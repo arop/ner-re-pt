@@ -8,7 +8,7 @@ printf "\n***token to conll***\n"
 #time ./token-to-conll.sh
 
 # train
-for r in 3
+for r in {0..3}
 do
 	printf "\n*****repeat "$r"*****\n"
 	for i in {0..9}
@@ -34,9 +34,9 @@ done
 
 # test - perform ner
 printf "\n***testing categories***\n"
-cd test && time ./test-cat.sh ; cd -
+cd test && time ./test-cat.sh ; cd - #1min30 r[1-3]
 printf "\n***testing filtered***\n"
-cd test && time ./test-filtered.sh ; cd -
+cd test && time ./test-filtered.sh ; cd - #1min20 r[1-3]
 # printf "\n***testing types***\n"
 # cd test && time ./test-types.sh ; cd - # not enough RAM
 # printf "\n***testing subtypes***\n"

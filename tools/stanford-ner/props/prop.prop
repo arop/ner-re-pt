@@ -1,9 +1,9 @@
 # location of the training file
-trainFile = ../../outputs/repeat-3/fold-3/t_cat_train.txt
+trainFile = ../../outputs/repeat-3/fold-9/t_filtered_train.txt
 # location where you would like to save (serialize) your
 # classifier; adding .gz at the end automatically gzips the file,
 # making it smaller, and faster to load
-serializeTo = ../../models/repeat-3/fold-3/cat-ner-model.ser.gz
+serializeTo = ../../models/repeat-3/fold-9/filtered-ner-model.ser.gz
 
 # structure of your training file; this tells the classifier that
 # the word is in column 0 and the correct answer is in column 1

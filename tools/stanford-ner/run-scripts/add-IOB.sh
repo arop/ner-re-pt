@@ -7,7 +7,7 @@ do
 	do
 		printf "\n***** fold "$i" *****\n"
 		
-		FOLDER=../outputs/ner-results/repeat-$r/fold-$i
+		FOLDER=../outputs/repeat-$r/ner-results/fold-$i
 		FOLDERG=../outputs/repeat-$r/fold-$i
 		
 		python ../src/add-IOB.py $FOLDER'/out-cat.txt'

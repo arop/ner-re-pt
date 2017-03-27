@@ -10,8 +10,8 @@ do
 		CRF=edu.stanford.nlp.ie.crf.CRFClassifier
 		TOKENIZER=edu.stanford.nlp.process.WhitespaceTokenizer
 		CLASSIFIER=../../models/repeat-$r/fold-$i/cat-ner-model.ser.gz
-		TXT="../../outputs/repeat-"$r"/fold-"$i"/t_cat_test.txt-clean.txt"
-		OUT=../../outputs/ner-results/fold-$i/out-cat.txt
+		TXT=../../outputs/repeat-$r/fold-$i/t_cat_test.txt-clean.txt
+		OUT=../../outputs/repeat-$r/ner-results/fold-$i/out-cat.txt
 
 		java -d64 -Xmx6g -cp ../stanford-corenlp.jar $CRF -tokenizerFactory $TOKENIZER -loadClassifier $CLASSIFIER -textFile $TXT -outputFormat tsv -encoding iso-8859-1 |  tr -s '\n' > $OUT
 	done
