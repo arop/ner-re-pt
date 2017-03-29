@@ -5,7 +5,7 @@ T4	Localizacao 164 185	Convento de Monchique
 T5	Localizacao 188 193	Porto
 T6	Pessoa 202 216	Marta Sequeira
 T7	Pessoa 218 232	Marta Sequeira
-T8	Organizacao 248 269	Universidade de Évora
+T8	UnidadeOrganica 248 269	Universidade de Évora
 T9	UnidadeOrganica 296 347	Faculdade de Arquitectura da Universidade de Lisboa
 T10	Evento 389 438	Ciclo 'Aulas de Autor . Le Corbusier e o Desenho'
 T11	Evento 480 522	Le Corbusier e as casas dos monges brancos
@@ -28,7 +28,7 @@ T27	Pessoa 1532 1546	Marta Sequeira
 T28	Localizacao 1557 1563	Lisboa
 T29	Data 1567 1571	1977
 T30	UnidadeOrganica 1592 1650	aculdade de Arquitectura da Universidade Técnica de Lisboa
-T31	Organizacao 1760 1797	Universidade Politécnica da Catalunha
+T31	UnidadeOrganica 1760 1797	Universidade Politécnica da Catalunha
 T32	Data 1652 1656	2001
 T33	Data 1799 1803	2008
 T34	Evento 1865 1887	Segunda Guerra Mundial
@@ -38,7 +38,7 @@ T37	Organizacao 1985 2014	Fundação Ciência e Tecnologia
 T38	Organizacao 2022 2050	Fundação Calouste Gulbenkian
 T39	Organizacao 2117 2167	International Council for Research in Architecture
 T40	Data 2176 2180	2008
-T41	Organizacao 2206 2227	Universidade de Évora
+T41	UnidadeOrganica 2206 2227	Universidade de Évora
 T42	Data 2237 2241	2011
 T43	Data 2244 2248	2012
 T44	UnidadeOrganica 2367 2418	Faculdade de Arquitectura da Universidade de Lisboa
@@ -71,8 +71,8 @@ T70	Pessoa 3565 3579	Marta Sequeira
 T71	Pessoa 3581 3603	Carlos Machado e Moura
 T72	Pessoa 3605 3613	Rui Neto
 T73	Pessoa 3616 3636	Noémia Herdade Gomes
-T74	Organizacao 3757 3786	Universidade do Porto Digital
-T75	Organizacao 3788 3797	UPdigital
+T74	UnidadeOrganica 3757 3786	Universidade do Porto Digital
+T75	UnidadeOrganica 3788 3797	UPdigital
 T76	UnidadeOrganica 3800 3820	Faculdades de Letras
 T77	UnidadeOrganica 3822 3826	FLUP
 T78	UnidadeOrganica 3830 3851	Engenharia da U.Porto
@@ -86,3 +86,7 @@ T85	Organizacao 4046 4058	Livraria A+A
 T86	Organizacao 4064 4079	Livraria AEFAUP
 T87	Pessoa 4124 4145	Francisco Providência
 T88	Pessoa 4182 4202	Cátia Cunha Pimentel
+T89	Evento 32 76	'Le Corbusier e as casas dos monges brancos'
+T90	Evento 96 120	Le Corbusier e o Desenho
+T91	UnidadeOrganica 1704 1756	Escola Técnica Superior de Arquitectura de Barcelona
+T92	UnidadeOrganica 2266 2294	Departamento de Arquitectura

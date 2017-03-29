@@ -1,7 +1,7 @@
 T1	Data 102 121	23 de Março de 2017
 T2	Hora 138 143	11h00
 T3	Localizacao 145 160	Sala do Janelão
-T4	Organizacao 163 167	FAUP
+T4	UnidadeOrganica 163 167	FAUP
 T5	Pessoa 16 41	Mariana Abrunhosa Pereira
 T7	Pessoa 169 194	Mariana Abrunhosa Pereira
 T8	Evento 44 99	Turismo e Património no Entreposto de Vila Nova de Gaia
@@ -10,7 +10,7 @@ T9	Evento 316 382	Das Devesas a General Torres | Territórios em transformação
 T10	Data 416 427	23 de Março
 T11	Hora 447 452	11h00
 T12	Localizacao 457 472	Sala do Janelão
-T13	Organizacao 475 479	FAUP
+T13	UnidadeOrganica 475 479	FAUP
 T14	Pessoa 578 603	Mariana Abrunhosa Pereira
 T15	Curso 618 630	Arquitectura
 T16	UnidadeOrganica 636 686	Faculdade de Arquitectura da Universidade do Porto
@@ -37,7 +37,7 @@ T36	Organizacao 1750 1787	Morfologias e Dinâmicas do Território
 T37	Organizacao 1789 1792	MDT
 T38	Organizacao 1796 1841	Centro de Estudos de Arquitectura e Urbanismo
 T39	Organizacao 1843 1847	CEAU
-T40	Organizacao 1853 1857	FAUP
+T40	UnidadeOrganica 1853 1857	FAUP
 T41	Curso 2067 2101	Mestrado Integrado em Arquitectura
 T42	Curso 2103 2108	MIArq
 T43	Pessoa 2111 2123	Teresa Calix

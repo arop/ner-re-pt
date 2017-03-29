@@ -1,11 +1,11 @@
 T1	Data 43 67	10 a 18 de março de 2017
 T2	Pessoa 26 38	Raul Brandão
 T3	Pessoa 95 107	Raul Brandão
-T4	Organizacao 110 143	Reitoria da Universidade do Porto
+T4	UnidadeOrganica 110 143	Reitoria da Universidade do Porto
 T5	Data 183 194	10 de março
 T6	Pessoa 274 286	Raul Brandão
 T7	Organizacao 395 424	Academia Politécnica do Porto
-T8	Organizacao 441 448	U.Porto
+T8	UnidadeOrganica 441 448	U.Porto
 T9	Data 465 473	10 março
 T10	Hora 475 480	18h30
 T11	Hora 652 657	18h30
@@ -14,10 +14,10 @@ T13	Hora 1106 1111	10h00
 T14	Data 639 650	13 de março
 T15	Data 806 817	17 de março
 T16	Data 1093 1104	18 de março
-T17	Organizacao 659 692	Reitoria da Universidade do Porto
-T18	Organizacao 482 515	Reitoria da Universidade do Porto
-T19	Organizacao 826 859	Reitoria da Universidade do Porto
-T20	Organizacao 1113 1146	Reitoria da Universidade do Porto
+T17	UnidadeOrganica 659 692	Reitoria da Universidade do Porto
+T18	UnidadeOrganica 482 515	Reitoria da Universidade do Porto
+T19	UnidadeOrganica 826 859	Reitoria da Universidade do Porto
+T20	UnidadeOrganica 1113 1146	Reitoria da Universidade do Porto
 T21	Pessoa 584 610	José Carlos Seabra Pereira
 T22	Pessoa 761 772	Nuno Júdice
 T23	Pessoa 929 940	Pedro Eiras
@@ -26,8 +26,8 @@ T25	Pessoa 982 996	Álvaro Machado
 T26	Pessoa 1048 1066	Maria João Reynaud
 T27	Pessoa 1165 1178	Germano Silva
 T28	Pessoa 1209 1221	Raul Brandão
-T29	Organizacao 612 635	Universidade de Coimbra
+T29	UnidadeOrganica 612 635	Universidade de Coimbra
 T30	Organizacao 774 802	Fundação Calouste Gulbenkian
-T31	Organizacao 942 963	Universidade do Porto
-T32	Organizacao 998 1020	Universidade de Lisboa
-T33	Organizacao 1068 1089	Universidade do Porto
+T31	UnidadeOrganica 942 963	Universidade do Porto
+T32	UnidadeOrganica 998 1020	Universidade de Lisboa
+T33	UnidadeOrganica 1068 1089	Universidade do Porto
