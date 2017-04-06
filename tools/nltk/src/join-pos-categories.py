@@ -1,6 +1,6 @@
 import sys
 
-if(len(sys.argv) > 1):
+if(len(sys.argv) > 3):
   pos_tagged = sys.argv[1]
   tokenized_w_categories = sys.argv[2]
   fileout = sys.argv[3]

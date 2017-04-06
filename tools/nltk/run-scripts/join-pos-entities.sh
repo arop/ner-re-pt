@@ -1,9 +1,9 @@
 #!/bin/bash
 
-SCRIPT="src/join-pos-categories.py"
+SCRIPT="../src/join-pos-categories.py"
 printf "\n*** joining pos with entities ***\n"
 
-for r in {1..3}
+for r in {0..3}
 do
 	printf "\n** repeat "$r" **\n"
 	

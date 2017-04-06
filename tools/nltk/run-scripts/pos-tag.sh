@@ -1,9 +1,9 @@
 #!/bin/bash
 
-SCRIPT="src/pos-tagging-docs.py"
+SCRIPT="../src/pos-tagging-docs.py"
 printf "\n*** pos tagging ***\n"
-
-for r in {1..3}
+# all 20min
+for r in {0..3}
 do
 	printf "\n** repeat "$r" **\n"
 
