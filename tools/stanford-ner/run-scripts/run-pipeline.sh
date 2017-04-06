@@ -2,10 +2,10 @@
 
 # tokenize train and test set, in filter-harem/outputs/
 printf "***tokenizing***\n"
-#time ./tokenize.sh
+time ./tokenize.sh
 # convert tokens to conll annotation scheme
 printf "\n***token to conll***\n"
-#time ./token-to-conll.sh
+time ./token-to-conll.sh
 
 # train
 for r in {0..3}
