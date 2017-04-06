@@ -43,7 +43,7 @@ def filter_dataset(tree):
 # change categories to types, when there is none, strip entity
 def filter_types(tree):
   for el in tree.iterfind("//EM"):
-    if('TIPO' in el.attrib):
+    if('TIPO' in el.attrib and len(el.attrib['TIPO']) > 0):
       el.attrib['CATEG'] = el.attrib['CATEG'] + '_' + el.attrib['TIPO']
     else:
       el.tag = "to_strip"
@@ -55,7 +55,7 @@ def filter_types(tree):
 # change categories to subtypes, when there is none, strip entity
 def filter_subtypes(tree):
   for el in tree.iterfind("//EM"):
-    if('SUBTIPO' in el.attrib):
+    if('SUBTIPO' in el.attrib and len(el.attrib['SUBTIPO']) > 0):
       el.attrib['CATEG'] = el.attrib['CATEG'] + '_' + el.attrib['TIPO'] + '_' + el.attrib['SUBTIPO']
     else:
       el.tag = "to_strip"

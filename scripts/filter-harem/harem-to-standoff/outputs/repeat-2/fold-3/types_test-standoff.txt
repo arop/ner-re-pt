@@ -1,248 +1,127 @@
 --DOCSTART--
- Sistema de Posicionamento Global        
- O Sistema de Posicionamento Global , vulgarmente conhecido por GPS (do acrónimo do inglês Global Positioning System ), é um sistema de posicionamento por satélite americano, por vezes incorrectamente designado de sistema de navegação, utilizado para determinação da posição de um receptor na superfície da Terra ou em órbita.
-Existem atualmente dois sistemas efetivos de posicionamento por satélite; o GPS americano e o Glonass russo; também existem mais dois sistemas em implantação; o Galileo europeu e o Compass chinês.
-O sistema GPS foi criado e é controlado pelo    Departamento de Defesa   dos   Estados Unidos da América  , DoD , e pode ser utilizado por qualquer pessoa, gratuitamente, necessitando apenas de um receptor que capte o sinal emitido pelos satélites.
-O DoD fornece dois tipos de serviços GPS : Standard e Precision .
-Contrariamente ao que inicialmente acontecia, actualmente os dois serviços estão disponíveis em regime aberto em qualquer parte do mundo.
-O sistema está dividido em três partes: espacial, de controlo e utilizador.
-O segmento espacial é composto pela constelação de satélites.
-O segmento de controlo é formado pelas estações terrestres dispersas pelo mundo ao longo da Zona Equatorial , responsáveis pela monitorização das órbitas dos satélites, sincronização dos relógios atómicos de bordo dos satélites e actualização dos dados de almanaque que os satélites transmitem.
-O segmento do utilizador consiste num receptor que capta os sinais emitidos pelos satélites.
-Um receptor GPS ( GPSR ) descodifica as transmissões do sinal de código e fase de múltiplos satélites e calcula a sua posição com base nas distâncias a estes.
-A posição é dada por latitude, longitude e altitude, coordenadas geodésicas referentes ao sistema WGS84 .
+ Reino Unido quer proibir Tintim        
+ 12/Julho/2007 · 182 Comentários        
+ A Comissão pela Igualdade Racial , do governo britânico, pediu que as livrarias interrompam a venda de Tintim na África  , segundo álbum em quadrinhos de uma das séries mais populares do mundo.
+O livro é racista.
+Profundamente racista.
+Colonialista ao limite.
+Publicado em 1930 , em Tintin au Congo  negros são burros qual portas e são chamados de macacos.
+O álbum não é sequer particularmente bom: é uma obra menor na coleção ilustrada e redigida por Georges Remi , que se assinava Hergé .
+No Reino Unido , Tintim na África  é vendido entre os livros adultos, não entre os juvenis, justamente por conta do conteúdo racista.
+Traz na capa um alerta.
+Já velho, antes de morrer, Hergé falou da obra.
+"Quando jovem, disse, "fui muito influenciado pelos preconceitos e estereótipos burgueses do tempo.
+Ele listava Tintim na África  entre seus pecados de juventude.
+Hergé é autor de algumas das coisas mais geniais e profundas da história dos quadrinhos.
+Inclua-se na lista sua obra prima, Tintim no Tibete , na qual o jovem repórter embrenha-se pelas montanhas geladas na tentativa de encontrar Chang , seu amigo chinês, único sobrevivente de um acidente de avião.
+O livro, de 1960 , é místico, orientalizado, respeitoso - tolerante e fascinado com o encontro de culturas distintas.
+O governo britânico não está censurando: pede que as livrarias cooperem interrompendo a venda.
+Tintim na África  faz parte de uma coleção de 23 álbuns.
+Se é mais imaturo - e é - também é um retrato de como a burguesia européia via o resto do mundo nos anos 1930 .
+Se o racismo nos incomoda hoje , se mesmo racistas envergonham-se de demonstrar o que pensam, é por conta de tragédias e lutas que, entre o Holocausto e Luther King , remodelaram nossa percepção do mundo.
+Esquecer que o racismo era natural há oitenta anos é desdenhar do esforço envolvido em dominá-lo.
+Se deixamos de ler os registros cotidianos daquele tempo - como Tintim na África  -, estimulamos este esquecimento.
+Nenhuma obra deve ser lida ignorando a época na qual foi escrita.
+O intervalo entre Tintim na África  e Tintim no Tibete  mostra ao leitor de Hergé a mudança do autor.
+Certamente ele não seria lembrado se tivesse deixado apenas aqueles primeiros álbuns.
+Mas como cresceu entre um e outro.
 --DOCSTART--
     
-Fatores Demográficos e Econômicos Subjacentes    
- A revolta histórica produz normalmente uma nova forma de pensamento quanto à forma de organização da sociedade.
-Assim foi com a Reforma Protestante .
-No seguimento do colapso de instituições monásticas e do escolasticismo nos finais da Idade Média na Europa , acentuado pela " Cativeiro Babilónica da igreja " no papado de Avignon , o Grande Cisma e o fracasso da conciliação, assistimos no século XVI ao fermentar de um enorme debate sobre a reforma da religião e dos posteriores valores religiosos fundamentais.
-Este debate passou completamente ao lado de Portugal , demasiado distante do foco onde surgiram estes pensamentos.
-A imprensa, inventada na Alemanha por John Gutenberg , foi importante na divulgação destas ideias.
-As   95 Teses  de Martinho Lutero foram imediatamente impressas e divulgadas por todas as regiões de língua alemã, o que contribuiu para a crescente popularidade de Martinho Lutero .
-Não menos relevante foi a influência da pressão social exercida pela Contra-Reforma , na qual os Jesuítas tiveram um papel de liderança.
-A Inquisição e a censura exercida pela Igreja Católica foram igualmente determinantes para evitar que as ideias reformadoras encontrassem divulgação em Portugal , Espanha ou Itália , países católicos.
-Historiadores assumem geralmente que a incapacidade de reformar (grande número de interesses legítimos, falta de coordenação na coligação dos reformadores) poderia levar a uma grande revolta ou revolução, uma vez que o sistema deverá ser gradualmente ajustado ou então desintegrar-se.
-O fracasso da conciliação levou à Reforma Protestante do ocidente europeu.
-Estes movimentos reformistas frustrados variam desde o nominalismo, a moderna devoção, ao humanismo, e ocorrem em conjunção com o crescente desagrado perante a riqueza e o poder da elite clerical, sensibilizando a população para a corrupção moral e financeira da Igreja .
-A Reforma Religiosa e Política na Inglaterra        
- Henrique VIII O curso da Reforma foi diferente na Inglaterra .
-Tinha havido desde há muito uma forte corrente anti-clerical, tendo a Inglaterra já tido o movimento Lollard , que inspirou os Hussitas na Boémia .
-Mas em cerca de 1520 , no entanto, os Lollards não eram já uma força activa, ou pelo menos um movimento de massas.
-O carácter diferente da Reforma Inglesa deve-se ao facto de ter sido promovida inicialmente pelas necessidades políticas de Henrique VIII .
-Sendo este casado com  Catarina de Aragão e estando apaixonado por Ana Bolena , Henrique solicita ao Papa Clemente VII a anulação do casamento.
-Perante a recusa do Papado , Henrique faz-se proclamar, em 1531 , protector da Igreja inglesa .
-O " Ato de Supremacia ", votado no Parlamento em Novembro de 1534 , colocou Henrique e os seus sucessores na liderança da Igreja : os súbditos deveriam submeter-se ou então seriam excomungados e perseguidos.
-Apesar de uma certa deriva em direcção ao luteranismo, Henrique reafirma a ortodoxia católica através da " Confissão dos Seis Artigos " ( 1539 ).
-Entre 1540 e 1553 , sob Thomas Cromwell , a política conhecida como a dissolução dos mosteiros foi posta em prática.
-A veneração de santos, locais de peregrinação foram atacados.
-Enormes extensões de terras e propriedades da Igreja passaram para as mãos da coroa e posteriormente da nobreza e das classes altas.
-Os direitos adquiridos foram uma força poderosa de apoio às dissoluções.
-Houve muitos opositores da  Reforma de Henrique , tais como Thomas More e o Bispo John Fischer , que foram executados pela sua oposição.
-Mas também existiu um partido crescente de Protestantes genuínos que estavam inspirados pelas doutrinas então correntes no continente.
-Quando Henrique foi sucedido pelo seu filho Eduardo VI em 1547 , os protestantes viram-se em ascendente no governo.
-Uma reforma mais radical foi imposta, com a destruição de imagens e o fecho de capelas, para além de ter sido revogada a " Confissão dos Seis Artigos ".
-Em 1552 , é redigido o novo " Livro de Orações " e promulgada a " Confissão de Fé em Quarenta e Dois Artigos ", que aproximava doutrinalmente a  Igreja de Inglaterra do calvinismo.
-Seguiu-se uma breve reacção católica durante o reinado de Maria I ( 1553-1558 ).
-De início moderada na sua política religiosa, Maria procura a reconciliação com Roma , consagrada em 1554 , quando o Parlamento vota o regresso à obediência papal.
-Porém, as perseguições violentas que move aos não católicos e o seu casamento com Filipe II de Espanha | Filipe II de Espanha , provocam um forte descontentamento na população.
-Um consenso começou a surgir durante o reinado de Isabel I .
-Em 1559 , Isabel retorna à religião do pai, com o restabelecimento do " Ato de Supremacia " e do " Livro de Orações " de Eduardo VI .
-Através da " Confissão dos Trinta e Nove Artigos " ( 1563 ), Isabel alcança um compromisso entre o protestantismo e o catolicismo: embora o dogma se aproxime do calvinismo, só admitindo como sacramento o baptismo e a eucaristia, é mantida a hierarquia episcopal e o fausto das cerimónias religiosas.
-O sucesso da Contra-Reforma no continente e o crescimento de um partido puritano dedicado a estender a Reforma Protestante polarizou a era Elizabetana , apesar da Inglaterra não ter tido até 1640 lutas religiosas comparáveis às dos seus vizinhos.
-Na verdade a Reforma na Inglaterra procurou preservar o máximo da Tradição Católica (episcopado, liturgia e sacramentos).
-A  Igreja da Inglaterra sempre se viu como a "eclesia anglicanae", ou seja, "A Igreja cristã na Inglaterra " e não derivação da  Igreja de Roma ou do movimento reformista do século XVI .
-Como consequência disso sempre existiu dois grandes "partidos" ou "facções": a Igreja Alta ( High Church ) e Igreja Baixa ( Low Church ), que refletem a controvérsia histórica sobre as formas de culto e de expressão.
-A Reforma Anglicana buscou ser a "via média" entre os extremos romanos e puritanos.
-Assim aceitam os dois sacramentos do Evangelho : o Santo Batismo , através do qual a pessoa é feita membro da Igreja de Cristo , sendo que tal graça é complementada na Confirmação , e na Santa Comunhão , que une o cristão ao sacrifício de Cristo Jesus que os alimenta com seu corpo e sangue.
-Para os anglicanos estes dois sacramentos foram instituídos pelo próprio Senhor Jesus Cristo .
-Os demais ritos sacramentais da Igreja também são aceitos, apesar de não terem sido instituídos por Cristo , mas são reconhecidos por serem, em parte, estados de vida aprovados nas Escrituras : a Confirmação , Penitência , Ordens , Matrimônio e a Unção dos enfermos .
-Embora tenham se afastado de muitas das prática devocionais medievais com relação aos santos e a Virgem Maria mantiveram um calendário específico para sua comemoração na Igreja , em especial as antigas festas marianas diretamente associadas aos méritos de seu Filho Jesus Cristo ( Anunciação , Natividade etc).
---DOCSTART--
-
-Bibliografia de Censurados
-Os Censurados nasceram em Lisboa " no ano de 1988 , pelo antigo vocalista da banda Ku de Judas , João Ribas , juntando-se-lhe Orlando Cohen , o ex-membro dos Peste &amp; Sida , Samuel Palitos e ainda Fred Valsassina .
-Os Censurados começaram por tocar ao vivo.
-Muito.
-As letras, em português, eram simples e directas, refrões fortes que traduziam o sentimento da juventude da era Cavaquista .
-O primeiro registo em vinil, na compilação " Feedback " incluiu os temas " Senhores Politicos ", Não Vales Nada " e " Está a andar de Mota " (um instrumental).
-" Tu ò Bófia ", " Não Vales Nada ", " Angústia ", " Senhores Politicos " eram temas fortíssimos que foram passando de cassete em cassete e eram entoados em coro nos concertos muito antes do lançamento do álbum " Censurados " 1990 .
-Este disco é um album histórico que foi aclamado pela mais importante fanzine dedicada ao Punk e Hardore "na altura, a Maximum Rockn'Roll ( EUA ) apesar das letras em português, o que mostra a qualidade das composições e sobretudo das prestações dos músicos.
-Em 1991 editam o 2º  album " Confusão " e passam os anos seguintes na estrada.
-Em 1993 sai o " Sopa " com o single de mesmo nome e uma participação de Jorge Palma na música " Estou agarrado a ti ".
-O ano de 1994 é o ano da despedida, mas antes participam no tributo a Zeca Afonso , " Filhos da Madrugada " com a reedição do tema " O que faz falta ".
-Em 1998 a editora " El Tatu " de Tim reedita os albuns " Censurados " e " Sopa ".
-Em 1999 os Censurados reaparecem, para rejubilo dos fãns, participando no tributo de Xutos &amp; Pontapés , " XX Anos XX Bandas ".
-Participaram na tourné de promoção desse disco com os Xutos , mas ao contrário do que se esperava os Censurados ficaram por aí, não voltando nunca mais.
-Em 2006 é lançado a biografia da banda, " Censurados Até Morrer ", escrita por Augusto Figueira e Renato Conteiro .
---DOCSTART--
-
-Protocolo de Quioto 
-Decreto 7/2002 , de 25 de Março que aprova o Protocolo de Quioto à Convenção Quadro das Nações Unidas sobre Alterações Climáticas 
-Documentos relacionados com o PNALE
-Decisão da Comissão Europeia sobre o PNALE português
-Comunicado de imprensa da COMISSÃO - "Comércio de Emissões: a Comissão deu o seu aval a mais oito planos, abrindo caminho para o início do Comércio de Emissões na data prevista" (IP/04/1250)
-Plano Nacional de Atribuição de Licenças de Emissão - PNALE 2005-2007  (versão notificada à Comissão Europeia )
-PNALE 2005-2007 - Relatório da Consulta Pública 
-Metodologia de Atribuição de Licenças de Emissão - PNALE 2005-2007  
-Documentos relacionados com o Comércio Europeu de Licenças de Emissão
- Directiva 2003/87/CE do Parlamento Europeu e do Concelho , de 13 de Outubro de 2003 , relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na Comunidade e que altera a Directiva 96/61/CE do Conselho 
-Decreto-Lei n.º 233/2004 , de 14 de Dezembro , alterado pelo Decreto-Lei n.º 243-A/2004 , de 31 de Dezembro , que estabelece o regime de comércio de licenças de gases com efeito de estufa na União Europeia
-Decisão da Comissão n.º 156/2004 , de 29 de Janeiro de 2004 , que estabelece orientações para a monitorização e comunicação de informações relativas às emissões de gases com efeito de estufa
-Regulamento (CE) n.º 2216/2004 da Comissão de 21 de Dezembro de 2004 , relativo a um sistema de registos normalizado e protegido em conformidade com a Directiva 2003/87/CE do Parlamento Europeu e do Conselho e a Decisão n.º 280/2004/CE do Parlamento Europeu e do Conselho
-International Emissions Trading Association, "Guidelines for an accredited verification system of the greenhouse gas emissions within the EU Emissions Trading Scheme" (em inglês)
- Directiva 2004/101/CE do Parlamento Europeu e do Conselho , de 27 de Outubro de 2004 , que altera a Directiva 2003/87/CE relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na Comunidade , no que diz respeito aos mecanismos baseados em projectos do Protocolo de Quioto
-
+ EUA MANTÉM EM SEGREDO ARMAS NÃO-LETAIS        
+ Debora MacKenzie , da New Scientist (www.newscientist.com)        
+ Bactérias que comem estradas e edifícios.
+Biocatalizadores que decompõem combustíveis e plásticos.
+Dispositivos que corroem secretamente o alumínio e outros metais.
+Estes são apenas uns poucos exemplos de armas não letais que os EUA tentaram, ou estão a tentar, desenvolver.
+Mas quão próximas estas armas estarão da realidade nunca poderemos saber.
+A US National Academy of Sciences ( NAS ) recusa-se a liberar dúzias de relatórios que propõem ou descrevem seu desenvolvimento, embora os documentos devam estar nos registRos públicos.
+A academia justifica sua reticência sem precedentes mencionando preocupações com segurança após o 11 de Setembro .
+Mas pessoas experientes pensam que a razão real é que as investigações violam tanto a lei dos EUA como tratados internacionais sobre armas químicas e bacteriológicas.
+Os documentos em causa foram colecionados no ano passado por um painel de cientistas acadêmicos e industriais organizado pela NAS para avaliar recentes investigações de armas não letais para o Joint Non-Lethal Weapons Program ( JNLWP ), do Pentágono .
+Os EUA ganharam um interesse acrescido pelas armas não letais após a sua desastrosa missão pacificadora na Somália , em 1993 , quando civis amotinados mataram soldados americanos.
+O painel, cujo relatório deve sair até ao fim deste ano , colecionou 147 relatórios e propostas de investigadores, muitos deles financiados pelo JNLWP .
+Um grupo no Oak Ridge National Laboratory , no Tennessee , por exemplo, propõe utilizar campos eletromagnéticos intensos a fim de produzir efeitos que vão "desde a interrupção da memória de curto prazo à total perda de controlo voluntário das funções corporais".
+Outros propõem armas de energia dirigida.
+Em Março , como é habitual com estudos não-classificados da NAS , eles foram depositados no Public Access Records Office da academia, e os seus títulos foram divulgados (ver abaixo).
+"Estes documentos são supostos serem públicos", afirma Ed Hammond do Sunshine Project , um grupo que faz campanha contra armas biológicas.
+Quando ele pediu ao serviço de registros para ver 77 dos documentos, este concordou em cedê-los.
+"Mas dois dias depois a NAS retirou os documentos", conta Hammond . "
+Kevin Hale , o responsável de segurança da NAS , disse-me que era porque alguém havia exprimido preocupação".
+Quem o fez não é claro.
+A pressão restritiva não parece ter vindo da própria JNLWP , porque na semana passada esta enviou a Hammond oito documentos que ele havia requerido, incluindo três que estavam na lista da NAS .
+New Scientist não pode contatar Hale .
+"Ainda estamos a formular a nossa resposta às pessoas da Sunshine ", foi tudo que um assistente disse.
+Mas os poucos relatórios que Hammond obteve constituem uma leitura interessante.
+Mais de um ano atrás ,  New Scientist  revelou que responsáveis superiores da JNLWP pretendiam reescrever os tratados de armas químicas e biológicas a fim de terem mais liberdade para desenvolverem armas não letais ( 16 Dezembro 2000 , pg.
+4).
+Os relatórios tornavam claro que investigações que violam os tratados foram efetuadas desde os anos 1990 .
+Um pedido de financiamento feito em 1998 pelo Office of Naval Research propõe a criação de micro-organismos geneticamente projetados que corroeriam estradas e pistas de decolagem, e produziriam "deterioração de partes metálicas, revestimentos e lubrificantes de armas, veículos e equipamento de apoio, bem como combustíveis.
+O plano era isolar genes para enzimas que atacam materiais como Kevlar , asfalto, cimentos, pinturas ou lubrificantes, e colocá-los dentro de micróbios que os expulsariam em grandes quantidades.
+As bactérias deveriam ser projetadas para se auto-destruírem depois de despejarem a sua carga de destruição.
+Não é claro quantas destas idéias foram realmente realizadas.
+Mas o grupo já patenteou um microorganismo que decomporia poliuretano, "um componente vulgar das tintas de navios e aviões", incluindo revestimentos anti-radar secretos.
+Outra proposta de 1998 , de um laboratório de biotecnologia da base de Brooks da Força Aérea , próxima de San Antonio no Texas , era refinar "biocatalizadores anti-material" já em desenvolvimento.
+Um deles envolvia uma bactéria derivada que decompunha moléculas orgânicas como combustíveis e plásticos.
+As propostas afirmam que tais substâncias estão isentas das restrições relativas à guerra biológica.
+Mas isso não é verdade, argumenta Mark Wheelis da  Universidade da California , Davis .
+A  Convenção das Armas Biológicas e Tóxicas de 1972 proíbe o "desenvolvimento, produção, armazenagem ou aquisição de agentes biológicos ou toxinas" se não forem para finalidades pacíficas.
+Além disso, no ano passado os próprios EUA introduziram uma lei banindo a posse de bio-armas, inclusive micróbios concebidos para atacarem materiais.
+Os documentos retidos também incluem propostas para usar bombas fétidas, sedativos e derivados do ópio como armas, os quais Wheelis considera que transgrediriam a  Convenção das Armas Químicas de 1992 .
+Esta convenção proíbe "qualquer produto químico... que possa causar morte, incapacidade temporária ou dano permanente".
+_______________    
+ Copyright © New Scientist 2002 .
+For fair use only.
+A URL deste artigo é: www.globalresearch.ca/ .
+Texto extraído do site português Resistir (www.resistir.info).
 --DOCSTART--
     
-A hora da verdade    
- 1.
-Hoje à noite o Benfica tem um teste elucidativo sobre o seu verdadeiro valor.
-Teve-o também antes contra o Manchester United , onde passou com distinção, é facto, mas o Manchester desta época e, sobretudo, o de Dezembro passado , é uma pálida imitação dos «red devils» de um passado recente , que tudo atemorizavam.
-O Liverpool , para além de campeão europeu em título, é melhor equipa e mais calculista.
-Contra ele, o Benfica tem de jogar o seu máximo e então se verá se o seu máximo está ou não ao mais alto nível europeu.
-Ao iniciar com uma derrota inapelável este terrível ciclo de nove dias em que tudo se pode sonhar e tudo se pode perder, o  Benfica de   Ronald Koeman parece ter lançado a descrença entre os seus --- adeptos e jornalistas.
-De repente, a tão louvada equipa de há três semanas atrás parece já não inspirar confiança a ninguém e o seu treinador virou um saco de pancada ao alcance de todas as frustrações.
-Acusa-se Koeman de mudar constantemente a equipa, como se ele fosse responsável pelas lesões e castigos ou pela chegada de uma mini-enxurrada de reforços em Dezembro , anunciados pela Direcção como o suplemento que faltava para a conquista da Liga dos Campeões e que ele, logicamente, tinha de experimentar e utilizar.
-E esquecendo-se até de que foi uma dessas inesperadas «revoluções» na formação da equipa que conduziu à também inesperada vitória contra o Manchester .
-Até se acusa Koeman de já ter experimentado quatro guarda-redes, como se fosse ele o culpado pelas lesões de Quim e de Moreira , pela manifesta impreparação de Nereu , ou pela «épica» contratação de Moretto , delirantemente saudada pela massa associativa e afins.
-Embora não me motive muito perceber o que se passa em casa alheia, a mim parece-me que, mais prosaicamente, a questão das esperanças traídas no Benfica tem sobretudo a ver com a ilusão criada sobre o valor real da equipa.
-Tudo começou na época passada, com um Campeonato e uma Taça ganhos de forma que foi tudo menos convincente mas que, por temor ou reverência, ninguém se atreveu a questionar.
-Por isso, quando Luís Filipe Vieira disse que esta era uma equipa de campeões, toda a gente fingiu que sim, e, quando, reforços acrescentados, ele passou a dizer que esta era uma equipa capaz de chegar à final e talvez ganhar a Champions , continuaram todos a fingir que acreditavam.
-Depois, houve a vitória sobre o Manchester e a série de sete triunfos consecutivos na Liga  portuguesa e foi ver o José Veiga , de peito feito, a anunciar a inevitável revalidação do título e a Europa ao virar da esquina.
-Mas ninguém se deteve a pensar quantos, desses sete jogos, foram ganhos sem dúvidas de arbitragem e através de exibições convincentes, porque é um crime de lesa-majestade questionar o mérito dos triunfos benfiquistas.
-E assim se criou a verdade oficial de que estava aí um grande Benfica , que nada nem ninguém conseguiriam parar.
-Agora, três súbitas derrotas depois, cai-se no extremo oposto.
-E na pior altura, quando a equipa mais precisava da confiança dos seus.
-Mas, se entre hoje e domingo , tudo correr mal para os benfiquistas, é certo e sabido que quem semeou os ventos de ilusão não colherá as tempestades de desilusão.
-Isso está guardado para um bode expiatório mais conveniente.
-2.
-O Benfica jogava em Guimarães sob o peso de ter três jogadores ameaçados de não poderem defrontar o FC Porto caso vissem um cartão amarelo.
-Lucílio Baptista foi a escolha adequada para a ocasião (mas digo desde já que nenhum daqueles três mereceu um amarelo).
-Mas, no resto, Lucílio não deixou os seus predicados por mãos alheias: num jogo sem dureza nem indisciplina, com faltas distribuídas por igual por ambas as equipas, Lucílio Batista conseguiu marcar o dobro de faltas ao Vitória , deixando inúmeras por assinalar contra o Benfica , e mostrar sete cartões amarelos a jogadores do Guimarães contra apenas um aos benfiquistas.
-3.
-E, a propósito do « Apito Dourado », essa mega investigação judicial, que parece ter o condão de vir a arrastar-se durante anos , tornando alguns eternamente suspeitos (ou até mesmo já condenados, a quem isso convém) e outros estranhamente imunes às suspeitas, aguardei com alguma curiosidade o despacho de pronúncia, no que se refere ao presidente do FC Porto  .
-Mas, afinal e como aqui antecipei desde o início, a montanha pariu um rato, ou pior ainda, pariu a insustentável continuação das suspeitas por confirmar.
-Mais de um ano de investigações decorrido, depois daquele imenso aparato policial-mediático para ouvir o «suspeitíssimo» Pinto da Costa , depois de dezenas ou centenas de milhares de contos gastos aos contribuintes, depois de não sei quantas prorrogações de prazo a favor do Ministério Público , depois do reforço extraordinário dos meios de investigação, a «task force » judicial de Gondomar conclui apenas em extrair certidões do processo para que outros continuem a investigar Pinto da Costa .
-E, quanto a factos novos, indícios novos, provas recolhidas, nada.
-A suspeita «gravíssima» mantém-se rigorosamente a mesma de há um ano atrás : em 2004 , o    FC Porto   de   José Mourinho  , já virtual campeão nacional, com alguns onze pontos de avanço sobre o segundo classificado, o Benfica , a semanas de se tornar campeão europeu, terá subornado, com recurso a «meninas» o árbitro do encontro no Dragão contra o E. Amadora , em vias de despromoção, como forma de garantir a vitória no jogo --- parece que, de outra maneira, não conseguiriam ganhar.
-E é nisto que se gasta o tempo e o dinheiro dos contribuintes: não fazendo justiça, mas mantendo eternas as suspeitas que a tantos convém.
-Mas também a verdade é que, à luz do que está em causa---e é apenas isto--- só acredita, ou finge acreditar, quem quer.
-4.
-E, pé ante pé, o Sporting está a cinco pontos do FC Porto e poderá ficar a dois se, domingo na Luz , a equipa de Adriaanse falhar mais uma vez num jogo decisivo.
-Dou-me conta, já há um tempo , que muito pouco ou quase nada tenho escrito sobre o Sporting esta época.
-A razão é simples e vai parecer escandalosa aos olhos dos indefectíveis sportinguistas, mas acarreto as consequências de porventura vir a ter de engolir o que vou escrever: não vejo que o Sporting tenha futebol para ser campeão nacional, esta época.
-Estão em segundo lugar, já só a cinco pontos e ainda vão receber o FC Porto em Alvalade ?
-Pois, é facto.
-Mas, mesmo assim, não me convencem.
-Ainda esta semana o que vi, contra o Paços de Ferreira e em Alvalade , foi uma equipa que chegou ao golo num penalty duvidoso e caído dos céus, que dele viveu toda a segunda parte, sem criar uma só oportunidade de golo e que, já próximo do final, marcou o segundo golo numa jogada precedida de falta e ainda um terceiro depois da hora .
-Um 3-0 absolutamente enganador, num jogo que não mereceu sequer ganhar.
-Como disse, é possível que ainda tenha de engolir esta opinião.
-Mas, se isso acontecer, é porque o FC Porto entregou o ouro ao bandido.
-© Miguel Sousa Tavares -    Jornal "A Bola"    - 21.02.2006      
+ AdC dá aprovação à compra da Carrefour Portugal pela Sonae        
+ A Autoridade da Concorrência formalizou hoje a decisão de não oposição à compra da Carrefour Portugal pela Sonae Distribuição , que fica obrigada à alienação, de pelo menos, dois supermercados Modelo .
+Além da alienação das lojas Modelo de Eiras , no distrito de Coimbra e de Lagoa , no concelho de Portimão , a Sonae Distribuição comprometeu-se à desafectação de áreas de vendas do retalho alimentar em Paços de Ferreira , Penafiel e de Valongo , Porto , de acordo com o comunicado hoje divulgado no site da Autoridade da Concorrência .
+A entidade liderada por Abel Mateus tinha já comunicado, a 10 de Dezembro , à Sonae Distribuição , a «decisão provável de não oposição», que se tornou agora efectiva.
+A Sonae Distribuição comprometeu-se a cumprir algumas condições para manter uma concorrência efectiva em todos os mercados relevantes analisados pela Autoridade da Concorrência , nomeadamente, Montijo , Seixal , Barreiro , Paços de Ferreira , Penafiel , Grande Porto , Viana do Castelo , Coimbra e Portimão .
+Entre os compromissos assumidos pela Sonae Distribuição , conta-se ainda o de não apresentar pedidos de novas licenças para retalho de base alimentar nos mercados relevantes Montijo , Seixal , Barreiro , Paços de Ferreira , Penafiel , Viana do Castelo , coimbra e Portimão .
+No mercado relevante de Viana do Castelo , a Sonae terá que alienar o projecto da loja Carrefour e, se não existir comprador para o projecto, não poderá utilizar a licença num prazo de cinco anos a contar da decisão da Autoridade , salvo se, entretanto, tiver aberto ao público algum hipermercado concorrente na região, segundo o comunicado da AdC .
+No Grande Porto , a Sonae terá que converter o projecto Carrefour para o Campo 24 de Agosto em supermercado Modelo , o que equivale a uma redução da área afecta à actividade de base alimentar em, pelo menos, 1.500 metros quadrados .
+--DOCSTART--
 
-  --DOCSTART--
-    
- Aristides de Sousa Mendes        
- A Segunda Guerra Mundial        
- Aristides de Sousa Mendes permanece ainda    cônsul de Bordéus    quando tem início a Segunda Guerra Mundial , e as tropas de Adolf Hitler avançam rapidamente sobre a França .
-Salazar manteve a neutralidade de Portugal .
-Pela Circular 14 , Salazar ordena aos cônsules portugueses espalhados pelo mundo que recusem conferir vistos às seguintes categorias de pessoas: "estrangeiros de nacionalidade indefinida, contestada ou em litígio; os apátridas; os judeus, quer tenham sido expulsos do seu país de origem ou do país de onde são cidadãos".
-Entretanto, em 1940 , o governo francês refugiou-se temporariamente na cidade, fugindo de Paris antes da chegada das tropas alemãs.
-Dezenas de milhar de refugiados que fogem do avanço Nazi dirigiram-se a Bordéus .
-Muitos deles afluem ao consulado português desejando obter um visto de entrada para Portugal ou para os Estados Unidos , onde Sousa Mendes , o cônsul, caso seguisse as instruções do seu governo distribuiria vistos com parcimónia.
-Já no final de 1939 , Sousa Mendes tinha desobedecido às instruções do seu governo e emitido alguns vistos.
-Entre as pessoas que ele tinha então decidido ajudar encontra-se o    Rabino   de   Antuérpia   Jacob Kruger  , que lhe faz compreender que há que salvar os refugiados judeus.
-A 16 de Junho de 1940 , Aristides decide entregar um visto a todos os refugiados que o pedirem: "A partir de agora, darei vistos a toda a gente, já não há nacionalidades, raça ou religião".
-Com a ajuda dos seus filhos e sobrinhos e do rabino Kruger , ele carimba passaportes, assina vistos, usando todas as folhas de papel disponíveis.
-Confrontado com os primeiros avisos de Lisboa , ele terá dito: "Se há que desobedecer, prefiro que seja a uma ordem dos homens do que a uma ordem de Deus ".
-Uma vez que Salazar tomara medidas contra o cônsul, Aristides continuou a sua actividade de 20 a 23 de Junho em Baiona ( França ), no escritório de um vice-cônsul estupefacto, e mesmo na presença de dois outros funcionários de Salazar .
-A 22 de Junho de 1940 , a França pediu um armistício à Alemanha Nazi .
-Mesmo a caminho de Hendaye , Aristides continua a emitir vistos para os refugiados que cruzam com ele a caminho da fronteira, uma vez que a 23 de Junho , Salazar demitira-o de suas funções de cônsul.
-Apesar de terem sido enviados funcionários para trazer Aristides , este lidera com a sua viatura uma coluna de veículos de refugiados e guia-os em direcção à fronteira, onde do lado espanhol não existe qualquer telefone.
-Por isso mesmo, os guardas fronteiriços não tinham sido ainda avisados da decisão de Madrid de fechar as fronteiras com a França .
-Sousa Mendes impressiona os guardas aduaneiros, que acabariam por deixar passar todos os refugiados, que com os seus vistos puderam continuar viagem até Portugal .
+H5N1 : Mais de 32 mil mortos se pandemia atingisse Portugal
+Mais de 32 mil pessoas poderiam morrer se uma pandemia de gripe humana de origem aviária atingisse Portugal , segundo cenários elaborados este ano por peritos do Instituto Nacional de Saúde Ricardo Jorge .
+Na quinta-feira , a Organização Mundial de Saúde confirmou que um paquistanês vítima da gripe das aves tinha contraído o vírus H5N1 de outro humano, apesar de os peritos afastarem ainda qualquer risco de contaminação generalizado.
+Em Portugal , o Instituto Nacional de Saúde elaborou cenários de uma eventual pandemia de gripe humana de origem em aves, que poderá ou não ser desencadeada pelo H5N1 , a estirpe do vírus mais mortal até agora conhecida.
+Os cenários tiveram em conta a utilização do Oseltamivir (o anti-viral tido como o mais eficaz contra uma eventual pandemia com origem da gripe das aves), mas não consideraram outras medidas de saúde pública, apesar de os autores admitirem que estas «terão um efeito principal, embora não exclusivo, na diminuição da incidência da doença e, portanto, nas taxas de ataque».
+Os autores dos cenários basearam o seu cálculo em três taxas de ataque ( 30 , 35 e 40 por cento da população), admitindo que a pandemia evoluiria em duas ondas.
+Os peritos consideram provável que, com uma taxa de ataque de 30 por cento , existiriam 3.106.835 casos de gripe, 3.624.641 numa taxa de ataque de 35 por cento e 4.142.447 perante a mais severa taxa de ataque ( 40 por cento ).
 --DOCSTART--
     
-Paquistão após o assassinato    
-de Benazir Bhutto    
-28/Dezembro/2007 · 0:01 · 147 Comentários    
-É sempre chocante assistir à decomposição de um país.
-Mas, após o assassinato de Benazir Bhutto , é o que está acontecendo com o Paquistão .
-O momento é tenso.
-Uma revolta popular pode estourar.
-Agora, que faria sentido declarar Estado de Emergência  e impor a Lei Marcial , o presidente Pervez Musharraf está desautorizado.
-Afinal, há coisa de dois meses , aplicou um golpe contra a Suprema Corte utilizando-se justamente desta tática.
-Será que ousaria um novo Estado de Emergência ?
-Será que sobreviveria a tal decreto?
-Será que o Exército se manterá fiel a ele?
-Será que o Serviço de Inteligência , tão ligado ao norte islâmico, ainda o respeita minimamente?
-O que acontecerá não é possível prever.
-Eleições estão marcadas para 8 de janeiro , Bhutto era favorita.
-O partido mais votado do parlamento eleito fará o primeiro ministro.
-Num país estável, o assassinato de um dos principais candidatos a essa altura seria justificativa para suspender o pleito e realizá-lo adiante, quando o partido vitimado tivesse chances de apresentar novo candidato.
-Mas, se já foi um dia , o Paquistão deixou de ser um país normal, quanto mais estável.
-O ideal seria que eleições ocorressem.
-É preciso manter a mínima aparência de democracia sob o risco de que ela desapareça de vez.
-Os partidários de Bhutto , ontem , acusavam Musharraf do assassinato.
-Mas será?
-Em campanha, a ex-primeira-ministra mostrava-se particularmente agressiva contra o Talibã , o radicalismo islâmico e sua cria, a al-Qaeda , alojados ao norte.
-Benazir Bhutto contava com a simpatia dos EUA por conta.
-Não há dúvidas de que, como premiê, Bhutto forçaria o presidente Musharraf a ampliar sua ofensiva.
-A conversa da experiente política com o presidente afegão Hamid Karzai , o outro chefe de Estado preocupado com esta briga, faz poucos dias , é indício de qual sua prioridade no governo.
-Após seu assassinato, o presidente, que acaba de abandonar a farda de general, não tem como garantir sequer sua sobrevivência política.
-Se o conflito entre ambos era aberto, ausência de Bhutto piora a situação.
-Se a lógica ainda prevalecer no país em frangalhos, parece evidente que os maiores interessados em sua morte são justamente o Talibã e a al-Qaeda .
-Isto, é claro, se a lógica valer de algo.
-A al-Qaeda às vezes assume seus atentados.
-Outras vezes, não.
-No Onze de Setembro , ficou em silêncio por mais de mês enquanto a comunidade internacional cobrava provas de seu envolvimento antes de autorizar um ataque dos EUA ao Afeganistão .
-Neste caso, a falta de autoria clara favorece o caos.
-O caos interessa à turma de bin-Laden .
-Com Bhutto de fora, os olhos voltam-se para outro ex-premiê, também candidato, Nawaz Sharif .
-Mal se passara uma hora da morte de Bhutto quando ele entrou no  Hospital Geral de Rawalpindi para as condolências.
-Dada a confusão que imperava, foi um feito.
-É arte política, sujeito hábil.
-Embora os dois ensaiassem uma aliança, Sharif não poderia ser mais diferente de Bhutto .
-Se ela era pró- EUA , ele não esconde seus laços com a Arábia Saudita .
-E se acaso sauditas e norte-americanos são oficialmente aliados, na realidade da política local a ação é diferente.
-A al-Qaeda é um grupo saudita.
-A Arábia Saudita era um dos três países do mundo que reconheciam, no Afeganistão , o governo Talibã .
-A vertente de islamismo radical que impera no norte do Paquistão é profundamente semelhante à que a Arábia Saudita espalha pelo mundo.
-Sharif não é fundamentalista.
-Mas a geopolítica que o sustenta e financia é tão atada aos sauditas que um gabinete liderado por ele é marcado por uma interrogação.
-O que vai imperar?
-A Arábia Saudita interessada em regimes islâmicos como os defendidos pelos radicais?
-Ou a Arábia Saudita interessada em combater o terrorismo?
-No Paquistão , as duas opções são incompatíveis.
-Enterros no Paquistão acontecem rápido.
-Provavelmente hoje , talvez amanhã .
-Se demorar mais, escaparam à tradição - coisa sempre perigosa - para evitar as multidões.
-A multidão é incontrolável.
-Se o país rachar.
-Se houver um golpe de Estado .
-Se radicais islâmicos conseguirem um atalho para o poder.
-O mundo respira fundo.
-O " Paquistão é uma potência nuclear.
+ George Steiner - holocausto ou holocaustos?
+George Steiner esteve recentemente em Portugal e de acordo com notícia no Ciência Hoje o ensaísta vem proferir um discurso que a Europa é uma civilização decadente e que aparecerão outros locais do planeta como a China e a Índia ?.
+Esta afirmação levantou-me uma série de inquitações:        
+ Ora a Índia e a China já têm o seu espaço, as suas incongruências e cometendo os piores atentados ecológicos de sempre enquanto hoje há uma Europa que tem feito da sustentabilidade um exemplo a este planeta...exigir mais é possível, concerteza.
+Mas George Steiner ( G.S. ), proferiu uma outra barbaridade ainda mais grave uma civilização que mata os seus judeus não recupera ...Não visitou o memorial em Berlim , concerteza...ou tão aplaudido sábio terá esquecido de Aristides Sousa Mendes ou de Oskar Schindler ?
+Por mim G.S. que fique pela América e ataque outros holocaustos que não criticou: Guantanamo , o muro internacional no México , que ataque a administração   Bush que ainda não assinou o Protocolo de Quioto , que ataque um país que mantem a pena de morte, que ataque um país onde é constitucional o uso de armas...e lembrar-lhe que há muitos holocaustos no mundo...        
+ G.S. , enquanto aufere uns bons milhões de dólares e estará num gabinete provavelmente nada ecológico, com ar condicionado, podia sair um pouco da sua aura de eterna vítima de anti-semitismo e demonstar mais solidariedade com estas irracionalidades no Mundo de hoje como Angola e que são também holocautos tão ou mais graves que Kosovo e/ou Israel-Palestina : Darfur , Birmânia , Congo , Ruanda , Singapura , Indonésia , Tibete , povos da Amazónia , Curdos e Nações sem Estado.
 --DOCSTART--
-    
- O Pai Natal , Artur Jorge e o BCP        
- O Governo russo proibiu uma campanha de uma cadeia de distribuição, que tinha por lema " O Pai Natal não existe ".
-O argumento é que tal ideia era nefasta para as criancinhas russas.
-Conclusão: o Governo russo acredita no Pai Natal e quer que as criancinhas também acreditem.
-Artur Jorge foi, entretanto, escolhido para seleccionador do Irão , equipa que se encontrava há seis meses sem treinador.
-Tendo em atenção o que se tem passado nos últimos anos na carreira do ex-treinador do FC Porto , que nunca termina os contratos e acaba sempre despedido com uma choruda indemnização, bem se pode dizer que a Federação Iraniana de Futebol  acredita no Pai Natal .
-E Artur Jorge também, claro.
-Por outro lado, a escolha do presidente da Caixa Geral de Depósitos  para presidir ao BCP só pode igualmente ser obra do Pai Natal .
-Carlos Santos Ferreira é visto como o homem que vai trazer a concórdia para um banco que não vive em paz há muito - mesmo que o vá fazer à custa do banco do Estado .
-Por isso, o ministro das Finanças , que autorizou esta mudança sem pestanejar, também deve acreditar no Pai Natal .
-Não lhe passa pela cabeça que Santos Ferreira , com o que sabe da Caixa , fique em excelente posição para ganhar quota de mercado ao banco público, que vai este ano dar mais de 800 milhões de lucros, dos quais 400 milhões vão direitinhos para os cofres do Estado a título de IRC .
-Se Santos Ferreira tiver sucesso no BCP , quem vai sofrer é a Caixa - e, por tabela, todos nós, contribuintes.
-Porque quanto menos o Estado receber de dividendos das empresas públicas, mais o Estado será tentado a vir buscar-nos dinheiro aos bolsos.
-Por outras palavras, os únicos que não têm razões para acreditar no Pai Natal são os contribuintes portugueses.
-Nicolau Santos      
 
-  --DOCSTART--
+Afonso de Albuquerque
+Biografia
+Foi educado na corte de D. Afonso V .
+Partiu na esquadra mandada em 1480 em socorro do  rei D. Fernando de Nápoles , «para reprimir o furor dos turcos».
+Esteve na expedição de 1489 para defender a fortaleza da Graciosa , situada da ilha que o rio Luco forma junto da cidade de Larache .
+Foi estribeiro-mor do rei D. João II , a quem em 1476 acompanhou nas guerras com Castela .
+Esteve assim nas praças-fortes de Arzila e Larache ( Marrocos ) em 1489 , e em 1490 faz parte da guarda de D. João II , tendo voltado novamente a Arzila em 1495 .
+Em 6 de abril de 1503 partiu para a Índia com o primo Francisco de Albuquerque , comandando cada qual três naus, tendo participado em várias batalhas, erguido a fortaleza em Cochim e estabelecido relações comerciais com Coulão .
+De regresso ao reino de Portugal , «mais cheio de glórias que de despojos», foi bem acolhido por D. Manuel que em 1506 o tornou a enviar ao Oriente em companhia de Tristão da Cunha e nomeando-o governador da Índia  na sucessão do vice-Rei D. Francisco de Almeida .
+Neste posto, conquistou vários portos em Omã acabando por chegar à riquíssima cidade de Ormuz , que se tornou tributária de Portugal .
+Em 1510 toma Goa ao turco Hidalcão e em 1511 toma Malaca , abrindo aos portugueses o acesso às especiarias das Molucas e ao comércio com a China .
+Em Fevereiro de 1513 Albuquerque parte para o estreito de Bab-el-Mandebe , tentando tomar Áden sem êxito.
+Com a construção da fortaleza de Ormuz em 1515 concluiu o seu plano de domínio dos pontos estratégicos que permitiam o controlo marítimo e o monopólio comercial da Índia .
+Em 1514 na Índia dedicou-se à administração e diplomacia, a concluir a paz com Calecute , a receber embaixadas de reis indianos e a consolidar e embelezar Goa , onde, por meio do casamento de portugueses com mulheres indígenas procura criar uma raça luso-indiana.
+O seu prestígio chegara ao auge criando as bases do Império Português no Oriente .
+Jaz em local desconhecido em Goa , na India ?
+Ora, quando morreu, conta Diogo Barbosa Machado na Bibliotheca Lusitana ( Tomo I , página 23) que «foi amortalhado com o manto da  Ordem militar de Santiago,  de que era comendador, sepultado na igreja de Nossa Senhora da Serra em Goa , que edificara em agradecimento do feliz sucesso da conquista de Malaca .
+Passados 51 anos , foi trasladado, como dispusera seu testamento, ao convento de  Nossa Senhora da Graça dos Religiosos Eremitas de Santo Agostinho  da corte, para onde foi conduzido em 19 de maio de 1566 com pompa».
+--DOCSTART--
     
 A MINHOCA E A MAÇÃ    
  Durante a discussão sobre a natureza do salazarismo, e depois de assinalar, com o fastio do costume, a ignorância grotesca do adversário, Vasco Pulido Valente recomendou-lhe esta reflexão: « Vítor Dias que puxe pela cabeça: existe em Portugal alguém ou alguma coisa a que o PCP já não chamou 'fascista?
@@ -252,11 +131,266 @@ Proponho, por isso, outra reflexão.
 Vasco Pulido Valente que puxe pela cabeça: existe em Portugal alguém ou alguma coisa a que Vasco Pulido Valente já não tenha chamado "ignorante"?
 --DOCSTART--
     
- Restauração da Independência        
- Guerra da Restauração        
- Finalmente, um sentimento profundo de autonomia estava a crescer e foi consumado na revolta de 1640 , na qual um grupo de conspiradores da nobreza aclamou o   duque de Bragança como    Rei de   Portugal  , com o título de D. João IV ( 1640-1656 ), dando início à quarta   Dinastia -- Dinastia de Bragança .
-O esforço nacional foi mantido durante vinte e oito anos , com o qual foi possível suster as sucessivas tentativas de invasão dos exércitos de Filipe III e vencê-los nas mais importantes batalhas, assinando o tratado de paz definitivo em 1668 .
-Esses anos foram bem sucedidos devido à conjugação de diversas vertentes como a coincidência das revoltas na Catalunha , os esforços diplomáticos da Inglaterra , França , Holanda e Roma , a reorganização do exército português, a reconstrução de fortalezas e a consolidação política e administrativa.
-Paralelamente, as tropas portuguesas conseguiram expulsar os holandeses do Brasil , como também de Angola e de São Tomé e Príncipe ( 1641-1654 ), restabelecendo o poder atlântico português.
-No entanto, as perdas no Oriente tornaram-se irreversíveis e Ceuta ficaria na posse dos Habsburgo .
-Devido a estarem indisponíveis as mercadorias indianas, Portugal passou a só obter lucro com a cana-de-açúcar do Brasil .
+Prioridades    
+1.
+Revisão do mecanismo comunitário de protecção civil    
+ Desde 2005 , na sequência de uma proposta da Comissão Europeia , o Mecanismo Comunitário de Protecção Civil foi alvo de uma profunda revisão, a qual decorre também do enquadramento motivado pelo novo Instrumento Financeiro para a Protecção Civil recentemente aprovado.
+O acordo político quanto à revisão foi obtido durante a Presidência Alemã , tendo cabido a Portugal concluir o processo de revisão.
+Com a adopção da revisão do Mecanismo no Conselho de Justiça e Assuntos Internos de 8 de Novembro , este processo ficou concluído, passando a União a ficar dotado de um Mecanismo mais expedito para resposta a emergências graves.
+As principais novidades do Mecanismo são a clarificação de competências entre a Comissão e a Presidência no quadro de intervenções em países terceiros, a existência de competências comunitárias ao nível do transporte e a criação, numa base voluntária, de módulos de protecção civil.
+2.
+Sistemas de Alerta Precoce        
+ A necessidade de melhorar os actuais ou de estabelecer novos Sistemas de Alerta Precoce na União Europeia foi reconhecida pelo Conselho em diversas ocasiões .
+Em particular, o Conselho adoptou, em 2005 , o Programa de Acção para Tsunamis e afirmou que «A Comissão é convidada a fazer propostas [envolvendo] a criação de um sistema de detecção e alerta precoce (...) para o Mediterrâneo e o Atlântico ».
+Mais recentemente, o Instrumento Financeiro para a Protecção Civil definiu que a criação de um sistema de detecção e alerta precoce é elegível para assistência financeira através de acções como estudos, avaliações e estabelecimento de interligações.
+Para contribuir para este debate, a ANPC realizou, de 15 a 18 de Julho , em Albufeira , um seminário sobre Sistemas de Alerta Precoce , o qual reuniu cerca de 120 especialistas da maior parte dos Estados-Membros e no qual se procurou:        
+- discutir o estado da arte quanto a sistemas de alerta;    
+ - identificar lacunas existentes no espaço da União Europeia (ex: sistema de alerta precoce para tsunamis) e delinear as bases para um Plano de Acção destinado a suprir as lacunas identificadas;        
+- debater assuntos transversais, tais como o desenvolvimento de directrizes para o estabelecimento de sinais comuns de alerta a nível europeu.
+Com base nas conclusões do seminário e nos resultados dos trabalhos desenvolvidos pela Comissão , ao nível de grupo de peritos, foi possível obter acordo sobre dois documentos de  Conclusões do Conselho adoptados no Conselho JAI de 5/6 de Dezembro .
+Um desses documentos ( Conclusões do Conselho sobre o desenvolvimento e estabelecimento de sistemas de alerta precoce na UE  ) segue uma abordagem global multi-riscos, enquanto o outro ( Conclusões do Conselho sobre o desenvolvimento de um sistema de alerta precoce para tsunamis no Atlântico Nordeste e no Mediterrâneo ) direcciona as atenções para o risco de tsunamis.
+Ambos os documentos contêm diversas propostas de actuação futura por parte da Comissão e dos Estados-Membros .
+3.
+Cooperação com    Países   do   Mediterrâneo Sul         
+ No campo da Protecção Civil , UE e África partilham uma série de preocupações e riscos comuns, maioritariamente na região Euro-Mediterrânica  .
+Estes riscos estão particularmente relacionados com os incêndios florestais, sismos e tsunamis, acidentes químicos e, também, ameaças terroristas.
+Por outro lado, é também importante sublinhar o facto de que o Mecanismo Comunitário de Protecção Civil já interveio por diversas vezes nesta região (ex: sismos da Argélia e de Marrocos ) e diversos Estados-Membros mantêm acordos bilaterais de cooperação com os  Países do Mediterrâneo Sul , que conduziram a missões de assistência mútua durante emergências passadas.
+Existe, pois, espaço mais do que suficiente e vontade comum para uma cooperação mais profunda e forte entre a UE e África no campo da protecção civil, nomeadamente com os parceiros do Mediterrâneo .
+Assim, pretendeu-se reforçar a cooperação com os países do Mediterrâneo Sul , através de acções tais como a partilha de boas práticas e informação sobre riscos comuns, cooperação nos sistemas de alerta precoce ou exercícios conjuntos.
+De forma a permitir uma mais abrangente troca de pontos de vista neste campo, realizou-se no dia 24 de Outubro , no Porto , uma reunião informal entre os  Directores-Gerais de Protecção Civil dos Países do Mediterrâneo e os    Directores-Gerais de Protecção Civil   da   União Europeia  .
+Essa reunião permitiu concluir da existência de abertura para um trabalho comum futuro, o qual, numa primeira fase, deverá estar integrado do Programa para a Prevenção e Redução de Desastres do Projecto Euromed e, numa segunda fase, deverá visar a inclusão de países do Mediterrâneo no Mecanismo Comunitário de Protecção Civil .
+4.
+Consenso Europeu sobre Ajuda Humanitária    
+ Na sequência de uma Comunicação  da Comissão , o Conselho discutiu, no seu grupo de Trabalho de Cooperação e Desenvolvimento ( CODEV ) uma proposta de Consenso Europeu sobre Ajuda Humanitária .
+Tal documento contém referências à actuação da protecção civil nos contextos de crises humanitárias, pelo que foi também discutido no   Grupo de Trabalho PROCIV , tendo sido produzido um aconselhamento em Julho .
+Após intensas negociações, o Consenso Europeu foi adoptado pelo CAGRE em 20 de Novembro , tendo-se conseguido que, na sua versão final, o Consenso não imponha limitações ao uso de recursos de protecção civil nos cenários de desastres naturais, tecnológicos e ambientais em tempo de paz.
+No entanto, para situações de emergências complexas (conflitos ou situações de fragilidade) o uso de meios de protecção civil acabou por ser considerado como excepcional.
+5.
+Revisão das Directrizes de Oslo        
+ As Directrizes de Oslo são um documento das Nações Unidas , destinado a orientar o uso de meios militares e da defesa civil nos cenários de emergências naturais, tecnológicas ou ambientais em tempo de paz.
+Aquando da última revisão destas directrizes, em 2006 , os recursos de protecção civil foram englobados no mesmo grupo dos recursos militares, implicando que apenas poderiam ser utilizados como «último recurso», após esgotamento de outras alternativas civis.
+Conscientes de que tal regra contradiria o princípio básico de actuação da protecção civil (resposta rápida e imediata após uma emergência), os Estados-Membros e a Comissão Europeia desenvolveram diversas diligências procurando obter uma clarificação/revisão de tais Directrizes junto da UN/OCHA .
+Em particular, foi obtido acordo no   Grupo de Trabalho PROCIV quanto a uma abordagem global dos Estados-Membros sobre esta matéria.
+Nesta sequência, foi realizada uma reunião com a UN/OCHA a 28 e 29 de Novembro , a qual permitiu adoptar uma revisão das Directrizes que clarifica o princípio do último recurso, garantindo um tratamento diferenciado para os recursos de Protecção Civil .
+6.
+Infra-estruturas críticas    
+ As conclusões do Conselho em matéria «de prevenção, de preparação para intervir e de resposta a atentados terroristas» e o «programa de solidariedade da União Europeia respeitante às consequências das ameaças e dos atentados terroristas", adoptado pelo Conselho em Dezembro de 2004 , apoiaram a elaboração de um Programa Europeu para a Protecção das Infra-Estruturas Críticas e a criação de uma Rede de Alerta para as Infra-estruturas Críticas .
+Neste sentido, em Dezembro de 2006 , a Comissão apresentou uma proposta de Directiva do Conselho , na qual se propõem medidas para a identificação e designação das infra estruturas críticas europeias e para a avaliação da necessidade de melhorar a sua protecção, sendo que são abrangidas aquelas cuja perturbação ou destruição afectaria dois ou mais Estados-Membros , ou um único Estado-Membro se a infra-estrutura crítica estiver localizada em outro Estado-Membro .
+Na sequência dos trabalhos desenvolvidos pela Presidência Alemã neste âmbito, foi dada continuidade à negociação da proposta de Directiva , tendo-se analisado o parecer do Parlamento Europeu e discutido as reservas introduzidas pelas diversas delegações.
+O balanço final é positivo, uma vez que se conseguiu eliminar a maior parte das reservas existentes.
+Embora exista consenso em relação a cerca de 70% da proposta de Directiva , subsistem reservas de fundo de diversos Estados-Membros que se relacionam, por exemplo, com a natureza legal do instrumento a adoptar, a inclusão do sector do «nuclear» no âmbito da Directiva , a definição de Infra-estrutura Crítica Europeia e a obrigatoriedade de estabelecimento de Planos de Segurança e Oficiais de Ligação .
+Neste contexto foi obtido acordo sobre um Relatório de Progresso adoptado no Conselho JAI de 5/6 Dezembro .
+--DOCSTART--
+
+Como se chama o vocalista do grupo U2 ?
+Com que idade morreu Elvis Presley ?
+Onde está a Estátua da Liberdade ?
+Em que cidade italiana fica o Coliseu ?
+Em que cidade fica a Praça Navona ?
+Onde é que foi construída em Itália a Villa Medici ?
+Que companhia britânica foi absorvida pela BMW em 1994 ?
+Quantos milhões de libras pagou a BMW pela Rover ?
+Em que país foi construída a primeira fábrica da BMW no estrangeiro?
+Quem foi eleito como primeiro presidente negro da África do Sul ?
+Como se chamava o vocalista dos Nirvana ?
+Que presidente dos Estados Unidos  é que Francisco Durán tentou matar?
+Que filho de um ex-presidente dos EUA  foi eleito governador do Texas  em 1994 ?
+Para quantos Óscares foi nomeado " A Lista de Schindler "?
+Quem recebeu o Óscar de Melhor Actor por « Forrest Gump »?
+Como se chamava o autor de « Romeu e Julieta "?
+Quantos pisos tem o Empire State Building ?
+Como se chama o patrão da Microsoft ?
+Em que ano foi assassinado John F. Kennedy ?
+Com que actriz era casado Arthur Miller ?
+Que político era chanceler da Alemanha  antes de  Helmut Kohl ?
+Em que ano caiu o  Muro de Berlim  ?
+Qual a altura do Evereste ?
+Em que cidade francesa fica o Moulin Rouge ?
+Quando é que nasceu Franz Kafka ?
+Quando é que foi construída a Esfinge ?
+Quem escreveu o romance não-publicado " Cruz sem Amor "?
+Em que cidade bávara fica a sede da Adidas AG ?
+O que é o Titanic?
+Quem é o desenhador de Astérix e Obélix ?
+Quem é Albert Einstein ?
+Quem é o Godfather of Soul ?
+Quem é o marido da rainha Isabel II ?
+Quem é o chefe de estado da Austrália ?
+Qual o verdadeiro nome de Romy Schneider ?
+Quando é que nasceu Aldous Huxley ?
+Como se chama o pai de Steffi Graf ?
+Contra quem é que ela não jogou nas meias-finais de Roland Garros em 1994 ?
+Quando é que Goethe fundou a Sociedade das Sextas ?
+Em que ano assistiu ele à coroação do Imperador José II ?
+Em que ano nasceu ele?
+Em que cidade é que ele morreu?
+Quando foi criado o Prémio Schiller?
+Que filme ganhou o Óscar em 1992 na categoria de Melhor Filme?
+Quem foi o realizador de « E tudo o vento levou »?
+Em que ano recebeu ele o Óscar por « E tudo o vento levou »?
+Como se chamava a autora de " E tudo o vento levou "?
+O que significa a sigla IRA ?
+Qual o significado da sigla NSUK ?
+De que grupo era vocalista Freddy Mercury ?
+Em que ano morreu ele?
+Quem foi o inventor da Coca Cola ?
+Quando foi criada a Coca Cola ?
+Quem abriu o  Baile da Opera de Viena ?
+Quantos estados membros tinha a UE em 1994 ?
+Em que cidade teve lugar a cimeira da UE que começou a 26 de Junho de 1995 ?
+Quantos estados membros tinha a UE em 1995 ?
+Que estados europeus aderiram à UE em 1995 ?
+Rudy Giuliani era o presidente da câmara de que cidade americana?
+Quando é que terá lugar a estreia de « O Fantasma da Ópera » de Andrew Lloyd Webber em Basileia ?
+Que musical dele foi interpretado pelo coro ecuménico juvenil de Friedrichsdorf de 1994 ?
+Quanto dinheiro pagou ele por uma pintura de Picasso num leilão?
+Que musical de Andrew Llyod Webber foi interpretado em Essen em 1996 ?
+Em que ano nasceu Christian von Holst em Gdansk ?
+Quem é Werner Herzog ?
+Em que cidade fica o Passeio da Fama ?
+Em quantos países foram transmitidas as  Olimpíadas de Albertville ?
+Qual era a alcunha de Al Capone ?
+Quem era ele?
+Quando é que ele foi alvejado?
+Que idade tinha ele quando levou a sua família para Chicago ?
+Desde quando é que a Suíça é membro da UNESCO ?
+Quem era a presidente do comité suíço da UNESCO em 1995 ?
+Quantos estados-membros tinha a organização em 1995 ?
+O prémio UNESCO da Paz é de quantos dólares?
+Quem era o presidente do júri do  47º Festival Cinematográfico de Cannes ?
+Que filme recebeu a Palma de Ouro no  47º Festival de Cannes ?
+Quantos filmes competiam pela Palma de Ouro do  47º Festival de Cannes ?
+Quem recebeu o prémio de melhor actriz no  47º Festival de Cannes ?
+Quantos golos é que o Pelé marcou na sua carreira?
+Em que três categorias é que Whitney Houston ganhou o prémio Single por " I will always love you "?
+O que é o Grammy?
+Que autor foi o primeiro árabe galardoado com o Nobel da Literatura?
+O que são os " Estudos sobre a Histeria "?
+Quem foi o fundador da psicoanálise?
+De que cidade é Friedensreich Hundertwasser ?
+Quando é que acabou a Guerra do Vietname ?
+Quantos soldados é que os EUA tinham estacionados no Vietname durante a Guerra nos anos 60 ?
+Quantas pessoas morreram na Guerra do Vietname ?
+Quem era presidente dos EUA  quando a guerra chegou ao fim?
+O que era Napola?
+O que é Madame Tussaud?
+O que é a Mona Lisa?
+Quanto dinheiro ganhou « Parque Jurássico » de Steven Spielberg ?
+Quem escreveu " Mein Kampf "?
+Quem é Helmut Newton ?
+Quando é que os japoneses atacaram Pearl Harbor ?
+Quantos americanos morreram no ataque a Pearl Harbor a 7 de dezembro de 1941 ?
+Que grupo ganhou o Festival da Eurovisão em Brighton em 1974 ?
+Quando é que teve lugar o primeiro Festival da Eurovisão ?
+Onde é que teve lugar o primeiro Festival da Eurovisão ?
+Qual o significado da sigla UNICEF ?
+Quando é que foi criada a UNICEF ?
+Onde é que é a sede da UNICEF ?
+De que banda rock é vocalista Anthony Kiedis ?
+O que é Stadium Arcadium ?
+Diga três albuns da banda.
+Quando é que teve lugar a primeira Love Parade ?
+Quando é que Audrey Hepburn e Mel Ferrer se casaram?
+Onde é que mora hoje o filho de Audrey Hepburn ?
+De que organização é que ela foi nomeada embaixadora extraordinária?
+Quem é que falou em Setembro de 1939 no 17º Congresso Internacional do PEN-clube sobre o problema da liberdade?
+Diga três filmes de Martin Scorsese .
+Em que universidade é que ele estudou Cinematografia em 1960 ?
+Para quantos Óscares é que ele já foi nomeado?
+Quem é o autor da obra « A Última Tentação de Cristo »?
+Quando é que foi fundada a  Universidade de Santiago de Compostela ?
+De que região espanhola é que Santiago é capital?
+Que organização nomeou Santiago de Compsotela Património Mundial em 1995 ?
+O que é a «Rota da Prata»?
+Onde fica Hiroxima ?
+Diga os oito bairros de Hiroxima .
+Qual a área total de Hiroxima ?
+O que é a CeBIT ?
+Quantos exibidores tinha a CeBIT em 2005 ?
+Quem realizou o filme « Morte em Veneza »?
+Onde é que tem lugar a Semana Verde ?
+Quem era Herbert Erhardt ?
+Quando foi construído o estádio do Malmö ?
+Onde é que teve lugar o  Campeonato do Mundo de Futebol de 1970 ?
+Quando é que teve lugar a primeira Oktoberfest ?
+Quantas pessoas morreram no atentado na Oktoberfest ?
+Quem é Henning Mankell ?
+Como se chama o inspector da polícia no seu livro « Assassino sem rosto »?
+Diga duas afiliadas da Volvo .
+Quando foi criada a Volvo Car Corporation ?
+Quem foram os fundadores da Volvo ?
+Qual é a área do Pentâgono ?
+Quantos lados têm o Pentâgono ?
+Que significa a sigla RAF ?
+Quem era Rolf Heissler ?
+Diga três membros da RAF.
+Onde fica a Galeria dos Ofícios ?
+O que é a Galeria dos Ofícios ?
+Qual é a altura do Monte Branco ?
+Quando é que o Monte Branco foi escalado pela primeira vez?
+De que consiste o Monte Branco ?
+Qual o comprimento da alameda principal do Prater ?
+O que e o "Wurstelprater"?
+Onde fica o Calafati ?
+Quando foi publicada a API Web do Google  
+Qual é o objectivo do Protocolo de Quioto ?
+Diga três estados signatários do Protocolo .
+Quantos estados aderiram ao Protocolo de Quioto ?
+Quem é o líder da organização Pro Familia ?
+Quantos membros têm a organização?
+Qual é o pico mais alto de África ?
+Quando é que foi criado o Parque Nacional do Kilimanjaro ?
+De que material é feito o Kilimanjaro ?
+A que partido pertence Angela Merkel ?
+Como se chama o irmão dela?
+Quem disse  "Die multikulturelle Gegelllschaft ist gescheitert" ?
+.
+O que é uma Okiya?
+O que são hanamachi?
+Em que cidades japonesas ainda existem?
+Quanto custou a construção da Torre Eiffel ?
+Quem é Samuel Hahnemann ?
+Em homeopatia, como se que chama o processo de diluição?
+Em quantos livros está dividido « O Senhor dos Anéis »?
+Onde fica o Alhambra ?
+Onde fica a sede da Warner Bros. ?
+Com que companhia se fundiu a Warner Bros. em 2000 ?
+Que profissão praticou Gerhard Schröder e 1978 a 1990?
+Em que encontro ele foi representado por Chirac ?
+Como se chama a quarta mulher dele?
+Qual a profundidade do Grand Canyon ?
+Como se chamam as três cataratas do Canyon ?
+Que marca fez Benetton famoso?
+Onde fica o Carlton Center?
+O que é Putuo?
+Quando foi fundada a SEAT ?
+A que companhia alemã pertence hoje a SEAT ?
+Em que concerto participaram os Coldplay a 2 de Julho de 2005 ?
+Que idade tinha Cate Blanchett quando lhe morreu o pai?
+Qual foi o primeiro filme dela?
+De que país é Peter Jackson ?
+O que significa viquingue?
+O que é o Santo Ofício?
+Até quando existiu a Inquisição em França ?
+Como se chamava a mãe de Nero ?
+Isabel Allende é parente de que antigo presidente do Chile ?
+Onde ficam as universidades de Yale e Harvard ?
+Qual é o maior estado da Nova Inglaterra ?
+Porque é que foi construída a Coluna da Vitória em Berlim ?
+Como se chama a escultura de bronze que existe na Coluna da Vitória ?
+Quando é que morreu Alfred Hitchcock ?
+Para onde é que ele emigrou em 1939 ?
+Como é que se chamava o seu primeiro filme americano?
+Quem organiza o  Carnaval do Rio ?
+Qual é o comprimento da arena do Sambódromo ?
+--DOCSTART--
+
+São admitidos à candidatura à matrícula no curso de formação n.o 25 680/2000, publicado no Diário da República , 2.a série, 2.a série, especializada candidatos com o grau de licenciatura em Enfermagem , de 15 de Dezembro de 2000 , e na sequência do despacho de 22 de de acordo com de acordo com o Regulamento dos Cursos de Formação Especializada Novembro de 2004 da  reitora da Universidade de Aveiro , que aprovou a criação do curso de formação especializada em Enfermagem , deter- mino o seguinte: 7.o 1.o Frequência Criação O curso de formação especializada apenas poderá ser frequentado O curso de formação especializada em Enfermagem , de curta dura- em regime de tempo integral.
+ção, é criado de acordo com o Regulamento sobre a Criação de Cursos de Formação Especializada na Universidade de Aveiro .
+A criação deste curso de formação especializada pretende responder 8.o a necessidades de formação de carácter específico para licenciados em Enfermagem .
+A sua estrutura modular, estando orientada para Recursos necessários profissionais ou futuros profissionais que procuram formações com- A Secção Autónoma de Ciências da Saúde disponibilizará o corpo plementares específicas ou actualização de competências, permite uma docente necessário à leccionação deste curso, em articulação com gestão flexível do tempo compatível com percursos individuais de colaborações externas pontuais.
+formação.
+Os objectivos deste curso de formação especializada enquadram-se ainda nos objectivos da  Universidade de Aveiro para a formação pós- 9.o -graduada, proporcionando uma oferta formativa diversificada que Propinas responda a necessidades de formação contínua profissional para além da tradicional formação orientada para percursos académicos.
+As propinas mínimas correspondentes à frequência do curso de formação especializada serão fixadas anualmente , de acordo com o estipulado no artigo 15.o do Regulamento sobre a Criação de Cursos 2.o de Formação Especializada na Universidade de Aveiro, tendo em Organização curricular consideração os factores multiplicativos por área científica fixados pela  Secção de Planeamento e Gestão do Senado .
+O curso de formação especializada em Enfermagem , de curta dura- ção, corresponde à obtenção de um mínimo de quatro unidades de 29 de Novembro de 2004 .
+- A Vice-Reitora , Isabel P. Martins .

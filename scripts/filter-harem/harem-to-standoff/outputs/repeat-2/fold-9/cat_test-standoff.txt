@@ -1,99 +1,239 @@
 --DOCSTART--
-NOME: COLETIVOS, SENHA: COLABORAÇÃO    
- Ricardo Rosas        
- A recente onda dos coletivos artísticos e ativistas (ou "artivistas") no Brasil tem chamado a atenção da mídia mainstream para um fenômeno de proporções bem maiores e razões mais profundas que a vã filosofia dos cadernos culturais poderia imaginar.
-Pouco compreendida, a dinâmica destas articulações chega assim maquiada com um verniz espetaculoso e superficial que, ao que parece, tenta esconder o pano de fundo crítico e instrumental desses grupos.
-Muitas vezes passageiros como um casual flashmob, outras vezes organizados e duradouros como uma associação, tais ajuntamentos são na verdade indícios de uma mutação maior que está se dando tanto na esfera tecnológica quanto na social.
-Coletivos, em si, nada têm de novo.
-Já  são uma tradição na arte, na literatura, que percorreu todo o século vinte , aqui como lá fora.
-Segundo o historiador de coletivos artísticos Alan Moore (1) , seu ponto de partida foi logo após a   Revolução Francesa , com os  estudantes de Jacques-Louis David , os barbados, ou " Barbu ", que formaram uma comunidade criativa que viria a ser chamada de Boêmia , espécie de nação imaginária espiritual de artistas -cujo nome provinha de uma nação de verdade e geraria a idealização do estilo de vida "boêmio"-, compondo um contraponto à academia oficial.
-Desde então, o fenômeno tem ocasionalmente se repetido ao longo da história da arte, como o Arts and Crafts na Inglaterra vitoriana, dadaístas, situacionistas, Fluxus , numa lista quase infinita de grupos dos mais diversos tipos.
-No Brasil , eles remontam ao século dezenove , com o grupo dos românticos em São Paulo , os grupelhos de poetas simbolistas, os modernistas da década de 1920 , o grupo antropofágico, os concretistas nos anos 1950 , o coletivo Rex de artistas na década seguinte , 3Nós3 e Manga Rosa na década de 1970 , Tupi Não Dá , ou os mais recentes Neo-Tao e Mico , entre inúmeros outros.
-O que diferencia a atual voga de movimentações coletivas no Brasil são o caráter político de boa parte delas, assim como o uso que muitas fazem da internet, seja via listas de discussão, websites, fotologs e blogs ou simplesmente comunicação e ações planejadas por e-mail.
-Na Europa e nos EUA , a fusão de arte e política já estava presente nos dadaístas e surrealistas, e representou o ponto fundamental dos situacionistas no pós-guerra, e desde então essa mescla tem se dado em vários grupos que atuam na fronteira ativismo/arte, como o Arte &amp; Linguagem , Art Workers Coalition , Black Mask , neoístas, Gran Fury , Group Material , PAD/D , Guerrilla Girls , ou os mais recentes Luther Blissett Project , RTmark , Etoy , Critical Art Ensemble , boa parte destes últimos atuando diretamente com alta tecnologia, no que se tem atualmente denominado de mídia tática.
-Se essa junção sempre esteve presente lá fora, o atual beco sem saída do neoliberalismo parece haver despertado a consciência de vários grupos no Brasil , que passaram a criar fora das instituições estabelecidas com performances, intervenções urbanas, festas, tortadas, filmagens in loco de protestos e manifestações, ocupações, trabalhos com movimentos sociais, culture jamming e ativismo de mídia.
-À diferença dos coletivos high tech europeus e americanos, os coletivos brasileiros atuam nos interstícios das práticas tradicionais da cultura instituída, em ações até agora de um víes mais low tech.
-Mesmo assim, a maioria deles surgem ou agem graças à internet.
-Alguns, como o Expressão Sarcástica , Vitoriamario , Poro , TEMP , BaseV , ou Cocadaboa , possuem seus próprios sites.
-Outros, como o CORO , um grupo que pretende mapear todos os coletivos em ação no Brasil , ou a Universidade do Fora , entre outros, funcionam com lista de discussão.
-Blogs também hospedam grupos com identidade virtual à Luther Blissett , como o Ari Almeida ou Timóteo Pinto , enquanto os fotologs tem servido como meio de divulgação de coletivos como o Radioatividade , ou grupos do stencil e do sticker (adesivo) como Faca , Coletivo Rua , SHN , entre dezenas de outros.
-Se a tecnologia não é fundamento básico destes grupos para ações tipo hacktivismo, net arte ou similares, é por meio dela, contudo, que se dá a dinâmica de ação e propagação das atividades destes grupos na vida real.
-Pois uma palavra-chave de todos estes coletivos é a colaboração.
-Espécie de buzzword atualmente, a colaboração, bem como termos irmãos como livre cooperação, comunidade, interação e rede são senhas para uma transformação que está se dando em escala global.
-Foi a colaboração que permitiu o surgimento de movimentos massivos como os protestos "anti-globalização", bem como a organização de festas-protesto como as do Reclaim the Streets , ou ainda a publicação aberta da rede    Indymedia .
-A divisão de tarefas, o compartilhamento de valores e a liderança coletiva caracterizam em grande parte essas organizações cuja tradução mais exata é a filosofia do open source.
-Inicialmente restrita ao círculo de programadores e geeks, a idéia da criação coletiva e distribuída que caracteriza as comunidades Linux e software livre tem virado fonte de inspiração para grupos os mais diversos que estão se voltando para este modo de trabalho como um modelo viável e menos restritivo, não-hierárquico.
-Tive recentemente a oportunidade de participar de uma conferência sobre o tema na universidade de   Buffalo   , NY .
-Chamada " Redes, arte e colaboração " (" Networks, art and collaboration "), e organizada pelo artista e professor de novas mídias Trebor Scholz e por Geert Lovink , net crítico e teórico de mídia tática, a conferência teve o mérito de reunir diversos ativistas, teóricos e artistas que trabalham colaborativamente, e pautou por abordar diversas facetas da questão, como o conflito com os interesses financeiros das grandes instituições do capitalismo, os conflitos internos dentro da dinâmica coletiva, ou as diversas iniciativas em áreas que vão das artes à educação, da criação em rede à distribuição livre de conhecimento.
-O tema é quente o bastante para gerar semanas de debates acalorados, mas aqui se limitou a um final de semana onde se sucederam mesas abertas, performances e apresentações de projetos.
-Teóricos e historiadores de arte ativista em coletivos como Gregory Sholette , Alan Moore e Brian Holmes , grupos como Critical Art Ensemble e Guerrilla Girls , net críticos como McKenzie Wark , ou o teórico maior da colaboração online, o alemão Cristoph Spehr , estiveram presentes.
-Spehr , autor do cultuado livro  Die Aliens sind unter uns!
-(" "Os alienígenas estão entre nós! "), tem servido como o melhor tradutor da mecânica funcional do código aberto (open source) para o campo da política, da organização social, e da economia.
-Entre alguns pontos fundamentais, Spehr defende a noção de que as relações devem se basear na liberdade e igualdade de uns para com os outros e com a cooperação; que regras devem ser estabelecidas, negociadas (e cumpridas) para que a cooperação funcione; que conflitos que surjam ao longo dessas negociações podem construir o respeito mútuo, a independência na cooperação e nos tornar mais fortes; e que organização, lealdade para com as pessoas, não com as instituições, e auto-confiança, são elementos essenciais.
-Em seu livro, num estilo que remixa ensaio e ficção científica, grupos colaborativos independentes e autônomos seriam os grandes monstros que ameaçam o atual estágio do neo-liberalismo corporativo.
-Espécie de alienígenas no meio da lógica capitalista da competitividade e das redes de "cooperação forçada", os coletivos colaborativos autônomos atuam numa esfera que transcende a mercantilização e podem efetuar uma troca auto-sustentável que, se aplicada em larga escala - o que para muitos é pura utopia - , correria o risco de transformar totalmente a paisagem social, econômica e política do planeta.
-Comunismo open source?
-Talvez, pelo menos é o que Spehr acredita, com um otimismo desafiante, o mesmo que o faz organizar a conferência anual " Out of This World em Bremen , onde junta programadores, ativistas, escritores de ficção científica, filósofos e teóricos para debater a aplicação do código aberto à transformação social visando o futuro.
-Por outro lado, o capitalismo há muito já aprendeu a trabalhar em rede.
-O fenômeno dos coletivos de livre cooperação na esfera artístico-ativista encontra seu paralelo nos grupos criativos de trabalho descentralizado e flexível produzindo para o mercado.
-Como diz o teórico Brian Holmes num ensaio sobre a questão (2), esse tipo de organização característica da produção imaterial no atual estágio capitalista do pós-fordismo, seria o da "personalidade flexível", adaptativa e versátil em sua atuação profissional, a qual, obviamente não excluiria sob hipótese alguma a competição ou o controle pela vigilância, ainda que à distância.
-Para combatê-la, só um ativismo "flexível" que, mesmo por sua característica cooperativa e autônoma, se adaptasse à configuração de um mundo cada vez mais baseado em redes, distribuído em setores terceirizados, "aparentemente" independentes.
-Em se tratando da internet, o crescente uso das redes de compartilhamento peer-to-peer, weblogs, software livre, listas de discussão, publicações abertas tipo slashdot, wiki ou Indymedia , as bibliotecas online de livre acesso, foruns e todas as outras formas operacionais das comunidades na rede estariam abrindo o caminho para essa transformação pelo trabalho colaborativo que os ativistas e coletivos de hoje usam como tática de resistência e cuja disseminação compartilhada podem ter consequências ainda imprevisíveis.
-Como diz Geert Lovink em seu último livro, My First Recession , a cultura da internet "é um meio global no qual redes sociais são moldadas por uma mistura de regras implícitas, redes informais, conhecimento, convenções e rituais coletivos" (3).
-Procurar entender o atual fenômeno dos coletivos ignorando essa dinâmica de código e cultura, ou seja, modus operandi, instrumentos, ativismos e lutas democráticas face a uma crescente repressão na guerra global do capital, equivaleria a esquecer por completo a senha na hora de logar.
-Esqueceu sua senha?
---DOCSTART--
-
-Quadrinhos e pop art - É neste processo de renovação da sociedade norte-americana que a pop art ganha um impulso e, de certa forma, contribui para que os quadrinhos voltem de novo a ser tratados como coisa séria.
-Os artistas procuravam demolir a rigidez e a seriedade das artes plásticas através de ícones da sociedade ocidental.
-Garrafas de Coca Cola , latas de sopa, símbolos gráficos usados em estações de metrô eram usados em associações livres que permitiam o estabelecimento de relações simbólicas e afetivas com as obras em questão.
-Era uma arte que se valia da repetição de signos conhecidos no intuito de buscar uma identificação com o público a que ela se destinava.
-A idéia era eliminar as barreiras entre as culturas erudita e popular.
-Sendo assim, é compreensível que os grandes nomes da pop art utilizassem também as histórias em quadrinhos como um elemento a mais dentro de seus trabalhos.
-Afinal, a linguagem das HQs , um balão de texto ligado a uma imagem, possibilita a compreensão imediata da mensagem.
-Além do que, graficamente, eles dispunham de inúmeras referências que serviriam de parâmetro para os pintores pop.
-Isso pode ser visto na obra de Roy Lichtenstein e seus painéis diretamente copiados de tiras de jornal e, em menor escala, no trabalho de Andy Warhol .
-Neste caso, mais em decorrência da forma como ele dispunha suas obras - utilizando a narrativa seqüencial em cores primárias nos célebres retratos de Marilyn Monroe , Mao Tsé Tung e James Dean - do que propriamente por se comportar como um quadrinhista tradicional.
-Ao levar para as galerias a estética das HQs , a pop arte fez com que os quadrinhos ganhassem de volta o respeito que haviam perdido na década de 50 .
-Claro que isso não seria possível sem a renovação promovida pelos Comix .
-Com a pop art os quadrinhos passaram a ser aceitos por uma camada mais intelectualizada da sociedade.
-Jules Feiffer tem suas tiras publicadas nas páginas da elitista New Yorker.
-Na Europa , François Truffaut , Alain Resnais , Federico Fellini e Umberto Eco , teorizam sobre as HQs e declaram seu amor aos quadrinistas norte-americanos.
-Com a benção da pop art, finalmente as histórias em quadrinhos viraram coisa de gente grande.
-A quebra de valores promovida pela pop art, pela contracultura, pelos comix e pela beat generation influenciou ainda o jornalismo e a literatura.
-Hunter S. Thompson e Tom Wolfe criam o "new journalism" e inventam uma nova forma de narrativa, misturando a notícia a impressões pessoais e estados alterados de consciência.
-Se, por um lado, Thompson experimentou todos os tipos de substâncias legais e ilegais para escrever Fear &amp; Loathing in Las Vegas , um relato de suas maluquices na capital mundial do jogo, Wolfe desenvolveu uma linguagem acelerada e dinâmica parecida com as narrativas das HQs .
-Inclusive com a utilização de onomatopéias: 
-"mesmo que alguém quebrasse a corrente e em que todos fluíam e fosse bater de encontro ao asfalto da Grande Estrada a noventa quilômetros por hora - eles possuiam isso gravado na fita - e podiam tocar muitas vezes em retardos variáveis, skakkkkkkkkkkk-akkkkkkkk-akkkkk-akkkkkeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-eeeeeeeeeeeeeeeeeeeeeeeee - Nua em Pêlo cada vez mais esquisita enrolada na manta preta, tremendo e depois se levantando feito uma alma penada...
-...É loucura, delírio, piração, fora da realidade, com metade do mesencéfalo repetindo
-VOCÊ ESTÁ MUITO DOIDO
-e a outra metade repetindo
-VOCÊ É DEUS ...
-Homem home on the range, cuspindo e buzinando fonfonrofonfon aquela maldita ladainha ao microfone - Home...home...on the ra-a-a-a-a-ange..." 
-Tom Wolfe - O Teste do Ácido do Refresco Elétrico 
-Essa foi a estética vigente dos primeiros textos da literatura underground norte-americana.
-Em livros como V , O Leilão do Lote 49 e Arco Íris da Gravidade , todos publicados no período que vai de 61 a 73 , o escritor Thomas Pynchon freqüentemente adota um modelo de narrativa semelhante ao das histórias em quadrinhos e nos diverte com aviões sendo abatidos por uma rajada de tortas de creme, sátiras ao quadrinho de herói (o personagem Homem Foguete é claramente inspirado no Capitão América ), monstros imensos que surgem do nada, ratos falantes, uma rolha assassina que persegue um casal em pleno ato sexual e personagens como nomes improváveis e absurdos ( Benny Profane , Oedipa e Mucho Maas , Pierce Inverarity , Fausto Magistral , Tyrone Slothrop , General Pudding , Pig Bodine ...).
-Quem também se utiliza do humor quase infantil das HQs é Kurt Vonnegut em seu manifesto anti-militarista Matadouro 5 e no experimental Timequake .
-Foi essa reciclagem da cultura de massa norte-americana e a sua junção com os valores emergentes da contracultura que permitiu o surgimento de uma narrativa genuinamente pós-moderna, um gênero que, além de bastante divertido, deixou fortes marcas na literatura norte-americana.
-Dos anos 60 até os dias de hoje .
-Fonte: Kung Fu Lounge (http://kfl.blogspot.com/).
+ COISAS DA SÁBADO  : A DIFERENÇA ENTRE O JORNAL DE NOTÍCIAS E O DIÁRIO DE NOTÍCIAS        
+ No dia em que a operação « Noite Branca » começou a prender suspeitos de serem responsáveis pelo clima de violência no Porto , a comparação entre um jornal de Lisboa , o Diário de Notícias , e um do Porto , o Jornal de Notícias , no mesmo dia 17 de Dezembro , não podia ser mais significativa.
+O  Diário de Notícias  falava das biografias e do background dos detidos, fazendo nota, como é óbvio, do seu profundo envolvimento com a claque do FCP , os Super Dragões .
+Na verdade nenhum destes homens se tornou conhecido por ser segurança na noite, nem por frequentar ginásios e mesmo as suas páginas e vídeos guerreiros (*) nunca tinham merecido muita atenção.
+Onde eles apareciam era à frente da claque em filmes (a SIC mostrou-os) e em fotos de segurança aos dirigentes do clube.
+No Jornal de Notícias tudo isto é cuidadosamente omitido e os presos aparecem sem biografia, ou apenas com uma referência casual e singular a essa pertença.
+De facto, o Jornal de Notícias parece ser um jornal do Casaquistão tal é a ignorância do que se passa à sua volta.
+Mas não é, é mesmo do Porto e esse é que é o problema: é do Porto e cala.
 --DOCSTART--
     
- Ronaldo volta a treinar com bola no Milan        
- Fenômeno não participava de um coletivo desde novembro .
-Jogador se recupera de lesão        
- Das agências de notícias Dubai , Emirados Árabes        
- Depois de ser cotado para vestir a camisa do Flamengo , o Fenômeno parece, se não satisfeito, pelo menos conformado em retornar ao grupo do Milan .
-Após longo período se recuperando de uma lesão, Ronaldo calçou as chuteiras e voltou a treinar com bola, o que não fazia desde novembro .
-O atacante segue em recuperação.
-Nesta sexta-feira , participou da maior parte das atividades, em Dubai , nos Emirados Árabes .
-O técnico dividiu o elenco em dois times com 11 jogadores atuando na metade do gramado do estádio Al Maktoum .
-Em seguida, quando começou a movimentação com bola, Ronaldo seguiu correndo.
-Aí quem se destacou - negativamente, de acordo com o jornal italiano " La Gazzetta dello Sport  " - foi o goleiro Dida .
-O brasileiro voltou a não passar segurança e no treino em campo reduzido seu time foi derrotado por 6 a 0 .
-Três dos gols que levou eram defensáveis, segundo o jornal italiano.
-Alessandro Nesta saiu em defesa do companheiro.
-- Poderíamos ter vencido o Inter ( 2 a 1 , o segundo gol em falha de Dida ).
-Não podemos ficar pressionando o Dida .
-Estaremos ao seu lado e considero que ele está se portando de maneira positiva na concentração - explica.
+ Reino Unido quer proibir Tintim        
+ 12/Julho/2007 · 182 Comentários        
+ A Comissão pela Igualdade Racial , do governo britânico, pediu que as livrarias interrompam a venda de Tintim na África  , segundo álbum em quadrinhos de uma das séries mais populares do mundo.
+O livro é racista.
+Profundamente racista.
+Colonialista ao limite.
+Publicado em 1930 , em Tintin au Congo  negros são burros qual portas e são chamados de macacos.
+O álbum não é sequer particularmente bom: é uma obra menor na coleção ilustrada e redigida por Georges Remi , que se assinava Hergé .
+No Reino Unido , Tintim na África  é vendido entre os livros adultos, não entre os juvenis, justamente por conta do conteúdo racista.
+Traz na capa um alerta.
+Já velho, antes de morrer, Hergé falou da obra.
+"Quando jovem, disse, "fui muito influenciado pelos preconceitos e estereótipos burgueses do tempo.
+Ele listava Tintim na África  entre seus pecados de juventude.
+Hergé é autor de algumas das coisas mais geniais e profundas da história dos quadrinhos.
+Inclua-se na lista sua obra prima, Tintim no Tibete , na qual o jovem repórter embrenha-se pelas montanhas geladas na tentativa de encontrar Chang , seu amigo chinês, único sobrevivente de um acidente de avião.
+O livro, de 1960 , é místico, orientalizado, respeitoso - tolerante e fascinado com o encontro de culturas distintas.
+O governo britânico não está censurando: pede que as livrarias cooperem interrompendo a venda.
+Tintim na África  faz parte de uma coleção de 23 álbuns.
+Se é mais imaturo - e é - também é um retrato de como a burguesia européia via o resto do mundo nos anos 1930 .
+Se o racismo nos incomoda hoje , se mesmo racistas envergonham-se de demonstrar o que pensam, é por conta de tragédias e lutas que, entre o Holocausto e Luther King , remodelaram nossa percepção do mundo.
+Esquecer que o racismo era natural há oitenta anos é desdenhar do esforço envolvido em dominá-lo.
+Se deixamos de ler os registros cotidianos daquele tempo - como Tintim na África  -, estimulamos este esquecimento.
+Nenhuma obra deve ser lida ignorando a época na qual foi escrita.
+O intervalo entre Tintim na África  e Tintim no Tibete  mostra ao leitor de Hergé a mudança do autor.
+Certamente ele não seria lembrado se tivesse deixado apenas aqueles primeiros álbuns.
+Mas como cresceu entre um e outro.
+--DOCSTART--
+
+Onde ficam as Ilhas Marquesas ?
+De que organização é que Javier Solana era secretário-geral?
+O que é a EFTA ?
+Quando é que foi criada?
+Que cinco países da EFTA se juntaram ao EEE"EEE quando este entrou em vigor?
+Qual é o maior banco do Japão ?
+A que companhia pertencia o Airbus atacado pelo GIA em Dezembro de 1994 ?
+Quem é Michael Jackson ?
+Diga um dos grandes sucessos de Michael Jackson ?
+Com quem é que ele se casou em Maio de 1994 ?
+Qual era a nacionalidade de Ayrton Senna ?
+Quantas vezes é que ele foi campeão do mundo?
+Quando é que ele morreu?
+Em que circuito de F1 é que ele morreu?
+Quando é que caiu o regime comunista do Afeganistão ?
+Quem era o presidente do regime comunista do Afeganistão antes dessa queda?
+Quantos casamentos ocurreram na Grã-Bretanha em 1993 ?
+O que é o IRA ?
+Contra que aeroporto londrino o IRA lançou um ataque de morteiro em 1994 ?
+Quando é que foi inaugurada a  Ponte da Normandia ?
+Quando ocorreu o tremor de terra em Los Angeles ?
+Quem é Paul Touvier ?
+Quando é que começou o julgamento de Paul Touvier ?
+Quando é que foi criado o  Tribunal Internacional Penal para o Ruanda ?
+Quando é que Liamine Zéroul foi eleito para a presidência da Argélia ?
+Quando é que a Organização Mundial do Comércio entrou em vigor?
+Em que ano nasceu Richard Nixon ?
+Quando é que o antigo  Parlamento da Bretanha foi destruído por um incêndio?
+Onde fica Lillehammer ?
+Quando é que Eduardo Frei se tornou presidente do Chile ?
+Em que ano é que Eugène Ionesco entrou na Academia Francesa ?
+Que bispo foi suspenso pelo Vaticano a 13 de Fevereiro de 1995 ?
+Em França , quem foi nomeado Primeiro Ministro a 17 de Maio de 1995 ?
+Onde fica Balcarce ?
+Que famoso condutor argentino se retirou em 1958 ?
+Quem ganhou o Torneio das Cinco Nações em 1994 ?
+Quem ganhou o Óscar de melhor filme por " Forrest Gump "?
+Quem ganhou o Prémio Goncourt em 1995 ?
+Quem ganhou o Óscar de melhor actor em 1994 ?
+Quem se suicidou a 8 de Abril de 1994 ?
+Que duas personalidades famosas presidiram ao júri do  Festival de Cannes de 1994 ?
+Quantos habitantes tem Catmandu ?
+A que partido político pertence Thérèse Aillaud ?
+Ela é deputada por que região?
+Quem foi eleito presidente da África do Sul  a 9 de Maio de 1994 ?
+Quem se tornou líder do Partido Trabalhista  britânico a 21 de Julho de 1994 ?
+Quais as cinco praias do desembarque das quais um industrial comprou 200 toneladas  de areia para comemorar o 50º aniversário do Dia-D ?
+Quem era presidente da Comissão Europeia  em 1995 ?
+Onde é que  Stephanie do Mónaco e Daniel Ducruet se casaram?
+Quantas pessoas estavam presentes na cerimónia em memória do escritor Elias Canetti ?
+Qual o endereço da  Delegação de Turismo do Sri Lanka ?
+Que aconteceu na Argélia na noite de 17 para 18 de Agosto de 1994 ?
+Quantas pessoas morreram no terramoto?
+Quantos quilómetros são de Orão a Macara ?
+Um míssil ASMP é quantas vezes mais rápido do que a velocidade do som?
+O que é a FPLP ?
+Quem era considerado chefe do grupo?
+Em que país fica Beit Liqya ?
+A que cidade chinesa foi Warren Christopher enviado por Bill Clinton para apreciar os eventuais progressos relativos aos direitos humanos?
+Quem é Sir Winston Churchill ?
+Que prémio ganhou o filme " Pulp Fiction " no  Festival de Cannes ?
+Quem realizou esse filme?
+Quem é o actor principal?
+Quantos habitantes tem a União Soviética ?
+Quantos poços tiveram que ser encerrados após a ruptura de um oleoduto na Sibéria ?
+Onde é que fica o aeroporto de Irkutsk ?
+Que dois bancos se fundiram para formar o banco Tokyo-Mitsubishi ?
+Quantos quilómetros separam Kikwit de Kinshasa ?
+Em que filme de André Cayatte participou Annie Girardot em 1971 ?
+De que doença é que ela sofre desde 2006 ?
+Onde é que ela nasceu?
+O que é a aceleração centrífuga?
+O que significa a sigla WIA ?
+Em que ano foi realizado o filme " Ace Ventura em África "?
+Que vírus atingiu o Zaire ?
+O que é Geographos?
+Que avião civil efectuou o voo mais longo sem escalas?
+Onde é que o A340 levou a cabo o voo mais longo sem escalas por um avião civil?
+Quando é que este feito foi levado a cabo?
+Que nome se dá a uma inflamação dos gânglios?
+Quais são os outros três nomes do Arsenal Football Club ?
+Quando é que este clube foi fundado?
+Em que estádio é que os jogadores do Arsenal têm estado a treinar desde Agosto de 2006 ?
+Quantos lugares tem o estádio?
+Com que Prémio Nobel é que Seamus Heaney foi galardoado?
+Quantos estados ratificaram a convenção adoptada pela  Assembleia Geral da ONU em 20 de Novembro de 1989 ?
+Quem é Arsène Wenger ?
+De que equipa é que ele se tornou treinador em 1987 ?
+Em que ano foi fundada a firma Adidas Group AG ?
+Qual é a sua área de trabalho?
+Qual é a altitude do Monte Rosa ?
+Quantos litros de azeite são comercializados por ano pela EBS ?
+De que país é Kim Il Sung presidente?
+As amêndoas são o fruto de que árvore?
+De onde é que ela é originária?
+Quem é Charles-Ange Ginésy ?
+De que município é que ele também é presidente?
+Em que grupo político é que ele tem assento?
+O que é a febre-amarela?
+Que ferry-boat famoso naufragou no Mar Báltico ?
+Em que país teve lugar a cimeira dos G7 em Julho de 1994 ?
+A que horas ocorreu o acidente no metro de Valência a 3 de Julho de 2006 ?
+Quantos mortos causou esse acidente?
+A que velocidade circulava o metro?
+Quando é que a Tanzânia fechou as fronteiras aos refugiados do Ruanda ?
+Que slalom é que Alberto Tomba ganhou a 6 de Fevereiro de 1994 ?
+O que é " Ace of Base "?
+De que cidade é este grupo?
+Quem são os quatro membros que compõem o grupo?
+Qual é o arranha-céus mais alto do mundo?
+O que é Asandros ?
+Quem é o irmão dele?
+Onde é que Danny Barker morreu?
+Quem foi nomeado presidente da SNCF  em 20 de Dezembro de 1995 ?
+Que quatro planetas do sistema solar são compostos principalmente de gás?
+Diga um corpo celeste.
+De que é que é composta a atmosfera da Lua ?
+Em informática, o que é Alien ?
+Qual é a principal companhia de aviação em França ?
+Que cinco companhias de aviação que se fundiram em 1933 para criar a Air France ?
+Em quantos países os aviões da Air France fazem os seus 1800 voos diários?
+Que companhia detém 100% do capital da Air France ?
+Que conto célebre de Hans Christian Andersen é a adaptação do conto " Aladino e a Lâmpada Mágica "?
+O que é a AIEA ?
+Que prémio é recebeu em 2005 ?
+Em que cidade podemos encontrar essa agência?
+Qual foi o seu orçamento para o ano de 2004 ?
+Quando é que Thierry Henry ganhou o campeonato do mundo de râguebi?
+O que é a MNEF ?
+Quando é que chegou ao fim o último julgamento sobre o escândalo da MNEF ?
+Segundo Jean Michel Grosz , que organização foi criada no seu escritório?
+Qual era a altura de Marylin Monroe ?
+Que vaivém pôs a sonda espacial Ulisses em órbita?
+Que idade tinha Grégory Villemin quando o seu corpo foi encontrado?
+Quem era Bernard Laroche ?
+Que juiz acusou Christine Villemin ?
+O que é Alcatel ?
+Que companhia foi criada por Pierre Azaria em 1898 ?
+Com que grupo a Alcatel anunciou a fusão em Março de 2006 ?
+Quem era o director-geral da Alcatel  de 1986 a 1995 ?
+O que é Assédic?
+Quando é que saiu o rimeiro Álbum  da cantora americana Anastacia ?
+Desde a saída do seu primeiro álbum, quantos discos é que Anastacia vendeu?
+Quando é que Jacques Chirac foi assassinado?
+Que jogador espanhol ganhou Roland Garros em 1994 ?
+Quantos habitantes tem a Alemanha ?
+Quantos quilómetros de ferrovia tinha a Alemanha em 1998 ?
+Em Novembro de 2005 , qual a taxa de desemprego na Alemanha ?
+Qual era a moeda da Alemanha antes do euro?
+Num relógio, qual o ponteiro que aponta para as horas?
+O que é o amianto?
+Qual a primeira causa de morte das pessoas expostas ao amianto?
+O que é um administrador de rede?
+Quem é Allan Frederick Jacobsen ?
+Por que clube joga?
+Quanto é que ele pesa?
+Em que árvore crescem os morangos?
+Quem é Amira Casar ?
+Onde é que ela nasceu?
+Em que filme é que ela entrou com Richard Anconina ?
+Como se chama o presidente das Filipinas ?
+Que barragem seria a maior do mundo se tivesse sido construída?
+Qual era o custo estimado do projecto?
+Quantos meses tem numa semana ?
+Que agência está encarregada de centralizar as ofertas e pedidos de emprego em França ?
+Quantos colaboradores tem a ANPE ?
+Quem é que dirige essa agência desde 2005 ?
+O que é um afixo?
+Quem foi assassinado a 4 de Novembro de 1995 , aos 73 anos ?
+Qual é a primeira região francesa em população?
+Quantos habitantes tem essa região?
+O que é o Filival?
+Em quantas províncias está dividido o Afeganistão ?
+Que língua é falada pela maioria da população afegã?
+Quantas escolas havia no Afeganistão em 2003 ?
+O que é o ácido desoxirribonucleico?
+Que sigla se usa para designar essa molécula?
+Qual é o antigo nome do Alabama ?
+Quantos condados tem o Alabama ?
+Que estado fica a norte do Alabama ?
+Que organismo gere os subsídios de desemprego em França ?
+Que organização se dedica especificamente à sobrevivência dos patos?
+Quem é que derrotou Michael Moorer no 10º round em Las Vegas ?
+O que é uma árvore coral?
+Que altura pode esta árvore atingir?
+Quanto é que pesa uma maçã?
+O que á AFNOR ?
+Qual é o equivalente da AFNOR nos Estados Unidos ?
+O que é uma alergia?
+Que outro nome se dá a uma alergia?
+Em 1980 , que percentagem da população tinha sido atingida por elas?
+Que alergia afecta cerca de 8% das crianças?
+Qual é a altura do Monte Claro ?
+Quais eram os primeiros nomes dos dois irmãos Piccard ?
+Qual deles descobriu o urânio 235?
+Que duas profissões teve este último?
+Que personagem é que César Romero representava na famosa série televisiva " Batman "?
+Onde é que ele morreu?
+Que idade tinha ele?
+A que movimento político pertence a Arlette Laguiller ?

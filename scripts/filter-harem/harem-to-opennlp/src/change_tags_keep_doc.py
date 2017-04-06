@@ -1,7 +1,7 @@
 import sys
 import re
 
-if(len(sys.argv) > 1):
+if(len(sys.argv) > 2):
   filein = sys.argv[1]
   fileout = sys.argv[2]
 else:

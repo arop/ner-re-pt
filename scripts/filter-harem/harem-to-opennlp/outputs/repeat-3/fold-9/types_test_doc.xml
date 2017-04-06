@@ -1,151 +1,48 @@
 --DOCSTART--
- <START:COISA_CLASSE>Sistema de Posicionamento Global<END>        
- O <START:COISA_CLASSE>Sistema de Posicionamento Global<END> , vulgarmente conhecido por <START:ABSTRACCAO_NOME>GPS<END> (do acrónimo do inglês <START:ABSTRACCAO_NOME>Global Positioning System<END> ), é um sistema de posicionamento por satélite americano, <START:TEMPO_FREQUENCIA>por vezes<END> incorrectamente designado de sistema de navegação, utilizado para determinação da posição de um receptor na superfície da <START:LOCAL_FISICO>Terra<END> ou em órbita. Existem atualmente dois sistemas efetivos de posicionamento por satélite; o <START:COISA_CLASSE>GPS<END> americano e o <START:COISA_CLASSE>Glonass<END> russo; também existem mais dois sistemas em implantação; o <START:COISA_CLASSE>Galileo<END> europeu e o <START:COISA_CLASSE>Compass<END> chinês.        
- O sistema <START:COISA_CLASSE>GPS<END> foi criado e é controlado pelo    <START:ORGANIZACAO_ADMINISTRACAO>Departamento de Defesa<END>   dos   <START:LOCAL_HUMANO>Estados Unidos da América<END>  , <START:ORGANIZACAO_ADMINISTRACAO>DoD<END> , e pode ser utilizado por qualquer pessoa, gratuitamente, necessitando apenas de um receptor que capte o sinal emitido pelos satélites. O <START:ORGANIZACAO_ADMINISTRACAO>DoD<END> fornece dois tipos de serviços <START:COISA_CLASSE>GPS<END> : <START:COISA_CLASSE>Standard<END> e <START:COISA_CLASSE>Precision<END> . Contrariamente ao que inicialmente acontecia, actualmente os dois serviços estão disponíveis em regime aberto em qualquer parte do mundo. O sistema está dividido em três partes: espacial, de controlo e utilizador. O segmento espacial é composto pela constelação de satélites. O segmento de controlo é formado pelas estações terrestres dispersas pelo mundo ao longo da <START:LOCAL_FISICO>Zona Equatorial<END> , responsáveis pela monitorização das órbitas dos satélites, sincronização dos relógios atómicos de bordo dos satélites e actualização dos dados de almanaque que os satélites transmitem. O segmento do utilizador consiste num receptor que capta os sinais emitidos pelos satélites. Um receptor <START:COISA_CLASSE>GPS<END> ( <START:COISA_CLASSE>GPSR<END> ) descodifica as transmissões do sinal de código e fase de múltiplos satélites e calcula a sua posição com base nas distâncias a estes. A posição é dada por latitude, longitude e altitude, coordenadas geodésicas referentes ao sistema <START:COISA_CLASSE>WGS84<END> .      
+<START:ACONTECIMENTO_ORGANIZADO>GP Brasil<END>: <START:PESSOA_INDIVIDUAL>Raikkonen<END> campeão do <START:LOCAL_HUMANO>Mundo<END> 
+FINLANDÊS DA <START:PESSOA_GRUPOMEMBRO>FERRARI<END> ARREBATOU TÍTULO CONTRA FAVORITISMO DA <START:PESSOA_GRUPOMEMBRO>MCLAREN<END> 
+O finlandês <START:PESSOA_INDIVIDUAL>Kimi Raikkonen<END> sagrou-se campeão do <START:LOCAL_HUMANO>Mundo<END>  de <START:ABSTRACCAO_DISCIPLINA>F1<END> vencendo o  <START:ACONTECIMENTO_ORGANIZADO>GP<END> do <START:LOCAL_HUMANO>Brasil<END>, à frente do companheiro de equipa na <START:PESSOA_GRUPOMEMBRO>Ferrari<END> <START:PESSOA_INDIVIDUAL>Filipe Massa<END> e do espanhol <START:PESSOA_INDIVIDUAL>Fernando Alonso<END>.
+<START:PESSOA_INDIVIDUAL>Lewis Hamilton<END>, colega de <START:PESSOA_INDIVIDUAL>Alonso<END> na <START:PESSOA_GRUPOMEMBRO>McLaren<END>, não passou da <START:VALOR_CLASSIFICACAO>7.ª<END> posição, depois de partir em vantagem pontual no <START:ACONTECIMENTO_ORGANIZADO>Campeonato do Mundo<END>, e teve de contentar-se com o segundo lugar, com <START:VALOR_QUANTIDADE>109<END> pontos, a apenas um do novo campeão, mas os mesmos que <START:PESSOA_INDIVIDUAL>Alonso<END>, embora com mais vitórias. 
+Emoção
+Não faltou emoção em <START:LOCAL_HUMANO>Interlagos<END> no <START:LOCAL_HUMANO>Circuito José Carlos Pace<END> desde a primeira volta da corrida decisiva do <START:ACONTECIMENTO_ORGANIZADO>Mundial<END>, incluindo alguns acidentes entre actores secundários... e deslizes dos protagonistas.
+O <START:COISA_MEMBROCLASSE>Ferrari<END> de <START:PESSOA_INDIVIDUAL>Raikkonnen<END> partiu que nem um cavallino rampante e juntou-se ao companheiro de equipa tapando <START:PESSOA_INDIVIDUAL>Alonso<END>, que por sua vez ganhara uma posição colega <START:PESSOA_INDIVIDUAL>Lewis Hamilton<END>. 
+O líder do campeonato, que podia muito bem esperar para ver como decorria a prova, tentou passar o bicampeão e cometeu um erro de trajectória na 4.ª curva da primeira volta, saindo de pista e descendo para a <START:VALOR_CLASSIFICACAO>8.ª<END> posição, atrás dos <START:PESSOA_GRUPOMEMBRO>Toyota<END>.
+Quando já recuperara para o quinto posto, eis que o britânico abranda com problemas na electrónica, acabando na <START:VALOR_CLASSIFICACAO>18.ª<END> posição, o que o obriga a fazer uma corrida de trás para a frente na busca do título!
+A <START:VALOR_QUANTIDADE>8<END> voltas do fim, <START:PESSOA_INDIVIDUAL>Raikkonen<END> liderava e já era campeão virtual, atrás de <START:PESSOA_INDIVIDUAL>Alonso<END> (<START:VALOR_CLASSIFICACAO>3.º<END> na prova) e <START:PESSOA_INDIVIDUAL>Hamilton<END> (<START:VALOR_CLASSIFICACAO>8.º<END>) : o domínio da <START:PESSOA_GRUPOMEMBRO>Ferrari<END> era total na corrida, e só destinatário do título era incerto...
+Mas a <START:VALOR_QUANTIDADE>5<END> voltas do fim o finlandês fez a melhor volta do dia, enquanto <START:PESSOA_INDIVIDUAL>Hamilton<END> era apenas <START:VALOR_CLASSIFICACAO>7.º<END>... <START:TEMPO_DURACAO>a 15 segundos<END>  de <START:PESSOA_INDIVIDUAL>Heidfeld<END>, e muito longe do <START:VALOR_CLASSIFICACAO>5.º<END> lugar que lhe daria o título. Festa à brasileira para <START:PESSOA_INDIVIDUAL>Raikkonen<END> com dobradinha de <START:PESSOA_INDIVIDUAL>Massa<END> bem saborosa para a <START:PESSOA_GRUPOMEMBRO>Ferrari<END>:  <START:ACONTECIMENTO_EVENTO>GP<END> do <START:LOCAL_HUMANO>Brasil<END> e <START:ACONTECIMENTO_ORGANIZADO>Mundiais<END> de pilotos e construtores... 
+
+  --DOCSTART--
+
+ <START:ABSTRACCAO_DISCIPLINA>Indústria<END> e <START:ABSTRACCAO_DISCIPLINA>Comércio<END>: <START:ABSTRACCAO_DISCIPLINA>Informática<END>:
+<START:ORGANIZACAO_EMPRESA>Consultoria e Sistemas RML<END> - Sistema de faturamento e administração de academias com controle de catracas eletrônicas e desenvolvimento de sistemas.<START:COISA_CLASSE>OperFit<END>, Adm pro, R white e Life sport
+http://www.rml.com.br
+<START:ORGANIZACAO_EMPRESA>CooperSis Informática<END> - Somos especializados em pequenas e medias empresas que nao possuem informatizacao ou estao descontentes com o que tem
+http://www.airtonmolena.com.br
+<START:ORGANIZACAO_EMPRESA>Credi-Telemática Eletro-Eletrônicos<END> - Loja virtual que atende todo o território nacional com eletro-eletrônicos importados, material de informática e de telefonia. Configurações personalizadas e as últimas novidades são encontradas aqui.
+http://www.credi.com.br
+<START:ORGANIZACAO_EMPRESA>Croma Eletrônica Ltda.<END> - Componentes eletrônicos antenas áudio vídeo som informática telefonia fios cabos conectores plugs garras adaptadores transformadores pilhas transistores diodos cis fones microfones caixas multímetros câmeras porteiros PABX(21)2233-0030
+http://www.divulgacao.com.br/croma
+<START:ORGANIZACAO_EMPRESA>Darun Informática<END> - Comércio de produtos de informática como impressoras, softwares, equipamentos para automação comercial e suprimentos.
+http://www.darun.com.br
+Desenhos em <START:COISA_CLASSE>Cad<END> e serviços de informatica - Desenhos em <START:COISA_CLASSE>CAD<END>, desenhos elétricos, diagramas de força e comando, desenhos para engenharia, etc. Se seu <START:COISA_CLASSE>Windows<END> sempre trava ou não funciona direito mande um e-mail
+http://www.marckservice.cjb.net/
+Desenvolvimentos de projetos eletrônicos - Desenvolvemos projetos eletrônicos para automação de indústrias e Também venda de microcomputadores, cobrimos a oferta da concorrência
+http://www.projetoseletronicos.hpg.com.br
+<START:ORGANIZACAO_EMPRESA>DHCP Informática<END> - Comércio de equipamentos de informática. Trabalha com placas mães, processadores, HDs, placas de vídeo, gravadores, CD-ROMs, DVDs, disquetes, monitores, placas aceleradoras, mémorias, cooler, drives,hubs, placas da rede, placa de som, fax.
+http://www.dhcp.com.br
+<START:ORGANIZACAO_EMPRESA>Di Bello Informática<END>... seu <START:ORGANIZACAO_EMPRESA>Polo de Informática<END> em <START:LOCAL_HUMANO>MADUREIRA<END> - A mais antiga loja de <START:ABSTRACCAO_DISCIPLINA>Informática<END> em <START:LOCAL_HUMANO>Madureira<END>, são vinte anos de credibilidade...Hardware, software, suprimentos e manutenção
+http://www.webspace.com.br/dibello
+<START:ORGANIZACAO_EMPRESA>Diacon Informática<END> - A <START:ORGANIZACAO_EMPRESA>Diacon<END> presta serviços de consultoria, treinamento e desenvolvimento de sistemas.
+http://www.diacon.com.br
 
 --DOCSTART--
 
-Agora já pode chegar ao seu pesqueiro preferido do modo mais rápido possível e sem possibilidade de enganos no caminho!
--<START:COISA_CLASSE>Sistema de Navegação<END> automóvel, pronto a usar , com indicações de mudança de direcção (turn-by-turn) de voz e visuais a 3 dimensões (True view 3d navigation exclusiva da <START:ORGANIZACAO_EMPRESA>Magellan<END>), e ecrã táctil com <START:VALOR_QUANTIDADE>32.000<END> côres.
-Aplicação na viatura muito simples.
-Pode ser facilmente removido e aplicado noutras viaturas.
-Só tem que escolher o seu destino e o magellan roadmate calcula automaticamente a sua rota,caso mude a sua rota, para tomar um atalho o <START:COISA_CLASSE>RoadMate<END> recalcula a sua rota.
--Base de dados com mapas de <START:LOCAL_HUMANO>Portugal<END>, <START:LOCAL_HUMANO>Espanha<END> e sul de <START:LOCAL_HUMANO>França<END> incorporados
--Inclui cartão <START:COISA_CLASSE>SD<END> de <START:VALOR_QUANTIDADE>512 Mb<END> para importação de mapas,waypoints ou rotas criadas em casa.
-Pontos de interesse, organizados em <START:VALOR_QUANTIDADE>mais de 40<END> categorias incluíndo, restaurantes, parques, estações de serviço, hotéis, escolas etc.
-Grava <START:VALOR_QUANTIDADE>até 600<END> endereços pessoais.(ou <START:VALOR_QUANTIDADE>200<END> endereços por cada utilizador, permitindo um máximo de <START:VALOR_QUANTIDADE>3<END> utilizadores.)
-O planeamento de rota pode ser feito das seguintes maneiras:
--O caminho mais rápido.
--Distância mais curta.
--O menor uso de auto-estradas
-Alimentação de 10-18V DC
-Fornecido com suporte universal, suporte com ventosa para fixação do vidro,cabo de alimentação exterior de 220V AC, cabo USB para ligação ao computador e CD-ROM com manual de instruções em português.
-Menus e indicações de voz, <START:TEMPO_TEMPO_CALEND>a partir de Setembro 2005<END> (unidades vendidas agora terão actualização grátis <START:TEMPO_TEMPO_CALEND>nessa altura<END>.)
--Encomenda sujeita a confirmação.
-
---DOCSTART--
-
-Onde ficam as <START:LOCAL_FISICO>Ilhas Marquesas<END>? 
-De que organização é que <START:PESSOA_INDIVIDUAL>Javier Solana<END> era secretário-geral? 
-O que é a <START:ORGANIZACAO_INSTITUICAO>EFTA<END>? Quando é que foi criada? Que cinco países da <START:ORGANIZACAO_INSTITUICAO>EFTA<END> se juntaram ao <START:OBRA_PLANO>EEE"EEE<END> quando este entrou em vigor? 
-Qual é o maior banco do <START:LOCAL_HUMANO>Japão<END>? 
-A que companhia pertencia o <START:COISA_OBJECTO>Airbus<END> atacado pelo <START:PESSOA_GRUPOMEMBRO>GIA<END> <START:TEMPO_TEMPO_CALEND>em Dezembro de 1994<END>? 
-Quem é <START:PESSOA_INDIVIDUAL>Michael Jackson<END>? Diga um dos grandes sucessos de <START:PESSOA_INDIVIDUAL>Michael Jackson<END>? Com quem é que ele se casou <START:TEMPO_TEMPO_CALEND>em Maio de 1994<END>? 
-Qual era a nacionalidade de <START:PESSOA_INDIVIDUAL>Ayrton Senna<END>? Quantas vezes é que ele foi campeão do mundo? Quando é que ele morreu? Em que circuito de <START:ABSTRACCAO_DISCIPLINA>F1<END> é que ele morreu? 
-Quando é que caiu o regime comunista do <START:LOCAL_HUMANO>Afeganistão<END>? Quem era o presidente do regime comunista do <START:LOCAL_HUMANO>Afeganistão<END> antes dessa queda? 
-Quantos casamentos ocurreram na <START:LOCAL_HUMANO>Grã-Bretanha<END> <START:TEMPO_TEMPO_CALEND>em 1993<END>? 
-O que é o <START:ORGANIZACAO_INSTITUICAO>IRA<END>? Contra que aeroporto londrino o <START:ORGANIZACAO_INSTITUICAO>IRA<END> lançou um ataque de morteiro <START:TEMPO_TEMPO_CALEND>em 1994<END>? 
-Quando é que foi inaugurada a  <START:LOCAL_HUMANO>Ponte<END> da <START:LOCAL_HUMANO>Normandia<END>? 
-Quando ocorreu o tremor de terra em <START:LOCAL_HUMANO>Los Angeles<END>? 
-Quem é <START:PESSOA_INDIVIDUAL>Paul Touvier<END>? Quando é que começou o julgamento de <START:PESSOA_INDIVIDUAL>Paul Touvier<END>? 
-Quando é que foi criado o  <START:ORGANIZACAO_INSTITUICAO>Tribunal Internacional Penal<END> para o <START:LOCAL_HUMANO>Ruanda<END> ? 
-Quando é que <START:PESSOA_INDIVIDUAL>Liamine Zéroul<END> foi eleito para a presidência da <START:LOCAL_HUMANO>Argélia<END>? 
-Quando é que a <START:OBRA_PLANO>Organização Mundial do Comércio<END> entrou em vigor? 
-Em que ano nasceu <START:PESSOA_INDIVIDUAL>Richard Nixon<END>? 
-Quando é que o antigo  <START:LOCAL_HUMANO>Parlamento<END> da <START:LOCAL_HUMANO>Bretanha<END> foi destruído por um incêndio? 
-Onde fica Lillehammer? 
-Quando é que <START:PESSOA_INDIVIDUAL>Eduardo Frei<END> se tornou <START:PESSOA_CARGO>presidente do Chile<END> ? 
-Em que ano é que <START:PESSOA_INDIVIDUAL>Eugène Ionesco<END> entrou na <START:ORGANIZACAO_INSTITUICAO>Academia Francesa<END>? 
-Que bispo foi suspenso pelo <START:ORGANIZACAO_INSTITUICAO>Vaticano<END> <START:TEMPO_TEMPO_CALEND>a 13 de Fevereiro de 1995<END>? 
-Em <START:LOCAL_HUMANO>França<END>, quem foi nomeado <START:PESSOA_CARGO>Primeiro Ministro<END> <START:TEMPO_TEMPO_CALEND>a 17 de Maio de 1995<END>? 
-Onde fica Balcarce? 
-Que famoso condutor argentino se retirou <START:TEMPO_TEMPO_CALEND>em 1958<END>? 
-Quem ganhou o <START:ACONTECIMENTO_ORGANIZADO>Torneio das Cinco Nações<END> <START:TEMPO_TEMPO_CALEND>em 1994<END>? 
-Quem ganhou o Óscar de melhor filme por "<START:OBRA_REPRODUZIDA>Forrest Gump<END>"? 
-Quem ganhou o Prémio Goncourt <START:TEMPO_TEMPO_CALEND>em 1995<END>? 
-Quem ganhou o Óscar de melhor actor <START:TEMPO_TEMPO_CALEND>em 1994<END>? 
-Quem se suicidou <START:TEMPO_TEMPO_CALEND>a 8 de Abril de 1994<END>? 
-Que duas personalidades famosas presidiram ao júri do  <START:ACONTECIMENTO_ORGANIZADO>Festival<END> de <START:LOCAL_HUMANO>Cannes<END> <START:TEMPO_TEMPO_CALEND>de 1994<END>? 
-Quantos habitantes tem <START:LOCAL_HUMANO>Catmandu<END>? 
-A que partido político pertence <START:PESSOA_INDIVIDUAL>Thérèse Aillaud<END>? Ela é deputada por que região? 
-Quem foi eleito <START:PESSOA_CARGO>presidente da África do Sul<END>  <START:TEMPO_TEMPO_CALEND>a 9 de Maio de 1994<END>? 
-Quem se tornou <START:PESSOA_CARGO>líder do Partido Trabalhista<END>  britânico <START:TEMPO_TEMPO_CALEND>a 21 de Julho de 1994<END>? 
-Quais as cinco praias do desembarque das quais um industrial comprou <START:VALOR_QUANTIDADE>200 toneladas<END>  de areia para comemorar o <START:VALOR_QUANTIDADE>50º<END> aniversário do <START:ACONTECIMENTO_EFEMERIDE>Dia-D<END>? 
-Quem era <START:PESSOA_CARGO>presidente da Comissão Europeia<END>  <START:TEMPO_TEMPO_CALEND>em 1995<END>? 
-Onde é que  <START:PESSOA_INDIVIDUAL>Stephanie<END> do <START:LOCAL_HUMANO>Mónaco<END> e <START:PESSOA_INDIVIDUAL>Daniel Ducruet<END> se casaram? 
-Quantas pessoas estavam presentes na cerimónia em memória do escritor <START:PESSOA_INDIVIDUAL>Elias Canetti<END>? 
-Qual o endereço da  <START:LOCAL_HUMANO>Delegação de Turismo<END> do <START:LOCAL_HUMANO>Sri Lanka<END>? 
-Que aconteceu na <START:LOCAL_HUMANO>Argélia<END> <START:TEMPO_TEMPO_CALEND>na noite de 17 para 18 de Agosto de 1994<END>? Quantas pessoas morreram no terramoto? Quantos quilómetros são de <START:LOCAL_HUMANO>Orão<END> a <START:LOCAL_HUMANO>Macara<END>? 
-Um míssil <START:COISA_CLASSE>ASMP<END> é quantas vezes mais rápido do que a velocidade do som? 
-O que é a <START:ORGANIZACAO_INSTITUICAO>FPLP<END>? Quem era considerado chefe do grupo? Em que país fica Beit Liqya? 
-A que cidade chinesa foi <START:PESSOA_INDIVIDUAL>Warren Christopher<END> enviado por <START:PESSOA_INDIVIDUAL>Bill Clinton<END> para apreciar os eventuais progressos relativos aos direitos humanos? 
-Quem é <START:PESSOA_INDIVIDUAL>Sir Winston Churchill<END>? 
-Que prémio ganhou o filme "<START:OBRA_REPRODUZIDA>Pulp Fiction<END>" no  <START:ACONTECIMENTO_ORGANIZADO>Festival<END> de <START:LOCAL_HUMANO>Cannes<END>? Quem realizou esse filme? Quem é o actor principal? 
-Quantos habitantes tem a <START:LOCAL_HUMANO>União Soviética<END>? 
-Quantos poços tiveram que ser encerrados após a ruptura de um oleoduto na <START:LOCAL_HUMANO>Sibéria<END>? 
-Onde é que fica o aeroporto de <START:LOCAL_HUMANO>Irkutsk<END>? 
-Que dois bancos se fundiram para formar o banco <START:ORGANIZACAO_EMPRESA>Tokyo-Mitsubishi<END>? 
-Quantos quilómetros separam <START:LOCAL_HUMANO>Kikwit<END> de <START:LOCAL_HUMANO>Kinshasa<END>? 
-Em que filme de <START:PESSOA_INDIVIDUAL>André Cayatte<END> participou <START:PESSOA_INDIVIDUAL>Annie Girardot<END> <START:TEMPO_TEMPO_CALEND>em 1971<END>? De que doença é que ela sofre <START:TEMPO_TEMPO_CALEND>desde 2006<END>? Onde é que ela nasceu? 
-O que é a aceleração centrífuga? 
-O que significa a sigla <START:ABSTRACCAO_NOME>WIA<END>? 
-Em que ano foi realizado o filme "<START:OBRA_REPRODUZIDA>Ace Ventura em África<END>"? 
-Que vírus atingiu o <START:LOCAL_HUMANO>Zaire<END>? 
-O que é Geographos? 
-Que avião civil efectuou o voo mais longo sem escalas? Onde é que o <START:COISA_CLASSE>A340<END> levou a cabo o voo mais longo sem escalas por um avião civil? Quando é que este feito foi levado a cabo? 
-Que nome se dá a uma inflamação dos gânglios? 
-Quais são os outros três nomes do <START:ORGANIZACAO_INSTITUICAO>Arsenal Football Club<END>? Quando é que este clube foi fundado? Em que estádio é que os jogadores do <START:PESSOA_GRUPOMEMBRO>Arsenal<END> têm estado a treinar <START:TEMPO_TEMPO_CALEND>desde Agosto de 2006<END>? Quantos lugares tem o estádio? 
-Com que Prémio Nobel é que <START:PESSOA_INDIVIDUAL>Seamus Heaney<END> foi galardoado? 
-Quantos estados ratificaram a convenção adoptada pela  <START:ORGANIZACAO_ADMINISTRACAO>Assembleia Geral<END> da <START:ORGANIZACAO_ADMINISTRACAO>ONU<END> <START:TEMPO_TEMPO_CALEND>em 20 de Novembro de 1989<END>? 
-Quem é <START:PESSOA_INDIVIDUAL>Arsène Wenger<END>? De que equipa é que ele se tornou treinador <START:TEMPO_TEMPO_CALEND>em 1987<END>? 
-Em que ano foi fundada a firma <START:ORGANIZACAO_EMPRESA>Adidas Group AG<END>? Qual é a sua área de trabalho? 
-Qual é a altitude do <START:LOCAL_FISICO>Monte Rosa<END>? 
-Quantos litros de azeite são comercializados <START:TEMPO_FREQUENCIA>por ano<END> pela <START:ORGANIZACAO_EMPRESA>EBS<END>? 
-De que país é <START:PESSOA_INDIVIDUAL>Kim Il Sung<END> presidente? 
-As amêndoas são o fruto de que árvore? De onde é que ela é originária? 
-Quem é <START:PESSOA_INDIVIDUAL>Charles-Ange Ginésy<END>? De que município é que ele também é presidente? Em que grupo político é que ele tem assento? 
-O que é a febre-amarela? 
-Que ferry-boat famoso naufragou no <START:LOCAL_FISICO>Mar Báltico<END>? 
-Em que país teve lugar a cimeira dos <START:ORGANIZACAO_ADMINISTRACAO>G7<END> <START:TEMPO_TEMPO_CALEND>em Julho de 1994<END>? 
-A que horas ocorreu o acidente no metro de <START:LOCAL_HUMANO>Valência<END> <START:TEMPO_TEMPO_CALEND>a 3 de Julho de 2006<END>? Quantos mortos causou esse acidente? A que velocidade circulava o metro? 
-Quando é que a <START:LOCAL_HUMANO>Tanzânia<END> fechou as fronteiras aos refugiados do <START:LOCAL_HUMANO>Ruanda<END>? 
-Que slalom é que <START:PESSOA_INDIVIDUAL>Alberto Tomba<END> ganhou <START:TEMPO_TEMPO_CALEND>a 6 de Fevereiro de 1994<END>? 
-O que é "<START:PESSOA_GRUPOMEMBRO>Ace of Base<END>"? De que cidade é este grupo? Quem são os quatro membros que compõem o grupo? 
-Qual é o arranha-céus mais alto do mundo? 
-O que é <START:PESSOA_INDIVIDUAL>Asandros<END>? Quem é o irmão dele? 
-Onde é que <START:PESSOA_INDIVIDUAL>Danny Barker<END> morreu? 
-Quem foi nomeado <START:PESSOA_CARGO>presidente da SNCF<END>  <START:TEMPO_TEMPO_CALEND>em 20 de Dezembro de 1995<END>? 
-Que quatro planetas do sistema solar são compostos principalmente de gás? Diga um corpo celeste. De que é que é composta a atmosfera da <START:COISA_OBJECTO>Lua<END>? 
-Em informática, o que é <START:COISA_CLASSE>Alien<END>? 
-Qual é a principal companhia de aviação em <START:LOCAL_HUMANO>França<END>? Que cinco companhias de aviação que se fundiram <START:TEMPO_TEMPO_CALEND>em 1933<END> para criar a <START:ORGANIZACAO_EMPRESA>Air France<END>? Em quantos países os aviões da <START:ORGANIZACAO_EMPRESA>Air France<END> fazem os seus <START:VALOR_QUANTIDADE>1800<END> voos diários? Que companhia detém <START:VALOR_QUANTIDADE>100%<END> do capital da <START:ORGANIZACAO_EMPRESA>Air France<END>? 
-Que conto célebre de <START:PESSOA_INDIVIDUAL>Hans Christian Andersen<END> é a adaptação do conto "<START:OBRA_REPRODUZIDA>Aladino e a Lâmpada Mágica<END>"? 
-O que é a <START:ORGANIZACAO_INSTITUICAO>AIEA<END>? Que prémio é recebeu <START:TEMPO_TEMPO_CALEND>em 2005<END>? Em que cidade podemos encontrar essa agência? Qual foi o seu orçamento <START:TEMPO_TEMPO_CALEND>para o ano de 2004<END>? 
-Quando é que <START:PESSOA_INDIVIDUAL>Thierry Henry<END> ganhou o campeonato do mundo de râguebi? 
-O que é a <START:ORGANIZACAO_INSTITUICAO>MNEF<END>? Quando é que chegou ao fim o último julgamento sobre o escândalo da <START:ORGANIZACAO_INSTITUICAO>MNEF<END>? Segundo <START:PESSOA_INDIVIDUAL>Jean Michel Grosz<END>, que organização foi criada no seu escritório? 
-Qual era a altura de <START:PESSOA_INDIVIDUAL>Marylin Monroe<END>? 
-Que vaivém pôs a sonda espacial <START:COISA_OBJECTO>Ulisses<END> em órbita? 
-Que idade tinha <START:PESSOA_INDIVIDUAL>Grégory Villemin<END> quando o seu corpo foi encontrado? Quem era <START:PESSOA_INDIVIDUAL>Bernard Laroche<END>? Que juiz acusou <START:PESSOA_INDIVIDUAL>Christine Villemin<END>? 
-O que é <START:ORGANIZACAO_EMPRESA>Alcatel<END>? Que companhia foi criada por <START:PESSOA_INDIVIDUAL>Pierre Azaria<END> <START:TEMPO_TEMPO_CALEND>em 1898<END>? Com que grupo a <START:ORGANIZACAO_EMPRESA>Alcatel<END> anunciou a fusão <START:TEMPO_TEMPO_CALEND>em Março de 2006<END>? Quem era o <START:PESSOA_CARGO>director-geral da Alcatel<END>  <START:TEMPO_TEMPO_CALEND>de 1986 a 1995<END>? 
-O que é Assédic? 
-Quando é que saiu o rimeiro <START:COISA_CLASSE>Álbum<END>  da cantora americana <START:PESSOA_INDIVIDUAL>Anastacia<END>? Desde a saída do seu primeiro álbum, quantos discos é que <START:PESSOA_INDIVIDUAL>Anastacia<END> vendeu? 
-Quando é que <START:PESSOA_INDIVIDUAL>Jacques Chirac<END> foi assassinado? 
-Que jogador espanhol ganhou <START:ACONTECIMENTO_ORGANIZADO>Roland Garros<END> <START:TEMPO_TEMPO_CALEND>em 1994<END>? 
-Quantos habitantes tem a <START:LOCAL_HUMANO>Alemanha<END>? Quantos quilómetros de ferrovia tinha a <START:LOCAL_HUMANO>Alemanha<END> <START:TEMPO_TEMPO_CALEND>em 1998<END>? <START:TEMPO_TEMPO_CALEND>Em Novembro de 2005<END>, qual a taxa de desemprego na <START:LOCAL_HUMANO>Alemanha<END>? Qual era a moeda da <START:LOCAL_HUMANO>Alemanha<END> antes do euro? 
-Num relógio, qual o ponteiro que aponta para as horas? 
-O que é o amianto? Qual a primeira causa de morte das pessoas expostas ao amianto? 
-O que é um administrador de rede? 
-Quem é <START:PESSOA_INDIVIDUAL>Allan Frederick Jacobsen<END>? Por que clube joga? Quanto é que ele pesa? 
-Em que árvore crescem os morangos? 
-Quem é <START:PESSOA_INDIVIDUAL>Amira Casar<END>? Onde é que ela nasceu? Em que filme é que ela entrou com <START:PESSOA_INDIVIDUAL>Richard Anconina<END>? 
-Como se chama o <START:PESSOA_CARGO>presidente das Filipinas<END> ? 
-Que barragem seria a maior do mundo se tivesse sido construída? Qual era o custo estimado do projecto? 
-Quantos meses tem <START:TEMPO_GENERICO>numa semana<END>? 
-Que agência está encarregada de centralizar as ofertas e pedidos de emprego em <START:LOCAL_HUMANO>França<END>? Quantos colaboradores tem a <START:ORGANIZACAO_INSTITUICAO>ANPE<END>? Quem é que dirige essa agência <START:TEMPO_TEMPO_CALEND>desde 2005<END>? 
-O que é um afixo? 
-Quem foi assassinado <START:TEMPO_TEMPO_CALEND>a 4 de Novembro de 1995<END>, aos <START:VALOR_QUANTIDADE>73 anos<END>? 
-Qual é a primeira região francesa em população? Quantos habitantes tem essa região? 
-O que é o Filival? 
-Em quantas províncias está dividido o <START:LOCAL_HUMANO>Afeganistão<END>? Que língua é falada pela maioria da população afegã? Quantas escolas havia no <START:LOCAL_HUMANO>Afeganistão<END> <START:TEMPO_TEMPO_CALEND>em 2003<END>? 
-O que é o ácido desoxirribonucleico? Que sigla se usa para designar essa molécula? 
-Qual é o antigo nome do <START:LOCAL_HUMANO>Alabama<END>? Quantos condados tem o <START:LOCAL_HUMANO>Alabama<END>? Que estado fica a norte do <START:LOCAL_HUMANO>Alabama<END>? 
-Que organismo gere os subsídios de desemprego em <START:LOCAL_HUMANO>França<END>? 
-Que organização se dedica especificamente à sobrevivência dos patos? 
-Quem é que derrotou <START:PESSOA_INDIVIDUAL>Michael Moorer<END> no <START:VALOR_CLASSIFICACAO>10º<END> round em <START:LOCAL_HUMANO>Las Vegas<END>? 
-O que é uma árvore coral? Que altura pode esta árvore atingir? 
-Quanto é que pesa uma maçã? 
-O que á <START:ORGANIZACAO_INSTITUICAO>AFNOR<END>? Qual é o equivalente da <START:ORGANIZACAO_INSTITUICAO>AFNOR<END> nos <START:LOCAL_HUMANO>Estados Unidos<END>? 
-O que é uma alergia? Que outro nome se dá a uma alergia? <START:TEMPO_TEMPO_CALEND>Em 1980<END>, que percentagem da população tinha sido atingida por elas? Que alergia afecta <START:VALOR_QUANTIDADE>cerca de 8%<END> das crianças? 
-Qual é a altura do <START:LOCAL_FISICO>Monte Claro<END>? 
-Quais eram os primeiros nomes dos dois irmãos <START:PESSOA_GRUPOIND>Piccard<END>? Qual deles descobriu o urânio 235? Que duas profissões teve este último? 
-Que personagem é que <START:PESSOA_INDIVIDUAL>César Romero<END> representava na famosa série televisiva "<START:OBRA_REPRODUZIDA>Batman<END>"? Onde é que ele morreu? Que idade tinha ele? 
-A que movimento político pertence a <START:PESSOA_INDIVIDUAL>Arlette Laguiller<END>?
+<START:ORGANIZACAO_EMPRESA>Panda<END> elege os vírus mais curiosos <START:TEMPO_TEMPO_CALEND>de 2007<END>
+O laboratório anti-malware da <START:ORGANIZACAO_EMPRESA>Panda Security<END>, revelou um relatório onde agrupa os "mais curiosos" exemplos de malware que emergiram <START:TEMPO_TEMPO_CALEND>no último semestre de 2007<END>.
+Alguns exemplos da lista:
+-O código malicioso "mais pontual" detectado nos últimos tempos, revela a <START:OBRA_PLANO>Panda<END>, foi o <START:COISA_CLASSE>Trojan Aifone.A<END>. O nome não engana: é um malware associado ao  <START:COISA_CLASSE>iPhone<END> da <START:ORGANIZACAO_EMPRESA>Apple<END>. Mal tinha acabado de ser lançado, já este malware o promovia, mas com o objectivo de propagar cópias de si mesmo entre utilizadores...
+-"O worm mais travesso" foi o <START:COISA_CLASSE>RogueMario.A<END>, destinado a entreteter os utilizadores enquanto os infecta. Tem uma vertente generosa, já que foi desenhado para instalar a versão do jogo <START:COISA_CLASSE>Mario Bros<END> de cada vez que infecta um computador.
+-A categoria <START:ABSTRACCAO_DISCIPLINA>Lost in Translation<END>" vai para worms como os <START:COISA_CLASSE>MSNFunny.B<END>, <START:COISA_CLASSE>Mimbot.A<END> ou <START:COISA_CLASSE>MsnSend.A<END>, que conseguem enviar mensagens em vários idiomas, ainda que em frases não muito bem construídas.
+-O <START:COISA_CLASSE>Voter.A<END> é um worm com "consciência cívica", conta a <START:ORGANIZACAO_EMPRESA>Panda<END>. Convida os cidadãos do <START:LOCAL_HUMANO>Quénia<END> a participarem em eleições e a votarem num dos candidatos. Uma ideia de aplaudir, não fosse a técnica mostrar uma imagem do candidato <START:TEMPO_FREQUENCIA>de nove a nove segundos<END>.
+-O <START:COISA_CLASSE>Trojan LiveDeath.A<END> tem associado a si a curiosidade. Sempre que infecta um computador, abre uma consola de comandos e força os utilizadores a responderem a uma série de perguntas, como "Qual a sua cor favorita?". O esforço de responder será sempre inglório: qualquer que seja a resposta o computador encerrar-se-á.
+Ainda que algumas destas ameaças lhe possam parecer interessantes, a <START:OBRA_PLANO>Panda<END> recomenda o afastamento face a estes exemplos de malware.
