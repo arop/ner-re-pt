@@ -1,9 +1,13 @@
-processed 2090 tokens with 35 phrases; found: 8 phrases; correct: 5.
-accuracy:  97.51%; precision:  62.50%; recall:  14.29%; FB1:  23.26
-LOCAL_HUMANO_DIVISAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+processed 3048 tokens with 50 phrases; found: 12 phrases; correct: 8.
+accuracy:  96.88%; precision:  66.67%; recall:  16.00%; FB1:  25.81
+LOCAL_HUMANO_CONSTRUCAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_HUMANO_DIVISAO: precision:  66.67%; recall:  14.29%; FB1:  23.53  3
 LOCAL_HUMANO_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-LOCAL_HUMANO_PAIS: precision: 100.00%; recall:  41.67%; FB1:  58.82  5
+LOCAL_HUMANO_PAIS: precision: 100.00%; recall:  30.77%; FB1:  47.06  4
 LOCAL_HUMANO_REGIAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ LOCAL_HUMANO_RUA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 LOCAL_VIRTUAL_SITIO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-ORGANIZACAO_EMPRESA_: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-TEMPO_TEMPO_CALEND_DATA: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+OBRA_REPRODUZIDA_FILME: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+OBRA_REPRODUZIDA_LIVRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+TEMPO_TEMPO_CALEND_DATA: precision:  50.00%; recall:  15.38%; FB1:  23.53  4
+TEMPO_TEMPO_CALEND_INTERVALO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
