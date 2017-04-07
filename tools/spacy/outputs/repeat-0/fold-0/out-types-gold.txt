@@ -3455,11 +3455,8 @@ no	O
 Dragão	B-LOCAL_HUMANO
 contra	O
 o	O
-E.	O
-Amadora	O
-<	O
-END	O
->	O
+E.	B-PESSOA_GRUPOMEMBRO
+Amadora	I-PESSOA_GRUPOMEMBRO
 ,	O
 em	O
 vias	O

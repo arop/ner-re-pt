@@ -1,170 +1,286 @@
 --DOCSTART-- 
-A fama do <START:LOCAL> Prius <END>
-<START:TEMPO> Durante o ano passado <END> o nome <START:PESSOA> Toyota Prius <END> esteve nas bocas de todo o mundo e foi alvo de notícia e reportagem por vários meios de comunicação, a maioria deles sem estarem sequer relacionamos com o mundo automóvel.
-Com toda esta atenção e o sucesso nas vendas por todo o mundo o nome <START:PESSOA> Prius <END> tornou-se um sinónimo de híbrido <START:PESSOA> Nos Estados Unidos <END> da <START:LOCAL> America <END> foram vendidos <START:TEMPO> em 2004 mais de 50 <END> mil unidades deste modelo e as listas de espera têm sido grandes, de tal forma grandes que existem casos de Prius a serem vendidos em segunda mão ao mesmo preço que um novo.
-Um habitáculo simples, confortável e espaçoso.
-Além de ser um híbrido, o que proporciona consumos mais moderados e menos poluição, é também um carro conduzido pelas estrelas de <START:LOCAL> Hollywood <END> .
-<START:PESSOA> Cameron Diaz <END> , <START:PESSOA> Leonardo DiCaprio <END> ou <START:PESSOA> Will Ferrell <END> são três dos muitos nomes famosos que possuem um <START:PESSOA> Toyota Prius <END> .
-Economia e performance
-Em cidade o <START:PESSOA> Prius <END> consome apenas <START:VALOR> 4,3 <END> litros a cada 100km , tornando-o num dos automóveis mais económicos do mercado.
-Estamos claro a falar dum motor <START:VALOR> 1.5 <END> VVT-i com apenas <START:VALOR> 78cv <END> , que aliado ao sistema <START:COISA> HSD <END> ( <START:COISA> Hybrid Synergy Drive <END> ) aumenta a sua potência para 110cv .
-Dos 0 aos 100km/h o <START:PESSOA> Prius <END> demora <START:VALOR> cerca de 11 segundos <END> .
-A <START:PESSOA> Toyota <END> afirma que, apesar destas prestações conseguiram reduzir em <START:VALOR> 89% <END> as emissões libertadas, comparando a um veículo novo a gasolina.
+TECNOLOGIA E TRADIÇÃO TRIBAL A SERVIÇO DA NATUREZA
+Deck Cowboy (deckcowboy@riseup.net)
+<START:ABSTRACCAO> NORDHOEK <END> , <START:LOCAL> África do Sul <END> - Com o olhar fixo na tela de seu laptop, <START:PESSOA> Louis Liebenberg <END> compara dois mapas da mesma região.
+Enquanto um deles está densamente preenchido por pontos amarelos, o outro está bem mais vazio.
+As marcas indicam avistamentos de gorilas das planícies registradas por rastreadores tribais <START:TEMPO> antes <END> e depois de um surto do vírus ebola no santuário de <START:PESSOA> Lossi <END> , na <START:LOCAL> República Federativa do Congo <END> .
+Usando o <START:PESSOA> CyberTracker <END> , um software com o qual os ecologistas podem registrar suas observações em campo usando computadores portáteis conectados a aparelhos de posicionamento global ( <START:COISA> GPS <END> ), os rastreadores puderam reunir dados que comprovam a degradação da população local da espécie.
+Inicialmente céticos, os cientistas mais tarde confirmaram suas constatações de que o vírus estava matando os gorilas e outros animais, e publicaram um artigo numa edição recente da revista <START:PESSOA> Science <END> .
+"Este é um exemplo incrível de como a coleta regular de dados pode nos ajudar", disse <START:PESSOA> Liebenberg <END> .
+Para ele, fundador sul-africano da <START:PESSOA> CyberTracker Conservation <END> , as constatações não apenas ilustram a capacidade do dispositivo de melhorar o monitoramento e a interpretação de ecossistemas, mas também comprovam que rastreadores analfabetos podem recolher informações com tanta eficiência quanto cientistas com <START:PESSOA> Ph.D. <END>
+O <START:PESSOA> CyberTracker <END> é apenas mais uma das modernas tecnologias atualmente à disposição dos ecologistas, que cada vez mais recorrem a ferramentas como análises de DNA e imagens de satélite para obter uma maior compreensão da natureza.
+<START:PESSOA> Liebenberg <END> teve a idéia de criar o sistema <START:PESSOA> CyberTracker <END> enquanto acompanhava caçadores bosquímanos no deserto do <START:LOCAL> Kalahari <END> .
+Fascinado desde pequeno pela arte tribal de seguir rastros, <START:PESSOA> Liebenberg <END> desenvolveu a teoria de que as atividades ancestrais de caça e coleta representam nada menos do que a própria origem da ciência.
+Rastrear um animal, argumenta o pesquisador, exige um processo de observação e confrontação de hipóteses muito semelhante ao método científico.
+O que um dia foi necessário à sobrevivência, no entanto, é hoje uma prática em extinção.
+Atualmente, <START:PESSOA> Liebenberg <END> afirma conhecer apenas seis caçadores tribais que usam suas habilidades para subsistência.
+A maioria dos jovens das tribos da região <START:TEMPO> hoje <END> freqüentam a escola - ao contrário de seus pais e avós, que eram analfabetos - mas raramente chegam a aprender as técnicas e o conhecimento de mundo necessários para caçar como as gerações anteriores.
+Se fosse possível encontrar um meio de colocar o conhecimento dos bosquímanos a serviço da preservação ambiental, tanto a natureza quanto as comunidades desse povo poderiam se beneficiar.
+<START:TEMPO> Em 1996 <END> , <START:PESSOA> Liebenberg <END> e o cientista da computação <START:PESSOA> Lindsey Steventon <END> lançaram o primeiro modelo do <START:LOCAL> CyberTracker <END> , com o objetivo de transformar o rastreamento tradicional numa profissão moderna.
+<START:TEMPO> No mesmo ano <END> , os rastreadores <START:PESSOA> Karel Benadie <END> e <START:PESSOA> James Minye <END> usaram o <START:LOCAL> CyberTracker <END> para estudar o rinoceronte negro, uma espécie ameaçada de extinção, no <START:LOCAL> Parque Nacional <END> de <START:LOCAL> Karoo <END> na <START:LOCAL> África do Sul <END> .
+Eles recolheram dados sobre os padrões de alimentação dos animais e sua vulnerabilidade à caça clandestina.
+<START:TEMPO> Em 1999 <END> , <START:PESSOA> Liebenberg <END> , <START:PESSOA> Steventon <END> e os dois rastreadores, que não possuem educação formal, publicaram um artigo na revista acadêmica <START:LOCAL> Pachyderm <END> .
+"Ao incluir os rastreadores em nossas atividades de monitoramento ambiental, estamos expandindo eficientemente a própria ciência", disse <START:PESSOA> Liebenberg <END> .
+Mas não são apenas os rastreadores tribais que usam o <START:LOCAL> CyberTracker <END> .
+Estudantes e observadores de aves também aproveitam as vantagens do sistema.
+Ele já foi usado até por equipes de cientistas em expedições no <START:LOCAL> Ártico <END> , no monitoramento de lobos no estado norte-americano de <START:PESSOA> Idaho <END> , da poluição dos rios na <START:LOCAL> Tanzânia <END> e do raríssimo rinoceronte de <START:LOCAL> Sumatra <END> , em <START:LOCAL> Bornéu <END> .
+O software pode ser personalizado, e é oferecido gratuitamente na <START:LOCAL> Web <END> .
+Cerca de 400 projetos em <START:VALOR> 30 <END> países estão usando o sistema, afirma <START:PESSOA> Liebenberg <END> .
+O software consiste em uma série de camadas contendo menus baseados em figuras nos quais os pesquisadores registram suas observações.
+Eles selecionam ícones para representar as plantas e animais que observam, e para descrever seu comportamento e suas características.
+O <START:COISA> GPS <END> registra o local e a hora de cada observação.
+Rastreadores experientes normalmente podem identificar um único indivíduo de determinada espécie, ou pelo menos saber seu sexo, idade e estado de saúde, apenas observando suas pegadas.
+Com cada rastreador registrando até <START:VALOR> 300 <END> observações <START:TEMPO> por dia <END> , o dispositivo permite a coleta de quantidades imensas de informação, que pode ser analisada em mapas e bancos de dados quase imediatamente.
+"É aí que novos padrões vêm à tona: correlações entre espécies diferentes, características da paisagem e outros fatores que não poderiam ser descobertos de outra maneira", afirma <START:PESSOA> Jason Knight <END> , instrutor da <START:LOCAL> Wilderness Awareness School <END> em <START:LOCAL> Duvall <END> , <START:LOCAL> Washington <END> .
+No entanto, <START:PESSOA> Christina Eisenberg <END> , uma bióloga que estuda os lobos e trabalha para o <START:LOCAL> Serviço <END> Americano de <START:PESSOA> Vida Selvagem <END> e <START:PESSOA> Aquática <END> conta que parou de usar o sistema porque ele travava inesperadamente.
+"Perdi os dados de um <START:TEMPO> dia inteiro de <END> trabalho, depois de me embrenhar milhas e milhas sobre terreno acidentado mato adentro", lembra.
+"Não foi nada agradável".
+Vários projetos usando o <START:LOCAL> CyberTracker <END> em áreas de preservação da <START:LOCAL> África do Sul <END> também estão interrompidos, em parte devido ao preconceito contra rastreadores analfabetos e a falta de entusiasmo por parte dos administradores, diz <START:PESSOA> Liebenberg <END> .
+Mesmo assim, ele pretende desenvolver o <START:LOCAL> CyberTracker <END> , transformando-o num sistema para monitorar mudanças ambientais e compartilhar informações pelo mundo todo.
+"No momento, faltam cientistas para reunir informação em campo", disse.
+"Se pudermos contar com a ajuda das pessoas que vivem nesses lugares, poderemos, teoricamente, monitorar todo o ecossistema global.
+Fonte: Centro de Mídia Independente (www.midiaindependente.org).
+Link : Cybertracker (www.cybertracker.co.za).
 --DOCSTART-- 
 
-Biografia de <START:PESSOA> Dead Fish <END>
-<START:PESSOA> Dead Fish <END> é uma banda de <START:PESSOA> Hardcore de Vitória <END> , cidade do estado do <START:PESSOA> Espírito Santo <END> , <START:LOCAL> Brasil <END> .
+São os produtores de resíduos, nomeadamente os municípios, associações de municípios e industriais responsáveis por encaminhar os resíduos de uma forma e para um destino correctos.
+Para isso é fundamental a sua associação a empresas especializadas que lhes garantam o cumprimento das exigências feitas pelas normas ambientais, que lhes disponibilizem experiência e conhecimentos técnicos e que ao mesmo tempo lhes ofereçam meios que lhes permitam rentabilizar os resíduos.
+É neste contexto que surge a ECOMAIS - Recolha e <START:PESSOA> Valorização de <END> <START:PESSOA> Resíduos, Lda. <END> uma empresa dinamizadora na área do ambiente direccionada para a área dos resíduos industriais e urbanos.
+É uma empresa licenciada de acordo com as exigências estabelecidas, especializada na prestação contínua de serviços e na procura de soluções para os seus clientes, de modo a satisfazer as suas necessidades de uma forma ambientalmente correcta.
+Oferecendo um serviço diversificado, eficaz, rápido e completo na área dos resíduos, torna-se o parceiro ideal na <START:LOCAL> Gestão Global <END> de <START:LOCAL> Resíduos <END> .
+--DOCSTART-- 
+
+Uma foto para lá da verdade
+A fotografia mais famosa de guerra, o instante em que <START:PESSOA> Federico Borrell <END> , um miliciano republicano cai depois de atingido por uma bala franquista, está agora de novo em crise de autenticidade.
+<START:TEMPO> Há anos <END> que se discute se a fotografia da autoria do famoso fotojornalista <START:PESSOA> Robert Capa <END> é ou não encenada.
+Agora um documentário, " <START:OBRA> A Sombra do Iceberg <END> ", premiado com o prémio <START:PESSOA> Melhor <END> documentário ibero-americano , no <START:LOCAL> México <END> , vem outra vez questionar a autenticidade da cena ocorrida em <START:PESSOA> Cerro Muriano <END> , povoação dos arredores de <START:PESSOA> Córdoba <END> , e feita <START:TEMPO> em 1936 <END> , <START:TEMPO> no dia 5 de Setembro <END> .
+As dúvidas levantadas prendem-se com factos investigados.
+<START:PESSOA> Hugo Doménech <END> , professor da <START:ORGANIZACAO> Universidade <END> Jaume de Castellón e do jornalista <START:PESSOA> Raul Riebenbaueur <END> reuniram um especialista forense, um militar geodésico e um astrofísico e recolheram depoimentos locais.
+No filme prevalece a ideia de que o miliciano não foi morto <START:TEMPO> às nove <END> mas à uma da tarde , que há um relato local que diz <START:PESSOA> Borrel <END> ter sido morto atrás de uma árvore, que não existe na foto, e que o miliciano fotografado não é o que foi morto <START:TEMPO> naquele dia <END> .
+O facto de <START:PESSOA> Capa <END> viajar então com a namorada <START:PESSOA> Gerda Taro <END> (morta pouco depois ) e de enviar para <START:LOCAL> Paris <END> os rolos todos misturados sem a designação a quem pertencia cada um, ainda lança mais confusão na história.
+Por outro lado o negativo original nunca mais apareceu, nem a tira com as fotos tiradas antes e <START:TEMPO> depois <END> .
+Apesar de se conhecer uma sequência de fotos feitas no mesmo local.
+O biógrafo de <START:PESSOA> Capa <END> , <START:PESSOA> Richard Whelan <END> - falecido há pouco - recusou depor para o documentário e <START:PESSOA> Cornell Capa <END> , o irmão de <START:PESSOA> Robert <END> , já de idade avançada, nada comenta, remetendo tudo para a sua filha, a fiel depositária do espólio de <START:PESSOA> Robert Capa <END> .
+A fotografia foi publicada pela primeira vez, <START:TEMPO> em 1936 <END> , na revista <START:PESSOA> VU <END> - pioneira do fotojornalismo moderno e inspiradora de LIFE - e dois <START:TEMPO> anos mais <END> tarde (como andava devagar então a informação!)
+na LIFE .
+Na edição da <START:ACONTECIMENTO> VU Robert <END> <START:TEMPO> Capa era <END> apresentado como o melhor fotógrafo de guerra do <START:LOCAL> Mundo <END> e a paginação da reportagem era feito num estilo então vanguardista de fotohistória.
+Esta polémica acaba por ser um pouco redundante.
+Capa era de uma coragem à prova de bala a trabalhar no cenário de guerra.
+Fotografou por dentro a <START:ACONTECIMENTO> Guerra Civil <END> espanhola, sempre pelo lado republicano, estava <START:TEMPO> no Dia D <END> na <START:LOCAL> Normandia <END> e acabou por morrer ao pisar uma mina na <START:LOCAL> Indochina <END> <START:TEMPO> a 25 de Maio de 1954 <END> .
+Como curiosidade passou por <START:LOCAL> Portugal <END> e foi visto no <START:LOCAL> Café Palladium dos Restauradores <END> pelo jornalista de <START:OBRA> O Século <END> , <START:PESSOA> Francisco Mata <END> , já falecido, e que o contou numa crónica do antigo <START:PESSOA> Sete <END> .
+[...] 
+<START:PESSOA> Luiz Carvalho <END> , fotojornalista do <START:PESSOA> Expresso <END>
+
+--DOCSTART-- 
+
+Tabaco: Associação lamenta exemplo de <START:PESSOA> presidente da ASAE <END>
+O <START:PESSOA> presidente da Confederação Portuguesa <END> para a <START:LOCAL> Prevenção do Tabagismo <END> ( <START:LOCAL> CPPT <END> ) considerou <START:TEMPO> hoje <END> «um exemplo lamentável» o facto de o <START:PESSOA> presidente da Confederação Portuguesa <END> para a <START:LOCAL> Prevenção do Tabagismo <END> ter sido fotografado a fumar num casino depois da entrada em vigor da lei do <START:LOCAL> Tabaco <END> .
+<START:PESSOA> António Nunes <END> , <START:PESSOA> presidente da Autoridade <END> de <START:PESSOA> Segurança Alimentar <END> e <START:LOCAL> Económica <END> ( <START:LOCAL> ASAE <END> ), uma das entidades que irá fiscalizar a aplicação da lei que proibe o fumo em espaços fechados de utilização pública, foi fotografado pelo <START:COISA> Diário de Notícias <END> ( <START:ORGANIZACAO> DN <END> ) a fumar uma cigarrilha no <START:LOCAL> Casino do Estoril <END> <START:TEMPO> às 02.30 <END> da manhã <START:TEMPO> do dia 01 de Janeiro <END> .
+Em explicações ao <START:ORGANIZACAO> DN <END> , <START:PESSOA> António Nunes <END> considerou que a nova lei «não proíbe expressamente o tabaco nos casinos e nas salas de jogos», justificando com a existência de um conflito de interesses com a lei do jogo, que contudo, não faz qualquer referência ao consumo de tabaco.
+No entanto, um parecer da <START:ORGANIZACAO> Direcção Geral <END> de Saúde a que a <START:PESSOA> Lusa <END> teve acesso sexta-feira indica que os casinos e salas de jogo «sendo locais fechados não podem deixar de se incluir no âmbito da aplicação a lei», além de estarem abrangidos na lei por «serem locais de trabalho».
+«Trata-se de uma daquelas situações inoportunas e um exemplo lamentável que nos mostra que estamos em face de uma dependência grave», disse à <START:PESSOA> Lusa <END> o <START:PESSOA> presidente da Confederação Portuguesa <END> para a <START:LOCAL> Prevenção do Tabagismo <END> , <START:PESSOA> Luís Rebelo <END> .
+<START:PESSOA> Luís Rebelo <END> desvalorizou contudo o impacto desta situação na aplicação da nova lei e atribuiu a atitude de <START:PESSOA> António Nunes <END> a «um automatismo» inconsciente.
+Sobre as dúvidas manifestadas pelo máximo responsável da <START:ORGANIZACAO> ASAE <END> relativamente ao âmbito de aplicação da nova lei, <START:PESSOA> Luís Rebelo <END> considerou que a legislação «é clara» quanto à proibição de fumar nos casinos e salas de jogos.
+«Não pode haver dúvidas quanto à aplicação da lei sobretudo ao nível das entidades responsáveis pela sua fiscalização», disse.
+Sobre os primeiros dias da vigência da proibição de fumar em espaços de uso colectivo fechados, <START:PESSOA> Luís Rebelo <END> considerou que a lei está a ter «uma óptima» aplicação com «a generalidade dos fumadores a compreender a proibição».
+A lei do <START:LOCAL> Tabaco <END> , que proíbe o fumo nos serviços da administração pública, restaurantes, bares, discotecas ou centros comerciais, entrou em vigor <START:TEMPO> às 00:00 do dia 01 de Janeiro <END> .
+A <START:PESSOA> Lusa <END> tentou contactar o porta-voz da <START:ORGANIZACAO> ASAE <END> para obter esclarecimentos adicionais mas tal foi impossível <START:TEMPO> até ao momento <END> .
+--DOCSTART-- 
+
+Lápis-lazúli , conhecido também como lápis, é uma rocha metamórfica de cor azul utilizada como gema ou como rocha ornamental utilizada <START:TEMPO> desde antes de 7000 <END> a.C. em <START:LOCAL> Mehrgarh <END> na <START:LOCAL> Índia <END> , situado <START:TEMPO> nos dias <END> de hoje no <START:LOCAL> Paquistão <END> .
+A sua azul-escura e opaca, fez com que esta gema fosse altamente apreciada pelos faraós egípcios, como pode ser visto por seu uso proeminente em muitos dos tesouros recuperados dos túmulos faraônicos.
+É ainda extremamente popular <START:TEMPO> hoje <END> .
+Trata-se de uma rocha e não de um mineral porque é composto de vários minerais.
+A primeira parte do nome, lápis, em latim significa pedra.
+A segunda parte, lazúli, é a forma genitiva no latim, lazulum, que veio do árabe (al)- lazward, que veio do persa lazhward, que veio do sânscrito <START:PESSOA> Raja Warta <END> significando anel, vida do rei.
+Lazúli era originalmente um nome, mas logo veio a significar azul por causa de sua associação com a pedra.
+A palavra em inglês azure, do azul espanhol e português, e o azzurro italiano são cognatos.
 História 
-Tudo começou <START:TEMPO> em 1991 <END> com um grupo de amigos que andavam de Skate em <START:LOCAL> Vitória <END> .
-Mesmo sem saber tocar instrumento algum, resolveram montar uma banda e tocar músicas para andar de skate, principalmente <START:PESSOA> Hardcore <END> .
-<START:TEMPO> Em 1995 <END> lançam a demo-tape " <START:OBRA> Re-Progresso <END> " e <START:TEMPO> três anos depois <END> , seu primeiro <START:PESSOA> CD Full-Lenght <END> , chamado " <START:OBRA> Sirva-se <END> " pelo selo capixaba <START:PESSOA> Lona Records <END> .
-Após o " <START:OBRA> Sirva-se <END> ", lançaram " <START:ABSTRACCAO> Sonho Médio <END> " <START:TEMPO> em 1999 <END> e " Afasia " <START:TEMPO> em 2001 <END> .
-Giuliano , até então guitarrista, resolveu deixar a banda, <START:TEMPO> em 2002 <END> lançam o Projeto Peixe Morto e no mesmo ano também lançam o <START:COISA> EP <END> <START:TEMPO> 2002 <END> , mas que foi gravado <START:TEMPO> em 2000 <END> .
-Alguns guitarristas de bandas amigas do <START:PESSOA> Dead Fish <END> foram chamados para quebrar um galho, entre eles: <START:PESSOA> Alexandre <END> "Capilé" ( <START:PESSOA> Sugar Kane <END> ), <START:PESSOA> Philippe Fargnoli <END> ( <START:PESSOA> Reffer <END> ) e <START:PESSOA> Tiago <END> "Hóspede" ( <START:PESSOA> Aditive <END> ).
-<START:TEMPO> Em 2003 <END> gravaram um <START:COISA> CD Ao Vivo no <END> <START:COISA> Hangar 110 <END> em <START:LOCAL> São Paulo <END> .
-Murilo , o outro guitarrista do <START:PESSOA> Dead Fish <END> , deixa a banda que ameaça acabar.
-<START:TEMPO> No fim do mesmo ano <END> , eles recebem uma proposta de uma gravadora, a <START:ORGANIZACAO> Deckdisc <END> .
-A banda aceita a proposta, chama <START:PESSOA> Philippe <END> e Hóspede para assumir as guitarras e entram em estúdio para gravar o quarto disco de inéditas, o " <START:OBRA> Zero e Um <END> ".
-<START:TEMPO> Em 2004 <END> , o <START:PESSOA> Dead Fish <END> ganha projeção nacional ao receber o prêmio <START:PESSOA> Video Music Brasil <END> de artista revelação, lançando seu primeiro <START:ORGANIZACAO> DVD <END> , o " <START:OBRA> MTV Apresenta: Dead Fish <END> ".
-<START:TEMPO> Em 2006 <END> , lançam mais um disco pela mesma gravadora, chamado " <START:OBRA> Um Homem Só <END> " e tem relançadas sua primeiras demo-tapes pelo selo <START:PESSOA> Laja Records <END> , sob o título de " <START:COISA> Dead Fish <END> - <START:COISA> Demo Tapes <END> ". "
-<START:ORGANIZACAO> Demo Tapes <END> " ainda conta com diversos vídeos da banda, além de flyers e cartazes de shows do início da carreira.
+No antigo Egito o lápis-lazúli era a pedra favorita para amuletos e ornamentos; foi usado também pelos assírios e pelos babilônicos nos selos cilíndricos (locais onde se gravavam pinturas contando a historia do povo).
+As escavações egípcias que datam de 3000 a.C. continham milhares de artigos como jóia, muitos feitos de lápis.
+Os lápis pulverizados foram usados por senhoras egípcias como uma sombra cosmética para o olho.
+Como inscrito no capítulo 140 do <START:OBRA> Livro dos Mortos <END> egípcio, o lápis lazúli, na forma de um olho ajustado no ouro, foi considerado um amuleto de grande poder.
+<START:TEMPO> No último dia do mês <END> , oferecia-se este olho simbólico, porque se acreditava que, <START:TEMPO> nesse dia <END> , um ser supremo colocou tal imagem em sua cabeça.
+Os antigos túmulos reais sumérios de <START:LOCAL> Ur <END> , situados perto do rio Eufrates no baixo <START:PESSOA> Iraque <END> , continham <START:VALOR> mais de 6000 <END> estatuetas belamente executadas, de lápis-lazúli, de pássaros, cervos, e roedores bem como pratos, grânulos, e selos de cilindro.
+Estes artefatos vieram indubitavelmente do material minado em <START:LOCAL> Badakhshan <END> no norte do <START:LOCAL> Afeganistão <END> .
+Curiosidades 
+É a pedra oficial do anel de formatura dos psicologos, assim considerada a partir de <START:VALOR> 31 <END> de março <START:TEMPO> de 2006 <END> , pela resolução <START:OBRA> Nº <END> 002/2006, do <START:ORGANIZACAO> Conselho Federal <END> de <START:LOCAL> Psicologia <END> brasileiro.
 --DOCSTART-- 
 
-Pêro da <START:ORGANIZACAO> Covilhã <END>
-<START:PESSOA> Pedro <END> ou Pêro da <START:LOCAL> Covilhã <END> ( <START:LOCAL> Covilhã <END> ?, <START:TEMPO> 1450? <END> --- <START:TEMPO> 1530? <END> ) foi um diplomata e explorador português.
-Com <START:VALOR> cerca de 18 anos <END> cativa um espanhol que visitava a <START:LOCAL> Covilhã <END> para comprar tecidos que o convida a servir o seu amo, <START:PESSOA> D. Juan de Guzman <END> , irmão do Duque de <START:PESSOA> Medina-Sidónia <END> , um dos mais conceituados fidalgos de <START:PESSOA> Sevilha <END> ; Pêro aceita a proposta e parte para <START:LOCAL> Sevilha <END> onde lhe é atribuído o papel de espadachim.
-Impressionado com a desenvoltura de Pêro de <START:LOCAL> Covilhã <END> , convida-o <START:PESSOA> D. Juan <END> de Gusman a participar nas embarcações do seu irmão, o Duque conhecido também como o <START:PESSOA> Pirata Espanhol <END> ; Pêro recusa a oferta e, <START:TEMPO> em 1474 <END> , acompanha <START:PESSOA> D. Juan <END> a Lisboa a uma entrevista com <START:PESSOA> Afonso V <END> de <START:PESSOA> Portugal <END> .
-<START:PESSOA> D. Afonso <END> simpatiza com <START:PESSOA> Pêro <END> também pelo seu domínio de línguas, nomeadamente a língua árabe e <START:PESSOA> D. Juan <END> cede a el-Rei os serviços do português.
-É assim que <START:PESSOA> Pêro da Covilhã <END> , aos seus <START:VALOR> 24 anos <END> , é admitido como moço de esporas de <START:PESSOA> D. Afonso V <END> .
-Passado <START:TEMPO> pouco tempo <END> , decide el-Rei elevá-lo a escudeiro, com direito a armas e cavalo.
-<START:TEMPO> Em 1476 <END> acompanha <START:PESSOA> D. Afonso <END> V na batalha de <START:PESSOA> Toro <END> , a tentativa fracassada de <START:PESSOA> D. João <END> de reclamar o trono de <START:PESSOA> Castela <END> , já que era cunhado de <START:PESSOA> Henrique IV <END> de <START:PESSOA> Castela <END> .
-<START:TEMPO> Mais tarde <END> , em iria acompanhar <START:PESSOA> D. Afonso <END> na jornada a <START:LOCAL> França <END> para pedir auxílio ao <START:PESSOA> rei Luís XI <END> de <START:PESSOA> França <END> na luta pelo trono de <START:PESSOA> Castela <END> , que seria rejeitado.
-<START:PESSOA> Entretanto, D. Afonso <END> abdica do trono, para <START:PESSOA> D. João II <END> .
-Após a execução do Duque de Bragança pelas próprias mãos do rei, <START:PESSOA> Pêro da Covilhã <END> foi designado para investigar quais os nobres que conspiravam contra <START:PESSOA> D. João II <END> , conseguindo identificar o <START:PESSOA> D. Diogo <END> , duque de <START:LOCAL> Viseu <END> e <START:PESSOA> D. Garcia <END> de <START:PESSOA> Meneses <END> , bispo de <START:LOCAL> Évora <END> .
-Na sequência do desejo de el-Rei continuar a obra iniciada pelo <START:PESSOA> infante D. Henrique dos Descobrimentos <END> , escolhe novamente <START:PESSOA> Pêro da Covilhã <END> para embaixador nos tratados de paz com os berberes do Magrebe (como o rei de <START:LOCAL> Fez <END> e o de <START:PESSOA> Tremecém <END> ), que convinham ao reino para convergir os esforços na odisseia marítima.
-<START:PESSOA> Pêro da Covilhã <END> torna-se, entretanto, escudeiro da guarda real e casa com Catarina que em poucos meses engravida.
+Neste campeonato aprendi mais, e sei que tenho muito que aprender, ganhou <START:PESSOA> Marcos Mata <END> representante de <START:LOCAL> Lisboa <END> , cadete da <START:ORGANIZACAO> ACM <END> da mesma cidade, ganhou e ganhou bem, foi merecido o triunfo.
+Em Basket Ball também perdemos, e infelizmente sem as características do <START:PESSOA> Ping Pong <END> , <START:TEMPO> na segunda parte eu <END> e <START:PESSOA> Vilarinho Cardoso <END> , tivemos que substituir dois jogadores caprichosos, e sem o menor intuito de honrar não a terra em que nasceram, mas sim a que representavam, perdemos <START:TEMPO> por 33-12 <END> salvo erro.
+O ginásio da <START:ORGANIZACAO> ACM <END> de <START:LOCAL> Coimbra <END> , é o melhor que até à data tenho visto, assim como o seu pucking-ball, que é o único no género que existe em <START:LOCAL> Portugal <END> .
+Conservo algumas fotografias que tirei neste esplêndido passeio, em que gozamos muito, a única fotografia que até agora tirei a magnésio foi no ginásio aos dois grupos de <START:PESSOA> Basket <END> , que ficou regular.
+Comecei então a frequentar a igreja metodista ao <START:ABSTRACCAO> Mirante <END> , encontrando nesta religião a felicidade que já atráz falei depois de algum tempo e quando já convertido e conhecedor embora pouco da palavra de <START:PESSOA> Deus <END> dei o meu nome para a prova de membro comungante, <START:TEMPO> em Maio <END> , tenho frequentado um curso de preparação dirigido pelo sr. <START:PESSOA> Alfredo Silva <END> , entre outros que comigo frequentam este curso.
+<START:PESSOA> Lembra-me Paulo Costa <END> , <START:PESSOA> Alberto Carreira <END> da <START:LOCAL> Silva <END> , <START:PESSOA> Maria Luísa Costa <END> , etc.
+<START:PESSOA> Deus <END> tem-me auxiliado na compreensão destes grandes problemas morais e espitituais e brevemente farei a minha profissão de fé.
+Tenho feito alguma coisa na A.C.M. que por não ter tomado notas desde o princípio me esqueceram, e por não terem valor deixo de as mencionar.
+Tratando-se da criação de uma Federação de <START:PESSOA> Basket Ball <END> , fui indicado também para fazer parte da comissão de propaganda, juntamente com os srs. <START:LOCAL> Eduardo Moreira <END> , <START:PESSOA> Dr. João Gomes de Oliveira <END> , <START:PESSOA> Artur Araújo <END> , tendo feito relatos para a secção especial do <START:LOCAL> Diário do Sport <END> , tem havido vários desafios; faço parte do grupo do <START:PESSOA> Boxing Club <END> de <START:LOCAL> Portugal <END> .
+Como atraz já disse procuro auxiliar todas as organizações que do meu préstimo necessitam, faço parte do <START:LOCAL> Orfeon do Mirante <END> a pedido das meninas <START:LOCAL> Luisa <END> e <START:PESSOA> Anita Costa <END> .
+Fui também à excursão realizada <START:TEMPO> no dia 24 de Junho <END> , a primeira que se realizou desde que sou sócio, e juntamente com <START:VALOR> 57 <END> pessoas fomos <START:TEMPO> nesse dia <END> até <START:LOCAL> Viana do Castelo <END> .
+Foi mais uma afirmação de amor dada pela família evangélica é com saudade que me recordo desses bons momentos passados em que <START:PESSOA> Deus <END> nos ajudou correndo tudo admiravelmente.
 --DOCSTART-- 
 
-Sistema de <START:PESSOA> Posicionamento Global <END>
-O Sistema de <START:PESSOA> Posicionamento Global <END> , vulgarmente conhecido por GPS (do acrónimo do inglês <START:PESSOA> Global Positioning System <END> ), é um sistema de posicionamento por satélite americano, <START:TEMPO> por vezes <END> incorrectamente designado de sistema de navegação, utilizado para determinação da posição de um receptor na superfície da <START:LOCAL> Terra <END> ou em órbita.
-Existem atualmente dois sistemas efetivos de posicionamento por satélite; o GPS americano e o Glonass russo; também existem mais dois sistemas em implantação; o <START:PESSOA> Galileo <END> europeu e o <START:PESSOA> Compass <END> chinês.
-O sistema <START:PESSOA> GPS <END> foi criado e é controlado pelo <START:ORGANIZACAO> Departamento de Defesa <END> dos <START:LOCAL> Estados Unidos da América <END> , <START:LOCAL> DoD <END> , e pode ser utilizado por qualquer pessoa, gratuitamente, necessitando apenas de um receptor que capte o sinal emitido pelos satélites.
-O <START:ORGANIZACAO> DoD <END> fornece dois tipos de serviços <START:PESSOA> GPS <END> : Standard e <START:PESSOA> Precision <END> .
-Contrariamente ao que inicialmente acontecia, actualmente os dois serviços estão disponíveis em regime aberto em qualquer parte do mundo.
-O sistema está dividido em três partes: espacial, de controlo e utilizador.
-O segmento espacial é composto pela constelação de satélites.
-O segmento de controlo é formado pelas estações terrestres dispersas pelo mundo <START:TEMPO> ao longo da <END> <START:LOCAL> Zona Equatorial <END> , responsáveis pela monitorização das órbitas dos satélites, sincronização dos relógios atómicos de bordo dos satélites e actualização dos dados de almanaque que os satélites transmitem.
-O segmento do utilizador consiste num receptor que capta os sinais emitidos pelos satélites.
-Um receptor <START:COISA> GPS <END> ( <START:ORGANIZACAO> GPSR <END> ) descodifica as transmissões do sinal de código e fase de múltiplos satélites e calcula a sua posição com base nas distâncias a estes.
-A posição é dada por latitude, longitude e altitude, coordenadas geodésicas referentes ao sistema <START:VALOR> WGS84 <END> .
+Terá ainda que se esperar para ver outros resultados do <START:OBRA> Plano Tecnológico <END> , mas este perdeu dinâmica <START:TEMPO> no último ano <END> .
+6. 
+Quanto às « <START:OBRA> Novas Oportunidades <END> » foram <START:TEMPO> no seu <END> início um sucesso naquilo que era mais difícil: revalorizar o papel do ensino, da educação, da aprendizagem, do saber, em sectores da população que na sua vida tinham voltado as costas a esses valores, ou por necessidade, ou por facilidade.
+Porém o programa entra agora numa fase crucial: após os momentos de arranque incial, é suposto que se começe agora a aprender e a ser avaliado.
+Esta é a parte difícil, mas a que justifica o projecto.
+E aqui as intenções iniciais começam a esmorecer, os atrasos a somarem-se, a perplexidade dos formadores a aumentar e o anúncio regular pelo governo da outorga de mais uns milhares de diplomas faz suspeitar de facilitismo.
+Vamos ver.
+7. 
+No PSD deu-se mais um passo para a irrelevância, ou ainda pior, para tornar o partido um mero gestor alternativo das políticas do <START:ORGANIZACAO> PS <END> .
+Ora, para fazer a mesma política, os eleitores preferem o <START:ORGANIZACAO> PS <END> como mais eficaz e mais credível.
+Com <START:PESSOA> Marques Mendes <END> , o PSD esboçou um ruptura com o período negro anterior, mas como quando se fazem «revoluções pela metade cava-se o seu próprio túmulo» (dizia <START:PESSOA> Saint Just <END> ), perdeu-se o pouco que se tinha adquirido voltando o partido ao dia anterior da derrota <START:TEMPO> de 2005 <END> .
+Mendes não conseguiu impor-se, mas os seus esforços foram no sentido certo.
+Menezes também não está a conseguir impor-se, mas todos os seus esforços vão no sentido errado.
+O governo está verdadeiramente à solta, a oposição numa crise maior do que alguma vez esteve <START:TEMPO> desde 2005 <END> .
+8. 
+O PP já atingiu o equilibrio dos pequenos partidos, que atingem uma «stasis» interna onde que tudo o que acontece, não acontece.
+E no entanto, a retirada do PSD da oposição poderia ser uma oportunidade e o PP tem aproveitado os vazios para ocupar o terreno de algumas questões importantes como a dos direitos dos contribuintes e a omnipotência do fisco.
+Mas não chega.
+Portas reduziu o partido a si próprio, e dar atenção ao PP é dar atenção a <START:ORGANIZACAO> Portas <END> e cada vez menos pessoas o fazem.
+9. 
+O <START:PESSOA> PCP <END> teve um bom ano, o problema do PCP é que ninguém dá por ela disso.
+O PCP é o único partido cuja força é «civil», mesmo que se tenha em conta o processo de estatização dos sindicatos, maior na UGT do que na <START:ORGANIZACAO> CGTP <END> .
+Conseguiu com autonomia uma capacidade de mobilização que já tinha perdido e pôs na rua muitas dezenas, senão centenas de milhares de pessoas.
+O problema do PCP é que passou de moda mediática, a sua contestação parece um arcaísmo social e por isso parece ser inútil.
+10. 
+O BE está em crise.
+Deixou-se enredar com o <START:ORGANIZACAO> PS <END> em <START:LOCAL> Lisboa <END> , o pior sítio para alguém se enredar com o <START:ORGANIZACAO> PS <END> .
+Deixou-se reduzir a <START:ORGANIZACAO> Louçã <END> e <START:LOCAL> Louçã <END> fixou-se num discurso cujo esgotamento irrita mais do que cansa.
+Para a contestação social o PCP é mais eficaz, e as causas "fracturantes" são na maioria dos casos ou inócuas, ou tão vanguardistas que ficam na marginalidade e no radical chic.
 --DOCSTART-- 
 
-COISAS DA <START:PESSOA> SÁBADO <END> : A DIFERENÇA ENTRE O JORNAL DE NOTÍCIAS E O DIÁRIO DE NOTÍCIAS
-<START:TEMPO> No dia <END> em que a operação « <START:OBRA> Noite Branca <END> » começou a prender suspeitos de serem responsáveis pelo clima de violência no <START:LOCAL> Porto <END> , a comparação entre um jornal de <START:ORGANIZACAO> Lisboa <END> , o <START:COISA> Diário de Notícias <END> , e um do <START:LOCAL> Porto <END> , o <START:LOCAL> Jornal de Notícias <END> , <START:TEMPO> no mesmo dia 17 de Dezembro <END> , não podia ser mais significativa.
-O <START:COISA> Diário de Notícias <END> falava das biografias e do background dos detidos, fazendo nota, como é óbvio, do seu profundo envolvimento com a claque do <START:ORGANIZACAO> FCP <END> , os <START:PESSOA> Super Dragões <END> .
-Na verdade nenhum destes homens se tornou conhecido por ser segurança na noite, nem por frequentar ginásios e mesmo as suas páginas e vídeos guerreiros (*) nunca tinham merecido muita atenção.
-Onde eles apareciam era à frente da claque em filmes (a SIC mostrou-os) e em fotos de segurança aos dirigentes do clube.
-No <START:LOCAL> Jornal de Notícias <END> tudo isto é cuidadosamente omitido e os presos aparecem sem biografia, ou apenas com uma referência casual e singular a essa pertença.
-De facto, o <START:LOCAL> Jornal de Notícias <END> parece ser um jornal do Casaquistão tal é a ignorância do que se passa à sua volta.
-Mas não é, é mesmo do <START:LOCAL> Porto <END> e esse é que é o problema: é do <START:LOCAL> Porto <END> e cala.
---DOCSTART-- 
-
-Tour : Procura-se candidato
-PAULINHO EM PROVA DESFALCADA DE VEDETAS
-<START:TEMPO> Pelo segundo ano <END> consecutivo e após a era de <START:PESSOA> Lance Armstrong <END> , o Tour está desfalcado de grandes candidatos à vitória.
-Sem a presença do norte-americano, do alemão <START:PESSOA> Jan Ullrich <END> e do italiano <START:PESSOA> Ivan Basso <END> , e até de outro transalpino, <START:PESSOA> Alessandro Petacchi <END> , a « <START:OBRA> Grand Boucle <END> » inicia-se amanhã em <START:LOCAL> Londres <END> sem grandes expectativas.
-Procura-se candidato, é este o ponto fulcral da prova, que também não terá o dorsal n.º 1 .
-Ainda está por definir quem será declarado vencedor <START:TEMPO> de 2006 <END> , depois do caso de doping de <START:PESSOA> Floyd Landis <END> .
-Daí a organização ter decidido suspender os dorsais entre o <START:VALOR> 1 <END> e o 1 , começando o Tour no <START:VALOR> 11 <END> .
-Face então às ausências de vulto acima referidas, todas devido a ligações ao doping -- à excepção naturalmente de <START:PESSOA> Armstrong <END> , que se retirou após a sétima vitória <START:TEMPO> em 2005 <END> --, três ou quatro nomes surgem ainda assim mais destacados na corrida pela vitória.
-São eles o cazaque <START:PESSOA> Alexandre Vinokourov <END> ( <START:PESSOA> Astana <END> ), os espanhóis <START:PESSOA> Alberto Contador <END> ( <START:PESSOA> Discovery <END> ) e <START:PESSOA> Alejandro Valverde <END> ( <START:PESSOA> Caisse <END> ), e o norte-americano <START:PESSOA> Levy Leipheimer <END> ( <START:PESSOA> Discovery <END> ).
-Nós, portugueses, teremos em atenção a estreia de <START:PESSOA> Sérgio Paulinho <END> .
-Cinco mil polícias
-Cerca de <START:VALOR> 5 mil <END> polícias foram destacados para estarem de serviço em <START:LOCAL> Londres <END> por ocasião da passagem do Tour por <START:PESSOA> Inglaterra <END> .
-A segurança foi reforçada depois dos atentados terroristas verificados <START:TEMPO> a semana passada <END> na capital inglesa e em <START:LOCAL> Glasgow <END> .
-E, para além do Tour , há ainda o <START:PESSOA> Torneio <END> de <START:PESSOA> Ténis de Wimbledon <END> , e o <START:ORGANIZACAO> GP <END> de F1 de <START:PESSOA> Silverstone <END> .
---DOCSTART-- 
-
-A MÚSICA É A MENSAGEM
-Por <START:PESSOA> Hari Kunzru <END>
-A relação do tecno com o binômio homem-máquina, no diálogo com <START:PESSOA> Jeff Mills <END> , o legendário produtor de tecno de Detroit nos leva a impressionantes insights do impacto que a terceira onda tem causado na paisagem contemporânea.
-Detroit , essa "cidade portátil", virtualizada na minimalista batida de um sequenciador automático, profetiza em sua música - que já nos deu a <START:ORGANIZACAO> Motown <END> , <START:PESSOA> Stooges <END> , e MC5 - o zeitgeist deste início de milênio .
-Uma Cidade Difícil
-Detroit tem <START:TEMPO> por longo tempo <END> sido um lugar de referência na imaginação sônica.
-Com o fim da escravatura, ela se tornou, como <START:PESSOA> Chicago <END> , um das estações ferroviárias do êxodo negro na direção do norte.
-As ferrovias atuavam como artérias culturais, trasmitindo pessoas e formas culturais do profundo sul de New Orleans e o rural <START:PESSOA> Delta do Mississipi <END> , pelo centro-oeste e para o iluminado mundo novo urbano dos <START:PESSOA> Grandes Lagos <END> .
-No processo o som acústico do <START:PESSOA> Blues do Delta <END> foi exposto ao ruído das linhas de produção industrial, e se transmutou no boogie de trem a vapor, de chão de fábrica do <START:LOCAL> Rythm'n'Blues <END> elétrico.
-O <START:PESSOA> Blues de Basin Street <END> vira a <START:PESSOA> Pegada da Cidade Motor <END> ( <START:PESSOA> Motor City Stomp <END> ).
-Quando do boom dos anos sessenta , Detroit era sinônimo das esperançosas ficções-soul de três minutos da <START:ORGANIZACAO> Motown <END> , um selo cuja ética produtivista e apelo de mercado massificado foi sempre um irônico espelho da cultura da Ford e <START:PESSOA> da <END> <START:ORGANIZACAO> General Motors <END> que dominava as vidas de seu jovem público negro.
-O povo da <START:ORGANIZACAO> Motown <END> deu seus primeiros passos dançando nas ruas, mas, à medida que os <START:VALOR> 70 <END> iam passando, eles foram gradualmente reduzidos a viver só para a cidade.
-Durante os desolados anos <START:LOCAL> Reagan <END> , Detroit parecia uma zona morta, um símbolo do fim da velha ordem industrial.
-Mas pelo começo dos noventa a decadente cidade, tendo absorvido o trauma da crise do petróleo e a recessão mundial, reinventou-se como o imaginário e sombrio coração de uma nova cultura urbana global.
-O tecno de Detroit é o som da cidade.
-Não das pessoas da cidade, mas da própria cidade.
-Os humanos, se eles ainda estão vivos mesmo, foram totalmente cooptados pela máquina urbana, absorvidos em seus processos, seus corpos disciplinados pelos ritmos implacáveis dela.
-Não é exagero dizer que este estilo, com seus frios tons sintéticos e batidas rápidas e rígidas de quatro-por-quatro teve provavelmente mais influencia no tipo de música que soa pelo mundo do que qualquer outro gênero desde o <START:PESSOA> Blues <END> .
-Transmissões do <START:LOCAL> Futuro: <END>
-A síntese de Detroit de grooves de trance funk e futurismo disco europeu foi realizada por um surpreendentemente pequeno círculo de produtores, que começaram seus experimentos em meados dos <START:VALOR> 80 <END> .
-As estórias de <START:LOCAL> Cybotron <END> , Model 500 e a transição da disco para o eletro-funk para o tecno foram muito bem contadas em outras paragens por escritores como <START:PESSOA> Matthew Collin <END> ( <START:PESSOA> Altered State <END> ) e <START:PESSOA> Kodwo Eshun <END> ( <START:OBRA> More Brilliant Than The Sun: Adventures In Sonic Fiction <END> ).
-Um dos pioneiros foi <START:PESSOA> Jeff Mills <END> , que, como produtor e <START:PESSOA> DJ, <END> tem semeado o som de Durban a <START:ORGANIZACAO> Tóquio <END> , e a ele não se deveria atribuir pouca responsabilidade pelo fato de que seres urbanos de todo o mundo agora vivam numa paisagem midiática onde enxutas batidas eletrônicas servem como trilha sonora para tudo, desde idas ao shopping e suas experiências com drogas, a noites em casa em frente da tv.
-Mills é um homem calmo, um tipo parecido com um pássaro, com uma cara ossuda e longos dedos.
-Quando está na cabine ele usa três picapes, raramente tocando um vinil por mais de um minuto , e frequentemente abrindo todos os três canais ao mesmo tempo; filtrando o som, logo uma picape toca a linha de baixo, o segundo a linha do meio e o terceiro a linha principal.
-Seu envolvimento com as máquinas é tão intenso, tão concentrado que, como ele se lança do mixer para a picape, Mills o <START:ORGANIZACAO> DJ <END> parece evidentemente um componente de uma assemblage homem-máquina, um sistema que inclui público, <START:ORGANIZACAO> PA <END> , o aparato completo da produção de vinis, e o Stylus de cartucho, cuja sensibilidade ele aprimorou de forma que o cartucho produza um triplo zumbido raivoso e metálico.
-Não é surpreendente que quando Mills descreve a experiencia de fazer música num estúdio, ele está preocupado com a frustração que sente quando "a mensagem" (para Mills música é sempre "a mensagem", ou "comunicação") é perdida ou degradada na transmissão da mente para o <START:ORGANIZACAO> DAT <END> .
-"O produtor tem de transferir o que ele está pensando para suas mãos e então para a máquina," ele explica.
-"Quanto melhor o produtor, mais clara será a imagem.
-É uma tradução de minhas mãos para a máquina.
-E é aí normalmente onde ela [a máquina], se perde."
-De certa forma este é um sentimento padrão, um anseio expresso por todo artista desde que os românticos começaram a lamentar a lacuna entre a inspiração e o artefato.
-Mas o anseio de Mills por uma simbiose mais próxima com seus instrumentos deriva para um desejo pela cyborguização, pela integração física.
-"O que eu tenho esperança", ele diz, "é de que alguém crie um sequenciador que traduza o que você está pensando para um teclado ou gerador de som.
-Muitas idéias ficam perdidas porque não podemos fazer com que nossas máquinas realizem exatamente o que nós pensamos."
-Para uma cultura musical dominante que está acostumada a tratar álbuns como "obras", objetos invioláveis que contém algum tipo de essência artística, a concepção de Mills sobre música pode parecer estranha.
-"Depois que faz o álbum", ele diz, "você põe a idéia nas mãos do <START:PESSOA> DJ <END> e é ele quem decide remodelar essa mensagem <START:TEMPO> no momento <END> mais oportuno ou da melhor forma."
-Ele parece pensar a obra musical como processo, como fluxo de informação, abrindo um canal entre produtor e público dançante.
-A linguagem de mensagens, comunicações e comunicados oficiais e oficiosos de Mills é parte da teologia que guia o tecno de Detroit : a estória do circuito informacional que corre do futuro para o presente, do <START:ORGANIZACAO> Claro <END> Amanhã dos cruzadores pesados drexciyanos, de <START:PESSOA> OVNIs <END> ('você provavelmente verá um voando...') e dos anéis de <START:LOCAL> Saturno <END> , diretamente de volta para as rôtas rotas de hoje .
-É um circuito que canaliza energia através do corpo do produtor para seu estúdio, energia que posteriormente sai pelo <START:ORGANIZACAO> PA <END> e se distribui sobre a pista de dança.
-Detroit mesma é uma picape satélite, coletando e amplificando o futuro-potencial, transmitindo-o perpassando carros enferrujados nas ruas da cidade... Mills : "Para mim, [minha música é] sobre fazer as pesoas sentirem que elas estão num tempo à frente deste tempo presente.
-Como se você estivesse ouvindo alguém falar numa língua que você não entende, ou se encontrasse numa vizinhança desconhecida.
-Isso quer dizer tirar você da sua base, deixando o ouvinte desarmado."
-Ao contrário de alguns outros produtores, o futuro criado por <START:PESSOA> Mills <END> não é um sonho em ficção científica de puro cromo.
-É um "verfremdungseffekt", a desorientação do potencial puro.
-O ataque das batidas de Detroit é apenas um assalto pra tirar as defesas, forçando os ouvintes a se abrirem para a mensagem.
---DOCSTART-- 
-
-Os fragmentos do satélite italiano Bepposax mergulharam na noite de ontem no oceano <START:LOCAL> Pacífico <END> , deixando aliviados os mais de <START:VALOR> 30 <END> países _inclusive o <START:PESSOA> Brasil <END> _ que estavam sob risco de serem atingidos pelos destroços.
-Segundo informou a <START:ORGANIZACAO> ASI <END> (agência espacial italiana) no fim da noite de ontem por telefone, o impacto dos destroços teria ocorrido <START:TEMPO> às 18h06 <END> (horário de <START:LOCAL> Brasília <END> ), numa área remota do oceano.
+Os fragmentos do satélite italiano Bepposax mergulharam na noite de ontem no oceano <START:PESSOA> Pacífico <END> , deixando aliviados os <START:VALOR> mais de 30 <END> países _inclusive o <START:LOCAL> Brasil <END> _ que estavam sob risco de serem atingidos pelos destroços.
+Segundo informou a ASI (agência espacial italiana) no fim da noite de ontem por telefone, o impacto dos destroços teria ocorrido <START:TEMPO> às 18h06 <END> (horário de <START:PESSOA> Brasília <END> ), numa área remota do oceano.
 Os italianos não devem conduzir operação para resgatar os detritos.
-Estimativas da agência davam conta de que mais de <START:VALOR> 40 <END> pedaços, com <START:VALOR> até 120 kg <END> , poderiam resistir ao atrito com o ar e chegar ao solo.
-A chance de que um dos pedaços atingisse uma pessoa era mínima, mas autoridades de diversos países, inclusive a <START:ORGANIZACAO> Agência Espacial Brasileira <END> , estavam prontas para qualquer contingência.
-O satélite, com massa total de aproximadamente <START:VALOR> 1,4 tonelada <END> , foi construído pelos italianos, em colaboração com a <START:ORGANIZACAO> Holanda <END> , para o estudo dos raios X vindos do espaço cósmico.
+Estimativas da agência davam conta de que <START:VALOR> mais de 40 <END> pedaços, com <START:VALOR> até 120 kg <END> , poderiam resistir ao atrito com o ar e chegar ao solo.
+A chance de que um dos pedaços atingisse uma pessoa era mínima, mas autoridades de diversos países, inclusive a <START:PESSOA> Agência Espacial Brasileira <END> , estavam prontas para qualquer contingência.
+O satélite, com massa total de aproximadamente <START:VALOR> 1,4 tonelada <END> , foi construído pelos italianos, em colaboração com a <START:PESSOA> Holanda <END> , para o estudo dos raios X vindos do espaço cósmico.
 O equipamento foi lançado ao espaço <START:TEMPO> em 1996 <END> , numa órbita baixa ( <START:VALOR> cerca de 600 <END> km de altitude) com uma pequena inclinação, ou seja, quase exatamente sobre a linha do <START:LOCAL> Equador <END> .
 A missão científica da nave foi concluída <START:TEMPO> em 30 de abril de 2002 <END> .
 Depois disso, o satélite deixou de ter sua órbita corrigida.
 O atrito com as camadas mais altas da atmosfera gradativamente diminuiu a altitude, o que culminou com a reentrada, ontem .
-Como a volta à <START:PESSOA> Terra <END> não foi realizada de forma controlada (como aconteceu com as <START:VALOR> 135 <END> toneladas da estação espacial <START:LOCAL> Mir <END> , <START:TEMPO> em 2001 <END> ), era impossível prever exatamente onde os destroços iriam cair.
+Como a volta à <START:LOCAL> Terra <END> não foi realizada de forma controlada (como aconteceu com as 135 toneladas da estação espacial <START:LOCAL> Mir <END> , <START:TEMPO> em 2001 <END> ), era impossível prever exatamente onde os destroços iriam cair.
 (SN) 
 
 --DOCSTART-- 
 
-Uma alteração num único gene é capaz de transformar um vírus inofensivo no agente causador de uma gripe mortal.
-A descoberta, segundo pesquisadores da <START:ORGANIZACAO> Universidade <END> de <START:LOCAL> Wisconsin <END> - <START:LOCAL> Madison <END> ( <START:LOCAL> EUA <END> ), poderá levar à compreensão de como as epidemias da doença surgem e qual a melhor forma de combatê-las.
-A equipe liderada por <START:PESSOA> Yoshihiro Kawaoka <END> analisou amostras do <START:VALOR> H5N1 <END> , o vírus influenza que, <START:TEMPO> em 1997 <END> , matou <START:VALOR> 6 das 18 <END> pessoas infectadas, em <START:LOCAL> Hong Kong <END> .
-Essas amostras foram inoculadas em camundongos e, de acordo com os sintomas apresentados pelos animais, foram divididas em dois grupos.
-O primeiro grupo causava uma forma de infecção letal, matando os camundongos, e o segundo provocava apenas problemas respiratórios como sintomas.
-Para descobrir a razão dessa diferença, <START:PESSOA> Kawaoka <END> usou uma estratégia de "engenheirar" os vírus, trocando genes entre as linhagens virais.
-Desse modo, conseguiu identificar qual deles era o responsável pela maior capacidade de infecção do influenza.
-"Uma mudança de apenas uma base [letra] no gene PB2 [que resultou na modificação de um aminoácido na proteína por ele codificada] parece ser a causa da virulência do influenza", explica.
-Os cientistas ainda não sabem exatamente qual o papel do <START:TEMPO> PB2 <END> , mas ele parece codificar uma enzima responsável pela indução de um número maior de partículas virais nas células infectadas.
-O estudo do grupo de <START:PESSOA> Kawaoka <END> está na edição <START:TEMPO> de hoje <END> da revista científica " <START:COISA> Science <END> ".
+TERROR, POP ART E CONTRACULTURA
+A história dos quadrinhos, de <START:PESSOA> Bill Gaines <END> a <START:PESSOA> Roy Lichtenstein <END>
+Por <START:PESSOA> Vladimir Cunha <END> (yoyodine@hotmail.com)
+<START:TEMPO> Até 1947 <END> , o jovem <START:PESSOA> William M.Gaines <END> não passava de um bon-vivant dedicado única e exclusivamente às coisas boas do mundo.
+Mas só <START:TEMPO> até 1947 <END> , pois naquele mesmo ano sua vida mudaria drasticamente após a morte de sua mãe num acidente de barco.
+Profundamente abatido com a tragédia, seu pai, <START:PESSOA> Max Gaines <END> , resolveu retirar-se dos negócios e passou para o filho a missão de tocar adiante a empresa da família, a editora de quadrinhos religiosos <START:PESSOA> Educational Comics <END> .
+O único problema é que quadrinhos religiosos não eram exatamente um gênero de sucesso entre a molecada, que preferia as aventuras do <START:PESSOA> Capitão América <END> às adaptações carolas de passagens do <START:PESSOA> Novo Testamento <END> , daí ser compreensível que a <START:PESSOA> Educational Comics <END> estivesse em sérias dificuldades financeiras.
+Entretanto, o destino de <START:PESSOA> Gaines <END> tomaria um rumo inesperado quando ele cruzou o caminho de <START:PESSOA> Al Feldstein <END> , um talentoso artista freelancer em começo de carreira e que, assim como o ex-playboy, adorava aventuras de terror e mistério.
+Descobertas as afinidades, a dupla juntou as forças e criou duas histórias: A Cripta do <START:LOCAL> Terror <END> e A <START:ORGANIZACAO> Câmara <END> do <START:LOCAL> Horror <END> .
+E já que pior do que estava não podia ficar, <START:PESSOA> Gaines <END> aproveitou a editora que herdara do pai e lançou os dois títulos no mercado.
+Nasciam aí os quadrinhos de terror e a lendária <START:COISA> EC Comics <END> .
+A publicação bolada por <START:PESSOA> Gaines <END> e <START:PESSOA> Feldstein <END> , batizada com o apropriado título de <START:PESSOA> Tales <END> <START:OBRA> From the Crypt <END> , tornou-se um sucesso espetacular entre crianças e adolescentes e motivo de choque para os norte-americanos adultos.
+Jamais o cidadão comum - classe média, branco, suburbano e fiel defensor do <START:OBRA> American Way of Life <END> como o caminho mais curto para o <START:COISA> Paraíso <END> - iria permitir que seus filhos passassem o tempo lendo histórias sobre aberrações, trapaças, assassinatos, bruxaria, exorcismo e magia-negra.
+O mundo permitido era aquele idealizado nas pinturas de <START:PESSOA> Norman Rockwell <END> , do garoto loiro de cabelo escovinha, das ceias <START:TEMPO> do Dia de <END> Ação de Graças e das bandeirantes de rosto corado.
+A <START:ORGANIZACAO> América <END> mergulhava no sonho da prosperidade capitalista, numa vida melhor através da química e no seu estabelecimento como superpotência econômica e militar.
+Encarar o lado feio e bizarro da vida não estava nos planos de ninguém.
+Exceto da molecada, que, dos cafundós do Arkansas ao centro de <START:LOCAL> Nova Iorque <END> , fazia a fortuna de <START:PESSOA> Gaines <END> comprando qualquer coisa que tivesse o selo <START:COISA> EC Comics <END> estampado na capa.
+Isso aconteceu porque <START:PESSOA> Bill Gaines <END> criou uma identificação imediata com o público ao se apropriar da linguagem radiofônica - todas as histórias eram apresentadas por um narrador, geralmente o <START:PESSOA> Zelador da Cripta <END> , a <START:PESSOA> Bruxa Velha <END> ou o <START:PESSOA> Guardião da Câmara <END> - e também porque arrebanhou um time de artistas de primeira para atingir, nas páginas da revista, o clima de demência que as histórias pediam.
+Assim como <START:PESSOA> Will Eisner <END> , os desenhistas <START:PESSOA> Jack Davis <END> , <START:PESSOA> Frank Frazetta <END> , <START:PESSOA> Johnny Craig <END> e <START:PESSOA> Graham <END> "Ghastly" Ingels tinham um traço sombrio e carregado de dramaticidade.
+Houve também tendência em distorcer certas expressões faciais na tentativa de transpor para o papel a loucura interna de cada personagem.
+<START:PESSOA> Tales From The Crypt <END> impressionava também por sua logomarca ao mostrar a palavra " <START:OBRA> Crypt <END> " grafada de tal forma que dava a impressão de estar apodrecendo.
+O sucesso da <START:ACONTECIMENTO> EC <END> Comics nas bancas, levou Gaines a ampliar sua linha de "produtos".
+Na esteira do sucesso de <START:PESSOA> Tales From The Crypt <END> , foram lançados <START:PESSOA> The Vault Of Horror <END> , <START:PESSOA> Crime SuspenStories <END> , <START:PESSOA> The Haunt of Fear <END> e <START:PESSOA> Shock SuspenStories <END> .
+Aproveitando a maré boa, Gaines adaptou as histórias do conhecido autor <START:PESSOA> Ray Bradbury <END> e jogou no mercado <START:PESSOA> Weird Science <END> e <START:PESSOA> Weird Fantasy <END> , publicações que misturavam suspense e terror a uma ficção científica um pouco mais pessimista, semelhante a de escritores como <START:PESSOA> Phillip K.Dick <END> e <START:PESSOA> William Gibson <END> .
+Não contente em se tornar o novo rei dos quadrinhos - desbancado as HQs de super-hérois, que, depois de <START:PESSOA> Tales From The Crypt <END> , entraram em decadência - Gaines aventurou-se pelo campo do humor.
+<START:TEMPO> Em 1952 <END> chegava às bancas a <START:ORGANIZACAO> MAD Magazine <END> , o mais novo empreendimento da <START:ACONTECIMENTO> EC Comics <END> , editada pelo escritor e desenhista <START:PESSOA> Harvey Kurtzman <END> .
+O grande mérito da <START:ORGANIZACAO> MAD Magazine <END> trazer para as HQs um humor anárquico, satírico e, principalmente, judeu.
+Ainda em sua primeira fase - reconhecidamente a melhor de todas - ela destruiu sem dó nem piedade todo e qualquer ícone da cultura de massa norte-americana.
+Flash Gordon virou <START:PESSOA> Flesh Garden <END> ( <START:PESSOA> Jardim de Carne <END> ), um brutamontes com zero de <START:PESSOA> QI <END> , e <START:PESSOA> Batman <END> foi transformando em um anão vampiro que vivia tentando agarrar a <START:PESSOA> Mulher Maravilha <END> .
+São notáveis também as sátiras feitas ao <START:ABSTRACCAO> Superman <END> ( <START:ABSTRACCAO> Superduperman <END> e a charge <START:COISA> Supermarket <END> , sobre um supermercado exclusivo para heróis) e as adaptações de contos de fadas, todas elas temperadas por uma certa dosa de perversão sexual.
+A <START:ORGANIZACAO> MAD <END> merece ainda um capítulo à parte sobre sua produção gráfica, pois foi nela que floresceu o talento de <START:PESSOA> Wallace Wood <END> ; <START:PESSOA> Basil Wolverton <END> , especialista em desenhar monstros deformados, e <START:PESSOA> Bill Elder <END> , os responsáveis pela "cara" da fase clássica da revista.
+Para se ter uma idéia de como a coisa era pesada para época, o slogan da <START:ORGANIZACAO> MAD <END> era uma provocação absurda: "MAD <START:PESSOA> Magazine: Humor In <END> a <START:PESSOA> Jugular Vein!! <END>
+", frase que, nos anúncios da revista, aparecia escrita sob uma Monalisa deformada criada por <START:PESSOA> Basil Wolverton <END> .
+A festa duraria pouco e, logo, <START:TEMPO> a década de 50 <END> seria conhecida como um dos períodos mais sem-graça da história das <START:ABSTRACCAO> HQs <END> .
+Apesar de algumas coisas maravilhosas, como <START:PESSOA> Pogo <END> , de <START:PESSOA> Walt Kelly <END> , e <START:LOCAL> Ferdinando <END> , as histórias em quadrinhos sofreram um duro golpe com o surgimento do macarthismo, da paranóia anti-comunista e com a publicação de A Seducao dos Inocentes - livro do psiquiatra <START:PESSOA> Frederic Werthan <END> sobre os "malefícios" das <START:ORGANIZACAO> HQs <END> .
+Entre outras coisas, <START:PESSOA> Dr. Werthan <END> , "provava" que <START:PESSOA> Batman <END> e <START:PESSOA> Robin <END> mantinham um ardoroso caso homossexual:
+" Constantemente eles se salvam um ao outro de ataques violentos de um número sem-fim de inimigos.
+Transmite-se a sensação de que nós, homens, devemos nos manter juntos porque há muitas criaturas malvadas que têm que ser exterminadas... <START:PESSOA> Às vezes <END> , <START:PESSOA> Batman <END> acaba numa cama, ferido, e mostra-se o jovem <START:PESSOA> Robin <END> sentado ao seu lado.
+Em casa, levam uma vida idílica.
+São <START:PESSOA> Bruce Wayne <END> e <START:PESSOA> Dick Grayson <END> .
+<START:PESSOA> Bruce <END> é descrito como um grã-fino e o relacionamento oficial é que <START:PESSOA> Dick <END> é pupilo de <START:PESSOA> Bruce <END> .
+Vivem em aposentos suntuosos com lindas flores em grandes vasos... <START:PESSOA> Batman <END> é, <START:TEMPO> às vezes <END> , mostrado num robe de chambre...é como um sonho de dois homossexuais vivendo juntos".
+<START:PESSOA> Dr. Frederick Werthan <END> - <START:OBRA> The Seduction of the Inocents <END>
+Impelido pela caça às bruxas do <START:PESSOA> Senador Joseph MacCarthy <END> - cujo alvo foi, principalmente, atores, roteiristas e diretores de Hollywood acusados de comunismo - e o livro do <START:PESSOA> Dr. Werthan <END> , o governo norte-americano tentou acabar com todo o tipo de publicação cujo conteúdo fosse considerado "imoral" ou "impróprio".
+A primeira a dançar foi a <START:ACONTECIMENTO> EC Comics <END> .
+Todos seus títulos foram proibidos e a <START:ORGANIZACAO> MAD <END> passou a pegar menos pesado em suas sátiras e mudou de formato para poder continuar nas bancas.
+Outro caso célebre foi a perseguição que o criador de <START:LOCAL> Ferdinando <END> , <START:PESSOA> All Capp <END> , sofreu por causa de uma história sobre os schmoos, um bichinho fictício semelhante a uma foca que se proliferava à velocidade da luz e tinha uma carne deliciosa, além de dar leite e pôr ovos.
+Na história, os <START:LOCAL> Estados Unidos <END> entram em polvorosa porque ninguém mais queria trabalhar, já que todo mundo tinha um schmoo em casa e não passava mais fome.
+Por isso, o schmoos foram considerados pelo governo como uma apologia ao comunismo e <START:PESSOA> All Capp <END> teve que tirá-los das aventuras de <START:LOCAL> Ferdinando <END> .
+O resultado mais triste da paranóia do <START:PESSOA> Senador MacCarthy <END> e do chefe do <START:LOCAL> FBI <END> , J <START:PESSOA> Edgar Hoover <END> , foi a criação do <START:PESSOA> Comics Code <END> , aquele selinho encontrado em todas as revistas comercializadas nos <START:LOCAL> EUA <END> .
+Sem ele, as publicações de quadrinhos não poderiam ser vendidas, o que levou as editoras a implantar a censura interna, acabando assim com a liberdade de criação de seus artistas.
+Apesar de algumas coisas legais aqui e ali, as <START:LOCAL> HQs <END> só saíram do marasmo no começo <START:TEMPO> dos anos 60 <END> após o surgimento da literatura beat e das primeiras manifestações da contracultura.
+Criado em <START:LOCAL> São Francisco <END> , o movimento dos <START:ORGANIZACAO> Comix <END> deu um novo impulso criativo aos quadrinhos.
+Primeiro porque seus integrantes estavam num desbunde total e não estavam nem aí para a rígida moral norte-americana.
+Segundo porque as revistas dos <START:ORGANIZACAO> Comix <END> não eram vendidas em bancas e sim em lojinhas hippies, cujos donos não queriam nem saber se as ditas-cujas tinham ou não o famigerado <START:PESSOA> Comics Code Aproval <END> .
+É um período marcado pela negação à linguagem formal das <START:ORGANIZACAO> HQs <END> .
+Nos comix, por <START:TEMPO> muitas vezes <END> não havia uma seqüência lógica na narrativa.
+Uma historia poderia ser interrompida para dar vazão a algum experimentalismo gráfico ou não ter exatamente um roteiro.
+Poderiam ainda ser ácidas e demolidoras - como as notórias edições de <START:PESSOA> Air Pirates <END> , de <START:PESSOA> Dan O'Neil <END> e <START:PESSOA> Ted Richards <END> , nas quais <START:PESSOA> Mickey <END> e <START:PESSOA> Minie Mouse <END> apareciam fazendo toda espécie de loucuras sexuais - ou simplesmente desagradáveis, principalmente <START:TEMPO> em alguns <END> momentos mais escatológicos da <START:PESSOA> Zap Comix <END> , a primeira publicação underground do planeta.
+Entre os nomes do quadrinho underground, destacam-se <START:PESSOA> Robert Crumb <END> , <START:PESSOA> Gilbert Shelton <END> , <START:PESSOA> Robert Williams <END> , <START:PESSOA> Skip Williamson <END> e <START:PESSOA> Ricky Griffin <END> , litografista que fez a cabeça de toda uma geração com sua arte psicodélica e posters de <START:PESSOA> Carlos Santana <END> , <START:PESSOA> The Doors <END> e <START:PESSOA> Gratefull Dead <END> .
+Os comix atraíram também uma parcela considerável de artistas da velha guarda.
+Cansado da censura do <START:PESSOA> Comics Code <END> e empolgado com o movimento, <START:PESSOA> Will Eisner <END> lança um gênero inédito: as novelas gráficas ( <START:COISA> Um Contrato <END> com <START:PESSOA> Deus <END> e O <START:COISA> Edifício <END> ), uma mistura de literatura e quadrinhos com uma linguagem mais madura e bem mais experimental do que a usada na HQ tradicional.
+Outro veterano a pedir uma vaga no porão do quadrinho underground foi <START:PESSOA> Harvey Kurtzman <END> .
+À margem da indústria desde a instituição do <START:PESSOA> Comics Code <END> , ele voltou à cena com a revista <START:PESSOA> Help <END> , uma versão ainda mais pirada da <START:ORGANIZACAO> MAD Magazine <END> .
+Junto com ele vieram os bons companheiros de <START:ACONTECIMENTO> EC Comics Bill Elder e <END> <START:PESSOA> Wallace Wood <END> , que, <START:TEMPO> nesse período <END> , deu ao mundo a memorável <START:PESSOA> My World <END> , uma fábula pessoal sobre a decadência moral dos <START:LOCAL> Estados Unidos <END> .
 --DOCSTART-- 
 
-<START:ORGANIZACAO> Palácio Nacional de Mafra <END>
-Convento 
-<START:TEMPO> Em 1715 <END> , foi fundado o Convento de <START:PESSOA> Nossa Senhora <END> e <START:PESSOA> Santo António de Mafra <END> , que pertencia à província eclesiástica da <START:LOCAL> Arrábida <END> .
-Teve origem numa comunidade do <START:LOCAL> Hospício do Espírito Santo <END> .
-<START:TEMPO> Em 1730 <END> , sagrada a <START:ORGANIZACAO> Igreja <END> de <START:PESSOA> Nossa Senhora <END> e <START:PESSOA> Santo António <END> , junto de <START:PESSOA> Mafra <END> , foi para lá transferida a sobredita comunidade.
-<START:TEMPO> Entre 1771 e 1791 <END> , por breve de <START:PESSOA> Clemente XIV <END> , <START:TEMPO> de 4 de julho de 1770 <END> , a requerimento do <START:LOCAL> Marquês de Pombal <END> , foi ocupado pelos <START:PESSOA> Cónegos Regulares <END> de <START:PESSOA> Santo Agostinho <END> da <START:LOCAL> Congregação de Santa Cruz <END> de <START:LOCAL> Coimbra <END> ; os <START:PESSOA> Franciscanos da Província <END> da <START:LOCAL> Arrábida <END> saíram do Convento de <START:PESSOA> Mafra <END> , <START:TEMPO> em Maio de 1771 <END> .
-<START:TEMPO> Em 1791 <END> , os <START:PESSOA> Cónegos Regulares <END> de <START:PESSOA> Santo Agostinho <END> saíram do edifício de <START:PESSOA> Mafra <END> .
-<START:TEMPO> Em 1834 <END> , no âmbito da " <START:ABSTRACCAO> Reforma <END> geral eclesiástica " empreendida pelo ministro e secretário de <START:ORGANIZACAO> Estado <END> , <START:PESSOA> Joaquim António de Aguiar <END> , executada pela <START:ORGANIZACAO> Comissão <END> da <START:ORGANIZACAO> Reforma Geral <END> do <START:ABSTRACCAO> Clero <END> ( <START:TEMPO> 1833-1837 <END> ), pelo <START:ORGANIZACAO> Decreto <END> <START:TEMPO> de 28 de Maio <END> , promulgado <START:TEMPO> a 30 desse mês <END> , foram extintos todos os conventos, mosteiros, colégios, hospícios e casas de religiosos de todas as ordens religiosas, ficando as de religiosas, sujeitas aos respectivos bispos, até à morte da última freira, data do encerramento definitivo.
-Execution time: 0.565 seconds
+Prioridades 
+1. 
+Revisão do mecanismo comunitário de protecção civil
+<START:TEMPO> Desde 2005 <END> , na sequência de uma proposta da <START:ORGANIZACAO> Comissão Europeia <END> , o <START:PESSOA> Mecanismo Comunitário <END> de <START:PESSOA> Protecção Civil <END> foi alvo de uma profunda revisão, a qual decorre também do enquadramento motivado pelo novo <START:PESSOA> Instrumento Financeiro <END> para a <START:ORGANIZACAO> Protecção Civil <END> recentemente aprovado.
+O acordo político quanto à revisão foi obtido durante a <START:PESSOA> Presidência Alemã <END> , tendo cabido a <START:ORGANIZACAO> Portugal <END> concluir o processo de revisão.
+Com a adopção da revisão do <START:PESSOA> Mecanismo <END> no <START:PESSOA> Conselho de Justiça <END> e <START:PESSOA> Assuntos Internos <END> <START:TEMPO> de 8 de Novembro <END> , este processo ficou concluído, passando a <START:ORGANIZACAO> União <END> a ficar dotado de um <START:COISA> Mecanismo <END> mais expedito para resposta a emergências graves.
+As principais novidades do <START:COISA> Mecanismo <END> são a clarificação de competências entre a <START:ORGANIZACAO> Comissão <END> e a <START:PESSOA> Presidência <END> no quadro de intervenções em países terceiros, a existência de competências comunitárias ao nível do transporte e a criação, numa base voluntária, de módulos de protecção civil.
+2. 
+Sistemas de <START:PESSOA> Alerta Precoce <END>
+A necessidade de melhorar os actuais ou de estabelecer novos Sistemas de <START:PESSOA> Alerta Precoce <END> na <START:LOCAL> União Europeia <END> foi reconhecida pelo <START:ORGANIZACAO> Conselho <END> em diversas ocasiões .
+Em particular, o <START:ORGANIZACAO> Conselho <END> adoptou, <START:TEMPO> em 2005 <END> , o <START:OBRA> Programa de Acção <END> para Tsunamis e afirmou que «A <START:ORGANIZACAO> Comissão <END> é convidada a fazer propostas [envolvendo] a criação de um sistema de detecção e alerta precoce (...) para o Mediterrâneo e o <START:PESSOA> Atlântico <END> ».
+Mais recentemente, o <START:PESSOA> Instrumento Financeiro <END> para a <START:ORGANIZACAO> Protecção Civil <END> definiu que a criação de um sistema de detecção e alerta precoce é elegível para assistência financeira através de acções como estudos, avaliações e estabelecimento de interligações.
+Para contribuir para este debate, a ANPC realizou, de <START:VALOR> 15 <END> <START:TEMPO> a 18 de Julho <END> , em <START:LOCAL> Albufeira <END> , um seminário sobre Sistemas de <START:PESSOA> Alerta Precoce <END> , o qual reuniu <START:VALOR> cerca de 120 <END> especialistas da maior parte dos <START:LOCAL> Estados-Membros <END> e no qual se procurou:
+- discutir o estado da arte quanto a sistemas de alerta;
+- identificar lacunas existentes no espaço da <START:LOCAL> União Europeia <END> (ex: sistema de alerta precoce para tsunamis) e delinear as bases para um <START:OBRA> Plano de Acção <END> destinado a suprir as lacunas identificadas;
+- debater assuntos transversais, tais como o desenvolvimento de directrizes para o estabelecimento de sinais comuns de alerta a nível europeu.
+Com base nas conclusões do seminário e nos resultados dos trabalhos desenvolvidos pela <START:ORGANIZACAO> Comissão <END> , ao nível de grupo de peritos, foi possível obter acordo sobre dois documentos de Conclusões do <START:ORGANIZACAO> Conselho <END> adoptados no <START:ORGANIZACAO> Conselho <END> JAI <START:TEMPO> de 5/6 de Dezembro <END> .
+Um desses documentos ( Conclusões do <START:ORGANIZACAO> Conselho <END> sobre o desenvolvimento e estabelecimento de sistemas de alerta precoce na <START:LOCAL> UE <END> ) segue uma abordagem global multi-riscos, enquanto o outro ( Conclusões do <START:ORGANIZACAO> Conselho <END> sobre o desenvolvimento de um sistema de alerta precoce para tsunamis no <START:PESSOA> Atlântico Nordeste <END> e no Mediterrâneo ) direcciona as atenções para o risco de tsunamis.
+Ambos os documentos contêm diversas propostas de actuação futura por parte da <START:ORGANIZACAO> Comissão <END> e dos <START:ORGANIZACAO> Estados-Membros <END> .
+3. 
+Cooperação com <START:PESSOA> Países do Mediterrâneo Sul <END>
+No campo da <START:ORGANIZACAO> Protecção Civil <END> , <START:LOCAL> UE <END> e <START:LOCAL> África <END> partilham uma série de preocupações e riscos comuns, maioritariamente na região <START:COISA> Euro-Mediterrânica <END> .
+Estes riscos estão particularmente relacionados com os incêndios florestais, sismos e tsunamis, acidentes químicos e, também, ameaças terroristas.
+Por outro lado, é também importante sublinhar o facto de que o <START:PESSOA> Mecanismo Comunitário de Protecção Civil <END> já interveio por diversas vezes nesta região (ex: sismos da <START:ORGANIZACAO> Argélia <END> e de <START:PESSOA> Marrocos <END> ) e diversos <START:LOCAL> Estados-Membros <END> mantêm acordos bilaterais de cooperação com os <START:PESSOA> Países do Mediterrâneo Sul <END> , que conduziram a missões de assistência mútua durante emergências passadas.
+Existe, pois, espaço mais do que suficiente e vontade comum para uma cooperação mais profunda e forte entre a <START:ORGANIZACAO> UE <END> e <START:LOCAL> África <END> no campo da protecção civil, nomeadamente com os parceiros do <START:LOCAL> Mediterrâneo <END> .
+Assim, pretendeu-se reforçar a cooperação com os países do <START:LOCAL> Mediterrâneo Sul <END> , através de acções tais como a partilha de boas práticas e informação sobre riscos comuns, cooperação nos sistemas de alerta precoce ou exercícios conjuntos.
+De forma a permitir uma mais abrangente troca de pontos de vista neste campo, realizou-se <START:TEMPO> no dia 24 de Outubro <END> , no <START:LOCAL> Porto <END> , uma reunião informal entre os <START:PESSOA> Directores-Gerais de <END> <START:PESSOA> Protecção Civil <END> dos <START:PESSOA> Países <END> do <START:LOCAL> Mediterrâneo <END> e os <START:PESSOA> Directores-Gerais de Protecção Civil <END> da <START:LOCAL> União Europeia <END> .
+Essa reunião permitiu concluir da existência de abertura para um trabalho comum futuro, o qual, numa primeira fase, deverá estar integrado do <START:OBRA> Programa <END> para a <START:ORGANIZACAO> Prevenção <END> e <START:PESSOA> Redução de Desastres do <END> <START:PESSOA> Projecto Euromed <END> e, numa segunda fase, deverá visar a inclusão de países do <START:LOCAL> Mediterrâneo <END> no <START:PESSOA> Mecanismo Comunitário de Protecção Civil <END> .
+4. 
+Consenso Europeu sobre <START:PESSOA> Ajuda Humanitária <END>
+Na sequência de uma Comunicação da <START:ORGANIZACAO> Comissão <END> , o <START:ORGANIZACAO> Conselho <END> discutiu, no seu grupo de <START:PESSOA> Trabalho de Cooperação e Desenvolvimento <END> ( <START:ORGANIZACAO> CODEV <END> ) uma proposta de <START:COISA> Consenso <END> Europeu sobre <START:PESSOA> Ajuda Humanitária <END> .
+Tal documento contém referências à actuação da protecção civil nos contextos de crises humanitárias, pelo que foi também discutido no <START:LOCAL> Grupo de <END> <START:PESSOA> Trabalho PROCIV <END> , tendo sido produzido um aconselhamento <START:TEMPO> em Julho <END> .
+Após intensas negociações, o <START:COISA> Consenso <END> Europeu foi adoptado pelo <START:ORGANIZACAO> CAGRE <END> <START:TEMPO> em 20 de Novembro <END> , tendo-se conseguido que, na sua versão final, o <START:ABSTRACCAO> Consenso <END> não imponha limitações ao uso de recursos de protecção civil nos cenários de desastres naturais, tecnológicos e ambientais <START:TEMPO> em tempo <END> de paz.
+No entanto, para situações de emergências complexas (conflitos ou situações de fragilidade) o uso de meios de protecção civil acabou por ser considerado como excepcional.
+5. 
+Revisão das <START:PESSOA> Directrizes de Oslo <END>
+As <START:ACONTECIMENTO> Directrizes de Oslo <END> são um documento das <START:PESSOA> Nações Unidas <END> , destinado a orientar o uso de meios militares e da defesa civil nos cenários de emergências naturais, tecnológicas ou ambientais <START:TEMPO> em tempo <END> de paz.
+Aquando da última revisão destas directrizes, <START:TEMPO> em 2006 <END> , os recursos de protecção civil foram englobados no mesmo grupo dos recursos militares, implicando que apenas poderiam ser utilizados como «último recurso», após esgotamento de outras alternativas civis.
+Conscientes de que tal regra contradiria o princípio básico de actuação da protecção civil (resposta rápida e imediata após uma emergência), os <START:LOCAL> Estados-Membros <END> e a <START:ORGANIZACAO> Comissão Europeia <END> desenvolveram diversas diligências procurando obter uma clarificação/revisão de tais Directrizes junto da <START:LOCAL> UN/OCHA <END> .
+Em particular, foi obtido acordo no <START:LOCAL> Grupo de <END> <START:PESSOA> Trabalho PROCIV <END> quanto a uma abordagem global dos <START:ORGANIZACAO> Estados-Membros <END> sobre esta matéria.
+Nesta sequência, foi realizada uma reunião com a <START:ORGANIZACAO> UN/OCHA <END> a <START:VALOR> 28 <END> e <START:TEMPO> 29 de Novembro <END> , a qual permitiu adoptar uma revisão das Directrizes que clarifica o princípio do último recurso, garantindo um tratamento diferenciado para os recursos de <START:PESSOA> Protecção Civil <END> .
+6. 
+Infra-estruturas críticas
+As conclusões do <START:ORGANIZACAO> Conselho <END> em matéria «de prevenção, de preparação para intervir e de resposta a atentados terroristas» e o «programa de solidariedade da <START:LOCAL> União Europeia <END> respeitante às consequências das ameaças e dos atentados terroristas", adoptado pelo <START:ORGANIZACAO> Conselho <END> <START:TEMPO> em Dezembro de 2004 <END> , apoiaram a elaboração de um <START:COISA> Programa <END> Europeu para a <START:ACONTECIMENTO> Protecção das Infra-Estruturas <END> Críticas e a criação de uma <START:COISA> Rede de Alerta <END> para as <START:ORGANIZACAO> Infra-estruturas Críticas <END> .
+Neste sentido, <START:TEMPO> em Dezembro de 2006 <END> , a <START:ORGANIZACAO> Comissão <END> apresentou uma proposta de Directiva do <START:ORGANIZACAO> Conselho <END> , na qual se propõem medidas para a identificação e designação das infra estruturas críticas europeias e para a avaliação da necessidade de melhorar a sua protecção, sendo que são abrangidas aquelas cuja perturbação ou destruição afectaria dois ou mais <START:ORGANIZACAO> Estados-Membros <END> , ou um único Estado-Membro se a infra-estrutura crítica estiver localizada em outro <START:LOCAL> Estado-Membro <END> .
+Na sequência dos trabalhos desenvolvidos pela <START:PESSOA> Presidência Alemã <END> neste âmbito, foi dada continuidade à negociação da proposta de Directiva , tendo-se analisado o parecer do <START:ORGANIZACAO> Parlamento Europeu <END> e discutido as reservas introduzidas pelas diversas delegações.
+O balanço final é positivo, uma vez que se conseguiu eliminar a maior parte das reservas existentes.
+Embora exista consenso em relação a <START:VALOR> cerca de 70% <END> da proposta de Directiva , subsistem reservas de fundo de diversos <START:COISA> Estados-Membros <END> que se relacionam, por exemplo, com a natureza legal do instrumento a adoptar, a inclusão do sector do «nuclear» no âmbito da Directiva , a definição de <START:PESSOA> Infra-estrutura Crítica Europeia <END> e a obrigatoriedade de estabelecimento de <START:OBRA> Planos de Segurança e Oficiais de Ligação <END> .
+Neste contexto foi obtido acordo sobre um Relatório de <START:LOCAL> Progresso <END> adoptado no <START:ORGANIZACAO> Conselho <END> JAI de <START:TEMPO> 5/6 Dezembro <END> .
+Execution time: 0.638 seconds

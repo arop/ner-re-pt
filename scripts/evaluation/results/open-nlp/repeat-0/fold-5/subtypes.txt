@@ -1,23 +1,13 @@
-processed 6588 tokens with 194 phrases; found: 115 phrases; correct: 84.
-accuracy:  96.72%; precision:  73.04%; recall:  43.30%; FB1:  54.37
- ABSTRACCAO_NOME_: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-ACONTECIMENTO_EFEMERIDE_: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-ACONTECIMENTO_EVENTO_: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-LOCAL_FISICO_AGUACURSO: precision: 100.00%; recall:  33.33%; FB1:  50.00  1
-LOCAL_FISICO_AGUAMASSA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-LOCAL_FISICO_ILHA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-LOCAL_FISICO_REGIAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-LOCAL_FISICO_RELEVO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-LOCAL_HUMANO_CONSTRUCAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
-LOCAL_HUMANO_DIVISAO: precision:  68.00%; recall:  33.33%; FB1:  44.74  25
-LOCAL_HUMANO_OUTRO: precision: 100.00%; recall:  50.00%; FB1:  66.67  2
-LOCAL_HUMANO_PAIS: precision:  73.08%; recall:  55.88%; FB1:  63.33  26
-LOCAL_HUMANO_REGIAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
- LOCAL_HUMANO_RUA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-LOCAL_VIRTUAL_COMSOCIAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+processed 7380 tokens with 108 phrases; found: 58 phrases; correct: 42.
+accuracy:  98.08%; precision:  72.41%; recall:  38.89%; FB1:  50.60
+LOCAL_HUMANO_CONSTRUCAO: precision:  50.00%; recall:  33.33%; FB1:  40.00  2
+LOCAL_HUMANO_DIVISAO: precision:  71.43%; recall:  41.67%; FB1:  52.63  14
+LOCAL_HUMANO_PAIS: precision:  84.62%; recall:  45.83%; FB1:  59.46  13
+ LOCAL_HUMANO_RUA: precision: 100.00%; recall:  16.67%; FB1:  28.57  1
+LOCAL_VIRTUAL_COMSOCIAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
 LOCAL_VIRTUAL_SITIO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-OBRA_ARTE_EDIFICIO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-OBRA_REPRODUZIDA_FILME: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  OBRA_ARTE_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 OBRA_REPRODUZIDA_LIVRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-TEMPO_TEMPO_CALEND_DATA: precision:  78.95%; recall:  68.18%; FB1:  73.17  57
-TEMPO_TEMPO_CALEND_INTERVALO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+TEMPO_TEMPO_CALEND_DATA: precision:  73.08%; recall:  44.19%; FB1:  55.07  26
+TEMPO_TEMPO_CALEND_HORA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+TEMPO_TEMPO_CALEND_INTERVALO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1

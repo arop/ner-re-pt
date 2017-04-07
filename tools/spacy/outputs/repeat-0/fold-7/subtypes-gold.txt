@@ -7939,11 +7939,8 @@ Tara	O
 Perdida	O
 Hardclub	B-LOCAL_HUMANO_CONSTRUCAO
 (	O
-V.N.	O
-Gaia	O
-<	O
-END	O
->	O
+V.N.	B-LOCAL_HUMANO_DIVISAO
+Gaia	I-LOCAL_HUMANO_DIVISAO
 .	O
 )	O
 -	O
@@ -7981,11 +7978,8 @@ Março	O
 Jovem	O
 2006	O
 (	O
-C.M.	O
-Seixal	O
-<	O
-END	O
->	O
+C.M.	B-LOCAL_HUMANO_CONSTRUCAO
+Seixal	I-LOCAL_HUMANO_CONSTRUCAO
 )	O
 com	O
 Triplet	O

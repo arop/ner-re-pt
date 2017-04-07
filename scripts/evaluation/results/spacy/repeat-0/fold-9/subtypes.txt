@@ -1,7 +1,7 @@
-processed 1413 tokens with 35 phrases; found: 11 phrases; correct: 9.
-accuracy:  96.46%; precision:  81.82%; recall:  25.71%; FB1:  39.13
+processed 1413 tokens with 35 phrases; found: 9 phrases; correct: 7.
+accuracy:  96.32%; precision:  77.78%; recall:  20.00%; FB1:  31.82
 LOCAL_HUMANO_CONSTRUCAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-LOCAL_HUMANO_DIVISAO: precision:  80.00%; recall:  25.00%; FB1:  38.10  5
+LOCAL_HUMANO_DIVISAO: precision:  66.67%; recall:  12.50%; FB1:  21.05  3
 LOCAL_HUMANO_PAIS: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 LOCAL_HUMANO_REGIAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
 TEMPO_TEMPO_CALEND_DATA: precision: 100.00%; recall:  38.46%; FB1:  55.56  5

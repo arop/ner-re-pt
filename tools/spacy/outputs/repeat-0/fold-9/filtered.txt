@@ -138,8 +138,8 @@ a	O
 versão	O
 do	O
 jogo	O
-Mario	B-PESSOA
-Bros	I-PESSOA
+Mario	O
+Bros	O
 de	O
 cada	O
 vez	O
@@ -389,7 +389,7 @@ de	O
 skate	O
 ,	O
 principalmente	O
-Hardcore	O
+Hardcore	B-PESSOA
 .	O
 Em	B-TEMPO
 1995	I-TEMPO
@@ -511,8 +511,8 @@ Sugar	O
 Kane	O
 )	O
 ,	O
-Philippe	O
-Fargnoli	O
+Philippe	B-PESSOA
+Fargnoli	I-PESSOA
 (	O
 Reffer	O
 )	O
@@ -536,8 +536,8 @@ no	O
 Hangar	O
 110	O
 em	O
-São	O
-Paulo	O
+São	B-LOCAL
+Paulo	I-LOCAL
 .	O
 Murilo	O
 ,	O
@@ -947,7 +947,7 @@ electrónica	O
 ,	O
 acabando	O
 na	O
-18.ª	B-VALOR
+18.ª	O
 posição	O
 ,	O
 o	O
@@ -1067,7 +1067,7 @@ para	O
 a	O
 Ferrari	O
 :	O
-GP	O
+GP	B-ORGANIZACAO
 do	O
 Brasil	B-LOCAL
 e	O

@@ -1,464 +1,199 @@
 --DOCSTART--
-Em que escola estuda o <START:PESSOA> Harry Potter <END> ?
-Qual a divisa da escola?
-Em quantas casas está dividida?
-Quem é o director da escola?
-Como são os peixes-espada?
-Qual é o recorde da <START:ORGANIZACAO> IGFA <END> para este tipo de peixe?
-Quando nasceu <START:PESSOA> Amintore Fanfani <END> ?
-E aonde nasceu?
-Quem foi <START:PESSOA> Le Corbusier <END> ?
-Qual era o seu verdadeiro nome?
-Quem era <START:PESSOA> Flaubert <END> ?
-Em que ano publicou «Bouvard e Pécuchet»?
-Lista todas as suas obras.
-O que foi a Revolução de Veludo?
-O que foi a Revolução dos Cravos?
-Quem foi <START:PESSOA> António de Oliveira Salazar <END> ?
-Quem compôs a canção "Grândola, Vila Morena"?
-Onde foi fabricado Bender Bending Rodriguez?
-Quem é <START:PESSOA> Philip J. Fry <END> ?
-Quem foi <START:PESSOA> Hermann Emil Fischer <END> ?
-Quem prémio é que ele recebeu <START:TEMPO> em 1902 <END> ?
-Quem recebeu o Prémio Nobel da Literatura <START:TEMPO> nesse ano <END> ?
-Quem era <START:PESSOA> Bertha von Suttner <END> ?
-Quem foi <START:PESSOA> Marco Pantani <END> ?
-Qual era a sua alcunha?
-Quem foi <START:PESSOA> Juan Manuel Fangio <END> ?
-O que é a obsidiana?
-O que é uma "macana"?
-O que é um buraco negro?
-O que é a realidade virtual?
-O que é o pasodoble?
-O que é a tarantela?
-O que á a Arca de Noé?
-O que é um tacógrafo?
-O que é um odómetro?
-O que é um kinnor?
-O que é o <START:ORGANIZACAO> INTASAT <END> 
-O que é que era o Rainbow Warrior?
-Quem é que o afundou <START:TEMPO> em 1985 <END> ?
-Para que serve um draga-minas?
-O que é a <START:ORGANIZACAO> INTELSAT <END> ?
-O que é uma Organização Não-Governamental?
-O que era a <START:ORGANIZACAO> Gestapo <END> ?
-Quantos membros tinha durante a Segunda Grande Guerra?
-O que é a <START:ORGANIZACAO> Organização Internacional da Normalização <END> ?
-O que era a Mão Negra?
-Qual a função da <START:ORGANIZACAO> Organização Meteorológica Mundial <END> ?
-Qual é a responsabilidade da <START:ORGANIZACAO> ONUDI <END> ?
-A que se dedica a <START:ORGANIZACAO> Industrial Light and Magic <END> ?
-Em que país fica <START:LOCAL> Çatal Hüyük <END> ?
-Em que mar desagua o rio Orentes?
-Em que país fica a <START:LOCAL> Muralha de Adriano <END> ?
-Onde é que trabalha o <START:PESSOA> Homer Simpson <END> ?
-Em que país fica <START:LOCAL> Minas Gerais <END> ?
-De onde é típica a ensaimada?
-Em que cidade nasceu <START:PESSOA> Natalie Hershlag <END> ?
-Quem é o prefeito dessa cidade?
-Quem desenhou o processador Zilog Z80?
-De quantos bits era este processador?
-Como se chamam os pais de <START:PESSOA> Luke Skywalker <END> ?
-Que paises entraram na <START:ORGANIZACAO> União Europeia <END> <START:TEMPO> a 1 de Janeiro de 1995 <END> ?
-Quem é a  rainha da <START:LOCAL> Austrália <END> ?
-Quem era o papa quando se realizou o Concílio de Clermont?
-Que actor faz de <START:PESSOA> Chewbacca <END> ?
-Como se chama o deus grego da Medicina?
-Quem foi o realizador de Nosferatu?
-E quem era o actor principal?
-Quem é o secretário-geral da <START:ORGANIZACAO> UGT <END> ?
-Quando é que foi o atentado terrorista contra a <START:ORGANIZACAO> AMIA <END> ?
-Quantas pessoas morreram nesse ataque?
-Quando é que morreu <START:PESSOA> Federica Montseny <END> ?
-Em que dia se realizou o assalto ao rancho do davidianos em <START:LOCAL> Waco <END> ?
-Em que ano é que o Real Zaragoza ganhou a <START:ACONTECIMENTO> Taça das Taças <END> ?
-Em que ano foi inaugurado o AVE Madrid-Sevilha?
-Em que data é que o <START:ORGANIZACAO> Corte Inglês <END> comprou as <START:ORGANIZACAO> Galerias Preciados <END> ?
-Em que dia foi assassinado <START:PESSOA> Rajiv Gandhi <END> ?
-Que quatro deuses podem ser representados num vaso canopo?
-Quem produz o Windows 95?
-<START:PESSOA> Steve Jobs <END> é o presidente de que empresa?
-Como se chamava o serviço secreto da <START:LOCAL> RDA <END> ?
-<START:PESSOA> David Stern <END> é o comissário de que organização?
-Que rádio emite o programa de <START:PESSOA> Howard Stern <END> ?
-Que escola foi fundada por <START:PESSOA> Walter Groupis <END> ?
-A que ordem pertencia <START:PESSOA> São Tomás de Aquino <END> ?
-Que ordem foi fundada por <START:PESSOA> São Francisco de Assis <END> ?
-Que exército era comandado por <START:PESSOA> Rommel <END> ?
-O Bibendum é a mascote de que empresa?
-Como se chamava o barco de <START:PESSOA> Costeau <END> ?
-Que tipo de leite se usa para fazer mozzarella?
-Como se chamava a espada do <START:PESSOA> Rei Artur <END> ?
-As bolotas são o fruto de que árvore?
-De que planta se obtêm a juncinha?
-De que material é feito um Moai?
-Que come um quebra-ossos?
-Como se chamava a bomba atómica largada em <START:LOCAL> Nagasaqui <END> ?
-Qual foi o primeiro libro impresso por <START:PESSOA> Gutenberg <END> ?
-Que forma tem a entrada do <START:LOCAL> Museu do Louvre <END> ?
-Que animais puxam o carro de <START:PESSOA> Cíbele <END> ?
-O que é que mede a escala de Mohs ?
-Que licor se faz com abrunheiro?
-Em que museu estão «As Meninas» de <START:PESSOA> Velasques <END> ?
-Que escândalo provocou a demissão de <START:PESSOA> Nixon <END> ?
-Que fabrica a <START:ORGANIZACAO> Leica <END> ?
-Que lado de um barco é bombordo?
-Como se chamam as bolas usadas no Quidditch?
-Quantas pessoas morreram no afundamento do USS Maine?
-Quantos atletas participaram nos  <START:ACONTECIMENTO> Jogos Olímpicos <END> de <START:LOCAL> Barcelona <END> ?
-Quantos habitantes tem a <START:LOCAL> Lituânia <END> ?
-Quantos lugares o parlamento da <START:LOCAL> Islândia <END> ?
-Quantos anos durarão as reservas mundiais de petróleo?
-Quantas vezes é que <START:PESSOA> Alain Prost <END> foi campeão do  Mundo ?
-Quantos cavalos tem as turbinas do USS Nimitz?
-Quantos golos se marcaram ao todo no  <START:ACONTECIMENTO> Mundial <END> de <START:TEMPO> 1982 <END> ?
-Quantas caves tem a Torre Picasso?
-Quantos prémios Goya ganhou "Torrente: El brazo tonto de la ley"?
-Que idade tem o Sol?
-Qual a duração do filme «A Nona Porta»?
-Com que idade morreu <START:PESSOA> Alfred Hitchcock <END> ?
-Qual a envergadura do Airbus 380?
-Quantos passageiros transportou <START:TEMPO> no dia 4 de Setembro de 2006 <END> ?
-Quanto custa cada unidade?
-Qual a capacidade de carga do Antonov An-124?
-Quais são os membros fundadores da <START:ORGANIZACAO> Star Alliance <END> ?
-Em que país se fala náhuatl?
-Quantas curvas tem o  <START:LOCAL> Circuito <END> do <START:LOCAL> Mónaco <END> ?
-Quem foi a primeira mulher a viajar no espaço?
-Quem realizou «O Dia da Besta»?
-Quem inaugurou o Templo de Debod em <START:LOCAL> Madrid <END> ?
-Em que ano é que <START:PESSOA> Torquemada <END> foi nomeado Inquisidor Geral?
-Em que ano foi publicada a  Gramática de <START:PESSOA> Nebrija <END> ?
-Onde é que <START:PESSOA> Rachel Weisz <END> estudou literatura?
-Em que cidade fica a  Sagrada Família de <START:PESSOA> Gaudí <END> ?
-Qual a altura do Vesúvio?
-A quantos quilómetros de <START:LOCAL> Huesca <END> fica o  <START:LOCAL> Castelo <END> de <START:LOCAL> Loarre <END> ?
-Qual a massa molécular do metanol?
-Qual a altura da  Pirámede do Sol de <START:LOCAL> Teotihuacan <END> ?
-Quantos saltos formam as Cataratas do Iguaçú?
-Quantos degraus tem a  <START:LOCAL> Torre <END> de <START:LOCAL> Pisa <END> ?
-Quais são os ingredientes da sangria?
-Quem é responsável pela segurança da <START:LOCAL> Cidade do Vaticano <END> ?
-Quem atribui a Medalha Fields?
-Para quem trabalha <START:PESSOA> Jack Bauer <END> ?
-O que é que foi usado como desfolhante na Guerra do Vietname?
-Qual foi o nome de código do Desembarque da Normândia?
-De que fungo se obtêm a penicilina?
-De que molusco é que os fenícios extraíam a tinta púrpura?
-O que é que <START:PESSOA> Manuel Campello Esclápez <END> descobriu?
-De que é que <START:PESSOA> Jasão <END> e os Argonautas andavam à procura?
-Quem era  presidente dos <START:LOCAL> Estados Unidos <END> durante o ataque a <START:LOCAL> Pearl Harbour <END> ?
-O que é que a <START:ORGANIZACAO> Norsk Hydro <END> produzia durante a Segunda Guerra Mundial?
-Qual o tíulo da obra que ganhou o Prémio Nadal <START:TEMPO> em 1994 <END> ?
-Quantos reservistas tinha a <START:ORGANIZACAO> Haganah <END> <START:TEMPO> em 1936 <END> ?
-Que idade tinha <START:PESSOA> Miguel Induraín <END> durante a  <START:ACONTECIMENTO> Volta a Espanha <END> <START:TEMPO> de 1985 <END> ?
-Em que ano é que ele ganhou a <START:ACONTECIMENTO> Volta à Espanha <END> ?
-Quantas etapas da  <START:ACONTECIMENTO> Volta à França do Futuro <END> <START:TEMPO> de 1986 <END> é que ele ganhou?
-Que prémio é que ele recebeu <START:TEMPO> em 1992 <END> ?
-Que actores são os protagonistas de «O Bom, o Mau e o Vilão"?
-Quantas pessoas morreram na <START:LOCAL> Europa <END> durante a epidemia de peste <START:TEMPO> do século XIV <END> ?
-Em que país teve origem a epidemia de gripe <START:TEMPO> de 1918 <END> ?
-Como se chamavam os Reis Católicos?
-Como se chamava o  presidente do <START:LOCAL> Burundi <END> que morreu <START:TEMPO> em 1994 <END> ?
-Em que dia foi promulgada a constituição espanhola <START:TEMPO> de 1812 <END> ?
-Quem foi o capitão do Real Sociedad <START:TEMPO> entre 1974 e 1989 <END> ?
-Em que cidade se disputou a final da  <START:ACONTECIMENTO> Taça da Europa de Basquete <END> <START:TEMPO> de 1996 <END> ?
-Que grupo terrorista cometeu um atentado durante os  <START:ACONTECIMENTO> Jogos Olímpicos <END> de <START:LOCAL> Munique <END> ?
-Que partido político governou a <START:LOCAL> Espanha <END> <START:TEMPO> de 28 de Outubro de 1982 a 3 de Março de 1996 <END> ?
-Que farda tinha vestida o Rei quando apareceu na televisão após o golpe de estado de <START:PESSOA> Tejero <END> ?
-O que é que <START:PESSOA> Leonardo da Vinci <END> desenhou <START:TEMPO> em 1492 <END> ?
-O que é que <START:PESSOA> Antonio Rebollo <END> usou para acender a Chama Olímpica nos  <START:ACONTECIMENTO> Jogos Olímpicos <END> de <START:LOCAL> Barcelona <END> ?
-Que programa de televisão apresentou <START:PESSOA> Takeshi Kitano <END> <START:TEMPO> de 1986 a 1989 <END> ?
-Que presente é que <START:LOCAL> Nova Iorque <END> recebeu para comemorar o centenário da indepêndencia dos <START:LOCAL> Estados Unidos <END> ?
-Qual foi a distribuidora do filme «O Planeta dos Macacos» que estreou <START:TEMPO> em 1968 <END> ?
-Que velocidade atingiu <START:PESSOA> Louis Blériot <END> <START:TEMPO> a 25 de Julho de 1909 <END> ?
-Quantos quilos de anchova apanhou a frota do Cantábrico <START:TEMPO> em 1994 <END> ?
-Quais são as ilhas cuja posse a <START:ORGANIZACAO> Argentina <END> disputou ao <START:ORGANIZACAO> Reino Unido <END> <START:TEMPO> de 2 de Abril a 14 de Junho de 1982 <END> ?
-Onde se disputaram os  <START:ACONTECIMENTO> Jogos Mediterrânicos <END> <START:TEMPO> de 1997 <END> ?
-Que navio é que <START:PESSOA> James Cook <END> comandou <START:TEMPO> de 1768 a 1769 <END> ?
-Quem é o actor principal do filme «Tarzan, o Homem-Macaco»?
-Quanto recordes mundiais é que ele bateu?
-Quem ganhou o Óscar Honorário <START:TEMPO> em 2007 <END> ?
-Quem roubou as jóias de <START:PESSOA> Bianca Castafiore <END> ?
-Em que país fica o Lago dos Cisnes?
-Em que ano morreu o <START:PESSOA> Capitão América <END> ?
-Qual é a capital da <START:LOCAL> Terra do Nunca <END> ?
-Como se chama a mulher de <START:PESSOA> Bill Gates <END> ?
-Em que universidade é que ele estudava quando criou a <START:ORGANIZACAO> Microsoft <END> ?
-Qual o orçamento dessa universidade <START:TEMPO> para 2005 <END> ?
-Em que ano foi fundada?
-Que avião supersónico teve os seus últimos voos comerciais <START:TEMPO> em Maio de 2003 <END> ?
-Quantos passageiros conseguia transportar esse modelo de avião?
-Qual a capacidade do <START:LOCAL> Estádio Santiago Bernabéu <END> <START:TEMPO> nos anos 80 <END> ?
-Quem é o dono do estádio?
-Quanto dinheiro foi gasto na sua ampliação <START:TEMPO> entre 2001 e 2006 <END> ?
-Quantas bombas foram lançadas sobre <START:LOCAL> Dresda <END> <START:TEMPO> a 14 de Fevereiro de 1945 <END> ?
-Quanto pesavam as bombas largadas sobre esta cidade <START:TEMPO> a 7 de Outubro de 1944 <END> ?
-Que organismo dirigiu <START:PESSOA> Alan Turing <END> durante a Segunda Guerra Mundial?
-Quem era o czar da Rússia   durante a Segunda Grande Guerra?
-Quantos pontos marcou a Jugoslávia na final do  <START:ACONTECIMENTO> Mundial de Basquetebol <END> <START:TEMPO> de 1990 <END> ?
-Contra que país é que a Espanha jogou a final de basquete das  <START:ACONTECIMENTO> Olímpiadas <END> <START:TEMPO> de 1984 <END> ?
-Em que ano é que Espanha ganhou o <START:ACONTECIMENTO> Mundial de Futebol <END> ?
+ COISAS DA SÁBADO  : A DIFERENÇA ENTRE O JORNAL DE NOTÍCIAS E O DIÁRIO DE NOTÍCIAS        
+ <START:TEMPO> No dia <END> em que a operação « <START:ACONTECIMENTO> Noite Branca <END> » começou a prender suspeitos de serem responsáveis pelo clima de violência no <START:LOCAL> Porto <END> , a comparação entre um jornal de <START:LOCAL> Lisboa <END> , o Diário de Notícias , e um do <START:LOCAL> Porto <END> , o Jornal de Notícias , <START:TEMPO> no mesmo dia 17 de Dezembro <END> , não podia ser mais significativa.
+O  Diário de Notícias  falava das biografias e do background dos detidos, fazendo nota, como é óbvio, do seu profundo envolvimento com a claque do <START:ORGANIZACAO> FCP <END> , os Super Dragões .
+Na verdade nenhum destes homens se tornou conhecido por ser segurança na noite, nem por frequentar ginásios e mesmo as suas páginas e vídeos guerreiros (*) nunca tinham merecido muita atenção.
+Onde eles apareciam era à frente da claque em filmes (a <START:ORGANIZACAO> SIC <END> mostrou-os) e em fotos de segurança aos dirigentes do clube.
+No Jornal de Notícias tudo isto é cuidadosamente omitido e os presos aparecem sem biografia, ou apenas com uma referência casual e singular a essa pertença.
+De facto, o Jornal de Notícias parece ser um jornal do <START:LOCAL> Casaquistão <END> tal é a ignorância do que se passa à sua volta.
+Mas não é, é mesmo do <START:LOCAL> Porto <END> e esse é que é o problema: é do <START:LOCAL> Porto <END> e cala.
+--DOCSTART--
+    
+     <START:ORGANIZACAO> MINISTÉRIOS DO AMBIENTE, DO ORDENAMENTO DO TERRITÓRIO E DO DESENVOLVIMENTO REGIONAL <END> E <START:ORGANIZACAO> DA AGRICULTURA, DO DESENVOLVIMENTO RURAL E DAS PESCAS <END> .
+Portaria n.º 1/2008 <START:TEMPO> de 2 de Janeiro <END>        
+ Com fundamento no disposto na  alínea a) do artigo 40.º e no n.º 1 do artigo 118.º do Decreto-Lei n.º 202/2004 , <START:TEMPO> de 18 de Agosto <END> , com as alterações introduzidas pelo Decreto-Lei n.º 201/2005 , <START:TEMPO> de 24 de Novembro <END> ;        
+ Ouvido o    <START:ORGANIZACAO> Conselho Cinegético Municipal <END>   de   <START:LOCAL> Montemor-o-Novo <END>  :        
+ Manda o <START:ORGANIZACAO> Governo <END> , pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas , o seguinte:        
+ 1.º Pela presente portaria é concessionada, <START:TEMPO> pelo período de 12 anos <END>  , à  <START:ORGANIZACAO> Associação de Caçadores <END> da <START:LOCAL> Ajuda <END> , com o número de identificação fiscal 502302569 e sede na <START:LOCAL> Rua de D. Vasco <END> , 7, 7050 <START:LOCAL> Montemor-o-Novo <END> , a zona de caça associativa da <START:LOCAL> Herdade da Casa Branca <END> e outras ( processo n.º 4799-DGRF ), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de <START:LOCAL> Cabrela <END> , município de <START:LOCAL> Montemor-o-Novo <END> , com a área de <START:VALOR> 545 ha <END> .
+2.º A concessão de alguns terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade da actividade cinegética com a conservação da natureza, até um máximo de <START:VALOR> 10 % <END> da área total da zona de caça.
+3.º A zona de caça concessionada pela presente portaria produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional , <START:PESSOA> Humberto Delgado Ubach Chaves Rosa <END> , Secretário de Estado do Ambiente , <START:TEMPO> em 23 de Novembro de 2007 <END> .
+--- O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas  , <START:PESSOA> Jaime de Jesus Lopes Silva <END> , <START:TEMPO> em 30 de Novembro de 2007 <END> .
 --DOCSTART--
 
-<START:ACONTECIMENTO> Lisboa-Dakar'2008 <END> começa <START:TEMPO> a 5 de Janeiro <END>
-PROVA TERÁ <START:VALOR> PERTO DE 6.000 QUILÓMETROS <END>
-A  <START:VALOR> 30.ª <END>  edição do <START:ACONTECIMENTO> Dakar <END> vai partir de <START:LOCAL> Lisboa <END> <START:TEMPO> no dia 5 de Janeiro <END> com a chegada ao <START:LOCAL> Senegal <END> marcada <START:TEMPO> para 20 <END> , numa competição que terá <START:TEMPO> no próximo ano <END> <START:VALOR> perto de 6.000 quilómetros <END> de provas especiais.
-"Os itinerários provisórios indiciam uma quilometragem de especiais significante mais importante que <START:TEMPO> nos anos anteriores <END> .
-<START:TEMPO> Em 2006 <END> e <START:TEMPO> 2007 <END> ficámos nos <START:VALOR> 4.000 , 5.000 quilómetros <END> .
-<START:TEMPO> Em 2008 <END> , queremos mais especiais e menos ligações", afirmou o director do <START:ACONTECIMENTO> Lisboa-Dakar <END> , <START:PESSOA> Etienne Lavigne <END> , durante a apresentação da prova.
-A partida da edição <START:TEMPO> de 2008 <END> está marcada para a <START:LOCAL> Praça do Império <END> , em <START:LOCAL> Lisboa <END> .
-O  <START:LOCAL> Centro Cultural <END> de <START:LOCAL> Belém <END> será o quartel-general para os carros, motos e camiões.
-De fora do percurso ficou o <START:LOCAL> Mali <END> , depois dos problemas de segurança ocorridos na prova <START:TEMPO> deste ano <END> , o que levou ao cancelamento de uma etapa.
-"Existe muita instabilidade <START:TEMPO> neste momento <END> em alguns países africanos.
-São zonas de risco onde não poderíamos a 100 por cento garantir a segurança, não só dos pilotos, mas de todo o staff que está envolvido na prova", justificou <START:PESSOA> Etienne Lavigne <END> , revelando que o Plano de Segurança Rodoviária que tinha sido criado para a última edição foi reformulado.
-<START:LOCAL> Lisboa <END> e <START:LOCAL> Portimão <END> deverão receber as primeiras especiais, estando ainda em estudo os percursos exactos para as duas etapas iniciais.
-"Estamos muito perto dos desenhos finais dos percursos.
-Não podemos tornar público, mas temos trabalhado intensamente nesse sentido.
-Não há muito para mud ar.
-Os padrões estão de tal maneira elevados que é difícil fazer melhor", afirmou <START:PESSOA> João Lagos <END> , empresário responsável pela parte portuguesa do <START:ACONTECIMENTO> Lisboa-Dakar <END> .
-De acordo com os números revelados <START:TEMPO> hoje <END> pela organização, na edição <START:TEMPO> 2007 <END> do rali mais de um milhão de pessoas assistiram à passagem por <START:LOCAL> Portugal <END> .
-" <START:TEMPO> Nestes últimos dois anos <END> , <START:LOCAL> Portugal <END> , <START:LOCAL> Lisboa <END> e <START:LOCAL> Portimão <END> deixaram uma marca muito forte no <START:ACONTECIMENTO> Dakar <END> .
-Foram <START:TEMPO> anos <END> fantásticos, com uma adesão fantástica e um ambiente extraordinário", sublinhou <START:PESSOA> João Lagos <END> .
+Bibliografia de Censurados
+Os Censurados nasceram em <START:LOCAL> Lisboa <END> " <START:TEMPO> no ano de 1988 <END> , pelo antigo vocalista da banda Ku de Judas, <START:PESSOA> João Ribas <END> , juntando-se-lhe <START:PESSOA> Orlando Cohen <END> , o ex-membro dos Peste &amp; Sida, <START:PESSOA> Samuel Palitos <END> e ainda <START:PESSOA> Fred Valsassina <END> .
+Os Censurados começaram por tocar ao vivo.
+Muito.
+As letras, em português, eram simples e directas, refrões fortes que traduziam o sentimento da juventude <START:TEMPO> da era Cavaquista <END> .
+O primeiro registo em vinil, na compilação "Feedback" incluiu os temas "Senhores Politicos", Não Vales Nada" e "Está a andar de Mota" (um instrumental).
+"Tu ò Bófia", "Não Vales Nada", "Angústia", "Senhores Politicos" eram temas fortíssimos que foram passando de cassete em cassete e eram entoados em coro nos concertos muito antes do lançamento do álbum "Censurados" <START:TEMPO> 1990 <END> .
+Este disco é um album histórico que foi aclamado pela mais importante fanzine dedicada ao Punk e Hardore "na altura, a Maximum Rockn'Roll( <START:LOCAL> EUA <END> ) apesar das letras em português, o que mostra a qualidade das composições e sobretudo das prestações dos músicos.
+<START:TEMPO> Em 1991 <END> editam o <START:VALOR> 2º <END>  album "Confusão" e passam <START:TEMPO> os anos seguintes <END> na estrada.
+<START:TEMPO> Em 1993 <END> sai o "Sopa" com o single de mesmo nome e uma participação de <START:PESSOA> Jorge Palma <END> na música "Estou agarrado a ti".
+<START:TEMPO> O ano de 1994 <END> é <START:TEMPO> o ano <END> da despedida, mas <START:TEMPO> antes <END> participam no tributo a <START:PESSOA> Zeca Afonso <END> , "Filhos da Madrugada" com a reedição do tema "O que faz falta".
+<START:TEMPO> Em 1998 <END> a editora " <START:ORGANIZACAO> El Tatu <END> " de <START:PESSOA> Tim <END> reedita os albuns "Censurados" e "Sopa".
+<START:TEMPO> Em 1999 <END> os Censurados reaparecem, para rejubilo dos fãns, participando no tributo de Xutos &amp; Pontapés, "XX Anos XX Bandas".
+Participaram na tourné de promoção desse disco com os Xutos, mas ao contrário do que se esperava os Censurados ficaram por aí, não voltando nunca mais.
+<START:TEMPO> Em 2006 <END> é lançado a biografia da banda, "Censurados Até Morrer", escrita por <START:PESSOA> Augusto Figueira <END> e <START:PESSOA> Renato Conteiro <END> .
 --DOCSTART--
-    
-TECNOLOGIA E TRADIÇÃO TRIBAL A SERVIÇO DA NATUREZA    
-<START:PESSOA> Deck Cowboy <END> (deckcowboy@riseup.net)    
-<START:LOCAL> NORDHOEK <END> , <START:LOCAL> África do Sul <END> - Com o olhar fixo na tela de seu laptop, <START:PESSOA> Louis Liebenberg <END> compara dois mapas da mesma região.
-Enquanto um deles está densamente preenchido por pontos amarelos, o outro está bem mais vazio.
-As marcas indicam avistamentos de gorilas das planícies registradas por rastreadores tribais antes e depois de um surto do vírus ebola no santuário de Lossi, na <START:LOCAL> República Federativa do Congo <END> .
-Usando o CyberTracker, um software com o qual os ecologistas podem registrar suas observações em campo usando computadores portáteis conectados a aparelhos de posicionamento global (GPS), os rastreadores puderam reunir dados que comprovam a degradação da população local da espécie.
-Inicialmente céticos, os cientistas <START:TEMPO> mais tarde <END> confirmaram suas constatações de que o vírus estava matando os gorilas e outros animais, e publicaram um artigo numa edição recente da revista Science.
-"Este é um exemplo incrível de como a coleta regular de dados pode nos ajudar", disse <START:PESSOA> Liebenberg <END> .
-Para ele, fundador sul-africano da <START:ORGANIZACAO> CyberTracker Conservation <END> , as constatações não apenas ilustram a capacidade do dispositivo de melhorar o monitoramento e a interpretação de ecossistemas, mas também comprovam que rastreadores analfabetos podem recolher informações com tanta eficiência quanto cientistas com Ph.D.
-O CyberTracker é apenas mais uma das modernas tecnologias atualmente à disposição dos ecologistas, que cada vez mais recorrem a ferramentas como análises de DNA e imagens de satélite para obter uma maior compreensão da natureza.
-<START:PESSOA> Liebenberg <END> teve a idéia de criar o sistema CyberTracker enquanto acompanhava caçadores bosquímanos no deserto do Kalahari.
-Fascinado desde pequeno pela arte tribal de seguir rastros, <START:PESSOA> Liebenberg <END> desenvolveu a teoria de que as atividades ancestrais de caça e coleta representam nada menos do que a própria origem da ciência.
-Rastrear um animal, argumenta o pesquisador, exige um processo de observação e confrontação de hipóteses muito semelhante ao método científico.
-O que <START:TEMPO> um dia <END> foi necessário à sobrevivência, no entanto, é <START:TEMPO> hoje <END> uma prática em extinção.
-Atualmente, <START:PESSOA> Liebenberg <END> afirma conhecer apenas seis caçadores tribais que usam suas habilidades para subsistência.
-A maioria dos jovens das tribos da região <START:TEMPO> hoje <END> freqüentam a escola - ao contrário de seus pais e avós, que eram analfabetos - mas raramente chegam a aprender as técnicas e o conhecimento de mundo necessários para caçar como as gerações anteriores.
-Se fosse possível encontrar um meio de colocar o conhecimento dos bosquímanos a serviço da preservação ambiental, tanto a natureza quanto as comunidades desse povo poderiam se beneficiar.
-<START:TEMPO> Em 1996 <END> , <START:PESSOA> Liebenberg <END> e o cientista da computação <START:PESSOA> Lindsey Steventon <END> lançaram o primeiro modelo do CyberTracker, com o objetivo de transformar o rastreamento tradicional numa profissão moderna.
-<START:TEMPO> No mesmo ano <END> , os rastreadores <START:PESSOA> Karel Benadie <END> e <START:PESSOA> James Minye <END> usaram o CyberTracker para estudar o rinoceronte negro, uma espécie ameaçada de extinção, no Parque Nacional de Karoo na <START:LOCAL> África do Sul <END> .
-Eles recolheram dados sobre os padrões de alimentação dos animais e sua vulnerabilidade à caça clandestina.
-<START:TEMPO> Em 1999 <END> , <START:PESSOA> Liebenberg <END> , <START:PESSOA> Steventon <END> e os dois rastreadores, que não possuem educação formal, publicaram um artigo na revista acadêmica Pachyderm.
-"Ao incluir os rastreadores em nossas atividades de monitoramento ambiental, estamos expandindo eficientemente a própria ciência", disse <START:PESSOA> Liebenberg <END> .
-Mas não são apenas os rastreadores tribais que usam o CyberTracker.
-Estudantes e observadores de aves também aproveitam as vantagens do sistema.
-Ele já foi usado até por equipes de cientistas em expedições no Ártico, no monitoramento de lobos no estado norte-americano de <START:LOCAL> Idaho <END> , da poluição dos rios na <START:LOCAL> Tanzânia <END> e do raríssimo rinoceronte de <START:LOCAL> Sumatra <END> , em <START:LOCAL> Bornéu <END> .
-O software pode ser personalizado, e é oferecido gratuitamente na Web.
-<START:VALOR> Cerca de 400 <END> projetos em <START:VALOR> 30 <END> países estão usando o sistema, afirma <START:PESSOA> Liebenberg <END> .
-O software consiste em uma série de camadas contendo menus baseados em figuras nos quais os pesquisadores registram suas observações.
-Eles selecionam ícones para representar as plantas e animais que observam, e para descrever seu comportamento e suas características.
-O GPS registra o local e a hora de cada observação.
-Rastreadores experientes normalmente podem identificar um único indivíduo de determinada espécie, ou pelo menos saber seu sexo, idade e estado de saúde, apenas observando suas pegadas.
-Com cada rastreador registrando <START:VALOR> até 300 <END> observações <START:TEMPO> por dia <END> , o dispositivo permite a coleta de quantidades imensas de informação, que pode ser analisada em mapas e bancos de dados quase imediatamente.
-"É aí que novos padrões vêm à tona: correlações entre espécies diferentes, características da paisagem e outros fatores que não poderiam ser descobertos de outra maneira", afirma <START:PESSOA> Jason Knight <END> , instrutor da <START:ORGANIZACAO> Wilderness Awareness School <END> em <START:LOCAL> Duvall <END> , <START:LOCAL> Washington <END> .
-No entanto, <START:PESSOA> Christina Eisenberg <END> , uma bióloga que estuda os lobos e trabalha para o <START:ORGANIZACAO> Serviço Americano de Vida Selvagem e Aquática <END> conta que parou de usar o sistema porque ele travava inesperadamente.
-"Perdi os dados <START:TEMPO> de um dia inteiro <END> de trabalho, depois de me embrenhar milhas e milhas sobre terreno acidentado mato adentro", lembra.
-"Não foi nada agradável".
-Vários projetos usando o CyberTracker em áreas de preservação da <START:LOCAL> África do Sul <END> também estão interrompidos, em parte devido ao preconceito contra rastreadores analfabetos e a falta de entusiasmo por parte dos administradores, diz <START:PESSOA> Liebenberg <END> .
-Mesmo assim, ele pretende desenvolver o CyberTracker, transformando-o num sistema para monitorar mudanças ambientais e compartilhar informações pelo mundo todo.
-"No momento, faltam cientistas para reunir informação em campo", disse.
-"Se pudermos contar com a ajuda das pessoas que vivem nesses lugares, poderemos, teoricamente, monitorar todo o ecossistema global.
-Fonte: Centro de Mídia Independente (www.midiaindependente.org).
-Link : Cybertracker (www.cybertracker.co.za).
---DOCSTART--
-    
- O <START:PESSOA> Pai Natal <END> , <START:PESSOA> Artur Jorge <END> e o <START:ORGANIZACAO> BCP <END>        
- O <START:ORGANIZACAO> Governo <END> russo proibiu uma campanha de uma cadeia de distribuição, que tinha por lema " O <START:PESSOA> Pai Natal <END> não existe ".
-O argumento é que tal ideia era nefasta para as criancinhas russas.
-Conclusão: o <START:ORGANIZACAO> Governo <END> russo acredita no Pai Natal e quer que as criancinhas também acreditem.
-<START:PESSOA> Artur Jorge <END> foi, entretanto, escolhido para seleccionador do Irão, equipa que se encontrava <START:TEMPO> há seis meses <END> sem treinador.
-Tendo em atenção o que se tem passado <START:TEMPO> nos últimos anos <END> na carreira do ex-treinador do FC Porto, que nunca termina os contratos e acaba sempre despedido com uma choruda indemnização, bem se pode dizer que a <START:ORGANIZACAO> Federação Iraniana de Futebol <END>  acredita no <START:PESSOA> Pai Natal <END> .
-E <START:PESSOA> Artur Jorge <END> também, claro.
-Por outro lado, a escolha do  presidente da <START:ORGANIZACAO> Caixa Geral de Depósitos <END> para presidir ao <START:ORGANIZACAO> BCP <END> só pode igualmente ser obra do <START:PESSOA> Pai Natal <END> .
-<START:PESSOA> Carlos Santos Ferreira <END> é visto como o homem que vai trazer a concórdia para um banco que não vive em paz há muito - mesmo que o vá fazer à custa do banco do <START:ORGANIZACAO> Estado <END> .
-Por isso, o ministro das Finanças , que autorizou esta mudança sem pestanejar, também deve acreditar no Pai Natal .
-Não lhe passa pela cabeça que <START:PESSOA> Santos Ferreira <END> , com o que sabe da <START:ORGANIZACAO> Caixa <END> , fique em excelente posição para ganhar quota de mercado ao banco público, que vai <START:TEMPO> este ano <END> dar <START:VALOR> mais de 800 milhões <END> de lucros, dos quais <START:VALOR> 400 milhões <END> vão direitinhos para os cofres do <START:ORGANIZACAO> Estado <END> a título de IRC .
-Se <START:PESSOA> Santos Ferreira <END> tiver sucesso no <START:ORGANIZACAO> BCP <END> , quem vai sofrer é a <START:ORGANIZACAO> Caixa <END> - e, por tabela, todos nós, contribuintes.
-Porque quanto menos o <START:ORGANIZACAO> Estado <END> receber de dividendos das empresas públicas, mais o <START:ORGANIZACAO> Estado <END> será tentado a vir buscar-nos dinheiro aos bolsos.
-Por outras palavras, os únicos que não têm razões para acreditar no Pai Natal são os contribuintes portugueses.
-<START:PESSOA> Nicolau Santos <END>      
 
-  --DOCSTART--
-
- <START:LOCAL> Lisboa <END> - <START:LOCAL> Dakar <END> : <START:PESSOA> Carlos Sousa <END> ambiciona pódio
-PILOTO PORTUGUÊS NÃO ESCONDE DESEJO E ELOGIA ORGANIZAÇÃO
-O piloto português <START:PESSOA> Carlos Sousa <END> revelou que tem "capacidade para chegar ao pódio" dos automóveis na edição <START:TEMPO> de 2008 <END> do  <START:LOCAL> Lisboa <END> - <START:LOCAL> Dakar <END> cujo percurso foi <START:TEMPO> hoje <END> apresentado em <START:LOCAL> Lisboa <END> .
-<START:PESSOA> Carlos Sousa <END> acredita que <START:TEMPO> este ano <END> o rali vai ser mais duro.
-"Vai ser um percurso para os mais resistentes.
-É mais difícil, mais exigente e as coisas entre os mais rápidos vão ser decididas ao segundo", afirmou o piloto da Lagos Team, que vai conduzir um Volkswagen Touareg idêntico aos de fábrica.
-Apesar de ambicionar um lugar nos três primeiros, o piloto sabe que a concorrência é apertada e que não vai ser fácil: "Há <START:VALOR> 15 ou mais <END> pilotos com hipóteses de chegar à vitória e ao pódio.
-As coisas vão ficar mais interessantes para quem vir o rali em casa ou pela Internet , mas para os pilotos vai ser uma luta <START:TEMPO> até ao último dia <END> ".
-O português, que nas últimas três edições foi sempre sétimo classificado, sofreu uma lesão cervical <START:TEMPO> em Setembro <END> .
-No entanto, já está a treinar a bom ritmo e garantiu que estará nas melhores condições <START:TEMPO> dentro de mês e meio <END> , quando começar o rali.
+São admitidos à candidatura à matrícula no curso de formação n.o 25 680/2000, publicado no Diário da República, 2.a série, 2.a série, especializada candidatos com o grau de licenciatura em Enfermagem, <START:TEMPO> de 15 de Dezembro de 2000 <END> , e na sequência do despacho de 22 de de acordo com de acordo com o Regulamento dos Cursos de Formação Especializada Novembro de 2004 da  reitora da <START:ORGANIZACAO> Universidade <END> de <START:LOCAL> Aveiro <END> , que aprovou a criação do curso de formação especializada em Enfermagem, deter- mino o seguinte: 7.o 1.o Frequência Criação O curso de formação especializada apenas poderá ser frequentado O curso de formação especializada em Enfermagem, de curta dura- em regime de tempo integral.
+ção, é criado de acordo com o Regulamento sobre a Criação de Cursos de Formação Especializada na Universidade de Aveiro.
+A criação deste curso de formação especializada pretende responder 8.o a necessidades de formação de carácter específico para licenciados em Enfermagem.
+A sua estrutura modular, estando orientada para Recursos necessários profissionais ou futuros profissionais que procuram formações com- A <START:ORGANIZACAO> Secção Autónoma de Ciências da Saúde <END> disponibilizará o corpo plementares específicas ou actualização de competências, permite uma docente necessário à leccionação deste curso, em articulação com gestão flexível do tempo compatível com percursos individuais de colaborações externas pontuais.
+formação.
+Os objectivos deste curso de formação especializada enquadram-se ainda nos objectivos da  <START:ORGANIZACAO> Universidade <END> de <START:LOCAL> Aveiro <END> para a formação pós- 9.o -graduada, proporcionando uma oferta formativa diversificada que Propinas responda a necessidades de formação contínua profissional para além da tradicional formação orientada para percursos académicos.
+As propinas mínimas correspondentes à frequência do curso de formação especializada serão fixadas <START:TEMPO> anualmente <END> , de acordo com o estipulado no artigo 15.o do Regulamento sobre a Criação de Cursos 2.o de Formação Especializada na Universidade de Aveiro, tendo em Organização curricular consideração os factores multiplicativos por área científica fixados pela  <START:ORGANIZACAO> Secção de Planeamento e Gestão <END> do <START:ORGANIZACAO> Senado <END> .
+O curso de formação especializada em Enfermagem, de curta dura- ção, corresponde à obtenção de um mínimo de quatro unidades <START:TEMPO> de 29 de Novembro de 2004 <END> .
+- A Vice-Reitora, <START:PESSOA> Isabel P. Martins <END> .
 --DOCSTART--
     
- « PolivalênciaVacas - Para o <START:ORGANIZACAO> BCE <END> somos vacas!!
-Para o <START:ORGANIZACAO> Banco Central Europeu <END> somos gado!!
-Os politicos comprados por <START:ORGANIZACAO> Bruxelas <END> gerem as manadas nacionais.
-Se somos mais caros do que produzimos, mais vale abater.
-Esta é a politica de saude deste admiravel mundo novo.
-- -    
- Fui <START:TEMPO> ontem <END> ( <START:TEMPO> terça <END> ) às urgencias pediátricas de cascais com a minmha filhiha de <START:VALOR> 4 anos <END> e ...        
- "Vai ter que voltar, porque só funciona <START:TEMPO> das 08h00 às 09h00 <END> "        
-Desculpem??
-Que M... é esta??!
-Que grande M... é esta??!
-Este é o país real, mas a situação é surreal.
-Não aconteceu com um amigo, conhecido, ou familiar.
-Aconteceu COMIGO!!
-Em primeira mão.
-Que é que eles querem?
-Vamos reagir eficaz e eficientemente.
-1º - Assinar a petição contra o desmembramento, só possivel pela cegueira provocada pela rentabilidade que enche os bolsos de alguns e lixa todos, dos cuidados INDISPENSAVEIS de saude em <START:LOCAL> Portugal <END> .
-Petição contra esta abominavel realidade    
- 2º - Arranjar uma petição de cidadãos a exigir a extinção do <START:ORGANIZACAO> BCE <END> .
-Quero lá saber se é impossível, retrógrado, ou excessivo.
-Eles que se cuidem.
-Tem que ser possível domesticá-los, e se não for, exterminá-los.
-Que se vão encher para outro planeta.
-Quem paga os ordenados exorbitantes que eles ganham?
-Nós!!
-Para quê!??
-Só que não somos gado.
-Somos cidadão e temos que nos saber fazer respeitar.
-Portanto, toca a fazer esta petição, para os por em sentido e sentirem cagufa no rabinho!
+ O Kuduro e nós.
+Teria mesmo algo a ver?
+Ku , palavra e não palavrão, parece vir do mais puro vernáculo do Kimbundo ( MataKu =nádegas, assento plural de ritaku), principal língua falada em <START:LOCAL> Luanda <END> , <START:LOCAL> Angola <END> (da qual falamos centenas de vocábulos, sem saber - inclusive Ku , certo?)
+O sentido figurado da palavra é, exatamente, o mesmo que usamos no <START:LOCAL> Brasil <END> : Bunda (palavra aliás, oriunda também do mesmo Kimbundo ), literalmente traduzida para o portugês também como nádegas.
+O sentido da expressão Kuduro poderá ser melhor explicado por um Angolano, mas, ao que tudo indica, significa o que parece: Kuduro = Bunda imóvel, sem rebolar, o que, considerando-se que um dos movimentos fundamentais da dança angolana é o sofisticado rebolado (dos homens inclusive), é muito significativo.
+Algo como uma dança diferente , supostamente 'moderna', no âmbito das danças tradicionais que, como já disse são, extremamente, rebolativas.
+Contudo, dança livre que é, no Kuduro também se pode rebolar, é claro, basta querer.
+Dito isto, o Kuduro , inserido no âmbito da cultura Hip Hop , é uma dança de rua (ou uma street dance, para quem gosta americanismos) Como todos os outros gêneros assemelhados, o Funk carioca e o Kwaito (da <START:LOCAL> África do Sul <END> ) é a resposta africana avassaladora influência da indústria cultural de massa capitalista, cujo eixo como se sabe, localiza-se, desde o fim da segunda guerra mundial, na América do Norte .
+Mas o Kuduro também é um símbolo dos mais fortes, <START:TEMPO> neste momento <END> , da enorme capacidade da resistência cultural das populações não-brancas, do <START:TEMPO> outrora <END> chamado Terceiro Mundo , diante da pressão globalizante, sinônimo evidente de aculturação.
+Kuduro Checkup    
+ No Kuduro angolano - e vejam vocês mesmos que coisa curiosa!
+- os passos do mix, da fusão com o break, são o mais puro e carioca dos Sambas .
+Incrível!
+Acreditem, mas, os Pupilos do Kuduro , e outros kuduristas , quando em conjunto, dançam, quase exatamente, o que a nossa Ala dos Malandrinhos dançava lá <START:TEMPO> naqueles bem passados anos 60 <END> .
+Os braços e as mãos dançam break, mas, da cintura para baixo, bundas e pernas dançam o mais desbragado dos Sambas .
+Pode?
+Teria sido aquela minha saudosa rapaziada de <START:LOCAL> Padre Miguel <END> a inventora do Kuduro ?
+Alguns pesquisadores tentam explicar a estrutura da base rítmica, da batida (beat) do Kuduro por meio de teorias moderninhas ou simplificações que insistem em preconizar a importância, ao nosso ver, exagerada, das tecnologias na criação e na evolução destas danças e gêneros musicais.
+Os reis da parada seriam portanto os equipamentos eletrônicos (como o já velho Sampler , por exemplo).
+Apenas uma opinião, mas, é preciso cuidado porque assim, por extensão, o papel do Mocinho poderia ser atribuído a sociedade neoliberal globalizada, ao Capitalismo em suma, e ao estupendo grau de desenvolvimento tecnológico que ele propicia.
+Besteira.
+Baita injustiça, sobretudo.
+Não há nada de novo nesta praia deserta, neste giro do prato de velha vitrola hi fi.
+O Sampler e sucedâneos são, neste contexto, apenas instrumentos musicais, meios, facilitadores de registro, meros suportes.
+Se disponíveis estiverem, ferramentas de cultura serão.
+Se não estiverem, outras ferramentas se inventarão.
+Aliás, o que um Sampler faz mesmo?
+Não muda nada.
+Copia.
+E haja periferia e miséria para samplear.
+A grande sacação (e isto vem desde que o mundo é mundo) é , portanto, a capacidade do homem de tirar leite das pedras, resistir sem esmorecer jamais, reinventando linguagens, recriando sempre a partir de dados do cotidiano, subvertendo referências e sentidos comunicativos, extraídos de seu passado mais remoto, cimentando os degraus do presente, sem ilusões de modernidades vãs ou de futuro radiante.
+Vírus no sistema.
+O Mocinho verdadeiro desta história- o anti herói - não é a sociedade,mas sim o homem.
+----------------------    
+Inside the Kuduro    
+(em português não ficaria melhor não)    
+ Senão vejamos: Em todos os gêneros citados (entre outros), a alma do negócio é um som de caixa e contratempo.
+É esta a célula rítmica base, a matriz, o DNA , sobre o qual se criará os sons que bem entendermos.
+Poderia ser um humano baterista lá no fundo, marcando a batida, mas, fica bem mais econômico usar um som gravado.
+No caso do Kuduro clássico (como ocorre com toda coqueluche pop, as distorções e deformações aparecem rapidamente), a batida copiada (sampleada) parece ser o que se chamava <START:TEMPO> nos anos 70 <END> , <START:TEMPO> 80 <END> de Kabetula , um ritmo muito popular em <START:LOCAL> Luanda <END> , semelhante ao Semba , do qual talvez seja uma variação (uma outra corrente afirma, contudo, que o Kuduro é uma variação do Kuzukuta , ritmo popular do carnaval angolano).
+Ficou tudo em casa, no entanto, porque ambos os ritmos (como a maior parte das danças de negro do <START:LOCAL> Brasil <END> ,  <START:TEMPO> desde, pelo menos, o século 19 <END> ), tipicamente urbanos que são, vieram, provavelmente, do Kaduke , espécie de Kuduro surgido na cidade de <START:LOCAL> Ambaça <END> ( <START:LOCAL> Mbaka <END> ), grande centro urbano e comercial (!)
+lá <START:TEMPO> pelos idos de 1880 <END> (veja Capello e Ivens ), <START:TEMPO> no tempo <END> da colonização portuguesa em <START:LOCAL> Angola <END>        
+ Este Kaduke , talvez tenha gerado, a partir do mesmo processo, no <START:LOCAL> Brasil <END> colonial, o Kalundu que, mesclado à danças européias como a Polka e a Mazurka (espécies de danças de periferia brancas, populares na Europa   central), deram numa dança popularíssima na Corte brasileira (um Kuduro colonial) chamada de Lundu .
+Pois não é que o Kaduke , o Kalundu e talvez até mesmo o Jongo formaram talvez, a base principal - coreográfica e musical- do que conhecemos vulgarmente <START:TEMPO> hoje <END> no <START:LOCAL> Brasil <END> como Samba ?
+Viram só?
+Kuduro e Samba : Tudo a ver.
+Fenômeno recorrente, efetivamente, existem manifestações como o Kuduro em todas as periferias do mundo.
+Decupando a estrutura de todas elas, especialmente no que diz respeito à coreografia, encontraremos, quase que invariavelmente, a seguinte composição: Passos e gestos de Break Dance , fundidos a movimentos de uma ou mais danças tradicionais, tribais mesmo em muitos casos, existentes na cultura local.
+Alguém já parou para pensar que na violenta e exuberante expressão coreográfica de uma multidão de jovens favelados do <START:LOCAL> Rio <END> , muitos deles portando fuzis automáticos como se fossem lanças, existem passos completamente estranhos ao novaiorquino repertório de movimentos de break original, de, entre outros, <START:PESSOA> James Brown <END> e <START:PESSOA> Michael Jackson <END> ?
+Há break sim, mas, um pouquinho só.
+Há desconjuntamento de braços e punhos, movimentos robóticos, como imagens de luz negra intermitente, mas, o que será que significam os outros passos?
+Ora, é evidente que, olhando detidamente os movimentos de dança deste Funk Carioca , iremos encontrar a mesma filosofia coreográfica do Kuduro , em nosso caso, representada por passos de umbanda e candomblé (ritmos aliás, <START:TEMPO> hoje <END> banidos de algumas favelas cariocas, dominadas pela cultura ditatorial-evangélica das milícias).
+Assim como na <START:LOCAL> África <END> e no <START:LOCAL> Brasil <END> , na <START:LOCAL> Índia <END> , no <START:LOCAL> Afeganistão <END> , na <START:LOCAL> Indonésia <END> , a fórmula beat futurista somado à tradição, se repetirá.
+Uma lógica planetária, uma espécie de cultura global periférica se estabelecerá.
+Para nós brasileiros, por exemplo, o Kuduro pode vir a representar a feliz descoberta de que, embora alguns anseiem, desesperadamente, pelo nosso ingresso no clube dos brancos países desenvolvidos, fazemos parte sim - e disto muito devemos nos orgulhar- do universo paralelo da mais complexa, viva, diversificada e pujante Periferia .
+Como, facilmente, se pode notar, o mundo roda enquanto a cultura das periferias gira, circula, como um bambolê.
+Somos do Overmundo , o pá!
+O Bicho, o vírus da maçã.
+Y love you <START:LOCAL> Angola <END> !
+(Em tempo: Em terra de cego, quem tem um olho, infelizmente é...
+caolho.)
 --DOCSTART--
     
- FAZER A FESTA, LANÇAR OS FOGUETES E APANHAR AS CANAS: Ao que parece, <START:PESSOA> Paulo Pinto Mascarenhas <END> tem a convicção firme de que certa personagem que interpretei está a falar com ele.
-A generalidade dos malucos ouve a voz de <START:PESSOA> Jesus Cristo <END> ; <START:PESSOA> PPM <END> ouve a minha.
-Enfim, cada um tem a <START:PESSOA> Alexandra Solnado <END> que merece  e, mesmo sendo ateu, parece-me mais do que justo que eu tenha pior sorte que o <START:PESSOA> Messias <END> .
-Talvez seja bom explicar o que se passa.
-O povo português tem tido, até agora, a decência de não delegar em <START:PESSOA> PPM <END> qualquer espécie de poder.
-Mas a verdade é que o povo português não tem sido tão sensato no que respeita a outras pessoas.
-Eu sei que esta notícia vai cair como uma bomba no 31 da Armada , mas há gente um pouco mais poderosa do que o <START:PESSOA> PPM <END> .
-É uma coisa muito ligeira, mas tem, de facto, um bocadinho mais de poder.
-E essa gente, quando se sente atingida, ou quando sente que os amigos foram atingidos (mesmo que seja por uma rábula humorística), pressiona, corta relações com a estação de televisão em que a rábula foi emitida, manda recados com ameaças, faz saber que ficará à espera de uma oportunidade para nos fazer, digamos, coisas bonitas (sempre que posso, uso expressões de <START:PESSOA> Artur Jorge <END> ).
-É isso que tem acontecido desde que o Diz Que É Uma Espécie de Magazine começou e foi o que aconteceu agora, de forma bastante mais intensa, na sequência do sketch sobre <START:PESSOA> Marcelo Rebelo de Sousa <END> .
-<START:TEMPO> Em tempos <END> , o <START:PESSOA> Herman <END> disse-me que o pequeno poder (e, <START:TEMPO> às vezes <END> , não tão pequeno como isso) sabe encontrar maneiras de pressionar no sentido de fazer censura sem sujar as mãos, de ameaçar sem poder ser denunciado, de intimidar sem aparecer.
-<START:TEMPO> Na semana passada <END> percebi isso melhor do que gostaria, e dei-lhe razão.
-Decidimos fazer uma rábula sobre esta espécie dissimulada de censura.
-<START:TEMPO> Ontem <END> , uma jornalista do <START:ORGANIZACAO> DN <END> perguntou-me se tínhamos sido pressionados pela <START:ORGANIZACAO> RTP <END> e pelo <START:ORGANIZACAO> Provedor do Espectador <END> .
-Respondi que não, e não menti.
-Da <START:ORGANIZACAO> RTP <END> e do <START:ORGANIZACAO> Provedor do Espectador <END> , não veio qualquer espécie de pressão.
-Quem sobra?
-No entender do <START:PESSOA> PPM <END> , sobra ele e um post que escreveu no 31 da Armada .
-Fizemos uma rábula para um milhão e meio de espectadores por causa de um post do <START:PESSOA> PPM <END> no 31 da Armada .
-Mandei uma mensagem ao <START:PESSOA> Herman <END> a dar-lhe razão por causa de um post do <START:PESSOA> PPM <END> no 31 da Armada .
-E dei-lhe razão porque, como é óbvio, foi para isso que ele me advertiu.
-«Põe-te com brincadeiras e vais ver que, <START:TEMPO> um dia destes <END> , o <START:PESSOA> PPM <END> faz um post sobre ti no 31 da Armada », foram as palavras exactas dele.
-«Tinha razão, <START:PESSOA> Herman <END> », disse-lhe eu agora.
-Há, no meio disto tudo, um pormenor que pode intrigar o leitor.
-Se eu já interpretei tantas personagens apalermadas e de discurso incoerente, porque é que o <START:PESSOA> PPM <END> só se sentiu retratado agora?
-Boa pergunta, leitor.
-Vagamente insultuosa, mas boa.
-Eu respondo: por duas razões.
-Primeiro, porque quando eu disse que a <START:ORGANIZACAO> RTP <END> e o <START:ORGANIZACAO> Provedor <END> não nos tinham pressionado, a jornalista tirou conclusões que não são as minhas.
-Segundo, porque a crítica do <START:PESSOA> PPM <END> segue, digamos, a mesma matriz ideológica que o pequeno poder (e, <START:TEMPO> às vezes <END> , não tão pequeno como isso) perfilha.
-Aliás, a crítica do <START:PESSOA> PPM <END> não é nova, nem é só dele.
-Já tinha sido usada para pedir a nossa imparcialidade em relação a <START:PESSOA> Salazar <END> e <START:PESSOA> Cunhal <END> .
-Ou em relação a <START:PESSOA> Pinto da Costa <END> e <START:PESSOA> Luís Filipe Vieira <END> .
-Ou em relação à Floribella e à Doce Fugitiva .
-Mas dizem-me que é intelectualmente desonesto falar nisto.
-Parece que o que é intelectualmente honesto é dizer que um programa humorístico de sátira social e política deve ser imparcial (argumento espantoso).
-Ou dizer que criticar o <START:PESSOA> prof. Marcelo <END> é fazer campanha pelo Sim .
-O próprio <START:PESSOA> prof. Marcelo <END> diz que foi criticado por muitos defensores do Não o que só pode significar que, pelos vistos, há gente do Não a fazer campanha pelo Sim .
-<START:PESSOA> PPM <END> , referindo-se ao sketch sobre o <START:PESSOA> prof. Marcelo <END> , diz que, «em plena campanha eleitoral» quisemos ´ridicularizar os argumentos de um dos lados em confronto no referendo».
-Primeiro, o <START:PESSOA> prof. Marcelo <END> não representa o Não .
-Ele mesmo, aliás, afirma que há vários Nãos .
-Segundo, a nossa rábula sobre o <START:PESSOA> prof. Marcelo <END> foi transmitida <START:TEMPO> no domingo, dia 28 de Janeiro <END> .
-A campanha começou <START:TEMPO> na terça-feira, dia 30 <END> .
-Dizer que fizemos o sketch «em plena campanha eleitoral» é, portanto, uma... Bom, parece-me que não há maneira delicada de o dizer: é mentira.
-Não posso deixar de fazer referência às últimas palavras de <START:PESSOA> PPM <END> , que me parecem interessantes: « <START:PESSOA> Ricardo Araújo Pereira <END> pode dizer que não me conhece de lado nenhum, como disse ao 24 Horas .
-Pode, mas estará a faltar à verdade se o repetir em relação ao <START:PESSOA> Rodrigo Moita de Deus <END> .» Quero agradecer, penhorado, que <START:PESSOA> PPM <END> me autorize a dizer o que eu disse.
-Já é mais do que costuma fazer, e registo a evolução democrática.
-Agradeço ainda mais que me ponha de sobreaviso em relação à veracidade do que eu não disse mas, por uma razão que <START:TEMPO> neste momento <END> me escapa, poderei vir a dizer.
-Uma nota final: estou muito habituado às críticas do <START:PESSOA> PPM <END> , que têm, aliás, sempre o mesmo sentido.
-Normalmente, comento-as aqui mesmo.
-Na televisão e na imprensa, costumo satirizar gente que a generalidade do público conhece, e que diz coisas ridículas.
-Enquanto o <START:PESSOA> PPM <END> continuar a preencher apenas um destes requisitos, pela minha parte também continuarei a responder-lhe apenas aqui no blog.
-Por isso, e para evitar confusões futuras, gostava de sublinhar o seguinte: se, <START:TEMPO> um dia <END> , eu interpretar uma personagem megalómana, moralista e que mente para fazer valer os seus argumentos, o mais provável é que eu não esteja a satirizar o <START:PESSOA> PPM <END> .
-Há mais Marias na Terra .
-<START:PESSOA> RAP <END>      
-
-  --DOCSTART--
-    
-Superflex lança cerveja "pública"    
-<START:TEMPO> 29 de Novembro de 2007 <END>    
-Matéria publicada originalmente na Folha online    
-<START:PESSOA> FABIO CYPRIANO <END> DA    
-REPORTAGEM LOCAL    
-Uma nova marca de cerveja é lançada, <START:TEMPO> hoje <END> , na galeria <START:LOCAL> Vermelho <END> : a Free Beer.
-Entretanto, ao contrário das marcas tradicionais, que tratam como segredo de Estado a receita de suas bebidas, no próprio rótulo da Free Beer está estampada sua receita.
-A Free Beer é a nova ação do coletivo dinamarquês Superflex, composto por <START:PESSOA> Bjornstjerne Reuter Christiansen <END> , <START:PESSOA> Jakob Fenger <END> e <START:PESSOA> Rasmus Nielsen <END> .
-<START:TEMPO> No ano passado <END> , o grupo trouxe polêmica à  <START:ACONTECIMENTO> 27ª Bienal <END> de <START:LOCAL> São Paulo <END> com o Guaraná Power, censurado pela presidência da instituição, que afirmou que não se tratava de uma obra de arte.
-Apesar do veto, o Guaraná Power, feito em colaboração com a <START:ORGANIZACAO> Cooperativa de Agricultores da Região de Maués <END> , na <START:LOCAL> Amazônia <END> , chegou a ser distribuído em museus e na própria <START:LOCAL> Vermelho <END> , durante a <START:ACONTECIMENTO> Bienal <END> .
-"Agora estamos propondo uma marca aberta e, nesse sentido, sugerimos um novo modelo econômico, que permite a qualquer um produzir e distribuir cerveja, a partir de uma receita que é pública, além de criar consumidores não obedientes, como gosta o mercado", conta <START:PESSOA> Fenger <END> .
-"Free software"    
-A Free Beer surgiu <START:TEMPO> em 2004 <END> , numa parceria com estudantes da  <START:ORGANIZACAO> Universidade <END> de <START:LOCAL> Copenhague <END> .
-"Buscamos transferir os princípios do software livre para algo físico, e a cerveja se tornou um bom exemplo", conta <START:PESSOA> Nielsen <END> .
-"Por isso, a Free Beer tem sido comparada ao Linux [sistema operacional gratuito] e à Wikipedia", diz o artista.
-Quem quiser produzir e comercializar a Free Beer pode baixar do site www.freebeer.org a logomarca da cerveja, de forma gratuita.
-"Já há Free Beer sendo produzida na <START:LOCAL> Inglaterra <END> , nos <START:LOCAL> Estados Unidos <END> , na <START:LOCAL> Dinamarca <END> e até na <START:LOCAL> República Tcheca <END> ", afirma <START:PESSOA> Fenger <END> .
-No <START:LOCAL> Brasil <END> , a Free Beer está sendo produzida pela <START:ORGANIZACAO> Cervejaria Germânia <END> , que irá comercializar a bebida durante a exposição a partir da versão 3.4, desenvolvida pela empresa.
-"A única coisa que pedimos é que cada nova versão seja também tornada pública no site do <START:ORGANIZACAO> Creative Commons <END> ", diz <START:PESSOA> Christiansen <END> .
-Na <START:LOCAL> Vermelho <END> , o Superflex apresenta o "Free Beer Kit", uma mesa com todos os ingredientes e instrumentos necessários para a produção da cerveja, o que será utilizado, aliás, no workshop " <START:ACONTECIMENTO> O Mundo da Cerveja <END> ", com os especialistas <START:PESSOA> Cilene Saorin <END> e <START:PESSOA> Arnaldo Ribeiro <END> , <START:TEMPO> no próximo dia 15 de dezembro <END> , <START:TEMPO> às 14 h <END> .
-O grupo exibe também nove máquinas "Counter-Game Strategies" (estratégias de contra-jogos), típicos brinquedos de quermesse, como jogo de argolas ou rodas giratórias, que, contudo, abordam de forma irônica o universo dos direitos autorais e da pirataria.
-" <START:PESSOA> Mark Getty <END> afirma que "a propriedade intelectual é o petróleo <START:TEMPO> do século 21 <END> '", conta <START:PESSOA> Christiansen <END> , "portanto, estamos tratando de um tema muito sério.
-Afinal, quantas guerras não foram realizadas por conta do petróleo?".
-<START:TEMPO> No próximo sábado <END> , <START:TEMPO> às 16h <END> , <START:PESSOA> Ronaldo Lemos <END> ,  diretor do <START:ORGANIZACAO> Creative Commons <END> no <START:LOCAL> Brasil <END> , irá participar de um debate com os membros do Superflex, na <START:LOCAL> Vermelho <END> , e logo após será realizada uma gincana intitulada "Free Beer Pub Quiz", na qual participantes receberão prêmios ao responderem questões sobre propriedade intelectual e direitos autorais.
---DOCSTART--
-    
- A desforra de <START:ORGANIZACAO> Granada <END>        
- <START:ORGANIZACAO> Granada <END> não enfrentou os Reis Católicos por razões de fé ou de religião.
-Pelo contrário, na corte de <START:PESSOA> Boabdil <END> conviviam muçulmanos, cristãos e judeus, e dessa convivência se fez a que era então, talvez, a mais brilhante civilização do seu tempo, no domínio da arquitectura, da física, da medicina, da matemática, da astrologia.
-Mas <START:LOCAL> Granada <END> foi sitiada e conquistada por isso mesmo e também pelo território e pela beleza demasiadamente humana do <START:LOCAL> Alhambra <END> .
-Quando <START:ORGANIZACAO> Granada <END> caiu e a reconquista cristã se impôs então a toda a Península , os dois reinos católicos, Portugal e Espanha , partiram à conquista do mundo e tornaram-se  Impérios  marítimos; do Novo Mundo e África ao extremo da Ásia .
-Inversamente, quando os vencidos de Granada se retiraram para lá do Estreito , de onde tinham vindo <START:TEMPO> séculos antes <END> , nunca mais a civilização árabe e muçulmana recuperou sombra sequer do seu antigo esplendor e liderança.
-Por isso é que <START:TEMPO> o ano de 1492 <END> (também o da descoberta da América , por <START:PESSOA> Colombo <END> ) é um marco da história universal e um símbolo de derrota e descalabro que nunca mais foi esquecido e ultrapassado pelos crentes muçulmanos.
-Por mais inverosímil que nos possa parecer, <START:TEMPO> mais de cinco séculos passados <END>     e <START:TEMPO> quase quarenta anos depois <END>  do homem ter ido à lua, estamos perante uma nova guerra religiosa global, que é também uma guerra de civilizações.
-Quem disser que ela não existe, ou é ignorante ou diplomata --- em qualquer dos casos, perigoso <START:TEMPO> para os tempos <END> que correm.
-Estamos perante uma espécie de Cruzadas ao contrário, que o <START:ORGANIZACAO> Islão <END> lançou contra os «não crentes» --- sejam judeus, cristãos ou ateus.
-As <START:ACONTECIMENTO> Twin Towers <END> , o metro de   <START:LOCAL> Londres <END> , a estação de   <START:LOCAL> Atocha <END>   em   <START:LOCAL> Madrid <END> ou a histeria lançada contra os cartonistas dinamarqueses e contra a <START:ORGANIZACAO> Dinamarca <END> , são formas modernas de cruzadas travadas em nome de <START:PESSOA> Alá <END> (o <START:PESSOA> Misericordioso <END> ...) contra os valores em que nós, no Ocidente , acreditamos.
-<START:TEMPO> Cinco séculos passados <END> , o Islão tira a sua desforra de Granada , através das suas duas únicas e demolidoras armas: o petróleo e o terror.
-Sim, eu sei: não é --- julga-se --- todo o Islão .
-Mas é o que conta, o que lidera os crentes, o que se escuta na rua e nos jornais, o que doutrina os terroristas, o que prepara a arma nuclear.
-Em todo o mundo muçulmano houve apenas um jornal, na <START:LOCAL> Jordânia <END> , que ousou escrever que pior que as caricaturas «blasfemas» para o Islão eram os terroristas blasfemos.
-Mas <START:TEMPO> no dia seguinte <END> o jornal pediu desculpas pelo que escrevera e o director foi despedido.
-É verdade também que a rua é incendiada a mando da <START:ORGANIZACAO> Síria <END> , do <START:ORGANIZACAO> Irão <END> ou da <START:ORGANIZACAO> Al-Qaeda <END> , e que há sempre uns palestinianos desocupados para dispararem rajadas de metralhadora para o ar com cara feroz e multidões em estado de histeria induzida, para queimar <START:LOCAL> Embaixadas <END> e bandeiras e ameaçar de morte todos os ocidentais a vista.
-É possível até que o grosso dos muçulmanos não pense assim, que não acredite numa leitura literal e medieval do Corão e que não se reveja na intolerância nem no terror em nome de <START:PESSOA> Deus <END> que o clero radical ensina nas escolas corânicas e prega nas mesquitas.
-Mas, se assim é, não os escutamos porque eles têm medo: o terror começa dentro dos seus próprios países e sociedades.
-O medo é a outra face de uma moeda chamada liberdade.
-Onde não há liberdade, há medo; onde há medo, não há liberdade.
-É justamente isso que <START:TEMPO> hoje <END> nos distingue do Islão : nós temos a liberdade, eles têm o medo como sistema endémico de vida e como arma de arremesso contra «os infiéis».
+ Por que não lançar foguetões de água e aprender a fazer relógios de Sol  ?
+:: <START:TEMPO> 2007-12-13 <END>        
+ Telescópios, brinquedos, livros, um simulador de voo, sessões de observação do sol e do céu nocturno e foguetões de água vão estar, <START:TEMPO> entre sexta-feira e domingo <END> , em <START:LOCAL> Cascais <END> , à disposição dos visitantes da <START:ACONTECIMENTO> FASCINIO - Feira de Astronomia e Ciência <END> .
+Organizada pelo <START:ORGANIZACAO> Núcleo Interactivo de Astronomia <END> ( <START:ORGANIZACAO> NUCLIO <END> ) no  <START:LOCAL> Centro de Interpretação Ambiental <END> da <START:LOCAL> Ponta do Sal <END> , em <START:LOCAL> São Pedro do Estoril <END> , a quarta edição da iniciativa inclui sessões de observação do sol e do céu nocturno, oficinas de astronomia, lançamentos de foguetões de água, palestras e uma "procura de asteróides", actividade que a instituição promove <START:TEMPO> regularmente <END> nas escolas do concelho.
+"A feira destina-se ao público em geral, embora o programa <START:TEMPO> de sexta-feira <END> esteja muito pensado para as escolas, com actividades para os primeiros ciclos, e <START:TEMPO> sábado <END> tenha actividades para os professores, com uma pequena mostra das actividades do <START:ORGANIZACAO> NUCLIO <END> ", disse à Agência Lusa a astrónoma <START:PESSOA> Rosa Doran <END> .        
+ "
+<START:TEMPO> Sexta-feira <END> estão previstas actividades para as escolas, a que chamámos 'sexta-feira divertida', dedicadas ao conhecimento das estrelas e constelações e ainda observação do Sol com Telescópios  e construir enfeites  <START:TEMPO> de Natal <END>  com motivos de astronomia", acrescentou.
+<START:TEMPO> No sábado <END> o programa prevê observação de supernovas e do Sol e apresentação a professores do projecto ' Hands-On Universe ', que pretende uma nova abordagem no ensino e aprendizagem da astronomia, recorrendo a ferramentas interactivas que podem, por exemplo, passar pela utilização de tempo de observação em telescópios profissionais nas salas de aulas e tratamento de imagens num software especialmente desenvolvido para o efeito.
+Sol para Todos    
+ Haverá observação nocturna do céu com telescópios e será ainda apresentado o programa do  <START:ORGANIZACAO> Observatório Astronómico <END> da <START:ORGANIZACAO> Universidade <END> de <START:LOCAL> Coimbra <END>  " Sol para Todos ".
+"O    <START:ORGANIZACAO> Observatório <END>   de   <START:LOCAL> Coimbra <END>  tem um grande acervo de imagens do Sol , que registam <START:TEMPO> diariamente <END> <START:TEMPO> desde os anos vinte do século passado <END> , e estão a digitalizar essas imagens para que possam estar à disposição das escolas", explica <START:PESSOA> Rosa Doran <END> , realçando que desta forma "os meninos podem fazer ciência na própria sala de aula, podem ver a evolução das manchas do sol <START:TEMPO> nas últimas décadas <END> e comparar essa evolução, por exemplo, com as mudanças do clima".
+Segundo a responsável, um dos principais objectivos da <START:ACONTECIMENTO> FASCINIO <END> é dar também a conhecer a oferta existente na área e valorizar o trabalho dos profissionais portugueses, "muito ligados" à investigação de vanguarda e pouco reconhecidos pelo grande público.
 [...]    
- E é pelo medo, também, que eles esperam ganhar esta batalha contra o <START:ORGANIZACAO> Ocidente <END> , destruindo o nosso amor à liberdade.
-Esperam que, aos poucos, sejamos obrigados a chegar ao ponto crucial em que a escolha terá de ser entre a vida ou o nosso modo de vida --- a liberdade, a democracia, a tolerância.
-Sem que isso possa representar qualquer desculpa para os autores materiais, as escutas telefónicas indiscriminadas, as prisões preventivas sem advogado, os interrogatórios secretos em prisões clandestinas, as leis de excepção, a tortura e Guantanamo , tudo isso, tem a autoria moral dos radicais islâmicos e obedece a um plano concertado de implosão das democracias.
-É preciso ser muito forte, e preciso perceber, como <START:TEMPO> em 1939 <END> , que a liberdade é o mais absoluto dos nossos bens e o maior valor da nossa cultura e modo de vida, para ser capaz de lhes resistir.
-Mas é essencial resistir, porque a alternativa é o regresso à Idade Media e a barbárie.
-É por isso que o gesto dos <START:ORGANIZACAO> Comuns <END> , rejeitando a legislação de segurança interna proposta por <START:PESSOA> Tony Blair <END> , porque ela violava direitos e princípios em que se funda a democracia inglesa, é, apesar das consequências daí resultantes, o sinal de uma grande nação que não se rende nem ajoelha.
-Infelizmente, não foi o nosso caso.
-Pela mão do <START:PESSOA> ministro Freitas do Amaral <END> , e sem necessidade alguma, <START:ORGANIZACAO> Portugal <END> foi enxovalhado, coberto de vergonha e de cobardia, por um dos mais tristes textos políticos que já alguém escreveu.
-Devo dizer que não me espanta por ai além: a nossa «diplomacia» não tem feito mais nada  <START:TEMPO> nos últimos 25 anos <END>  que não rastejar perante os poderosos, em cada cena e em cada tempo: <START:ORGANIZACAO> Angola <END> , <START:ORGANIZACAO> Indonésia <END> (com a notável excepção de <START:PESSOA> Guterres <END> e <START:PESSOA> Sampaio <END> ), <START:ORGANIZACAO> Estados Unidos <END> e, agora, perante os países islâmicos.
-[...]        
- <START:PESSOA> Miguel Sousa Tavares <END> -     Jornal "Expresso"    - 11.02.2006       
+A Nossa Galáxia    
+ O <START:ORGANIZACAO> NUCLIO <END> vai por isso assinar <START:TEMPO> sábado <END> um protocolo com a  <START:ORGANIZACAO> Câmara Municipal <END> de <START:LOCAL> Cascais <END> para que o <START:LOCAL> Centro de Interpretação Ambiental <END> seja disponibilizado para as suas actividades junto da comunidade escolar.
+De acordo com o documento, a autarquia irá ainda apoiar a formação agendada <START:TEMPO> para o presente ano lectivo <END> com vinte mil euros .
+Durante a feira será também apresentado o livro de divulgação científica " Passeio Aleatório pela ciência do dia-a-dia ", com a presença do autor <START:PESSOA> Nuno Crespo <END> .
+Ainda <START:TEMPO> no sábado <END> , a investigadora do  <START:ORGANIZACAO> Centro de Astronomia <END>   da   <START:ORGANIZACAO> Universidade <END> do <START:LOCAL> Porto <END> <START:PESSOA> Catarina Lobo <END> , que estuda enxames de galáxias, vai explicar ao público em geral que tipo de galáxia é a nossa, como se formam e como evoluem na palestra " <START:ACONTECIMENTO> A nossa Galáxia e as outras: Ilhas no Universo <END> ".
+<START:TEMPO> No domingo <END> está previsto que o público em geral possa participar no lançamento de foguetões de água e em <START:ACONTECIMENTO> Oficinas de Astronomia <END> , com a construção de Relógios de Sol  , Espectroscópios  , Astrolábios  , Planisférios  e outros materiais de observação.
+A iniciativa termina com uma palestra por <START:PESSOA> João Fernandes <END> , o coordenador nacional <START:TEMPO> do ano internacional <END> da astronomia, que se assinala <START:TEMPO> em 2009 <END> .
+--DOCSTART--
 
-  --DOCSTART--
-    
- <START:PESSOA> Pêro da Covilhã <END>         
- <START:PESSOA> Pedro <END> ou <START:PESSOA> Pêro da Covilhã <END>  ( <START:LOCAL> Covilhã <END> ?, <START:TEMPO> 1450? --- 1530? <END> ) foi um diplomata e explorador português.
-Com <START:VALOR> cerca de 18 anos <END> cativa um espanhol que visitava a <START:LOCAL> Covilhã <END> para comprar tecidos que o convida a servir o seu amo, <START:PESSOA> D. Juan de Guzman <END> , irmão do   Duque de Medina-Sidónia , um dos mais conceituados fidalgos de <START:LOCAL> Sevilha <END> ; <START:PESSOA> Pêro <END> aceita a proposta e parte para <START:LOCAL> Sevilha <END> onde lhe é atribuído o papel de espadachim.
-Impressionado com a desenvoltura de <START:PESSOA> Pêro de Covilhã <END>  , convida-o <START:PESSOA> D. Juan de Gusman <END> a participar nas embarcações do seu irmão, o Duque conhecido também como o Pirata Espanhol ; <START:PESSOA> Pêro <END> recusa a oferta e, <START:TEMPO> em 1474 <END> , acompanha <START:PESSOA> D. Juan <END> a <START:LOCAL> Lisboa <END> a uma entrevista com    <START:PESSOA> Afonso V <END>   de   <START:LOCAL> Portugal <END>  .
-<START:PESSOA> D. Afonso <END> simpatiza com <START:PESSOA> Pêro <END> também pelo seu domínio de línguas, nomeadamente a língua árabe e <START:PESSOA> D. Juan <END> cede a el-Rei os serviços do português.
-É assim que <START:PESSOA> Pêro da Covilhã <END> , aos seus <START:VALOR> 24 anos <END> , é admitido como moço de esporas de <START:PESSOA> D. Afonso V <END> .
-<START:TEMPO> Passado pouco tempo <END> , decide el-Rei elevá-lo a escudeiro, com direito a armas e cavalo.
-<START:TEMPO> Em 1476 <END> acompanha <START:PESSOA> D. Afonso V <END> na batalha de Toro, a tentativa fracassada de <START:PESSOA> D. João <END> de reclamar o trono de <START:LOCAL> Castela <END> , já que era cunhado de    <START:PESSOA> Henrique IV <END>   de   <START:LOCAL> Castela <END>  .
-<START:TEMPO> Mais tarde <END> , em iria acompanhar <START:PESSOA> D. Afonso <END> na jornada a <START:LOCAL> França <END> para pedir auxílio ao    <START:PESSOA> rei Luís XI <END>   de   <START:LOCAL> França <END>  na luta pelo trono de <START:LOCAL> Castela <END> , que seria rejeitado.
-Entretanto, <START:PESSOA> D. Afonso <END> abdica do trono, para <START:PESSOA> D. João II <END> .
-Após a execução do   Duque de Bragança pelas próprias mãos do rei, <START:PESSOA> Pêro da Covilhã <END>  foi designado para investigar quais os nobres que conspiravam contra <START:PESSOA> D. João II <END> , conseguindo identificar o <START:PESSOA> D. Diogo <END> ,   duque de Viseu e <START:PESSOA> D. Garcia de Meneses <END> ,  bispo de   <START:LOCAL> Évora <END>  .
-Na sequência do desejo de el-Rei continuar a obra iniciada pelo   <START:PESSOA> infante D. Henrique <END> dos Descobrimentos , escolhe novamente <START:PESSOA> Pêro da Covilhã <END>  para embaixador nos tratados de paz com os berberes do Magrebe (como o  rei de   <START:LOCAL> Fez <END>  e o de <START:LOCAL> Tremecém <END> ), que convinham ao reino para convergir os esforços na odisseia marítima.
-<START:PESSOA> Pêro da Covilhã <END> torna-se, entretanto, escudeiro da guarda real e casa com <START:PESSOA> Catarina <END> que <START:TEMPO> em poucos meses <END> engravida.
+Tabaco: <START:ORGANIZACAO> Associação <END> lamenta exemplo de  presidente da <START:ORGANIZACAO> ASAE <END>
+O  presidente da <START:ORGANIZACAO> Confederação Portuguesa para a Prevenção do Tabagismo <END> ( <START:ORGANIZACAO> CPPT <END> ) considerou <START:TEMPO> hoje <END> «um exemplo lamentável» o facto de o  presidente da <START:ORGANIZACAO> Confederação Portuguesa para a Prevenção do Tabagismo <END> ter sido fotografado a fumar num casino depois da entrada em vigor da lei do Tabaco.
+<START:PESSOA> António Nunes <END> ,  presidente da <START:ORGANIZACAO> Autoridade de Segurança Alimentar e Económica <END> ( <START:ORGANIZACAO> ASAE <END> ), uma das entidades que irá fiscalizar a aplicação da lei que proibe o fumo em espaços fechados de utilização pública, foi fotografado pelo Diário de Notícias (DN) a fumar uma cigarrilha no  <START:LOCAL> Casino <END> do <START:LOCAL> Estoril <END> <START:TEMPO> às 02.30 da manhã <END> <START:TEMPO> do dia 01 de Janeiro <END> .
+Em explicações ao <START:ORGANIZACAO> DN <END> , <START:PESSOA> António Nunes <END> considerou que a nova lei «não proíbe expressamente o tabaco nos casinos e nas salas de jogos», justificando com a existência de um conflito de interesses com a lei do jogo, que contudo, não faz qualquer referência ao consumo de tabaco.
+No entanto, um parecer da <START:ORGANIZACAO> Direcção Geral de Saúde <END> a que a <START:ORGANIZACAO> Lusa <END> teve acesso <START:TEMPO> sexta-feira <END> indica que os casinos e salas de jogo «sendo locais fechados não podem deixar de se incluir no âmbito da aplicação a lei», além de estarem abrangidos na lei por «serem locais de trabalho».
+«Trata-se de uma daquelas situações inoportunas e um exemplo lamentável que nos mostra que estamos em face de uma dependência grave», disse à <START:ORGANIZACAO> Lusa <END> o  presidente da <START:ORGANIZACAO> Confederação Portuguesa para a Prevenção do Tabagismo <END> , <START:PESSOA> Luís Rebelo <END> .
+<START:PESSOA> Luís Rebelo <END> desvalorizou contudo o impacto desta situação na aplicação da nova lei e atribuiu a atitude de <START:PESSOA> António Nunes <END> a «um automatismo» inconsciente.
+Sobre as dúvidas manifestadas pelo máximo responsável da <START:ORGANIZACAO> ASAE <END> relativamente ao âmbito de aplicação da nova lei, <START:PESSOA> Luís Rebelo <END> considerou que a legislação «é clara» quanto à proibição de fumar nos casinos e salas de jogos.
+«Não pode haver dúvidas quanto à aplicação da lei sobretudo ao nível das entidades responsáveis pela sua fiscalização», disse.
+Sobre <START:TEMPO> os primeiros dias <END> da vigência da proibição de fumar em espaços de uso colectivo fechados, <START:PESSOA> Luís Rebelo <END> considerou que a lei está a ter «uma óptima» aplicação com «a generalidade dos fumadores a compreender a proibição».
+A lei do Tabaco, que proíbe o fumo nos serviços da administração pública, restaurantes, bares, discotecas ou centros comerciais, entrou em vigor <START:TEMPO> às 00:00 <END> <START:TEMPO> do dia 01 de Janeiro <END> .
+A <START:ORGANIZACAO> Lusa <END> tentou contactar o  porta-voz da <START:ORGANIZACAO> ASAE <END> para obter esclarecimentos adicionais mas tal foi impossível <START:TEMPO> até ao momento <END> .
+--DOCSTART--
+
+Lobotomia
+História
+Foi desenvolvida <START:TEMPO> em 1935 <END> pelo médico neurologista português <START:PESSOA> António Egas Moniz <END> ( <START:TEMPO> 1874-1955 <END> ), em equipe com o cirurgião <START:PESSOA> Almeida Lima <END> , na  <START:LOCAL> Universidade <END> de <START:LOCAL> Lisboa <END> .
+<START:PESSOA> Egas Moniz <END> veio a receber com este trabalho o prêmio Nobel da Medicina e Fisiologia <START:TEMPO> em 1949 <END> .
+A Leucotomia foi a primeira técnica de Psicocirurgia ou seja, a utilização de manipulações orgânicas do cérebro para curar ou melhorar sintomas de uma patologia psiquiátrica (em contrapartida à neurocirurgia que se ocupa de doentes com patologia orgânica directa ou neurológica).
+Inicialmente foi usada para tratar depressão severa.
+<START:PESSOA> Egas Moniz <END> sempre defendeu o seu uso apenas em casos graves em que houvesse risco de violência ou suicídio.
+No entanto apesar de <START:VALOR> cerca de 6% <END> dos pacientes não sobreviverem à operação, e de vários outros ficarem com alterações da personalidade muito severos, foi praticada com entusiasmo excessivo em muitos paises, nomeadamente o <START:LOCAL> Japão <END> e os <START:LOCAL> Estados Unidos <END> .
+Neste último país foi popularizada pelo cirurgião <START:PESSOA> Walter Freeman <END> , que divulgou a técnica por todo o seu país, percorrendo o no seu Lobotomobile, e criando inclusivamente uma variante em que espetava um picador de gelo directamente no crânio do doente, desde um ponto logo acima do canal lacrimal com a ajuda de um martelo, rodando-se depois o mesmo para destruir as vias aí localizadas.
+Supostamente a atractividade deste procedimento seria o seu baixo custo e o desejo social de silenciar doentes psiquiátricos incómodos.
+A leucotomia ganhou tal popularidade que foi inclusivamente praticada em crianças com mau comportamento.
+<START:VALOR> Cerca de 50.000 <END> doentes foram tratados só nos <START:LOCAL> Estados Unidos <END> .
+Com a ajuda destes abusos, a leucotomia foi abandonada quando surgiram os primeiros fármacos antipsicóticos.
+<START:TEMPO> Durante muito tempo <END> foi considerada algo injustamente como um episódio barbárico na história da Psiquiatria, sendo comum a comparação à técnica da flebotomia (ou sangria) na história da medicina interna.
+--DOCSTART--
+
+Pacto de sangue
+PASSAPORTE BIOLÓGICO <START:TEMPO> EM 2008 <END>
+<START:TEMPO> O ano de 2008 <END> promete ser aquele em que tudo se fará para combater o flagelo do doping.
+Pelo menos é esta a intenção de vários agentes da modalidade que criaram, para tal, o passaporte biológico, a designação de um documento electrónico e individual na qual constarão todos os resultados dos controlos antidoping à urina e ao sangue efectuados aos ciclistas, assim como o respectivo perfil hematológico.
+O cruzamento destas informações permitirá avaliar as variações das análises e, consequentemente, detectar se houve manipulação de sangue.
+O passaporte biológico é o resultado de uma reunião verificada <START:TEMPO> há alguns meses <END> , em <START:LOCAL> Paris <END> , organizada pelo ministro francês da Saúde, o ministro francês da Saúde, a <START:ORGANIZACAO> UCI <END> e a <START:ORGANIZACAO> Agência Mundial Antidopagem <END> ( <START:ORGANIZACAO> AMA <END> ).
+O objectivo é chegar ao <START:ACONTECIMENTO> Tour <END> com o passaporte biológico de todos os possíveis participantes em total funcionamento, de modo a evitarem-se os casos de doping que ocorreram <START:TEMPO> este ano <END> .
+Contra-relógio
+O passaporte biológico abrange todos os ciclistas do <START:ACONTECIMENTO> ProTour <END> , onde só há um português, podendo as equipas Continentais Profissionais, na qual faz parte o Benfica, serem também abrangidas.
+Ao todo, o grupo de trabalho prevê fazer <START:VALOR> 4.200 <END> análises ao sangue -- seis por cada ciclista do <START:ACONTECIMENTO> ProTour <END> --, mais <START:VALOR> 3.700 <END> do que <START:TEMPO> em 2007 <END> .
+Em suma, a <START:ORGANIZACAO> UCI <END> quer controlar <START:TEMPO> em 2008 <END> cada ciclista <START:TEMPO> por 12 vezes <END> -- às análises de sangue juntam-se às da urina --, na sua maioria inopinadas, devendo gastar, com todo o programa do passaporte biológico, qualquer coisa como <START:VALOR> 6 milhões de euros <END> , contra <START:VALOR> 1 milhão <END> gasto <START:TEMPO> este ano <END> .
+--DOCSTART--
+
+contra-revoluções musicais
+Talvez que, tendo a música uma componente tão física não seja apetecível o aleatório, o algorítmico.
+É mais do que tropeçar, caír, espalhar o corpo em mil bocados.
+"Se a música comtemporânea pôde ser considerada incompreensível quanto ao seu código de leitura, <START:TEMPO> hoje <END> já não é a música que se tornou incompreensível mas sim o público."
+Metzger, Heins-Klaus.cit.,p.2
+Afinal não somos todos o mesmo público?
+posted by DGP @ 4:29 AM 
+<START:VALOR> 2 <END> Comments:
+ At 1:55 PM, César Viana said...   
+Será que <START:TEMPO> hoje <END> ainda podemos falar de "a" música contemporânea?
+Há uma diversidade de manifestações que se movem nesta área, desde as mais exigentes às mais oportunisticamente simplistas, todas sobre essa mesma capa de "música contemporânea".
+At 2:20 AM, DGP said...
+Claro que sim!
+Nem sei bem em que contexto escrevi este post.
+Estava a reler um livro - Revoluções Musicais, a música contemporânea depois de 1945 
+Pareceu-me infeliz a frase de <START:PESSOA> Heinz-Klaus <END> ("já não é a música que se tornou incompreensível mas sim o público)
+No fundo aquilo de que discordo é o facto de neste caso o criador estar de fora do grupo colectivo.
+É claro que é mais apetecível e mais fácil, mas depois falta-lhe amor.
+(Como tão bem defeniu no post em que falava de <START:PESSOA> Alvaro Cunhal <END> )
+De qualquer maneira e infelizmente, não conheço música feita <START:TEMPO> nos últimos anos <END> .

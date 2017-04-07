@@ -3,7 +3,7 @@
 PATH_IN="../../scripts/filter-harem/harem-to-opennlp/outputs/"
 SCRIPT="src/sentence-segmentation.py"
 
-for r in {1..3}
+for r in {0..3}
 do
 	printf "\n** repeat "$r" **\n"
 	for i in {0..9}

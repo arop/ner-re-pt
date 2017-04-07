@@ -1,34 +1,32 @@
-processed 6982 tokens with 552 phrases; found: 495 phrases; correct: 219.
-accuracy:  89.37%; precision:  44.24%; recall:  39.67%; FB1:  41.83
-ABSTRACCAO_DISCIPLINA: precision:  20.00%; recall:   7.69%; FB1:  11.11  5
- ABSTRACCAO_IDEIA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+processed 5730 tokens with 440 phrases; found: 396 phrases; correct: 172.
+accuracy:  90.44%; precision:  43.43%; recall:  39.09%; FB1:  41.15
+ABSTRACCAO_DISCIPLINA: precision:   0.00%; recall:   0.00%; FB1:   0.00  7
+ABSTRACCAO_ESTADO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ ABSTRACCAO_IDEIA: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
   ABSTRACCAO_NOME: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-ACONTECIMENTO_EFEMERIDE: precision:  50.00%; recall:  50.00%; FB1:  50.00  2
-ACONTECIMENTO_EVENTO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ACONTECIMENTO_EFEMERIDE: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 ACONTECIMENTO_ORGANIZADO: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
-     COISA_CLASSE: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
-COISA_MEMBROCLASSE: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
-    COISA_OBJECTO: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+     COISA_CLASSE: precision:  10.71%; recall:   7.50%; FB1:   8.82  28
+    COISA_OBJECTO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ COISA_SUBSTANCIA: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
      LOCAL_FISICO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-     LOCAL_HUMANO: precision:  33.59%; recall:  47.78%; FB1:  39.45  128
-    LOCAL_VIRTUAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-        OBRA_ARTE: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
-       OBRA_PLANO: precision:  25.00%; recall:   2.86%; FB1:   5.13  4
- OBRA_REPRODUZIDA: precision:  15.38%; recall:  11.76%; FB1:  13.33  13
-ORGANIZACAO_ADMINISTRACAO: precision:  40.62%; recall:  28.26%; FB1:  33.33  32
-ORGANIZACAO_EMPRESA: precision:   0.00%; recall:   0.00%; FB1:   0.00  6
-ORGANIZACAO_INSTITUICAO: precision:  52.63%; recall:  52.63%; FB1:  52.63  38
-     PESSOA_CARGO: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+     LOCAL_HUMANO: precision:  52.50%; recall:  67.74%; FB1:  59.15  80
+    LOCAL_VIRTUAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       OBRA_PLANO: precision:  66.67%; recall:  37.50%; FB1:  48.00  9
+ OBRA_REPRODUZIDA: precision:  14.29%; recall:  33.33%; FB1:  20.00  7
+ORGANIZACAO_ADMINISTRACAO: precision:  33.33%; recall:  31.25%; FB1:  32.26  15
+ORGANIZACAO_EMPRESA: precision:  57.14%; recall:  12.90%; FB1:  21.05  7
+ORGANIZACAO_INSTITUICAO: precision:  39.29%; recall:  35.48%; FB1:  37.29  28
+     PESSOA_CARGO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
 PESSOA_GRUPOCARGO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
   PESSOA_GRUPOIND: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-PESSOA_GRUPOMEMBRO: precision:  16.67%; recall:  16.67%; FB1:  16.67  12
-PESSOA_INDIVIDUAL: precision:  51.30%; recall:  65.29%; FB1:  57.45  154
-    PESSOA_MEMBRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-      PESSOA_POVO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-    TEMPO_DURACAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
- TEMPO_FREQUENCIA: precision: 100.00%; recall:  16.67%; FB1:  28.57  1
-   TEMPO_GENERICO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-TEMPO_TEMPO_CALEND: precision:  64.91%; recall:  56.06%; FB1:  60.16  57
-VALOR_CLASSIFICACAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-      VALOR_MOEDA: precision:  75.00%; recall:  81.82%; FB1:  78.26  12
- VALOR_QUANTIDADE: precision:  55.56%; recall:  50.00%; FB1:  52.63  18
+PESSOA_GRUPOMEMBRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  10
+PESSOA_INDIVIDUAL: precision:  38.37%; recall:  57.89%; FB1:  46.15  86
+      PESSOA_POVO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    TEMPO_DURACAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ TEMPO_FREQUENCIA: precision: 100.00%; recall:  25.00%; FB1:  40.00  1
+   TEMPO_GENERICO: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+TEMPO_TEMPO_CALEND: precision:  71.25%; recall:  68.67%; FB1:  69.94  80
+VALOR_CLASSIFICACAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+      VALOR_MOEDA: precision: 100.00%; recall:   8.33%; FB1:  15.38  1
+ VALOR_QUANTIDADE: precision:  42.11%; recall:  22.86%; FB1:  29.63  19

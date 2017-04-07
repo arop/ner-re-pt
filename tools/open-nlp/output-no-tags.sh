@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SCRIPT="src/output-no-tags.py"
-for r in {1..3}
+for r in {0..3}
 do
 	printf "\n** repeat "$r" **\n"
 	for i in {0..9}

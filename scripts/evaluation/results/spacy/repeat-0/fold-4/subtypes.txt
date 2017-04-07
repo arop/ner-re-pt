@@ -1,5 +1,5 @@
-processed 7605 tokens with 275 phrases; found: 90 phrases; correct: 81.
-accuracy:  95.82%; precision:  90.00%; recall:  29.45%; FB1:  44.38
+processed 7602 tokens with 276 phrases; found: 89 phrases; correct: 77.
+accuracy:  95.58%; precision:  86.52%; recall:  27.90%; FB1:  42.19
 LOCAL_FISICO_AGUAMASSA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 LOCAL_FISICO_ILHA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 LOCAL_FISICO_PLANETA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
@@ -9,6 +9,6 @@ LOCAL_HUMANO_DIVISAO: precision:  33.33%; recall:   1.43%; FB1:   2.74  3
 LOCAL_HUMANO_PAIS: precision:  60.00%; recall:   5.08%; FB1:   9.38  5
 LOCAL_HUMANO_REGIAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 LOCAL_VIRTUAL_COMSOCIAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-TEMPO_TEMPO_CALEND_DATA: precision:  93.67%; recall:  67.89%; FB1:  78.72  79
+TEMPO_TEMPO_CALEND_DATA: precision:  89.87%; recall:  65.14%; FB1:  75.53  79
 TEMPO_TEMPO_CALEND_HORA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-TEMPO_TEMPO_CALEND_INTERVALO: precision: 100.00%; recall:  42.86%; FB1:  60.00  3
+TEMPO_TEMPO_CALEND_INTERVALO: precision: 100.00%; recall:  25.00%; FB1:  40.00  2

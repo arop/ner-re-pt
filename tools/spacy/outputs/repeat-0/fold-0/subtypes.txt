@@ -3382,7 +3382,7 @@ Show	O
 ,	O
 voltou	O
 a	O
-Portugal	O
+Portugal	B-LOCAL_HUMANO_PAIS
 ,	O
 onde	O
 teve	O
@@ -4612,7 +4612,7 @@ de	I-TEMPO_TEMPO_CALEND_DATA
 2007	I-TEMPO_TEMPO_CALEND_DATA
 ,	O
 em	O
-Estrasburgo	O
+Estrasburgo	B-LOCAL_HUMANO_DIVISAO
 ,	O
 a	O
 Carta	O
@@ -5719,7 +5719,7 @@ co	O
 -	O
 presidente	O
 dos	O
-Verdes/ALE	O
+Verdes/ALE	B-LOCAL_HUMANO_PAIS
 ,	O
 Daniel	O
 COHN	O
@@ -5745,10 +5745,10 @@ a	O
 situação	O
 :	O
 "	O
-Há	B-TEMPO_TEMPO_CALEND_DATA
-50	I-TEMPO_TEMPO_CALEND_DATA
-loucos	I-TEMPO_TEMPO_CALEND_DATA
-mas	I-TEMPO_TEMPO_CALEND_DATA
+Há	O
+50	O
+loucos	O
+mas	O
 há	O
 700	O
 sãos	O

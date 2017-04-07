@@ -1,36 +1,22 @@
-processed 12712 tokens with 501 phrases; found: 271 phrases; correct: 183.
-accuracy:  94.97%; precision:  67.53%; recall:  36.53%; FB1:  47.41
-ABSTRACCAO_IDEIA_: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
-   COISA_OBJECTO_: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-LOCAL_FISICO_AGUACURSO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-LOCAL_FISICO_AGUAMASSA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-LOCAL_FISICO_ILHA: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
-LOCAL_FISICO_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-LOCAL_FISICO_PLANETA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-LOCAL_FISICO_REGIAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
-LOCAL_FISICO_RELEVO: precision:  33.33%; recall:  20.00%; FB1:  25.00  3
-LOCAL_HUMANO_CONSTRUCAO: precision:  23.53%; recall:  11.11%; FB1:  15.09  17
-LOCAL_HUMANO_DIVISAO: precision:  61.76%; recall:  39.62%; FB1:  48.28  68
-LOCAL_HUMANO_OUTRO: precision: 100.00%; recall:  20.00%; FB1:  33.33  1
-LOCAL_HUMANO_PAIS: precision:  66.67%; recall:  22.41%; FB1:  33.55  39
-LOCAL_HUMANO_REGIAO: precision:  57.14%; recall:  22.22%; FB1:  32.00  7
- LOCAL_HUMANO_RUA: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
-LOCAL_VIRTUAL_COMSOCIAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-LOCAL_VIRTUAL_OBRA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+processed 6827 tokens with 211 phrases; found: 107 phrases; correct: 74.
+accuracy:  95.36%; precision:  69.16%; recall:  35.07%; FB1:  46.54
+LOCAL_FISICO_ILHA: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+LOCAL_FISICO_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+LOCAL_FISICO_RELEVO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_HUMANO_CONSTRUCAO: precision:  20.00%; recall:   3.12%; FB1:   5.41  5
+LOCAL_HUMANO_DIVISAO: precision:  68.00%; recall:  48.57%; FB1:  56.67  25
+LOCAL_HUMANO_PAIS: precision:  77.78%; recall:  45.16%; FB1:  57.14  18
+LOCAL_HUMANO_REGIAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ LOCAL_HUMANO_RUA: precision: 100.00%; recall:  16.67%; FB1:  28.57  1
+LOCAL_VIRTUAL_COMSOCIAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+LOCAL_VIRTUAL_OBRA: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
 LOCAL_VIRTUAL_SITIO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-       OBRA_ARTE_: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 OBRA_ARTE_CONSTRUCAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
   OBRA_ARTE_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-OBRA_ARTE_PINTURA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-OBRA_REPRODUZIDA_FILME: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-OBRA_REPRODUZIDA_LIVRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+OBRA_REPRODUZIDA_LIVRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
 OBRA_REPRODUZIDA_MUSICA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-OBRA_REPRODUZIDA_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-OBRA_REPRODUZIDA_TEATRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-ORGANIZACAO_ADMINISTRACAO_: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-ORGANIZACAO_ADMINISTRACAO_SUB: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-ORGANIZACAO_INSTITUICAO_: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-ORGANIZACAO_INSTITUICAO_SUB: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-TEMPO_TEMPO_CALEND_DATA: precision:  81.20%; recall:  70.90%; FB1:  75.70  117
-TEMPO_TEMPO_CALEND_HORA: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
-TEMPO_TEMPO_CALEND_INTERVALO: precision: 100.00%; recall:  47.62%; FB1:  64.52  10
+OBRA_REPRODUZIDA_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+ORGANIZACAO_INSTITUICAO_SUB: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+TEMPO_TEMPO_CALEND_DATA: precision:  80.49%; recall:  54.10%; FB1:  64.71  41
+TEMPO_TEMPO_CALEND_HORA: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+TEMPO_TEMPO_CALEND_INTERVALO: precision: 100.00%; recall:  41.18%; FB1:  58.33  7

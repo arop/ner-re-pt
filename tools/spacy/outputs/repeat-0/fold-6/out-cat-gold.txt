@@ -744,8 +744,8 @@ Bragança	I-PESSOA
 ,	O
 pediu	O
 a	O
-D.	O
-Manuel	O
+D.	B-PESSOA
+Manuel	I-PESSOA
 uma	O
 recompensa	O
 para	O
@@ -774,10 +774,7 @@ chegado	O
 aos	O
 ouvidos	O
 do	O
-Rei	O
-<	O
-END	O
->	O
+Rei	B-PESSOA
 .	O
 Este	O
 ,	O

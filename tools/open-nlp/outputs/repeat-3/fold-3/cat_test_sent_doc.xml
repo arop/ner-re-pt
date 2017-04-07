@@ -1,66 +1,407 @@
 --DOCSTART--
- <START:ORGANIZACAO> Ministério da Defesa Nacional <END>         
- <START:PESSOA> Ministro da Defesa Nacional <END> visita    <START:PESSOA> Forças Nacionais Destacadas <END>   no   <START:LOCAL> Afeganistão <END>         
- O <START:PESSOA> Ministro da Defesa Nacional <END> , <START:PESSOA> Nuno Severiano Teixeira <END> , desloca-se ao <START:LOCAL> Afeganistão <END> , <START:TEMPO> no dia 29 de Dezembro <END> , para efectuar uma visita às    <START:PESSOA> Forças Nacionais Destacadas <END>   em   <START:LOCAL> Cabul <END>  .
-<START:PESSOA> Nuno Severiano Teixeira <END> visitará o contingente português estacionado em <START:LOCAL> Campo Warehouse <END> , composto pela    <START:PESSOA> 22.ª Companhia de Atiradores Pára-Quedistas <END>   da   <START:ORGANIZACAO> Brigada de Reacção Rápida <END>  e uma equipa de    <START:PESSOA> Controladores Aéreos Avançados <END>   da   <START:ORGANIZACAO> Força Aérea <END>  .
-O     <START:PESSOA> Ministro da Defesa <END> deverá assistir ao briefing do destacamento e visitar o aquartelamento do <START:LOCAL> Campo Warehouse <END> .
-Com um total de <START:VALOR> 161 <END> militares, o contingente português integrado na <START:ORGANIZACAO> Força Internacional de Assistência e Segurança <END> ( <START:ORGANIZACAO> ISAF <END> ) constitui a   <START:ORGANIZACAO> Força de Reacção Rápida <END> do <START:PESSOA> Comandante <END>  da força da <START:ORGANIZACAO> NATO <END> no <START:LOCAL> Afeganistão <END> .
-<START:PESSOA> Nuno Severiano Teixeira <END> reúne-se ainda com o comandante da força da <START:ORGANIZACAO> NATO <END> ( <START:ORGANIZACAO> ISAF <END> ) no <START:LOCAL> Afeganistão <END> , <START:PESSOA> General Dan McNeill <END> .
-A participação militar Portuguesa no <START:LOCAL> Afeganistão <END> começou <START:TEMPO> a 10 de Agosto de 2005 <END> .
-<START:PESSOA> Nuno Severiano Teixeira <END> aproveita a deslocação a <START:LOCAL> Cabul <END> para manter encontros com as autoridades afegãs.
-O <START:PESSOA> Ministro da Defesa <END> deverá reunir-se com o <START:PESSOA> Ministro da Defesa <END> afegão, <START:PESSOA> Raheem Wardag <END> , e com o    <START:PESSOA> Presidente <END> da    <START:LOCAL> República Islâmica do Afeganistão <END>  , <START:PESSOA> Hamid Karzai <END> .
-O <START:PESSOA> Ministro da Defesa Nacional <END> estará de regresso a <START:LOCAL> Lisboa <END> <START:TEMPO> no dia 30 de Dezembro <END> .
+Software livre, cultura livre, palco livre...    
+ <START:PESSOA> Eduardo EGS <END> · <START:LOCAL> Porto Alegre <END> ( <START:LOCAL> RS <END> ) · <START:TEMPO> 20/4/2007 <END> <START:TEMPO> 15:38 <END> · <START:VALOR> 153 <END> votos        
+ Num imenso galpão com estruturas metálicas, acontece <START:TEMPO> todo ano <END> um evento que prima pela liberdade.
+É o <START:ACONTECIMENTO> Fórum Internacional Software Livre <END> , o fisl, que chega a sua oitava edição cada vez maior.
+E mais diversificado.
+Diferentes tipos circulam pelo local em harmonia.
+E não haveria por que ser diferente.
+Todos estão lá por um motivo em comum: o uso de ferramentas livres, baseadas na colaboração.
+E dentro desse evento, ocorre outra manifestação de liberdade: o <START:ACONTECIMENTO> Criei, Tive Como! <END> ,  <START:ACONTECIMENTO> Festival Multimídia de Cultura Livre <END> do <START:LOCAL> Brasil <END> , que acontece pela segunda vez .
+Se <START:TEMPO> no ano passado <END> o festival tinha um estande acanhado, num dos cantos do    <START:LOCAL> Centro de Eventos <END> da   <START:ORGANIZACAO> Fiergs <END>  , em <START:LOCAL> Porto Alegre <END> , agora as coisas foram bem diferentes.
+E Como!
+Um estande central foi montado, com direito a banquinhos brancos e cortinas feitas com tubo de plástico, o que garantiu o resultado mais bonito entre todos os estandes, sem dúvida.
+Mas não ficou só por aí (e não mesmo!).
+O espaço contou com um estúdio de rádio e um estúdio de TV em pleno estande, que projetou vídeos o tempo inteiro, chamando a atenção dos participantes.
+Comandadas por <START:PESSOA> Gabriel Menotti <END> , do <START:ORGANIZACAO> Cine Falcatrua <END> , as projeções não seguiam uma programação prévia. "
+<START:TEMPO> Ano passado <END> a gente preparou um mote especial pra cá, que passava num horário determinado.
+<START:TEMPO> Nesse ano <END> , a gente tá controlando a transmissão <START:TEMPO> 24 horas <END> , conta.
+Foi feita uma grade de programação  <START:TEMPO> de 36 horas <END>  , com materiais da internet e enviados através de uma convocação especial para o festival, mas o que se viu por lá foram pessoas levando seus vídeos para passar sem marcar hora, bem no espírito colaborativo da cultura livre.
+"Naturalmente, você fazendo a programação do lado do espaço de exibição, as pessoas têm acesso não só a tela como ao dispositivo de controle e também a nós, que estamos controlando a estrutura.
+Então você tem um diálogo muito maior entre os projecionistas e o público, completa.
+Sem dúvida, houve uma evolução no comparativo <START:TEMPO> com o ano anterior <END> .
+Quem confirma isso é o <START:PESSOA> Vj <END>  pixel, que viu o festival crescer: " <START:TEMPO> Esse ano <END> a gente tem uma estrutura bem maior, que não atinge só o público que tá circulando pelo fisl, mas atinge as pessoas que acessam o site do fisl na internet também, porque a gente tem uma TV e uma rádio que tão sendo exibidas aqui internamente.
+A gente tem um telão e uma caixa de som com a programação da rádio, mas tem também streaming desse material que a gente tá produzindo, que é onde tá a maior parte do público.
+Mas a evolução não ficou só na estrutura do estande e dos conteúdos.
+O famoso show de abertura do festival também cresceu e se diversificou.
+Realizada no  <START:LOCAL> Teatro <END> do <START:ORGANIZACAO> Sesi <END> , local ao lado do espaço do fisl, a noite começou com os gaúchos da <START:PESSOA> Bataclã FC <END> , que entraram no palco com uniformes do <START:ORGANIZACAO> DMLU <END> , o    <START:ORGANIZACAO> Departamento Municipal de Limpeza Urbana <END> de   <START:LOCAL> Porto Alegre <END>  e abriram o show com o clássico <START:OBRA> Amigo Punk <END> .
+A certa altura, o vocalista <START:PESSOA> Richard Serraria <END> chamou o público que dançava na fila do gargarejo a subir ao palco, com o comentário "É software livre, é palco livre, mas acho que a cara feia dos seguranças não motivou o pessoal a se arriscar.
+Não que isso tenha sido problema: <START:PESSOA> Richard <END> acabou o show no meio da massa, cantando com as mãos pra cima, pra alegria de todos.
+A segunda atração foi o    <START:PESSOA> DJ Dolores <END>    , que antes de tocar comentou que muita gente considerava que fazer música no computador era como enviar um e-mail, uma atividade burocrática e sem vida.
+Pra fechar o seu discurso, largou um "Então me dêem licença que eu vou ali passar um e-mail, sob os aplausos do público.
+O ponto alto foi o dueto com a rabeca do <START:PESSOA> Maciel Salustiano <END> , filho do <START:PESSOA> Mestre Salustiano <END> , que fizeram uma performance de arrepiar.
+Na seqüência, vieram os DJs   <START:PESSOA> Lucio K <END> e <START:PESSOA> JC <END> , ganhadores do <START:ACONTECIMENTO> Overmixter <END> , <START:ACONTECIMENTO> Concurso de Remixes Brasil-África do Sul <END>  .
+O sul-africano <START:PESSOA> JC <END> abriu os trabalhos com o seu remix vencedor e convidou o público a bater palma enquanto a mistura sonora invadia o recinto.
+Em seguida, foi a vez do <START:PESSOA> Lucio K <END> , com o seu remix vencedor <START:OBRA> Tudo Vem da África <END> e com uma faixa do seu último disco, que mistura carimbó com música eletrônica, agitando a platéia.
+Pra valer: " No final, ainda recebi de um espectador um dos melhores elogios possíveis: "fiquei impressionado com o groove que você tem, mesmo sendo branco assim!, diverte-se o <START:PESSOA> Lucio <END> .
+Encerrando a noite, os pernambucanos do <START:PESSOA> Mombojó <END> fizeram um ótimo show, com o público cantando junto e dançando.
+No final, o vocalista <START:PESSOA> Felipe S. <END> convidou o povo pra subir ao palco, e ao contrário do show da <START:PESSOA> Bataclã <END> , o convite foi aceito, com uma galera invadindo o palco e pulando muito, pelo menos até a hora em que os seguranças começaram a tirar todo mundo de lá.
+Mas foi uma bela forma de terminar a festa, com alegria e empolgação, características que marcaram não só os shows como <START:TEMPO> os três dias <END> de <START:ACONTECIMENTO> Criei, Tive Como! <END> .
+E no que depender do <START:PESSOA> Vj <END>  pixel , que pela segunda vez fez a ambientação visual do show ( <START:TEMPO> esse ano <END> ao lado do inglês <START:PESSOA> Salsaman <END> ), o <START:ACONTECIMENTO> Criei <END> tem tudo para melhorar cada vez mais empolgante: "A gente gostou muito da estrutura que tem aqui, todo mundo tá adorando fazer.
+Nossa intenção é, terminando o evento, refletir sobre isso e escrever um relatório sobre o que foi bom e o que foi ruim, pra <START:TEMPO> no ano que vem <END> fazer uma estrutura semelhante, mas ainda melhor".
+Pelo que vi <START:TEMPO> nos três dias <END> de evento, tenho certeza que esse objetivo vai ser alcançado.
 --DOCSTART--
     
- ONDE ESTÁ O <START:ABSTRACCAO> PSD <END> ?
-É só uma questão de tempo até os jornais começarem a perguntar onde está o <START:ORGANIZACAO> PSD <END> , onde está <START:PESSOA> Menezes <END> , onde está a oposição vinda do partido que é suposto "liderá-la", que não se vê em parte nenhuma.
-O <START:ORGANIZACAO> PP <END> , o <START:ORGANIZACAO> PCP <END> e o <START:ORGANIZACAO> BE <END> , nalguns casos mesmo alguns raros dissidentes do <START:ABSTRACCAO> PS <END> socrático, têm criticado o <START:ORGANIZACAO> Governo <END> , enquanto o <START:ORGANIZACAO> PSD <END> passa entre as sombras, ou ficando pura e simplesmente silencioso, ou murmurando umas críticas de circunstância que ninguém ouve, ou, em muitos casos, concordando com o <START:ORGANIZACAO> Governo <END> e o <START:ORGANIZACAO> PS <END> .
-O único "não" sonoro que se ouviu foi a recusa do empréstimo à  <START:ORGANIZACAO> Câmara <END> de <START:LOCAL> Lisboa <END> , acompanhado por uma condução política que primou pela completa inépcia.
-Esse é daqueles que mais valia não se ter ouvido, sem com isso dizer que <START:PESSOA> Costa <END> tinha razão, que não a tinha.
-A pergunta do "onde está" é tradicional na comunicação social e nalguns casos foi feita com estragos consideráveis, como aconteceu com <START:PESSOA> Vítor Constâncio <END> à frente do <START:ORGANIZACAO> PS <END> .
-A pergunta em si é pouco relevante, porque o que a comunicação social quer é festa e, quando acha que não a tem, clama por actores no palco.
-Admito que os tempos agora não estarão como estavam <START:TEMPO> no tempo <END> de <START:PESSOA> Constâncio <END> , nem a dedicação carinhosa da comunicação social ao <START:ORGANIZACAO> PSD <END> é idêntica à que na época  prodigalizava ao <START:ORGANIZACAO> PS <END> , cujo estado a preocupava.
-Mas, quando vier a pergunta, será mais para a coreografia do que para a substância, porque esta está há muito respondida: <START:TEMPO> de há uns tempos a esta parte <END> , o <START:PESSOA> PSD <END> está onde está o <START:PESSOA> PS <END> .
-A razão pela qual o <START:PESSOA> PSD <END> se ausentou para parte incerta foi explicada na pouco noticiada conferência de imprensa "oferecedora de pactos", antecedendo o debate parlamentar de "primeira oportunidade" entre <START:PESSOA> Sócrates <END> e <START:PESSOA> Santana Lopes <END> .
-Desde aí que se conhecem as razões de substância para este já longo silêncio: o <START:ORGANIZACAO> PSD <END> aproximou-se politicamente do <START:ORGANIZACAO> PS <END> como nunca esteve <START:TEMPO> antes <END> , ao ponto de se oferecer para co-governar em praticamente todas as áreas.
-Na conferência e em declarações avulsas - da política externa à política europeia, passando pela defesa, segurança interna e legislação eleitoral, e acabando no célebre "pacto das obras públicas", a que se soma o "pacto da justiça" vindo <START:TEMPO> do tempo <END> de <START:PESSOA> Marques Mendes <END> -, o <START:ORGANIZACAO> PSD <END> faz uma abdicação da diferença, da alteridade, da oposição.
-O que nos é dito é que <START:TEMPO> em Janeiro <END> tudo vai mudar, aparecerão propostas e tomadas de posição, vai começar a oposição "a sério", quando estiverem gabinetes e assessores a funcionar.
-É um pouco bizarro que se anuncie um tempo de adiamento da oposição, uma paragem para uma retoma anunciada, quando <START:TEMPO> antes <END> tudo era tempo urgente.
-<START:PESSOA> Menezes <END> criticava <START:PESSOA> Marques Mendes <END> por não fazer oposição <START:TEMPO> dia a dia <END> , <START:TEMPO> minuto a minuto <END> , fogosa, ardente, caso a caso, para o que, dizia, não faltavam temas nem razões e que "com ele" isso iria mudar radicalmente.
-Já não me refiro às idas às fábricas que encerraram - entretanto já encerraram várias -, mas a um estilo prometido de pathos oposicionista, comunhão com o povo e de entusiasmo militante, que, de todo, não se vê.
-Não é que o estilo prometido fosse bom, mas foi o que foi prometido, antes deste enorme esforço de respeitabilidade fabricado por agências de comunicação.
-Estas flutuações matam o flutuante, mas, infelizmente, são o que é normal, quando se actua para uma sociedade do espectáculo.
-Permitam-me por isso que duvide da ofensiva putativa <START:TEMPO> de Janeiro <END> , porque a diferença não se faz com mais ou menos "estudos", "porta-vozes" ou "governos-sombra".
-Faz-se em primeiro lugar com políticas e não faltaram ocasiões <START:TEMPO> nos últimos meses <END> para se ser firme e duro com a política de um governo que está a empobrecer-nos a todos em nome de um modelo "social" que não tem futuro.
-Isto, na hipótese de o <START:ORGANIZACAO> PSD <END> ter um modelo diferente, que só pode ser mais liberal, mesmo que só moderadamente liberal, o que já não era mau.
-Quando dois partidos se colam tanto que pouco se diferenciam, o que sobra para a luta política tende a ser incidental, conjuntural: esta nomeação, aquela opção por <START:LOCAL> Ferreira de Cima <END> em vez de ser por <START:LOCAL> Ferreira de Baixo <END> e várias variantes de questões "fracturantes", que em muitos casos são distracções dos problemas centrais de poder político e remetem para agendas em que nem sequer é líquido que o <START:ORGANIZACAO> Estado <END> e o poder político devam entrar.
-Este "bloco central" político esteve sempre dentro do <START:ORGANIZACAO> PSD <END> , como esteve e está no <START:ORGANIZACAO> PS <END> e é uma sobrevivência de laços de interesses profundos representados nos dois partidos e que, depois, encontra expressão no rastro salazarista antidemocrático dos consensos.
-<START:TEMPO> Nos primeiros anos <END> da democracia, este "bloco central" concentrava-se em exercer o poder através da economia nacionalizada <START:TEMPO> pós-1975 <END> , daí poder ser representado simbolicamente na cena real de responsáveis dos dois partidos reunidos a distribuir os lugares de gestores públicos nas empresas: estes dois são para mim, este fica para ti, este vai para a <START:ORGANIZACAO> TAP <END> e dou-te dois na <START:ORGANIZACAO> CP <END> , mas este da <START:ORGANIZACAO> EDP <END> não pode ser comparado como este na <START:ORGANIZACAO> Imprensa Nacional <END> , etc., etc.
-Este tipo de partilhas que durou <START:TEMPO> até há muito pouco tempo <END> e em muitas áreas, a começar nas autarquias e nas empresas municipalizadas, ainda está longe de ter acabado.
-Mas o "bloco central de interesses" evoluiu com a economia, e adaptou-se às privatizações, deslocou-se para fora do <START:ORGANIZACAO> Estado <END> e foi para os grupos económicos, para os bancos, as seguradoras, as empresas de construção civil, etc., etc.
-Quase que se pode formular uma regra simples: quanto mais depender um grupo económico de decisões do governo para conduzir a sua actividade empresarial, tanto maior é a presença deste "bloco central de interesses" no seu seio.
-A deslocação do <START:ORGANIZACAO> Estado <END> para o privado significa que os mecanismos de influência tendem a deslocar-se de fora para dentro, a centrar-se na mediação de negócios, assentes em empresas de consultadoria e em grandes escritórios de advogados, que todos sabem serem as portas certas para chegar ao governo, este e os anteriores.
-Quando um partido político, ainda por cima na oposição, se demarca deste jogo de interesses instalado, as suas lideranças são sujeitas a um processo que começa pela descredibilização e acaba na tentativa de expulsar os incontroláveis.
-<START:PESSOA> Marcelo Rebelo de Sousa <END> , <START:TEMPO> num momento <END> da sua liderança, quando contestou alguns grandes negócios, foi sujeito a essa campanha.
-É verdade que no <START:ORGANIZACAO> PSD <END> há a presença deste "bloco central", mas há também uma tradição de ruptura que, no passado, tornou o partido na principal força reformista em <START:LOCAL> Portugal <END> .
-O <START:ORGANIZACAO> PS <END> foi crucial na defesa da democracia política <START:TEMPO> em 1975 <END> , o <START:ORGANIZACAO> PSD <END> foi crucial na normalização democrática.
-Sem o <START:ORGANIZACAO> PSD <END> , na fórmula da <START:ORGANIZACAO> AD <END> de <START:PESSOA> Sá Carneiro <END> , não se iria tão longe e tão cedo no fim da presença militar na tutela da democracia.
-Sem <START:PESSOA> Cavaco Silva <END> não haveria uma cultura de "bom governo", o fim da <START:OBRA> Constituição <END> socializante na economia, o retorno à economia de mercado, o boom de infra-estruturas, a democratização do ensino, uma modernização imperfeita mas real do país.
-Ambos associaram um programa de reformas à alteração das condições políticas dominantes em momentos desejados e sentidos como de ruptura: <START:PESSOA> Sá Carneiro <END> e <START:PESSOA> Freitas do Amaral <END> mostraram que outros partidos podiam governar <START:LOCAL> Portugal <END> que não apenas o <START:ORGANIZACAO> PS <END> , e <START:PESSOA> Cavaco <END> abriu caminho para as maiorias absolutas como condição de governabilidade.
-Se estamos no caminho do bonnet blanc, blanc bonnet, como dizem os franceses, esta é a melhor receita para matar o lado reformista do <START:ORGANIZACAO> PSD <END> , o de <START:PESSOA> Sá Carneiro <END> e <START:PESSOA> Cavaco Silva <END> .
-Sem esse lado reformista, o <START:ABSTRACCAO> PSD <END> ficará tão próximo do <START:ORGANIZACAO> Governo <END> e do <START:ORGANIZACAO> PS <END> que, à luz de um, não se vê a sombra do outro.
-E nem de holofote a laser, banhado no mais forte néon, <START:PESSOA> Diógenes <END> encontrará qualquer homem na cidade.
+ <START:PESSOA> Pêro da Covilhã <END>         
+ <START:PESSOA> Pedro <END> ou <START:PESSOA> Pêro da Covilhã <END>  ( <START:LOCAL> Covilhã <END> ?, <START:TEMPO> 1450? --- 1530? <END> ) foi um diplomata e explorador português.
+Com <START:VALOR> cerca de 18 anos <END> cativa um espanhol que visitava a <START:LOCAL> Covilhã <END> para comprar tecidos que o convida a servir o seu amo, <START:PESSOA> D. Juan de Guzman <END> , irmão do   <START:PESSOA> Duque de Medina-Sidónia <END> , um dos mais conceituados fidalgos de <START:LOCAL> Sevilha <END> ; <START:PESSOA> Pêro <END> aceita a proposta e parte para <START:LOCAL> Sevilha <END> onde lhe é atribuído o papel de espadachim.
+Impressionado com a desenvoltura de <START:PESSOA> Pêro de Covilhã <END>  , convida-o <START:PESSOA> D. Juan de Gusman <END> a participar nas embarcações do seu irmão, o <START:PESSOA> Duque <END> conhecido também como o <START:ABSTRACCAO> Pirata Espanhol <END> ; <START:PESSOA> Pêro <END> recusa a oferta e, <START:TEMPO> em 1474 <END> , acompanha <START:PESSOA> D. Juan <END> a <START:LOCAL> Lisboa <END> a uma entrevista com    <START:PESSOA> Afonso V <END>   de   <START:LOCAL> Portugal <END>  .
+<START:PESSOA> D. Afonso <END> simpatiza com <START:PESSOA> Pêro <END> também pelo seu domínio de línguas, nomeadamente a língua árabe e <START:PESSOA> D. Juan <END> cede a <START:PESSOA> el-Rei <END> os serviços do português.
+É assim que <START:PESSOA> Pêro da Covilhã <END> , aos seus <START:VALOR> 24 anos <END> , é admitido como moço de esporas de <START:PESSOA> D. Afonso V <END> .
+<START:TEMPO> Passado pouco tempo <END> , decide <START:PESSOA> el-Rei <END> elevá-lo a escudeiro, com direito a armas e cavalo.
+<START:TEMPO> Em 1476 <END> acompanha <START:PESSOA> D. Afonso V <END> na batalha de <START:ACONTECIMENTO> Toro <END> , a tentativa fracassada de <START:PESSOA> D. João <END> de reclamar o trono de <START:LOCAL> Castela <END> , já que era cunhado de    <START:PESSOA> Henrique IV <END>   de   <START:LOCAL> Castela <END>  .
+<START:TEMPO> Mais tarde <END> , em iria acompanhar <START:PESSOA> D. Afonso <END> na jornada a <START:LOCAL> França <END> para pedir auxílio ao    <START:PESSOA> rei Luís XI <END>   de   <START:LOCAL> França <END>  na luta pelo trono de <START:LOCAL> Castela <END> , que seria rejeitado.
+Entretanto, <START:PESSOA> D. Afonso <END> abdica do trono, para <START:PESSOA> D. João II <END> .
+Após a execução do   <START:PESSOA> Duque de Bragança <END> pelas próprias mãos do rei, <START:PESSOA> Pêro da Covilhã <END>  foi designado para investigar quais os nobres que conspiravam contra <START:PESSOA> D. João II <END> , conseguindo identificar o <START:PESSOA> D. Diogo <END> ,   <START:PESSOA> duque de Viseu <END> e <START:PESSOA> D. Garcia de Meneses <END> ,    <START:PESSOA> bispo de Évora <END>    .
+Na sequência do desejo de <START:PESSOA> el-Rei <END> continuar a obra iniciada pelo   <START:PESSOA> infante D. Henrique <END> dos <START:OBRA> Descobrimentos <END> , escolhe novamente <START:PESSOA> Pêro da Covilhã <END>  para embaixador nos tratados de paz com os berberes do <START:LOCAL> Magrebe <END> (como o    <START:PESSOA> rei de Fez <END>    e o de <START:LOCAL> Tremecém <END> ), que convinham ao reino para convergir os esforços na odisseia marítima.
+<START:PESSOA> Pêro da Covilhã <END> torna-se, entretanto, escudeiro da guarda real e casa com <START:PESSOA> Catarina <END> que <START:TEMPO> em poucos meses <END> engravida.
+--DOCSTART--
+
+Onde ficam as <START:LOCAL> Ilhas Marquesas <END> ?
+De que organização é que <START:PESSOA> Javier Solana <END> era secretário-geral?
+O que é a <START:ORGANIZACAO> EFTA <END> ?
+Quando é que foi criada?
+Que cinco países da <START:ORGANIZACAO> EFTA <END> se juntaram ao <START:OBRA> EEE"EEE <END> quando este entrou em vigor?
+Qual é o maior banco do <START:LOCAL> Japão <END> ?
+A que companhia pertencia o <START:COISA> Airbus <END> atacado pelo <START:PESSOA> GIA <END> <START:TEMPO> em Dezembro de 1994 <END> ?
+Quem é <START:PESSOA> Michael Jackson <END> ?
+Diga um dos grandes sucessos de <START:PESSOA> Michael Jackson <END> ?
+Com quem é que ele se casou <START:TEMPO> em Maio de 1994 <END> ?
+Qual era a nacionalidade de <START:PESSOA> Ayrton Senna <END> ?
+Quantas vezes é que ele foi campeão do mundo?
+Quando é que ele morreu?
+Em que circuito de <START:ABSTRACCAO> F1 <END> é que ele morreu?
+Quando é que caiu o regime comunista do <START:LOCAL> Afeganistão <END> ?
+Quem era o presidente do regime comunista do <START:LOCAL> Afeganistão <END> antes dessa queda?
+Quantos casamentos ocurreram na <START:LOCAL> Grã-Bretanha <END> <START:TEMPO> em 1993 <END> ?
+O que é o <START:ORGANIZACAO> IRA <END> ?
+Contra que aeroporto londrino o <START:ORGANIZACAO> IRA <END> lançou um ataque de morteiro <START:TEMPO> em 1994 <END> ?
+Quando é que foi inaugurada a  <START:LOCAL> Ponte <END> da <START:LOCAL> Normandia <END> ?
+Quando ocorreu o tremor de terra em <START:LOCAL> Los Angeles <END> ?
+Quem é <START:PESSOA> Paul Touvier <END> ?
+Quando é que começou o julgamento de <START:PESSOA> Paul Touvier <END> ?
+Quando é que foi criado o  <START:ORGANIZACAO> Tribunal Internacional Penal <END> para o <START:LOCAL> Ruanda <END> ?
+Quando é que <START:PESSOA> Liamine Zéroul <END> foi eleito para a presidência da <START:LOCAL> Argélia <END> ?
+Quando é que a <START:OBRA> Organização Mundial do Comércio <END> entrou em vigor?
+Em que ano nasceu <START:PESSOA> Richard Nixon <END> ?
+Quando é que o antigo  <START:LOCAL> Parlamento <END> da <START:LOCAL> Bretanha <END> foi destruído por um incêndio?
+Onde fica <START:LOCAL> Lillehammer <END> ?
+Quando é que <START:PESSOA> Eduardo Frei <END> se tornou <START:PESSOA> presidente do Chile <END> ?
+Em que ano é que <START:PESSOA> Eugène Ionesco <END> entrou na <START:ORGANIZACAO> Academia Francesa <END> ?
+Que bispo foi suspenso pelo <START:ORGANIZACAO> Vaticano <END> <START:TEMPO> a 13 de Fevereiro de 1995 <END> ?
+Em <START:LOCAL> França <END> , quem foi nomeado <START:PESSOA> Primeiro Ministro <END> <START:TEMPO> a 17 de Maio de 1995 <END> ?
+Onde fica <START:LOCAL> Balcarce <END> ?
+Que famoso condutor argentino se retirou <START:TEMPO> em 1958 <END> ?
+Quem ganhou o <START:ACONTECIMENTO> Torneio das Cinco Nações <END> <START:TEMPO> em 1994 <END> ?
+Quem ganhou o <START:OUTRO> Óscar <END> de melhor filme por " <START:OBRA> Forrest Gump <END> "?
+Quem ganhou o <START:OUTRO> Prémio Goncourt <END> <START:TEMPO> em 1995 <END> ?
+Quem ganhou o <START:OUTRO> Óscar <END> de melhor actor <START:TEMPO> em 1994 <END> ?
+Quem se suicidou <START:TEMPO> a 8 de Abril de 1994 <END> ?
+Que duas personalidades famosas presidiram ao júri do  <START:ACONTECIMENTO> Festival <END> de <START:LOCAL> Cannes <END> <START:TEMPO> de 1994 <END> ?
+Quantos habitantes tem <START:LOCAL> Catmandu <END> ?
+A que partido político pertence <START:PESSOA> Thérèse Aillaud <END> ?
+Ela é deputada por que região?
+Quem foi eleito <START:PESSOA> presidente da África do Sul <END>  <START:TEMPO> a 9 de Maio de 1994 <END> ?
+Quem se tornou <START:PESSOA> líder do Partido Trabalhista <END>  britânico <START:TEMPO> a 21 de Julho de 1994 <END> ?
+Quais as cinco praias do desembarque das quais um industrial comprou <START:VALOR> 200 toneladas <END>  de areia para comemorar o <START:VALOR> 50º <END> aniversário do <START:ACONTECIMENTO> Dia-D <END> ?
+Quem era <START:PESSOA> presidente da Comissão Europeia <END>  <START:TEMPO> em 1995 <END> ?
+Onde é que  <START:PESSOA> Stephanie <END> do <START:LOCAL> Mónaco <END> e <START:PESSOA> Daniel Ducruet <END> se casaram?
+Quantas pessoas estavam presentes na cerimónia em memória do escritor <START:PESSOA> Elias Canetti <END> ?
+Qual o endereço da  <START:LOCAL> Delegação de Turismo <END> do <START:LOCAL> Sri Lanka <END> ?
+Que aconteceu na <START:LOCAL> Argélia <END> <START:TEMPO> na noite de 17 para 18 de Agosto de 1994 <END> ?
+Quantas pessoas morreram no terramoto?
+Quantos quilómetros são de <START:LOCAL> Orão <END> a <START:LOCAL> Macara <END> ?
+Um míssil <START:COISA> ASMP <END> é quantas vezes mais rápido do que a velocidade do som?
+O que é a <START:ORGANIZACAO> FPLP <END> ?
+Quem era considerado chefe do grupo?
+Em que país fica <START:LOCAL> Beit Liqya <END> ?
+A que cidade chinesa foi <START:PESSOA> Warren Christopher <END> enviado por <START:PESSOA> Bill Clinton <END> para apreciar os eventuais progressos relativos aos direitos humanos?
+Quem é <START:PESSOA> Sir Winston Churchill <END> ?
+Que prémio ganhou o filme " <START:OBRA> Pulp Fiction <END> " no  <START:ACONTECIMENTO> Festival <END> de <START:LOCAL> Cannes <END> ?
+Quem realizou esse filme?
+Quem é o actor principal?
+Quantos habitantes tem a <START:LOCAL> União Soviética <END> ?
+Quantos poços tiveram que ser encerrados após a ruptura de um oleoduto na <START:LOCAL> Sibéria <END> ?
+Onde é que fica o aeroporto de <START:LOCAL> Irkutsk <END> ?
+Que dois bancos se fundiram para formar o banco <START:ORGANIZACAO> Tokyo-Mitsubishi <END> ?
+Quantos quilómetros separam <START:LOCAL> Kikwit <END> de <START:LOCAL> Kinshasa <END> ?
+Em que filme de <START:PESSOA> André Cayatte <END> participou <START:PESSOA> Annie Girardot <END> <START:TEMPO> em 1971 <END> ?
+De que doença é que ela sofre <START:TEMPO> desde 2006 <END> ?
+Onde é que ela nasceu?
+O que é a aceleração centrífuga?
+O que significa a sigla <START:ABSTRACCAO> WIA <END> ?
+Em que ano foi realizado o filme " <START:OBRA> Ace Ventura em África <END> "?
+Que vírus atingiu o <START:LOCAL> Zaire <END> ?
+O que é Geographos?
+Que avião civil efectuou o voo mais longo sem escalas?
+Onde é que o <START:COISA> A340 <END> levou a cabo o voo mais longo sem escalas por um avião civil?
+Quando é que este feito foi levado a cabo?
+Que nome se dá a uma inflamação dos gânglios?
+Quais são os outros três nomes do <START:ORGANIZACAO> Arsenal Football Club <END> ?
+Quando é que este clube foi fundado?
+Em que estádio é que os jogadores do <START:PESSOA> Arsenal <END> têm estado a treinar <START:TEMPO> desde Agosto de 2006 <END> ?
+Quantos lugares tem o estádio?
+Com que <START:OUTRO> Prémio Nobel <END> é que <START:PESSOA> Seamus Heaney <END> foi galardoado?
+Quantos estados ratificaram a convenção adoptada pela  <START:ORGANIZACAO> Assembleia Geral <END> da <START:ORGANIZACAO> ONU <END> <START:TEMPO> em 20 de Novembro de 1989 <END> ?
+Quem é <START:PESSOA> Arsène Wenger <END> ?
+De que equipa é que ele se tornou treinador <START:TEMPO> em 1987 <END> ?
+Em que ano foi fundada a firma <START:ORGANIZACAO> Adidas Group AG <END> ?
+Qual é a sua área de trabalho?
+Qual é a altitude do <START:LOCAL> Monte Rosa <END> ?
+Quantos litros de azeite são comercializados <START:TEMPO> por ano <END> pela <START:ORGANIZACAO> EBS <END> ?
+De que país é <START:PESSOA> Kim Il Sung <END> presidente?
+As amêndoas são o fruto de que árvore?
+De onde é que ela é originária?
+Quem é <START:PESSOA> Charles-Ange Ginésy <END> ?
+De que município é que ele também é presidente?
+Em que grupo político é que ele tem assento?
+O que é a febre-amarela?
+Que ferry-boat famoso naufragou no <START:LOCAL> Mar Báltico <END> ?
+Em que país teve lugar a cimeira dos <START:ORGANIZACAO> G7 <END> <START:TEMPO> em Julho de 1994 <END> ?
+A que horas ocorreu o acidente no metro de <START:LOCAL> Valência <END> <START:TEMPO> a 3 de Julho de 2006 <END> ?
+Quantos mortos causou esse acidente?
+A que velocidade circulava o metro?
+Quando é que a <START:LOCAL> Tanzânia <END> fechou as fronteiras aos refugiados do <START:LOCAL> Ruanda <END> ?
+Que slalom é que <START:PESSOA> Alberto Tomba <END> ganhou <START:TEMPO> a 6 de Fevereiro de 1994 <END> ?
+O que é " <START:PESSOA> Ace of Base <END> "?
+De que cidade é este grupo?
+Quem são os quatro membros que compõem o grupo?
+Qual é o arranha-céus mais alto do mundo?
+O que é <START:PESSOA> Asandros <END> ?
+Quem é o irmão dele?
+Onde é que <START:PESSOA> Danny Barker <END> morreu?
+Quem foi nomeado <START:PESSOA> presidente da SNCF <END>  <START:TEMPO> em 20 de Dezembro de 1995 <END> ?
+Que quatro planetas do sistema solar são compostos principalmente de gás?
+Diga um corpo celeste.
+De que é que é composta a atmosfera da <START:COISA> Lua <END> ?
+Em informática, o que é <START:COISA> Alien <END> ?
+Qual é a principal companhia de aviação em <START:LOCAL> França <END> ?
+Que cinco companhias de aviação que se fundiram <START:TEMPO> em 1933 <END> para criar a <START:ORGANIZACAO> Air France <END> ?
+Em quantos países os aviões da <START:ORGANIZACAO> Air France <END> fazem os seus <START:VALOR> 1800 <END> voos diários?
+Que companhia detém <START:VALOR> 100% <END> do capital da <START:ORGANIZACAO> Air France <END> ?
+Que conto célebre de <START:PESSOA> Hans Christian Andersen <END> é a adaptação do conto " <START:OBRA> Aladino e a Lâmpada Mágica <END> "?
+O que é a <START:ORGANIZACAO> AIEA <END> ?
+Que prémio é recebeu <START:TEMPO> em 2005 <END> ?
+Em que cidade podemos encontrar essa agência?
+Qual foi o seu orçamento <START:TEMPO> para o ano de 2004 <END> ?
+Quando é que <START:PESSOA> Thierry Henry <END> ganhou o campeonato do mundo de râguebi?
+O que é a <START:ORGANIZACAO> MNEF <END> ?
+Quando é que chegou ao fim o último julgamento sobre o escândalo da <START:ORGANIZACAO> MNEF <END> ?
+Segundo <START:PESSOA> Jean Michel Grosz <END> , que organização foi criada no seu escritório?
+Qual era a altura de <START:PESSOA> Marylin Monroe <END> ?
+Que vaivém pôs a sonda espacial <START:COISA> Ulisses <END> em órbita?
+Que idade tinha <START:PESSOA> Grégory Villemin <END> quando o seu corpo foi encontrado?
+Quem era <START:PESSOA> Bernard Laroche <END> ?
+Que juiz acusou <START:PESSOA> Christine Villemin <END> ?
+O que é <START:ORGANIZACAO> Alcatel <END> ?
+Que companhia foi criada por <START:PESSOA> Pierre Azaria <END> <START:TEMPO> em 1898 <END> ?
+Com que grupo a <START:ORGANIZACAO> Alcatel <END> anunciou a fusão <START:TEMPO> em Março de 2006 <END> ?
+Quem era o <START:PESSOA> director-geral da Alcatel <END>  <START:TEMPO> de 1986 a 1995 <END> ?
+O que é Assédic?
+Quando é que saiu o rimeiro <START:COISA> Álbum <END>  da cantora americana <START:PESSOA> Anastacia <END> ?
+Desde a saída do seu primeiro álbum, quantos discos é que <START:PESSOA> Anastacia <END> vendeu?
+Quando é que <START:PESSOA> Jacques Chirac <END> foi assassinado?
+Que jogador espanhol ganhou <START:ACONTECIMENTO> Roland Garros <END> <START:TEMPO> em 1994 <END> ?
+Quantos habitantes tem a <START:LOCAL> Alemanha <END> ?
+Quantos quilómetros de ferrovia tinha a <START:LOCAL> Alemanha <END> <START:TEMPO> em 1998 <END> ?
+<START:TEMPO> Em Novembro de 2005 <END> , qual a taxa de desemprego na <START:LOCAL> Alemanha <END> ?
+Qual era a moeda da <START:LOCAL> Alemanha <END> antes do euro?
+Num relógio, qual o ponteiro que aponta para as horas?
+O que é o amianto?
+Qual a primeira causa de morte das pessoas expostas ao amianto?
+O que é um administrador de rede?
+Quem é <START:PESSOA> Allan Frederick Jacobsen <END> ?
+Por que clube joga?
+Quanto é que ele pesa?
+Em que árvore crescem os morangos?
+Quem é <START:PESSOA> Amira Casar <END> ?
+Onde é que ela nasceu?
+Em que filme é que ela entrou com <START:PESSOA> Richard Anconina <END> ?
+Como se chama o <START:PESSOA> presidente das Filipinas <END> ?
+Que barragem seria a maior do mundo se tivesse sido construída?
+Qual era o custo estimado do projecto?
+Quantos meses tem <START:TEMPO> numa semana <END> ?
+Que agência está encarregada de centralizar as ofertas e pedidos de emprego em <START:LOCAL> França <END> ?
+Quantos colaboradores tem a <START:ORGANIZACAO> ANPE <END> ?
+Quem é que dirige essa agência <START:TEMPO> desde 2005 <END> ?
+O que é um afixo?
+Quem foi assassinado <START:TEMPO> a 4 de Novembro de 1995 <END> , aos <START:VALOR> 73 anos <END> ?
+Qual é a primeira região francesa em população?
+Quantos habitantes tem essa região?
+O que é o Filival?
+Em quantas províncias está dividido o <START:LOCAL> Afeganistão <END> ?
+Que língua é falada pela maioria da população afegã?
+Quantas escolas havia no <START:LOCAL> Afeganistão <END> <START:TEMPO> em 2003 <END> ?
+O que é o ácido desoxirribonucleico?
+Que sigla se usa para designar essa molécula?
+Qual é o antigo nome do <START:LOCAL> Alabama <END> ?
+Quantos condados tem o <START:LOCAL> Alabama <END> ?
+Que estado fica a norte do <START:LOCAL> Alabama <END> ?
+Que organismo gere os subsídios de desemprego em <START:LOCAL> França <END> ?
+Que organização se dedica especificamente à sobrevivência dos patos?
+Quem é que derrotou <START:PESSOA> Michael Moorer <END> no <START:VALOR> 10º <END> round em <START:LOCAL> Las Vegas <END> ?
+O que é uma árvore coral?
+Que altura pode esta árvore atingir?
+Quanto é que pesa uma maçã?
+O que á <START:ORGANIZACAO> AFNOR <END> ?
+Qual é o equivalente da <START:ORGANIZACAO> AFNOR <END> nos <START:LOCAL> Estados Unidos <END> ?
+O que é uma alergia?
+Que outro nome se dá a uma alergia?
+<START:TEMPO> Em 1980 <END> , que percentagem da população tinha sido atingida por elas?
+Que alergia afecta <START:VALOR> cerca de 8% <END> das crianças?
+Qual é a altura do <START:LOCAL> Monte Claro <END> ?
+Quais eram os primeiros nomes dos dois irmãos <START:PESSOA> Piccard <END> ?
+Qual deles descobriu o urânio 235?
+Que duas profissões teve este último?
+Que personagem é que <START:PESSOA> César Romero <END> representava na famosa série televisiva " <START:OBRA> Batman <END> "?
+Onde é que ele morreu?
+Que idade tinha ele?
+A que movimento político pertence a <START:PESSOA> Arlette Laguiller <END> ?
 --DOCSTART--
     
- Actualmente é de <START:VALOR> 570,6 euros <END>        
- <START:ORGANIZACAO> Espanha <END> aumenta salário mínimo para <START:VALOR> 600 euros <END>        
- O <START:ORGANIZACAO> Governo <END> socialista espanhol aprovou <START:TEMPO> hoje <END> o aumento do salário mínimo em <START:LOCAL> Espanha <END> , fazendo-o passar dos actuais <START:VALOR> 570,6 euros <END> para <START:VALOR> 600 euros <END> <START:TEMPO> no próximo ano <END> .
-«Aprovámos o decreto que estabelece o salário mínimo interprofissional nos <START:VALOR> 600 euros <END> <START:TEMPO> por mês <END> , com efeito <START:TEMPO> a partir de 1 de Janeiro <END> », anunciou o   <START:PESSOA> chefe do Governo <END> , <START:PESSOA> José Luís Rodriguez Zapatero <END> , numa conferência de imprensa do último <START:ACONTECIMENTO> Conselho de Ministros <END> <START:TEMPO> deste ano <END> .
-Este aumento foi conseguido graças ao acordo com os sindicatos e o patronato acrescentou <START:PESSOA> Zapatero <END> , que afirmou que esse valor correspondia às suas promessas eleitorais, precisando que o salário mínimo estava nos <START:VALOR> 460 euros <END> <START:TEMPO> em 2004 <END> , aquando da sua ascensão ao poder.
-O chefe do governo vai disputar um segundo mandato de quatro anos nas eleições legislativas de <START:TEMPO> 9 de Março <END> , e salienta <START:TEMPO> frequentemente <END> o seu balanço económico positivo.
-<START:TEMPO> Em Outubro <END> , <START:PESSOA> Zapatero <END> prometeu igualmente aumentar o salário mínimo até aos <START:VALOR> 800 euros <END> <START:TEMPO> por mês <END> em caso de reeleição.
-À excepção dos antigos países do bloco de leste, a <START:LOCAL> Espanha <END> é um dos países que tem o salário mínimo mais baixo da <START:LOCAL> União Europeia <END> , juntamente com <START:LOCAL> Portugal <END> , <START:LOCAL> Grécia <END> e <START:LOCAL> Malta <END> .
+Fatores Demográficos e Econômicos Subjacentes    
+ A revolta histórica produz normalmente uma nova forma de pensamento quanto à forma de organização da sociedade.
+Assim foi com a <START:ABSTRACCAO> Reforma Protestante <END> .
+No seguimento do colapso de instituições monásticas e do escolasticismo nos finais da <START:OUTRO> Idade Média <END> na <START:LOCAL> Europa <END> , acentuado pela " Cativeiro Babilónica da igreja " no papado de <START:ACONTECIMENTO> Avignon <END> , o <START:ACONTECIMENTO> Grande Cisma <END> e o fracasso da conciliação, assistimos <START:TEMPO> no século XVI <END> ao fermentar de um enorme debate sobre a reforma da religião e dos posteriores valores religiosos fundamentais.
+Este debate passou completamente ao lado de <START:PESSOA> Portugal <END> , demasiado distante do foco onde surgiram estes pensamentos.
+A imprensa, inventada na <START:LOCAL> Alemanha <END> por <START:PESSOA> John Gutenberg <END> , foi importante na divulgação destas ideias.
+As   <START:OBRA> 95 Teses <END>  de <START:PESSOA> Martinho Lutero <END> foram imediatamente impressas e divulgadas por todas as regiões de língua alemã, o que contribuiu para a crescente popularidade de <START:PESSOA> Martinho Lutero <END> .
+Não menos relevante foi a influência da pressão social exercida pela <START:ABSTRACCAO> Contra-Reforma <END> , na qual os <START:PESSOA> Jesuítas <END> tiveram um papel de liderança.
+A <START:ORGANIZACAO> Inquisição <END> e a censura exercida pela <START:ORGANIZACAO> Igreja Católica <END> foram igualmente determinantes para evitar que as ideias reformadoras encontrassem divulgação em <START:LOCAL> Portugal <END> , <START:LOCAL> Espanha <END> ou <START:LOCAL> Itália <END> , países católicos.
+Historiadores assumem geralmente que a incapacidade de reformar (grande número de interesses legítimos, falta de coordenação na coligação dos reformadores) poderia levar a uma grande revolta ou revolução, uma vez que o sistema deverá ser gradualmente ajustado ou então desintegrar-se.
+O fracasso da conciliação levou à <START:ACONTECIMENTO> Reforma Protestante <END> do ocidente europeu.
+Estes movimentos reformistas frustrados variam desde o nominalismo, a moderna devoção, ao humanismo, e ocorrem em conjunção com o crescente desagrado perante a riqueza e o poder da elite clerical, sensibilizando a população para a corrupção moral e financeira da <START:ORGANIZACAO> Igreja <END> .
+A Reforma Religiosa e Política na <START:LOCAL> Inglaterra <END>        
+ <START:PESSOA> Henrique VIII <END> O curso da <START:ACONTECIMENTO> Reforma <END> foi diferente na <START:LOCAL> Inglaterra <END> .
+Tinha havido desde há muito uma forte corrente anti-clerical, tendo a <START:PESSOA> Inglaterra <END> já tido o movimento <START:ABSTRACCAO> Lollard <END> , que inspirou os <START:PESSOA> Hussitas <END> na <START:LOCAL> Boémia <END> .
+Mas <START:TEMPO> em cerca de 1520 <END> , no entanto, os <START:PESSOA> Lollards <END> não eram já uma força activa, ou pelo menos um movimento de massas.
+O carácter diferente da <START:ABSTRACCAO> Reforma Inglesa <END> deve-se ao facto de ter sido promovida inicialmente pelas necessidades políticas de <START:PESSOA> Henrique VIII <END> .
+Sendo este casado com  <START:PESSOA> Catarina <END> de <START:LOCAL> Aragão <END> e estando apaixonado por <START:PESSOA> Ana Bolena <END> , <START:PESSOA> Henrique <END> solicita ao <START:PESSOA> Papa Clemente VII <END> a anulação do casamento.
+Perante a recusa do <START:PESSOA> Papado <END> , <START:PESSOA> Henrique <END> faz-se proclamar, <START:TEMPO> em 1531 <END> , protector da <START:ORGANIZACAO> Igreja <END> inglesa .
+O " <START:OBRA> Ato de Supremacia <END> ", votado no <START:ORGANIZACAO> Parlamento <END> <START:TEMPO> em Novembro de 1534 <END> , colocou <START:PESSOA> Henrique <END> e os seus sucessores na liderança da <START:ORGANIZACAO> Igreja <END> : os súbditos deveriam submeter-se ou então seriam excomungados e perseguidos.
+Apesar de uma certa deriva em direcção ao luteranismo, <START:PESSOA> Henrique <END> reafirma a ortodoxia católica através da " <START:OBRA> Confissão dos Seis Artigos <END> " ( <START:TEMPO> 1539 <END> ).
+<START:TEMPO> Entre 1540 e 1553 <END> , sob <START:PESSOA> Thomas Cromwell <END> , a política conhecida como a dissolução dos mosteiros foi posta em prática.
+A veneração de santos, locais de peregrinação foram atacados.
+Enormes extensões de terras e propriedades da <START:ORGANIZACAO> Igreja <END> passaram para as mãos da coroa e posteriormente da nobreza e das classes altas.
+Os direitos adquiridos foram uma força poderosa de apoio às dissoluções.
+Houve muitos opositores da  <START:ABSTRACCAO> Reforma <END> de <START:PESSOA> Henrique <END> , tais como <START:PESSOA> Thomas More <END> e o <START:PESSOA> Bispo John Fischer <END> , que foram executados pela sua oposição.
+Mas também existiu um partido crescente de <START:PESSOA> Protestantes <END> genuínos que estavam inspirados pelas doutrinas então correntes no continente.
+Quando <START:PESSOA> Henrique <END> foi sucedido pelo seu filho <START:PESSOA> Eduardo VI <END> <START:TEMPO> em 1547 <END> , os protestantes viram-se em ascendente no governo.
+Uma reforma mais radical foi imposta, com a destruição de imagens e o fecho de capelas, para além de ter sido revogada a " <START:OBRA> Confissão dos Seis Artigos <END> ".
+<START:TEMPO> Em 1552 <END> , é redigido o novo " <START:OBRA> Livro de Orações <END> " e promulgada a " <START:OBRA> Confissão de Fé em Quarenta e Dois Artigos <END> ", que aproximava doutrinalmente a  <START:ABSTRACCAO> Igreja <END> de <START:LOCAL> Inglaterra <END> do calvinismo.
+Seguiu-se uma breve reacção católica durante o reinado de <START:PESSOA> Maria I <END> ( <START:TEMPO> 1553-1558 <END> ).
+De início moderada na sua política religiosa, <START:PESSOA> Maria <END> procura a reconciliação com <START:ORGANIZACAO> Roma <END> , consagrada <START:TEMPO> em 1554 <END> , quando o <START:ORGANIZACAO> Parlamento <END> vota o regresso à obediência papal.
+Porém, as perseguições violentas que move aos não católicos e o seu casamento com <START:PESSOA> Filipe II <END> de <START:LOCAL> Espanha <END> | Filipe II de Espanha , provocam um forte descontentamento na população.
+Um consenso começou a surgir durante o reinado de <START:PESSOA> Isabel I <END> .
+<START:TEMPO> Em 1559 <END> , <START:PESSOA> Isabel <END> retorna à religião do pai, com o restabelecimento do " <START:OBRA> Ato de Supremacia <END> " e do " <START:OBRA> Livro de Orações <END> " de <START:PESSOA> Eduardo VI <END> .
+Através da " <START:OBRA> Confissão dos Trinta e Nove Artigos <END> " ( <START:TEMPO> 1563 <END> ), <START:PESSOA> Isabel <END> alcança um compromisso entre o protestantismo e o catolicismo: embora o dogma se aproxime do calvinismo, só admitindo como sacramento o baptismo e a eucaristia, é mantida a hierarquia episcopal e o fausto das cerimónias religiosas.
+O sucesso da <START:ACONTECIMENTO> Contra-Reforma <END> no continente e o crescimento de um partido puritano dedicado a estender a <START:ABSTRACCAO> Reforma Protestante <END> polarizou a <START:TEMPO> era Elizabetana <END> , apesar da <START:LOCAL> Inglaterra <END> não ter tido <START:TEMPO> até 1640 <END> lutas religiosas comparáveis às dos seus vizinhos.
+Na verdade a <START:ABSTRACCAO> Reforma <END> na <START:LOCAL> Inglaterra <END> procurou preservar o máximo da <START:ABSTRACCAO> Tradição Católica <END> (episcopado, liturgia e sacramentos).
+A  <START:ORGANIZACAO> Igreja <END> da <START:LOCAL> Inglaterra <END> sempre se viu como a "eclesia anglicanae", ou seja, "A <START:ORGANIZACAO> Igreja <END> cristã na <START:LOCAL> Inglaterra <END> " e não derivação da  <START:ORGANIZACAO> Igreja <END> de <START:LOCAL> Roma <END> ou do movimento reformista <START:TEMPO> do século XVI <END> .
+Como consequência disso sempre existiu dois grandes "partidos" ou "facções": a <START:ABSTRACCAO> Igreja Alta <END> ( <START:ABSTRACCAO> High Church <END> ) e <START:ABSTRACCAO> Igreja Baixa <END> ( <START:ABSTRACCAO> Low Church <END> ), que refletem a controvérsia histórica sobre as formas de culto e de expressão.
+A <START:ABSTRACCAO> Reforma Anglicana <END> buscou ser a "via média" entre os extremos romanos e puritanos.
+Assim aceitam os dois sacramentos do <START:ABSTRACCAO> Evangelho <END> : o <START:ABSTRACCAO> Santo Batismo <END> , através do qual a pessoa é feita membro da <START:ORGANIZACAO> Igreja de Cristo <END> , sendo que tal graça é complementada na <START:ABSTRACCAO> Confirmação <END> , e na <START:ABSTRACCAO> Santa Comunhão <END> , que une o cristão ao sacrifício de <START:PESSOA> Cristo Jesus <END> que os alimenta com seu corpo e sangue.
+Para os anglicanos estes dois sacramentos foram instituídos pelo próprio <START:PESSOA> Senhor Jesus Cristo <END> .
+Os demais ritos sacramentais da <START:ORGANIZACAO> Igreja <END> também são aceitos, apesar de não terem sido instituídos por <START:PESSOA> Cristo <END> , mas são reconhecidos por serem, em parte, estados de vida aprovados nas <START:OBRA> Escrituras <END> : a <START:ABSTRACCAO> Confirmação <END> , <START:ABSTRACCAO> Penitência <END> , <START:ABSTRACCAO> Ordens <END> , <START:ABSTRACCAO> Matrimônio <END> e a Unção dos enfermos .
+Embora tenham se afastado de muitas das prática devocionais medievais com relação aos santos e a <START:PESSOA> Virgem Maria <END> mantiveram um calendário específico para sua comemoração na <START:ORGANIZACAO> Igreja <END> , em especial as antigas festas marianas diretamente associadas aos méritos de seu Filho <START:PESSOA> Jesus Cristo <END> ( <START:ACONTECIMENTO> Anunciação <END> , <START:ACONTECIMENTO> Natividade <END> etc).
 --DOCSTART--
+
+<START:PESSOA> Camacho <END> ganhou sempre a <START:PESSOA> Jesualdo <END> mas não ao <START:PESSOA> FC Porto <END>
+AS ESTATÍSTICAS DO CLÁSSICO DE SÁBADO QUANTO À LIGA 
+Se as estatísticas quiserem dizer alguma coisa, <START:PESSOA> Camacho <END> pode encarar o clássico <START:TEMPO> de sábado <END> com optimismo.
+O espanhol soma por vitórias os <START:VALOR> 3 <END> jogos frente a <START:PESSOA> Jesualdo Ferreira <END> , técnico ao qual sucedeu no comando do <START:PESSOA> Benfica <END> , <START:TEMPO> em 2002/2003 <END> .
+No entanto, há outra leitura que tem de ser feita: o espanhol jamais venceu o <START:PESSOA> FC Porto <END> para o campeonato.
+Em três "duelos", face a <START:PESSOA> Jesualdo <END> , então ao comando do <START:PESSOA> Sp.Braga <END> , <START:PESSOA> Camacho <END> venceu <START:TEMPO> por duas vezes <END> como visitante ( <START:VALOR> 3-1 <END> <START:TEMPO> em 2002/2003 <END> e 3-0 <START:TEMPO> em 2003/2004 <END> ) e uma como anfitrião ( <START:VALOR> 2-0 <END> <START:TEMPO> em 2003/2004 <END> ).
+O espanhol está 100 por cento vitorioso face a <START:PESSOA> Jesualdo <END> , mas nunca enceu o <START:PESSOA> FC Porto <END> para o campeonato, tendo como melhor registo o empate na <START:LOCAL> Luz <END> , <START:TEMPO> em 2003/2004 <END> ( <START:VALOR> 1-1 <END> ).
+Na mesma temporada, <START:PESSOA> Camacho <END> perdeu no <START:LOCAL> FC Porto <END> por <START:VALOR> 2-0 <END> e, na anterior, já tinha perdido em casa por <START:VALOR> 1-0 <END> .
+No entanto, pesar de não ter qualquer triunfo no campeonato, o espanhol conquistou frente aos "dragões" o único título da sua carreira.
+<START:TEMPO> A 16 de Maio de 2004 <END> , na final da  <START:ACONTECIMENTO> Taça <END> de <START:LOCAL> Portugal <END> , o <START:PESSOA> FC Porto <END> adiantou-se, por <START:PESSOA> Derlei <END> , mas o grego <START:PESSOA> Fyssas <END> empatou e, no prolongamento, <START:PESSOA> Simão <END> derrotou o "onze" de <START:PESSOA> José Mourinho <END> , que,  <START:TEMPO> 10 dias depois <END> , viria a vencer a <START:ACONTECIMENTO> Liga dos Campeões <END> ( <START:VALOR> 3-0 <END> ao <START:PESSOA> AS Mónaco <END> ).
+Por seu lado, <START:PESSOA> Jesualdo Ferreira <END> tem um balanço negativo nos confrontos com o <START:PESSOA> Benfica <END> , com quatro vitórias, três empates e cinco derrotas ( <START:VALOR> 13-19 <END> em golos), mas nunca perdeu ao comando do <START:PESSOA> FC Porto <END> : "a época passada, venceu no <START:LOCAL> Dragão <END> ( <START:VALOR> 3-2 <END> ) e empatou na <START:LOCAL> Luz <END> ( <START:VALOR> 1-1 <END> ).
+--DOCSTART--
+    
+ Novidades na     <START:ACONTECIMENTO> Macworld 2007 <END>         
+ <START:ORGANIZACAO> Apple <END> lançou o <START:COISA> iPhone <END> , o telemóvel mais esperado <START:TEMPO> dos últimos tempos <END>        
+ Sempre é o <START:COISA> iPhone <END> , dirão os que acompanharam as especulações e palpites <START:TEMPO> dos últimos meses <END> .
+A <START:ORGANIZACAO> Apple <END> , empresa de tecnologias que tem nos leitores multimédia <START:COISA> iPod <END> e nos computadores <START:COISA> Macintosh <END> a sua bandeira, acaba de entrar na área das telecomunicações.
+O novo telemóvel junta as capacidades de um telefone às de um leitor multimédia portátil.
+Funciona com o sistema operativo <START:COISA> MacOS X <END> , serve para comunicar e para trazer no bolso as músicas, o e-mail, as fotos ou os vídeos preferidos.
+O anúncio foi feito <START:TEMPO> ontem <END> , em <START:LOCAL> São Francisco <END> , nos <START:LOCAL> EUA <END> , onde decorre a <START:ACONTECIMENTO> Macworld <END> , feira que a <START:ORGANIZACAO> Apple <END> organiza <START:TEMPO> todos os anos <END> para apresentar as suas novidades.
+Como de costume, a conferência de <START:PESSOA> Steve Jobs <END> , o director-geral da empresa, foi o ponto alto para os fãs da <START:COISA> Apple <END> .        
+ "
+<START:TEMPO> De vez em quando <END> chega um produto revolucionário que muda tudo.
+É sorte se pudermos trabalhar num ao longo da carreira... e a <START:ORGANIZACAO> Apple <END> é sortuda por já ter lançado vários", disse <START:PESSOA> Steve Jobs <END> .
+O novo telefone vai estar disponível <START:TEMPO> em Junho <END> , nos <START:LOCAL> EUA <END> , em duas versões: uma com <START:VALOR> 8 gigabytes (GB) <END> de capacidade de armazenamento, que custará <START:VALOR> 600 dólares <END> , e outra com <START:VALOR> 4 GB <END> , a <START:VALOR> cerca de 500 dólares <END> .
+À <START:LOCAL> Europa <END> chegará <START:TEMPO> no final do ano <END> , e na <START:LOCAL> Ásia <END> só <START:TEMPO> em 2008 <END> .
+Tem uma câmara fotográfica com <START:VALOR> 2 megapixels <END> de resolução e um ecrã táctil com <START:VALOR> 8,8 centímetros <END> de diagonal.
+Nos <START:LOCAL> EUA <END> , o telemóvel da <START:ORGANIZACAO> Apple <END> funcionará na rede <START:COISA> Cingular Wireless <END> .
+O seu desenvolvimento levou ao registo de <START:VALOR> mais de 200 <END> patentes, o que o torna numa das maiores inovações da empresa.
+O facto de ter o sistema operativo <START:COISA> OS X <END> - usado nos computadores da <START:COISA> Apple <END> - significa que o <START:COISA> iPhone <END> terá muitas das funções habituais naquelas máquinas.
+Permitirá aceder ao correio electrónico de forma automática ou ver os mapas do <START:ORGANIZACAO> Google <END> .
+--DOCSTART--
+    
+P: Então tu passaste uma infância muito sozinha?
+Bem, na província, <START:TEMPO> às vezes <END> brincava com outros meninos filhos do ... ou doutras pessoas do tribunal, ou da rua, até.
+Brincava... Ali, em <START:LOCAL> Alenquer <END> .
+Porque <START:TEMPO> depois <END> viemos, voltámos para <START:LOCAL> Lisboa <END> , o meu pai esteve então, se não me engano, como ... chefe de gabinete do  <START:PESSOA> Ministro da Justiça <END> , por isso, voltámos, que era o <START:PESSOA> dr. Catanho de Meneses <END> .
+Voltámos para <START:LOCAL> Lisboa <END> e foi quando saímos de <START:LOCAL> Santa Quitéria <END> para a <START:LOCAL> Rua Sampaio Pina <END> .
+E na <START:LOCAL> Rua Sampaio Pina <END> , que era ao lado do <START:LOCAL> Rádio Clube Português <END> , a casa que ainda existe <START:TEMPO> hoje <END> e faz esquina para a rua <START:LOCAL> Castilho <END> , no primeiro andar, então alugámos essa casa, e aí então é que eu comecei foi a aprender o alemão com uma preceptora alemã, que era... que vinha <START:TEMPO> três vezes por semana <END> , dar-me lição de alemão.
+Não estava lá em casa, havia preceptoras internas, que estavam dentro, que eram internas, estavam lá, nas casas dos respectivos alunos, mas aquela senhora, a <START:PESSOA> Kaethe Goethe <END> , não.
+Vinha <START:TEMPO> três vezes por semana <END> dar-me a lição de alemão.
+D: E tu gostavas?
+Gostava!
+Tinha uns livros assim muito engraçados, que ainda <START:TEMPO> hoje <END> conheces, que conservo.
+D: E ela era professora?
+Ela era professora mesmo, ou?
+Era professora, quero dizer ela veio para <START:LOCAL> Portugal <END> dar aulas.
+Não sei se veio interna para uma casa e <START:TEMPO> depois <END> deixou, estava...        
+D: Mas enfim, não é uma senhora alemã que dava umas aulinhas para ... para    
+ Não, ela era uma senhora que tinha vindo da <START:LOCAL> Alemanha <END> só para ser professora, e tinha... tinha-se instalado numa casa que era o lar das... das professoras de alemão, que havia <START:TEMPO> nessa altura <END> , na <START:LOCAL> Avenida <END> , perto da <START:LOCAL> Praça da Alegria <END> .
+Lembro-me de ela lá me ter levado e tenho aí até fotografias de um cão, desse dito lar, a querer abraçar-me, coisa que eu não gostei nada, como continuo a não gostar de abraços de cão.
+D: Mas já tinhas o <START:COISA> Sirius <END> ...
+Não, o <START:COISA> Sirius <END> veio <START:TEMPO> muitíssimo mais tarde <END> .
+Não, na <START:LOCAL> Sampaio Pina <END> não tinha o <START:COISA> Sirius <END> , não tinha cão nenhum.
+D: Então tinhas a tua mãe, como professora de tudo o resto e a senhora    
+ Pois, o resto, tinha grandes amigas sempre.
+Constante, até era, mais até que as minhas primas... tinha as minhas primas, e tinha a <START:PESSOA> Joaninha Sampaio e Melo <END> , que era filha da maior amiga da minha mãe, da <START:LOCAL> Lourinhã <END> .
+--DOCSTART--
+    
+ <START:PESSOA> Salgado <END> , o fotógrafo da <START:ABSTRACCAO> África <END> perdida        
+ " <START:OBRA> África <END> " do fotojornalista <START:PESSOA> Sebastião Salgado <END> é um murro na alma, um livro que consegue ainda surpreender os nossos olhos tão viciados que estão na catadupa de imagens que invadem o nosso quotidiano.
+É também o carimbo que autentica a vitalidade do fotojornalismo de referência, <START:TEMPO> no tempo <END> em que num ápice <START:TEMPO> de 5 anos <END>  a fotografia digital e toda ferramenta que permite uma nova linguagem multimédia, pareciam condenar o preto-e-branco como a última sessão fotográfica.
+Conheci o <START:PESSOA> Sebastião Salgado <END> em <START:LOCAL> Fátima <END> <START:TEMPO> no ano de 1979 <END> .
+Ao meu lado apareceu um fotógrafo estrangeiro, de ar cansado e que começou a comentar como era louco um velhote com as pernas entrapadas que teimava em iniciar de joelhos mais uma dolorosa promessa.
+O <START:PESSOA> António Pedro Ferreira <END> , outro fotógrafo peregrino, reconheceu-o logo como sendo o <START:PESSOA> Sebastião Salgado <END> .
+Na época ele ainda não era muito conhecido, tinha iniciado a carreira de fotógrafo <START:TEMPO> em 1975 <END> , em <START:LOCAL> Angola <END> , fotografando a aventura portuguesa <START:TEMPO> na hora <END> da descolonização.
+Mandara às urtigas uma profissão respeitável de economista e descobrira que a fotografia era o meio ideal para mostrar ao <START:PESSOA> Mundo <END> a saga do sofrimento humano.
+As suas fotos tinham sido publicadas na <START:LOCAL> Photo <END> e no <START:LOCAL> Paris-Match <END> , que eu me lembre, e tinham-me marcado pela capacidade de testemunharem momentos únicos, aliando o olhar jornalístico, ao apuro técnico, a sensibilidade social ao rigor estético.
+Sempre me intrigou, e <START:TEMPO> hoje <END> de novo ao ver o " <START:OBRA> África <END> " onde estão também essas fotos, como é que um fotógrafo sem experiência já conseguia enquadrar de uma forma tão rigorosa e com um carácter tão forte.
+Só os mestres o conseguem com muita maturidade mas ele já alinhava na grelha de partida em primeiro para aquela que acabaria por ser uma carreira fulgurante.
+Em <START:LOCAL> Fátima <END> , <START:TEMPO> no dia seguinte pela manhã <END> voltei a encontrá-lo, sempre com o <START:PESSOA> António Pedro Ferreira <END> ao lado, e ele acabou por confessar (o lugar prestava-se a isso!)
+que tinha adormecido na véspera no quarto do hotel, depois de um jantar reconfortante falhando assim as fotografias da <START:ACONTECIMENTO> Procissão das Velas <END> .
+Eu já contei esta história mas gosto de a repetir porque ela desmistifica a ideia de que os grandes repórteres são infalíveis.
+Não são.
+Falar das fotografias do <START:PESSOA> Sebastião Salgado <END> é redundante.
+Elas falam, dizem, explicam, sugerem, escondem, denunciam, por si, a visão grandiosa do fotojornalista-autor.
+Interessante é o método de <START:PESSOA> Salgado <END> para concretizar as suas reportagens.
+Trabalha com uma equipa reduzida.
+A mulher, arquitecta, dá-lhe apoio na produção, no design que transporta as fotografias.
+Depois conta com mais duas ou três pessoas num pequeno apartamento em <START:LOCAL> Paris <END> .
+Por detrás das suas imagens uma ideia, um projecto, uma produção, um fim.
+<START:PESSOA> Salgado <END> não fotografa à solta, não dispara sem objectivo.
+Por isso as suas fotografias demoram <START:TEMPO> anos <END> a fazer, editar, imprimir, mostrar.
+<START:TEMPO> Durante muitos anos <END> o fotógrafo trabalhou nas agências <START:ORGANIZACAO> Sygma <END> e <START:ORGANIZACAO> Gamma <END> e <START:TEMPO> mais tarde <END> foi membro da     <START:ORGANIZACAO> Magnum <END> .
+Para ter fundo de maneio para poder realizar muitas das fotografias que agora aparecem no " <START:OBRA> África <END> ", trabalhava <START:TEMPO> nove meses <END> em <START:LOCAL> Paris <END> a fazer conselhos de ministros, política, faits-divers, para poder financiar os seus projectos especiais a preto-e-branco com cariz de autor, <START:TEMPO> durante os restantes três meses do ano <END> .
+O trabalho mais bem pago como fotojornalista foram as fotografias que fez por mero acaso do atentado a <START:PESSOA> Ronald Reagen <END> .
+A revista <START:PESSOA> Time <END> tinha-lhe pedido para seguir o <START:PESSOA> Presidente <END> <START:TEMPO> durante um mês <END> , ele fê-lo com alguma contrariedade e acabou por estar no sítio certo, à hora exacta, no instante decisivo.
+Havia mais dois fotógrafos a seu lado, um deles da <START:ORGANIZACAO> Associated Press <END> que fez fotos muito melhores, mais nítidas e mais perto, do que as dele, mas <START:PESSOA> Salgado <END> conseguiu mesmo assim com a venda dessas imagens, um pouco tremidas, comprar um pequeno apartamento em <START:LOCAL> Paris <END> .
+A obra de <START:PESSOA> Salgado <END> supera muito do que tem sido em geral <START:TEMPO> nos últimos 30 anos <END>  a fotografia documental.
+Não há outro fotógrafo na arte de testemunhar com uma tão extensa foto-galeria.
+Mas se o público enche aos milhares as suas exposições e corre a comprar os seus foto-álbuns, há uma elite da fotografia que questiona o sucesso comercial assente no testemunho da tragédia alheia, mesmo que haja no seu discurso visual e falado uma obsessão de esquerda pelo estado das coisas e pelos desígnios da <START:PESSOA> Humanidade <END> .
+É um fotógrafo que ainda atravessa  da película para o digital, que permanece um artesão, e que está angustiado porque duvida conseguir no mercado a tempo película a preto e branco para poder acabar o seu novo projecto.
+Com " <START:OBRA> África <END> " regressamos ao tempo perdido e com <START:PESSOA> Salgado <END> revivemos o melhor que há na essência do fotojornalismo documental.
+<START:PESSOA> Luiz Carvalho <END> , fotojornalista do <START:ORGANIZACAO> Expresso <END>      
+
+  --DOCSTART--
 
  <START:ABSTRACCAO> Indústria <END> e <START:ABSTRACCAO> Comércio <END> : <START:ABSTRACCAO> Informática <END> :
 <START:ORGANIZACAO> Consultoria e Sistemas RML <END> - Sistema de faturamento e administração de academias com controle de catracas eletrônicas e desenvolvimento de sistemas. <START:COISA> OperFit <END> , Adm pro, R white e Life sport
@@ -88,348 +429,24 @@ http://www.webspace.com.br/dibello
 http://www.diacon.com.br
 
 --DOCSTART--
-
-Quantas pessoas tiverem que abandonar as sus casas durante as cheias <START:TEMPO> de 1995 <END> na <START:LOCAL> Holanda <END> ?
-Que percentagem da <START:LOCAL> Holanda <END> está abaixo do nível do mar?
-Que altura atingiram as águas em <START:LOCAL> Lobith <END> durante as cheias?
-Quem era o primeiro-ministro holandês na altura?
-Quais os nomes completos de <START:PESSOA> Flanders <END> e <START:PESSOA> Swann <END> ?
-Em que ano é que eles se tornaram famosos?
-Em que línguas é que <START:PESSOA> Flanders <END> e <START:PESSOA> Swann <END>  cantavam?
-Em que ano morreu <START:PESSOA> Flanders <END> ?
-No duo " <START:PESSOA> Flanders e Swann <END> ", que instrumento tocava <START:PESSOA> Swann <END> ?
-Em que país é que <START:PESSOA> Swann <END> nasceu?
-Em que cidade morreu <START:PESSOA> Swann <END> ?
-Como se chamava a mulher de <START:PESSOA> Swann <END> ?
-De que país é que <START:PESSOA> Pierre Beregovoy <END> era primeiro-ministro?
-Em que ano é que <START:PESSOA> Beregovoy <END> se suicidou?
-A que partido político pertencia?
-Quantos fogos florestais ocorreram perto de <START:LOCAL> Sydney <END> <START:TEMPO> em Janeiro de 1994 <END> ?
-Quantas casas foram destruídas nos subúrbios de <START:LOCAL> Sydney <END> ?
-Que área de prados e florestas ardeu na <START:LOCAL> Nova Gales do Sul <END> ?
-Qual a velocidade do vento durante os incêndios?
-Como se chamava a barcaça que afundou em <START:LOCAL> Porto Rico <END> <START:TEMPO> a 7 de Janeiro de 1994 <END> ?
-Em que é que a barcaça bateu?
-Que quantidade de óleo para aquecimento foi derramada na água?
-Quantas milhas de praia tem <START:LOCAL> Porto Rico <END> ?
-O que é o <START:ABSTRACCAO> Síndroma da Guerra do Golfo <END> ?
-Quantas pessoas é que afectou?
-A que horas é que caiu o telhado do supermercado <START:LOCAL> Casino <END> em <START:LOCAL> Nice <END> ?
-De que material era feito o telhado do supermercado?
-Quantas pessoas morreram no acidente?
-Em que país ficava o supermercado?
-Quando é que foram ordenadas as primeiras mulheres pela  <START:ORGANIZACAO> Igreja <END> de <START:LOCAL> Inglaterra <END> ?
-Quantas mulheres foram ordenadas?
-Quem é que era então  <START:PESSOA> Arcebispo <END> de <START:LOCAL> Cantuária <END> ?
-Em que catedral é que se realizaram as ordenações?
-Diga marcas de azeite.
-Diga países onde se produz azeite.
-Que quantidade de azeite foi importada pelos <START:PESSOA> Estados Unidos <END> <START:TEMPO> em 1994 <END> ?
-Quantas variedades de azeitona são utilizadas para fazer azeite?
-De que grupo faz parte a <START:ORGANIZACAO> Skoda <END> ?
-Que tipo de <START:COISA> Skoda <END> tinha o motor à retaguarda?
-Em que país se produzem os <START:COISA> Skodas <END> ?
-Em que século foi fundada a <START:ORGANIZACAO> Skoda <END> ?
-O que é que <START:PESSOA> Alister McRae <END> faz?
-De onde é que ele é?
-Que idade é que ele tinha <START:TEMPO> em 1995 <END> ?
-Em que tipo de carro é que <START:PESSOA> Alister McRae <END> competiu no <START:ACONTECIMENTO> Rali dos Mil Lagos <END> , na <START:LOCAL> Finlândia <END> , <START:TEMPO> em 1995 <END> ?
-Qual a profissão de <START:PESSOA> Billy Connolly <END> ?
-Qual a sua nacionalidade?
-Que filme com <START:PESSOA> Connolly <END> ganhou o prémio de melhor drama nos <START:ACONTECIMENTO> Prémios Bafta <END> escoceses <START:TEMPO> em 1995 <END> ?
-Qual a profissão de <START:PESSOA> Kiri Te Kanawa <END> ?
-Para que companhia discográfica é que ela gravou <START:OBRA> La Boheme <END> <START:TEMPO> em 1994 <END> ?
-Qual a profissão de <START:PESSOA> Michael Barrymore <END> ?
-Diga um programa de televisão apresentado por <START:PESSOA> Michael Barrymore <END> .
-Quanto tempo é que durou o casamento dele?
-Como é que se chamava a mulher dele?
-Qual a profissão de <START:PESSOA> John Barbirolli <END> ?
-Quem foi o solista de violoncelo no " <START:OBRA> Concerto para Violoncelo <END> " de <START:PESSOA> Elgar <END> que ele gravou <START:TEMPO> em 1965 <END> ?
-Diga uma orquestra de <START:LOCAL> Manchester <END> que <START:PESSOA> Barbirolli <END> tenha dirigido.
-Diga uma orquestra americana dirigida por <START:PESSOA> Barbirolli <END> .
-Em que país do <START:LOCAL> Reino Unido <END> fica <START:LOCAL> Perth <END> ?
-Que rua é conhecida como a \"Milha motorizada de Perth\"?
-Diga empresas de <START:LOCAL> Perth <END> .
-Diga um rio que banhe <START:LOCAL> Perth <END> .
-Quantos locais pertencem ao sistema de  <START:OBRA> Parques Nacionais <END> dos <START:LOCAL> Estados Unidos <END> ?
-Quantos acres têm os parques nacionais no seu conjunto?
-Qual foi o primeiro parque?
-Diga os dois parques criados <START:TEMPO> a 31 de Outubro de 1994 <END> .
-Que espécie de animal é que <START:PESSOA> Victor Bernal <END> tentou comprar <START:TEMPO> a 25 de Janeiro de 1993 <END> ?
-Em que tipo de avião estava o animal?
-Quem estava a fazer-se passar pelo animal?
-Em quanto foi <START:PESSOA> Bernal <END> multado?
-Que oceano é que <START:PESSOA> Steve Fosset <END> tentou atravessar em balão <START:TEMPO> em Fevereiro de 1995 <END> ?
-Que idade é que ele tinha na altura?
-O que é que ele fazia?
-Que distância é que <START:PESSOA> Richard Branson <END> viajou em balão <START:TEMPO> em 1991 <END> ?
-Em que aeroporto é que <START:PESSOA> Carol Ann Timmel <END> perdeu o seu gato?
-Como é que se chamava o gato?
-Em que tipo de avião é que o gato foi perdido?
-Quanto é que avião se atrasou enquanto prosseguia a busca?
-Quem nacionalizou as ferrovias argentinas <START:TEMPO> em 1947 <END> ?
-Que proporção das linhas era considerada insegura <START:TEMPO> em 1989 <END> ?
-Quem era o presidente da comissão nacional de caminhos-de-ferro argentina <START:TEMPO> em 1994 <END> ?
-Quantas pessoas trabalhavam para os caminhos-de-ferro argentinos <START:TEMPO> em 1994 <END> ?
-Onde é que é o museu do <START:LOCAL> Hermitage <END> ?
-Quem era o director do museu <START:TEMPO> em 1994 <END> ?
-Em que palácio é que fica o museu?
-Quantos quartos há nesse palácio?
-O que é um organofostato?
-Diga pesticidas que contenham organofosfatos.
-Quantos lugares tem um carro eléctrico <START:COISA> Impact <END> da <START:ORGANIZACAO> General Motors <END> ?
-Qual a autonomia do carro, em milhas?
-Quanto tempo demora a acelerar <START:VALOR> das 0 às 60 milhas por hora <END> ?
-Qual é a sua velocidade de topo?
-Como se chamavam os dois navios que colidiram no <START:LOCAL> Estreito do Bósforo <END> <START:TEMPO> em 1994 <END> ?
-Quantos morreram na colisão?
-Qual o pavilhão de ambos os navios?
-Qual o comprimento do <START:LOCAL> Estreito do Bósforo <END> ?
-Em que parte da <START:LOCAL> Rússia <END> é a <START:LOCAL> Catedral de Santa Sofia <END> ?
-Quem era o arcipreste <START:TEMPO> em 1995 <END> ?
-Que escocês é que construiu a catedral?
-Que imperatriz russa é que lhe encomendou a construção?
-O que são a salsa, o mambo e o samba?
-O que era o " <START:ACONTECIMENTO> Brilliant Invader '95 <END> "?
-Além do <START:LOCAL> Reino Unido <END> , que outros países participaram?
-De que horas a que horas é que ocorreu o evento?
-Diga um tipo de avião que tenha participado.
-Quem é <START:PESSOA> Thom Rotella <END> ?
-De onde é que ele é?
-Diga um tipo de viola que <START:PESSOA> Rotella <END> toque.
-Diga um clube onde ele tenha tocado.
-O que é a <START:ORGANIZACAO> KORG <END> onde <START:PESSOA> Niky Orellana <END> é comentador de futebol?
-Onde é que tem a sua sede?
-O que é <START:ORGANIZACAO> Kia <END> ?
-Quem é o americano que foi nomeado para a direcção <START:TEMPO> em Setembro de 1994 <END> ?
-Diga um modelo da <START:COISA> Kia <END> .
-Quantos carros é que a <START:ORGANIZACAO> Kia <END> produz <START:TEMPO> por ano <END> ?
-O que é <START:ORGANIZACAO> Zanussi <END> ?
-Onde é que fica a sede?
-Quem é <START:PESSOA> Will Carling <END> ?
-Quem é <START:PESSOA> Lester Piggott <END> ?
-Quantos vencedores do <START:COISA> British Classic <END> é que ele montou?
-Quanto tempo é que ele passou na prisão por crimes fiscais?
-Quem é <START:PESSOA> Jonathan Edwards <END> ?
-Quem são os " <START:PESSOA> All Blacks <END> "?
-Quem é o seu capitão?
-O que é arnica?
-Que companhia produz <START:COISA> Ribena <END> ?
-O que é Glaxo?
-O que é Zantac?
-O que é Flexoset?
-O que é a <START:ACONTECIMENTO> Lakeland Plastics <END> ?
-Dá-me informação sobre o iate " <START:COISA> Geronimo <END> ".
-Quem é <START:PESSOA> Keith Musto <END> ?
-O que é o <START:ABSTRACCAO> HSBC <END> ?
-Quem é <START:PESSOA> sir Denys Henderson <END> ?
-Quem é <START:PESSOA> Nguyen Chi Thien <END> ?
-Quando é que ele desapareceu?
-O que é o Eurofighter?
-Quem escreveu a canção " <START:OBRA> Dancing Queen <END> "?
-Quantas pessoas tinha esse grupo?
-O que é um polígrafo?
-Quando é que foi inventado?
-Quem é que o inventou?
-Em que universidade é que o inventor estudava então?
-Para que organização nos <START:LOCAL> EUA <END> trabalhava <START:PESSOA> Aldrich H. Ames <END> ?
-A que país é que <START:PESSOA> Ames <END> vendia informação?
-Como é que se chamava a mulher dele?
-Quando é que ele foi preso?
-Quando é que nasceu <START:PESSOA> Yitzhak Rabin <END> ?
-Quando é que ele morreu?
-Qual era a sua profissão quando morreu?
-Quantas pessoas foram a <START:LOCAL> Jerusálem <END> prestar homenagem a <START:PESSOA> Rabin <END> quando ele morreu?
-O que são " <START:COISA> Frosties <END> "?
-Que companhia é que os produz?
-Quando é que eles foram lançados?
-Qual é a mascote dos <START:COISA> Frosties <END> ?
-O que é <START:ORGANIZACAO> Sky Europe <END> ?
-Quando é que foi fundada?
-Quantas pessoas é que emprega?
-Quantas linhas opera?
-Que presidente americano organizou o <START:OBRA> Acordo de Camp David <END> ?
-Em que ano tiveram lugar as negociações?
-Quantos acordos foram assinados?
-Em que data foi assinado posteriormente o tratado de paz entre <START:ORGANIZACAO> Israel <END> e o <START:ORGANIZACAO> Egipto <END> ?
-O que é o efeito de estufa?
-Em que ano é que o efeito de estufa foi descoberto?
-Quem é que o descobriu?
-Menciona um gás que contribua para o aquecimento global.
-Quem foi <START:PESSOA> Stu Sutcliffe <END> ?
-Quando é que ele se juntou aos <START:PESSOA> Beatles <END> ?
-Que instrumento é que ele tocava?
-O que é que ele vendeu ao homem de negócios <START:PESSOA> John Moores <END> para comprar uma viola?
-O que é um <START:COISA> iPod <END> ?
-Quem é que o faz?
-Quando é que foi lançado?
-Quem fez o disco duro para os <START:COISA> iPod <END> de primeira geração?
-O que é uma gripe azul?
-Diz uma profissão cujos membros podem dizer sofrer de "gripe azul".
-Em que país nasceu <START:PESSOA> Edouard Balladur <END> ?
-Quando é que ele se tornou <START:PESSOA> presidente de França <END> ?
-A que partido político pertencia?
-<START:TEMPO> De 1968 a 1980 <END> , ele foi presidente de que companhia?
-Qual é o aperitivo mais popular na <START:LOCAL> Grã-Bretanha <END> ?
-Quantas pessoas na <START:LOCAL> Grã-Bretanha <END> comem os " <START:COISA> Walkers <END> " desta marca <START:TEMPO> todos os dias <END> ?
-Qual é o sabor de batata frita de pacote mais popular na <START:LOCAL> Grã-Bretanha <END> ?
-Que companhia britânica faz batata frita de pacote à mão?
-Diz uma madeira que se use para construir barcos.
-Diz uma madeira que se use para fazer contraplacado.
-Diz uma madeira que se use para produzir violinos.
-Diz uma madeira usada para fazer papel.
-Diz um alimento que seja parte da alimentação básica no <START:LOCAL> Sudeste Asiático <END> .
-Diz um alimento que seja parte da alimentação básica na <START:LOCAL> Europa <END> .
-Diz um tipo de plástico usado para fazer plástico reforçado com fibra de carbono.
-Diz uma ponte que tenha sido reforçada com fibra de carbono.
-Diz um consumível que pode ser feito com fibra de carbono.
-Que sistema de pensões diz ser "o segundo maior do <START:LOCAL> Reino Unido <END> pelo montante do fundo"?
-A que companhia comprou o <START:LOCAL> Centro Comercial Forestside <END> em <START:LOCAL> Belfast <END> por <START:VALOR> 50 milhões de libras <END> <START:TEMPO> em 1998 <END> ?
-Que organismo administra o  <START:OBRA> Sistema de Pensões <END> do <START:ORGANIZACAO> SNS <END> britânico?
-A quantas pessoas foi até agora atribuída a <START:OUTRO> Medalha Olímpica Nobre Guedes <END> ?
-Quem é que a recebeu <START:TEMPO> em 1951 <END> em vela?
-Quem é que a recebeu <START:TEMPO> em 2005 <END> em judo?
---DOCSTART--
     
- Terá ainda que se esperar para ver outros resultados do <START:OBRA> Plano Tecnológico <END> , mas este perdeu dinâmica <START:TEMPO> no último ano <END> .
-6.
-Quanto às « <START:OBRA> Novas Oportunidades <END> » foram <START:TEMPO> no seu início <END> um sucesso naquilo que era mais difícil: revalorizar o papel do ensino, da educação, da aprendizagem, do saber, em sectores da população que na sua vida tinham voltado as costas a esses valores, ou por necessidade, ou por facilidade.
-Porém o programa entra agora numa fase crucial: após os momentos de arranque incial, é suposto que se começe agora a aprender e a ser avaliado.
-Esta é a parte difícil, mas a que justifica o projecto.
-E aqui as intenções iniciais começam a esmorecer, os atrasos a somarem-se, a perplexidade dos formadores a aumentar e o anúncio regular pelo governo da outorga de mais uns milhares de diplomas faz suspeitar de facilitismo.
-Vamos ver.
-7.
-No <START:ORGANIZACAO> PSD <END> deu-se mais um passo para a irrelevância, ou ainda pior, para tornar o partido um mero gestor alternativo das políticas do <START:ORGANIZACAO> PS <END> .
-Ora, para fazer a mesma política, os eleitores preferem o <START:ORGANIZACAO> PS <END> como mais eficaz e mais credível.
-Com <START:PESSOA> Marques Mendes <END> , o <START:ORGANIZACAO> PSD <END> esboçou um ruptura com o período negro anterior, mas como quando se fazem «revoluções pela metade cava-se o seu próprio túmulo» (dizia <START:PESSOA> Saint Just <END> ), perdeu-se o pouco que se tinha adquirido voltando o partido <START:TEMPO> ao dia anterior <END> da derrota <START:TEMPO> de 2005 <END> .
-<START:PESSOA> Mendes <END> não conseguiu impor-se, mas os seus esforços foram no sentido certo.
-<START:PESSOA> Menezes <END> também não está a conseguir impor-se, mas todos os seus esforços vão no sentido errado.
-O governo está verdadeiramente à solta, a oposição numa crise maior do que alguma vez esteve <START:TEMPO> desde 2005 <END> .
-8.
-O <START:ORGANIZACAO> PP <END> já atingiu o equilibrio dos pequenos partidos, que atingem uma «stasis» interna onde que tudo o que acontece, não acontece.
-E no entanto, a retirada do <START:ORGANIZACAO> PSD <END> da oposição poderia ser uma oportunidade e o <START:ORGANIZACAO> PP <END> tem aproveitado os vazios para ocupar o terreno de algumas questões importantes como a dos direitos dos contribuintes e a omnipotência do fisco.
-Mas não chega.
-<START:PESSOA> Portas <END> reduziu o partido a si próprio, e dar atenção ao <START:ORGANIZACAO> PP <END> é dar atenção a <START:PESSOA> Portas <END> e cada vez menos pessoas o fazem.
-9.
-O <START:ORGANIZACAO> PCP <END> teve um bom ano, o problema do <START:ORGANIZACAO> PCP <END> é que ninguém dá por ela disso.
-O <START:ORGANIZACAO> PCP <END> é o único partido cuja força é «civil», mesmo que se tenha em conta o processo de estatização dos sindicatos, maior na <START:ORGANIZACAO> UGT <END> do que na <START:ORGANIZACAO> CGTP <END> .
-Conseguiu com autonomia uma capacidade de mobilização que já tinha perdido e pôs na rua muitas dezenas, senão centenas de milhares de pessoas.
-O problema do <START:ORGANIZACAO> PCP <END> é que passou de moda mediática, a sua contestação parece um arcaísmo social e por isso parece ser inútil.
-10.
-O <START:ORGANIZACAO> BE <END> está em crise.
-Deixou-se enredar com o <START:ORGANIZACAO> PS <END> em <START:LOCAL> Lisboa <END> , o pior sítio para alguém se enredar com o <START:ORGANIZACAO> PS <END> .
-Deixou-se reduzir a <START:PESSOA> Louçã <END> e <START:PESSOA> Louçã <END> fixou-se num discurso cujo esgotamento irrita mais do que cansa.
-Para a contestação social o <START:PESSOA> PCP <END> é mais eficaz, e as causas "fracturantes" são na maioria dos casos ou inócuas, ou tão vanguardistas que ficam na marginalidade e no radical chic.
---DOCSTART--
-
-<START:ACONTECIMENTO> US Open <END> : <START:PESSOA> Federer <END> campeão
-PELO QUARTO ANO CONSECUTIVO  
-<START:PESSOA> Roger Federer <END> conquistou <START:TEMPO> este domingo <END> pela quarta vez consecutiva o <START:ACONTECIMENTO> US Open <END> , ao bater na final o sérvio <START:PESSOA> Novak Djokovic <END> por <START:VALOR> 7-6(4) <END> , <START:VALOR> 7-6(2) <END> e <START:VALOR> 6-4 <END> .
-Com este triunfo, o suíço contabiliza <START:VALOR> 12 <END> vitórias em torneios do <START:ACONTECIMENTO> Grand Slam <END> , aproximando-se do recorde de <START:VALOR> 14 <END> , que pertence a <START:PESSOA> Pete Sampras <END> .
-A final demorou <START:TEMPO> 2.26 horas <END> e o líder mundial fez <START:VALOR> 11 <END> ases contra apenas <START:VALOR> 5 <END> do sérvio.
-Ao helvético apenas lhe falta o título no  <START:ACONTECIMENTO> Open <END> de <START:LOCAL> França <END> , em <START:LOCAL> Roland Garros <END> .
-Entretanto, a francesa <START:PESSOA> Nathalie Dechy <END> conquistou o seu segundo título consecutivo em pares femininos.
-<START:PESSOA> Dechy <END> e a russa <START:PESSOA> Dinara Safina <END> bateram <START:PESSOA> Chan Yung-jan <END> e <START:PESSOA> Chuang Chia-jung <END> ( <START:LOCAL> Taiwan <END> ), por <START:VALOR> 6-4 <END> e <START:VALOR> 6-2 <END> .
---DOCSTART--
-
-Lobotomia
-História
-Foi desenvolvida <START:TEMPO> em 1935 <END> pelo médico neurologista português <START:PESSOA> António Egas Moniz <END> ( <START:TEMPO> 1874-1955 <END> ), em equipe com o cirurgião <START:PESSOA> Almeida Lima <END> , na  <START:LOCAL> Universidade <END> de <START:LOCAL> Lisboa <END> .
-<START:PESSOA> Egas Moniz <END> veio a receber com este trabalho o prêmio <START:OUTRO> Nobel da Medicina e Fisiologia <END> <START:TEMPO> em 1949 <END> .
-A <START:COISA> Leucotomia <END> foi a primeira técnica de <START:ABSTRACCAO> Psicocirurgia <END> ou seja, a utilização de manipulações orgânicas do cérebro para curar ou melhorar sintomas de uma patologia psiquiátrica (em contrapartida à neurocirurgia que se ocupa de doentes com patologia orgânica directa ou neurológica).
-Inicialmente foi usada para tratar depressão severa.
-<START:PESSOA> Egas Moniz <END> sempre defendeu o seu uso apenas em casos graves em que houvesse risco de violência ou suicídio.
-No entanto apesar de <START:VALOR> cerca de 6% <END> dos pacientes não sobreviverem à operação, e de vários outros ficarem com alterações da personalidade muito severos, foi praticada com entusiasmo excessivo em muitos paises, nomeadamente o <START:LOCAL> Japão <END> e os <START:LOCAL> Estados Unidos <END> .
-Neste último país foi popularizada pelo cirurgião <START:PESSOA> Walter Freeman <END> , que divulgou a técnica por todo o seu país, percorrendo o no seu <START:COISA> Lobotomobile <END> , e criando inclusivamente uma variante em que espetava um picador de gelo directamente no crânio do doente, desde um ponto logo acima do canal lacrimal com a ajuda de um martelo, rodando-se depois o mesmo para destruir as vias aí localizadas.
-Supostamente a atractividade deste procedimento seria o seu baixo custo e o desejo social de silenciar doentes psiquiátricos incómodos.
-A leucotomia ganhou tal popularidade que foi inclusivamente praticada em crianças com mau comportamento.
-<START:VALOR> Cerca de 50.000 <END> doentes foram tratados só nos <START:LOCAL> Estados Unidos <END> .
-Com a ajuda destes abusos, a leucotomia foi abandonada quando surgiram os primeiros fármacos antipsicóticos.
-<START:TEMPO> Durante muito tempo <END> foi considerada algo injustamente como um episódio barbárico na história da <START:ABSTRACCAO> Psiquiatria <END> , sendo comum a comparação à técnica da flebotomia (ou sangria) na história da medicina interna.
---DOCSTART--
-    
- Novidades na     <START:ACONTECIMENTO> Macworld 2007 <END>         
- <START:ORGANIZACAO> Apple <END> lançou o <START:COISA> iPhone <END> , o telemóvel mais esperado <START:TEMPO> dos últimos tempos <END>        
- Sempre é o <START:COISA> iPhone <END> , dirão os que acompanharam as especulações e palpites <START:TEMPO> dos últimos meses <END> .
-A <START:ORGANIZACAO> Apple <END> , empresa de tecnologias que tem nos leitores multimédia <START:COISA> iPod <END> e nos computadores <START:COISA> Macintosh <END> a sua bandeira, acaba de entrar na área das telecomunicações.
-O novo telemóvel junta as capacidades de um telefone às de um leitor multimédia portátil.
-Funciona com o sistema operativo <START:COISA> MacOS X <END> , serve para comunicar e para trazer no bolso as músicas, o e-mail, as fotos ou os vídeos preferidos.
-O anúncio foi feito <START:TEMPO> ontem <END> , em <START:LOCAL> São Francisco <END> , nos <START:LOCAL> EUA <END> , onde decorre a <START:ACONTECIMENTO> Macworld <END> , feira que a <START:ORGANIZACAO> Apple <END> organiza <START:TEMPO> todos os anos <END> para apresentar as suas novidades.
-Como de costume, a conferência de <START:PESSOA> Steve Jobs <END> , o director-geral da empresa, foi o ponto alto para os fãs da <START:COISA> Apple <END> .        
- "
-<START:TEMPO> De vez em quando <END> chega um produto revolucionário que muda tudo.
-É sorte se pudermos trabalhar num ao longo da carreira... e a <START:ORGANIZACAO> Apple <END> é sortuda por já ter lançado vários", disse <START:PESSOA> Steve Jobs <END> .
-O novo telefone vai estar disponível <START:TEMPO> em Junho <END> , nos <START:LOCAL> EUA <END> , em duas versões: uma com <START:VALOR> 8 gigabytes (GB) <END> de capacidade de armazenamento, que custará <START:VALOR> 600 dólares <END> , e outra com <START:VALOR> 4 GB <END> , a <START:VALOR> cerca de 500 dólares <END> .
-À <START:LOCAL> Europa <END> chegará <START:TEMPO> no final do ano <END> , e na <START:LOCAL> Ásia <END> só <START:TEMPO> em 2008 <END> .
-Tem uma câmara fotográfica com <START:VALOR> 2 megapixels <END> de resolução e um ecrã táctil com <START:VALOR> 8,8 centímetros <END> de diagonal.
-Nos <START:LOCAL> EUA <END> , o telemóvel da <START:ORGANIZACAO> Apple <END> funcionará na rede <START:COISA> Cingular Wireless <END> .
-O seu desenvolvimento levou ao registo de <START:VALOR> mais de 200 <END> patentes, o que o torna numa das maiores inovações da empresa.
-O facto de ter o sistema operativo <START:COISA> OS X <END> - usado nos computadores da <START:COISA> Apple <END> - significa que o <START:COISA> iPhone <END> terá muitas das funções habituais naquelas máquinas.
-Permitirá aceder ao correio electrónico de forma automática ou ver os mapas do <START:ORGANIZACAO> Google <END> .
---DOCSTART--
-    
-TROPA DE ELITE, OSSO DURO DE ROER, PEGA UM PEGA GERAL, TAMBÉM VAI PEGAR VOCÊ!
-<START:TEMPO> Ontem <END> , na esquina de casa, um camelô estendia seus murais com capas de DVDs mal impressas.
-Passei por ele sem me importar, era apenas mais um desses caras que atrapalham o nosso caminho pelas calçadas.
-Continuei rumo à sessão <START:TEMPO> das 19h <END> no <START:LOCAL> Espaço de Cinema <END> em <START:LOCAL> Botafogo <END> .
-Trinta passos adiante parei e lembrei do recente caso " <START:ACONTECIMENTO> Tropa de Elite <END> : o filme tinha vazado no pirata, e <START:TEMPO> desde o início da semana <END> estava sendo vendido nas ruas do <START:LOCAL> Rio <END> .
-Titubeei um pouco, podia perder a sessão no cinema, mas acabei voltando para conferir os títulos que o camelô oferecia.
-Cheguei devagar, olhando meio de longe, um pouco constrangido, confesso.
-Ainda sou dessas pessoas que têm um certo pudor em ficar ali, cara a cara com o pirata.
-Logo encontrei dois títulos nacionais: <START:OBRA> Xuxa Gêmeas <END> e <START:OBRA> Ó paí ó <END> .
-Perguntei se ele tinha <START:OBRA> Tropa de Elite <END> , o rapaz branquelo, com cara de rapper zona sul, boné e bermudão <START:COISA> Billabong <END> respondeu:    
-- Com certeza!
-Tem sim.
-Quis saber mais sobre o filme, como se só tivesse ouvido falar através do burburinho das ruas:    
-- Ah, esse não é o filme que teve os armamentos roubados no " <START:LOCAL> Chapéu Mangueira <END> "?
-- É esse mesmo.
-É com o <START:PESSOA> Olavo <END> da novela.
-- Que <START:PESSOA> Olavo <END> ?
-- O <START:PESSOA> Wagner <END> , <START:PESSOA> Wagner Moura <END> .
-- Ah legal, então é esse mesmo.
-Quanto é?
-- É cinco.
-- E a qualidade é boa?
-- É sim, é DVD mesmo, não é VCD não.
-Mídia roxinha!
-- Tá completo ne?
-Não falta cena não!?
-- Completo!
-- Beleza então, se a qualidade não for boa eu volto aqui <START:TEMPO> amanhã <END> e troco.
-- Tranqüilo, tá garantido.
-E tava mesmo.
-A qualidade realmente era perfeita, som e imagem de primeira, cartelas e intertítulos em inglês!
-Só faltaram os créditos finais.
-Nessa, o camelo parou pra olhar uma conversa meio estranha que seu companheiro de banca travava com um sujeito meio cara de <START:COISA> PM <END>  à paisana.
-Ficou ali, meio de esguelha, prestando atenção, e eu, ao lado, esperando o produto.
-Parecia que a conversa alheia fechava alguma combinação.
-Cutuquei:    
-- E aê, tem o <START:COISA> Tropa de Elite <END> ou não?
-- perguntei de novo, querendo sair logo pro cinema.
-- Tem sim.
-Sai um <START:COISA> Tropa <END> aí - disse o branquelo pro chapa.
-O comparsa foi lá numa bolsa preta e pegou lá um plástico com uma folha mal impressa que trazia <START:ABSTRACCAO> Tropa de Elite <END> escrito com uma fonte meio " <START:COISA> Linha Direta <END> " e umas fotos não identificáveis que deviam reproduzir cenas do filme.
-Dentro vinha o DVD da "mídia roxinha", abri pra constatar.
-Me entregou logo dizendo:    
-- Também tem aquele ali, com o <START:PESSOA> Lázaro Ramos <END> , " <START:OBRA> Ó pái ó <END> ".
-- Ó Paí ó , to ligado, esse eu já vi - o que não era verdade, só para não estender mais a transação.
-- Também tem o <START:OBRA> Caixa Dois <END> , sabe qual é?
-- Sei sim, mas <START:TEMPO> hoje <END> só quero o <START:OBRA> Tropa <END> mesmo - já quase íntimo do filme do <START:PESSOA> Padilha <END> .
-Paguei e fui pro cinema pensando na tamanha facilidade com que aquele filme tinha parado nas minhas mãos por <START:VALOR> 5 pratas <END> , menos que um big mac...no esforço que devia ter sido fazer tudo aquilo: levantar a história com os <START:PESSOA> Bopes <END> , roteirizar em zilhões de tratamentos, reservar o espaço na agenda de caras como <START:PESSOA> Tulé Peak <END> (diretor de arte), <START:PESSOA> Braulio Mantovani <END> (roteirista) e <START:PESSOA> Daniel Rezende <END> (montador) - não por acaso, o mesmo trio ternura por trás de <START:OBRA> Cidade de Deus <END> -, e além disso, aprovar o projeto, captar, produzir, filmar, ter as filmagens paralisadas pelo roubo de todo o armamento cenográfico, artefatos que protagonizam o filme do início ao fim, e ainda finalizar, negociar a comercialização, traçar uma estratégia de marketing, etc.
-Uma trabalheira danada.
-E depois de tudo isso, ver um pedaço mutilado do seu "filho" de <START:VALOR> 3 anos <END> parar na mão de geral por <START:VALOR> 5 real <END> (a versão que circula é que a cópia vendida pelos ambulantes é o segundo corte do filme, que já estaria na <START:VALOR> 16ª <END> versão da montagem).
-É um caso inédito para o cinema brasileiro, e talvez para a <START:ORGANIZACAO> Polícia <END> também.
-Um filme que desperta tal interesse do público, de forma tão espontânea, que ganha as ruas pela via da ilegalidade antes do seu lançamento nos cinemas, numa avassaladora "não-ação" de marketing viral, ou numa curiosa referência àquilo mesmo de que trata sua história.
-O vazamento da cópia já está sendo investigado pela própria <START:ORGANIZACAO> Polícia <END> .
-Haja metalinguagem cinematográfica!
-Resta saber como isso vai repercutir daqui pra frente.
-Vai ser bom ou não?
-Quem pode ter certeza sobre o que o <START:PESSOA> diretor José Padilha <END> diz à <START:PESSOA> Folha de S. Paulo <END> : "que ninguém sabe o efeito que as vendas piratas terão sobre a bilheteria do filme, mas acredita na chance de não haver prejuízo à performance da venda de ingressos, já que, analisa, o público do DVD pirata é um e o dos cinemas, outro."
-Ou será que o boca a boca vai fazer o filme estourar?
-Vai virar reportagem do <START:COISA> Fantástico <END> ?
-Ganhar as páginas policiais dos jornais mais uma vez?
-Mídia espontânea ou um baita furo pirata, ninguém pode dizer ainda.
-O que dá pra comentar do lado de cá é que o filme é brilhantemente aterrador.
-Um thriller que combina a crueza esquemática de Notícias de uma guerra particular  e a cinematografia exuberante de <START:OBRA> Cidade de Deus <END> .
-Esse é só o começo de uma grande História que vem por aí.
-Em breve, num cinema perto de você.
+<START:PESSOA> Coletivo <END> dinamarquês acusa <START:ORGANIZACAO> Fundação Bienal <END> de censura    
+<START:TEMPO> 16 de Outubro de 2006 <END>    
+Apresentada na  <START:ACONTECIMENTO> Bienal <END> de <START:LOCAL> Veneza <END> <START:TEMPO> em 2003 <END> , a obra " <START:OBRA> Guaraná Power <END> ", do coletivo dinamarquês <START:PESSOA> Superflex <END> , foi selecionada pela curadoria da  <START:ACONTECIMENTO> 27ª Bienal <END> de <START:LOCAL> São Paulo <END> mas teve sua exibição vetada pela <START:ORGANIZACAO> Fundação <END> realizadora da mostra.
+Tônico de sabor concentrado e propriedades energéticas, de grande sucesso na <START:LOCAL> Europa <END> , o <START:COISA> Guaraná Power <END> tem como função primeira a crítica ao monopólio do mercado e a suas conseqüências nas comunidades agricultoras.
+A partir de um estudo econômico da cidade de <START:LOCAL> Maués <END> , no <START:LOCAL> Amazonas <END> , detectou-se o impacto econômico da redução do preço das sementes de guaraná por parte das grandes indústrias.
+"Estabelecemos o valor de <START:VALOR> R$ 15 <END> para o quilo de sementes, enquanto as indústrias pagam <START:VALOR> R$ 7 <END> ", afirmou <START:PESSOA> Bjornstjerne Christiansen <END> , membro do <START:PESSOA> Superflex <END> , em entrevista à <START:PESSOA> Folha de São Paulo <END> .
+O projeto conta com o apoio da  <START:ORGANIZACAO> Secretaria de Desenvolvimento Sustentável <END> do <START:ORGANIZACAO> Governo <END> do <START:LOCAL> Estado do Amazonas <END> .
+Impedidos de apresentar a obra - e tendo suas páginas do catálogo da mostra cobertas por tarjas pretas -, os dinamarqueses distribuíram o <START:COISA> Guaraná Power <END> , sem rótulo, em vernissages na <START:LOCAL> Galeria Vermelho <END>  e <START:LOCAL> Instituto Tomie Ohtake <END> , além de pontos espalhados pela capital paulista.
+O coletivo <START:PESSOA> Superflex <END> já recebeu elogios do <START:PESSOA> Ministro da Cultura Gilberto Gil <END> <START:TEMPO> em junho deste ano <END> , ao apresentar no <START:LOCAL> Brasil <END> o projeto <START:OBRA> Free Beer <END> ("cerveja livre"), cerveja cuja fórmula é licenciada em <START:ABSTRACCAO> Creative Commons <END> e permite que qualquer pessoa interessada possa fabricá-la ou aprimorá-la.
+Na entrevista coletiva dos organizadores da <START:ACONTECIMENTO> Bienal <END> , o <START:PESSOA> presidente da Fundação Bienal <END> , <START:PESSOA> Manuel Francisco Pires da Costa <END> , optou por, além de responsabilizar a assessoria jurídica, emitir sua opinião pessoal acerca da obra polêmica: "Eu jamais interferi no mérito das obras selecionadas.
+Aliás, a acho de muito mau gosto e, se não julguei, estou julgando agora.
+Foi o departamento jurídico da <START:ORGANIZACAO> Bienal <END> quem informou que essa obra não estava de acordo com as regras da legislação brasileira".
+"O que eles sempre nos disseram é que isso [a referência à marca do guaraná <START:COISA> Antarctica <END> ] poderia ser um problema, mas o presidente nunca nos deu respostas claras.
+Nossas obras sempre envolvem negociação, mas com ele tivemos as portas fechadas.
+Se eles olhassem como ficou a lata [diferente da criação original], não haveria problema legal", afirmou <START:PESSOA> Jakob Fenger <END> , um dos membros do coletivo, em entrevista para a <START:ORGANIZACAO> Folha de São Paulo <END> , em matéria que informa ainda: "Por meio de sua assessoria, a <START:ORGANIZACAO> AmBev <END> [fabricante do guaraná <START:COISA> Antarctica <END> ] declarou não ver problema na obra.
+Diz não ter tido nenhum contato com o grupo".
+O <START:PESSOA> Superflex <END> ainda distribuiu à imprensa, <START:TEMPO> no dia <END> da coletiva, o documento " <START:OBRA> A obra de arte que os brasileiros não terão permissão de ver na Bienal <END> " .
+Nele, afirma-se que o " <START:PESSOA> presidente da Fundação Bienal <END>  censurou um trabalho com reconhecimento internacional para o público brasileiro", que, segundo o texto divulgado, teria sido recusado "por não ser considerada uma 'atividade artística'".
+A polêmica gerada pela <START:ORGANIZACAO> Fundação Bienal <END> fortaleceu a ação política do coletivo dinamarquês, tendo a censura gerado uma reação oposta à desejada.
+Foi grande o interesse público pelo modelo econômico e social do projeto <START:OBRA> Guaraná Power <END> -- baseado no colaborativismo do software livre -- e positiva a repercussão do tema, exatamente onde interessa: no país fornecedor da matéria-prima de uma das bebidas estrangeiras mais famosas no exterior.

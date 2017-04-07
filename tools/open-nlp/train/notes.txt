@@ -1,1 +1,5 @@
 requires changing encoding from iso-8859-1 to utf8 to perform ner
+
+time all
+training: 70min
+testing: 5min
