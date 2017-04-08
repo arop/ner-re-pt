@@ -4261,7 +4261,6 @@ outras	O
 coisas	O
 ,	O
 Dr.	B-PESSOA
---SENTENCE--	I-PESSOA
 Werthan	I-PESSOA
 ,	O
 ``	O
@@ -4404,7 +4403,6 @@ juntos	O
 ''	O
 .	O
 Dr.	B-PESSOA
---SENTENCE--	I-PESSOA
 Frederick	I-PESSOA
 Werthan	I-PESSOA
 -	O
@@ -4445,7 +4443,6 @@ o	O
 livro	O
 do	O
 Dr.	B-PESSOA
---SENTENCE--	I-PESSOA
 Werthan	I-PESSOA
 ,	O
 o	O
@@ -6355,7 +6352,6 @@ Teatro	B-ORGANIZACAO
 Mariinski	I-ORGANIZACAO
 de	O
 S.	B-LOCAL
---SENTENCE--	I-LOCAL
 Petersburgo	I-LOCAL
 e	O
 The	O
@@ -6788,7 +6784,6 @@ de	O
 Natal	O
 de	O
 J.	B-PESSOA
---SENTENCE--	I-PESSOA
 S.	I-PESSOA
 Bach	I-PESSOA
 pela	O

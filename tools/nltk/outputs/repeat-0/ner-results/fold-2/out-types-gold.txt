@@ -168,7 +168,6 @@ Teatro	B-ORGANIZACAO_INSTITUICAO
 Mariinski	I-ORGANIZACAO_INSTITUICAO
 de	O
 S.	B-LOCAL_HUMANO
---SENTENCE--	I-LOCAL_HUMANO
 Petersburgo	I-LOCAL_HUMANO
 e	O
 The	B-PESSOA_GRUPOMEMBRO
@@ -601,7 +600,6 @@ de	I-OBRA_REPRODUZIDA
 Natal	I-OBRA_REPRODUZIDA
 de	O
 J.	B-PESSOA_INDIVIDUAL
---SENTENCE--	I-PESSOA_INDIVIDUAL
 S.	I-PESSOA_INDIVIDUAL
 Bach	I-PESSOA_INDIVIDUAL
 pela	O
@@ -2158,19 +2156,15 @@ Triatoma	B-COISA_CLASSE
 infestans	I-COISA_CLASSE
 ,	O
 T.	B-COISA_CLASSE
---SENTENCE--	I-COISA_CLASSE
 brasiliensis	I-COISA_CLASSE
 ,	O
 T.	B-COISA_CLASSE
---SENTENCE--	I-COISA_CLASSE
 dimidiata	I-COISA_CLASSE
 ,	O
 T.	B-COISA_CLASSE
---SENTENCE--	I-COISA_CLASSE
 sordida	I-COISA_CLASSE
 ,	O
 P.	B-COISA_CLASSE
---SENTENCE--	I-COISA_CLASSE
 megistus	I-COISA_CLASSE
 e	O
 Rhodnius	B-COISA_CLASSE
@@ -2203,7 +2197,6 @@ distribuição	O
 é	O
 o	O
 T.	B-COISA_CLASSE
---SENTENCE--	I-COISA_CLASSE
 infestans	I-COISA_CLASSE
 ,	O
 encontrado	O
@@ -2250,7 +2243,6 @@ da	O
 Argentina	B-LOCAL_HUMANO
 ,	O
 T.	B-COISA_CLASSE
---SENTENCE--	I-COISA_CLASSE
 infestans	I-COISA_CLASSE
 também	O
 tem	O
@@ -2290,7 +2282,6 @@ típico	O
 dado	O
 pelo	O
 T.	B-COISA_CLASSE
---SENTENCE--	I-COISA_CLASSE
 arthurneivai	I-COISA_CLASSE
 que	O
 ,	O
@@ -2346,7 +2337,6 @@ infecção	O
 natural	O
 pelo	O
 T.	B-COISA_CLASSE
---SENTENCE--	I-COISA_CLASSE
 cruzi	I-COISA_CLASSE
 .	O
 Ainda	O
@@ -2372,7 +2362,6 @@ encontra-se	O
 outra	O
 espécie	O
 T.	B-COISA_CLASSE
---SENTENCE--	I-COISA_CLASSE
 rubrovaria	I-COISA_CLASSE
 ,	O
 tipicamente	O
@@ -2409,11 +2398,9 @@ grupo	O
 que	O
 são	O
 T.	B-COISA_CLASSE
---SENTENCE--	I-COISA_CLASSE
 eratyrusiformis	I-COISA_CLASSE
 e	O
 T.	B-COISA_CLASSE
---SENTENCE--	I-COISA_CLASSE
 patagonica	I-COISA_CLASSE
 :	O
 criam-se	O
@@ -2438,7 +2425,6 @@ domésticos	O
 noite	I-TEMPO_TEMPO_CALEND
 .	O
 T.	B-COISA_CLASSE
---SENTENCE--	I-COISA_CLASSE
 brasiliensis	I-COISA_CLASSE
 com	O
 altas	O
@@ -2447,7 +2433,6 @@ de	O
 infecção	O
 pelo	O
 T.	B-COISA_CLASSE
---SENTENCE--	I-COISA_CLASSE
 cruzi	I-COISA_CLASSE
 é	O
 o	O
@@ -2508,7 +2493,6 @@ espécie	O
 vetora	O
 é	O
 P.	B-COISA_CLASSE
---SENTENCE--	I-COISA_CLASSE
 megistus	I-COISA_CLASSE
 ,	O
 sendo	O
@@ -2582,7 +2566,6 @@ de	O
 infecção	O
 para	O
 T.	B-COISA_CLASSE
---SENTENCE--	I-COISA_CLASSE
 cruzi	I-COISA_CLASSE
 são	O
 elevados.	O
@@ -2597,7 +2580,6 @@ colonizam	O
 com	O
 facilidade.	O
 P.	B-COISA_CLASSE
---SENTENCE--	I-COISA_CLASSE
 geniculatus	I-COISA_CLASSE
 ,	O
 espécie	O
@@ -2636,7 +2618,6 @@ citar	O
 ainda	O
 o	O
 P.	B-COISA_CLASSE
---SENTENCE--	I-COISA_CLASSE
 diasi	I-COISA_CLASSE
 com	O
 distribuição	O
@@ -2672,7 +2653,6 @@ nordeste	O
 brasileiro	O
 e	O
 P.	B-COISA_CLASSE
---SENTENCE--	I-COISA_CLASSE
 tupynambai	I-COISA_CLASSE
 no	O
 Rio	B-LOCAL_HUMANO
@@ -2696,7 +2676,6 @@ nas	O
 habitações	O
 humanas.	O
 T.	B-COISA_CLASSE
---SENTENCE--	I-COISA_CLASSE
 sordida	I-COISA_CLASSE
 geralmente	O
 é	O
@@ -2757,7 +2736,6 @@ associada	O
 a	O
 roedores.	O
 T.	B-COISA_CLASSE
---SENTENCE--	I-COISA_CLASSE
 dimidiata	I-COISA_CLASSE
 freqüenta	O
 o	O
@@ -2823,7 +2801,6 @@ Rhodnius	B-COISA_CLASSE
 ,	O
 principalmente	O
 R.	B-COISA_CLASSE
---SENTENCE--	I-COISA_CLASSE
 domesticus	I-COISA_CLASSE
 ,	O
 que	O
@@ -2836,7 +2813,6 @@ do	O
 Brasil	B-LOCAL_HUMANO
 ,	O
 R.	B-COISA_CLASSE
---SENTENCE--	I-COISA_CLASSE
 pictipes	I-COISA_CLASSE
 nas	O
 regiões	O
@@ -2848,7 +2824,6 @@ Brasil	B-LOCAL_HUMANO
 e	O
 o	O
 R.	B-COISA_CLASSE
---SENTENCE--	I-COISA_CLASSE
 brethesi	I-COISA_CLASSE
 ,	O
 com	O
@@ -2891,7 +2866,6 @@ freqüência	I-TEMPO_FREQUENCIA
 ecótopos	O
 artificiais.	O
 R.	B-COISA_CLASSE
---SENTENCE--	I-COISA_CLASSE
 prolixus	I-COISA_CLASSE
 é	O
 a	O
@@ -2943,7 +2917,6 @@ ambiente	O
 domiciliar	O
 ,	O
 R.	B-COISA_CLASSE
---SENTENCE--	I-COISA_CLASSE
 prolixus	I-COISA_CLASSE
 alimenta-se	O
 principalmente	O
@@ -2980,7 +2953,6 @@ fonte	O
 de	O
 alimento.	O
 R.	B-COISA_CLASSE
---SENTENCE--	I-COISA_CLASSE
 pallescens	I-COISA_CLASSE
 é	O
 importante	O
@@ -3052,7 +3024,6 @@ nenhuma	O
 infectada	O
 pelo	O
 T.	B-COISA_CLASSE
---SENTENCE--	I-COISA_CLASSE
 cruzi	I-COISA_CLASSE
 .	O
 A	O
@@ -4740,7 +4711,6 @@ Bragança	I-PESSOA_CARGO
 pediu	O
 a	O
 D.	B-PESSOA_INDIVIDUAL
---SENTENCE--	I-PESSOA_INDIVIDUAL
 Manuel	I-PESSOA_INDIVIDUAL
 uma	O
 recompensa	O
@@ -5063,7 +5033,6 @@ como	O
 Boston	B-LOCAL_HUMANO
 ,	O
 St.	B-LOCAL_HUMANO
---SENTENCE--	I-LOCAL_HUMANO
 Louis	I-LOCAL_HUMANO
 ,	O
 Chicago	B-LOCAL_HUMANO
@@ -8695,7 +8664,6 @@ outras	O
 coisas	O
 ,	O
 Dr.	B-PESSOA_INDIVIDUAL
---SENTENCE--	I-PESSOA_INDIVIDUAL
 Werthan	I-PESSOA_INDIVIDUAL
 ,	O
 ``	O
@@ -8838,7 +8806,6 @@ juntos	O
 ''	O
 .	O
 Dr.	B-PESSOA_INDIVIDUAL
---SENTENCE--	I-PESSOA_INDIVIDUAL
 Frederick	I-PESSOA_INDIVIDUAL
 Werthan	I-PESSOA_INDIVIDUAL
 -	O
@@ -8879,7 +8846,6 @@ o	O
 livro	O
 do	O
 Dr.	B-PESSOA_INDIVIDUAL
---SENTENCE--	I-PESSOA_INDIVIDUAL
 Werthan	I-PESSOA_INDIVIDUAL
 ,	O
 o	O

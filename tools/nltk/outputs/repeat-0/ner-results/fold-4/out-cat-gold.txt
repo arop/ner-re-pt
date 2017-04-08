@@ -12,7 +12,6 @@ Covilhã	B-LOCAL
 ,	O
 1450	B-TEMPO
 ?	I-TEMPO
---SENTENCE--	I-TEMPO
 --	I-TEMPO
 -	I-TEMPO
 1530	I-TEMPO
@@ -49,7 +48,6 @@ seu	O
 amo	O
 ,	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Juan	I-PESSOA
 de	I-PESSOA
 Guzman	I-PESSOA
@@ -95,7 +93,6 @@ Covilhã	I-PESSOA
 ,	O
 convida-o	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Juan	I-PESSOA
 de	I-PESSOA
 Gusman	I-PESSOA
@@ -127,7 +124,6 @@ em	B-TEMPO
 ,	O
 acompanha	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Juan	I-PESSOA
 a	O
 Lisboa	B-LOCAL
@@ -141,7 +137,6 @@ de	O
 Portugal	B-LOCAL
 .	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 simpatiza	O
 com	O
@@ -159,7 +154,6 @@ língua	O
 árabe	O
 e	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Juan	I-PESSOA
 cede	O
 a	O
@@ -188,7 +182,6 @@ de	O
 esporas	O
 de	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 V	I-PESSOA
 .	O
@@ -212,7 +205,6 @@ Em	B-TEMPO
 1476	I-TEMPO
 acompanha	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 V	I-PESSOA
 na	O
@@ -225,7 +217,6 @@ tentativa	O
 fracassada	O
 de	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 João	I-PESSOA
 de	O
 reclamar	O
@@ -251,7 +242,6 @@ em	O
 iria	O
 acompanhar	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 na	O
 jornada	O
@@ -279,7 +269,6 @@ rejeitado.	O
 Entretanto	O
 ,	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 abdica	O
 do	O
@@ -287,7 +276,6 @@ trono	O
 ,	O
 para	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 João	I-PESSOA
 II	I-PESSOA
 .	O
@@ -318,7 +306,6 @@ que	O
 conspiravam	O
 contra	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 João	I-PESSOA
 II	I-PESSOA
 ,	O
@@ -326,7 +313,6 @@ conseguindo	O
 identificar	O
 o	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Diogo	I-PESSOA
 ,	O
 duque	B-PESSOA
@@ -334,7 +320,6 @@ de	I-PESSOA
 Viseu	I-PESSOA
 e	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Garcia	I-PESSOA
 de	I-PESSOA
 Meneses	I-PESSOA
@@ -2369,7 +2354,6 @@ a	O
 sua	O
 mãe	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Maria	I-PESSOA
 Magdalena	I-PESSOA
 Pinheiro	I-PESSOA
@@ -2428,7 +2412,6 @@ Tia	B-PESSOA
 Anica	I-PESSOA
 (	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Ana	I-PESSOA
 Luísa	I-PESSOA
 Pinheiro	I-PESSOA
@@ -3327,7 +3310,6 @@ Robert	I-ABSTRACCAO
 Anon	I-ABSTRACCAO
 e	O
 H.	B-ABSTRACCAO
---SENTENCE--	I-ABSTRACCAO
 M.	I-ABSTRACCAO
 F.	I-ABSTRACCAO
 Lecher	I-ABSTRACCAO
@@ -5643,7 +5625,6 @@ José	B-PESSOA
 Eduardo	I-PESSOA
 Pires	I-PESSOA
 Ass.	B-ORGANIZACAO
---SENTENCE--	I-ORGANIZACAO
 de	I-ORGANIZACAO
 Acólitos	I-ORGANIZACAO
 da	O

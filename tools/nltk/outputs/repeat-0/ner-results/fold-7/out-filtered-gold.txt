@@ -16,7 +16,6 @@ em	B-TEMPO
 1131	I-TEMPO
 por	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Telo	I-PESSOA
 (	O
 São	B-PESSOA
@@ -95,7 +94,6 @@ Nos	B-TEMPO
 tempos	I-TEMPO
 de	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 Henriques	I-PESSOA
 ,	O
@@ -128,7 +126,6 @@ fato	O
 de	O
 que	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 Henriques	I-PESSOA
 e	O
@@ -136,7 +133,6 @@ seu	O
 sucessor	O
 ,	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Sancho	I-PESSOA
 I	I-PESSOA
 ,	O
@@ -290,7 +286,6 @@ parente	O
 seu	O
 (	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Bento	I-PESSOA
 de	I-PESSOA
 Camões	I-PESSOA
@@ -1746,7 +1741,6 @@ Perdida	O
 Hardclub	B-LOCAL
 (	O
 V.N.	B-LOCAL
---SENTENCE--	I-LOCAL
 Gaia	I-LOCAL
 .	O
 )	O
@@ -1786,7 +1780,6 @@ Jovem	I-ACONTECIMENTO
 2006	I-ACONTECIMENTO
 (	O
 C.M.	B-LOCAL
---SENTENCE--	I-LOCAL
 Seixal	I-LOCAL
 )	O
 com	O

@@ -7797,7 +7797,6 @@ outras	O
 coisas	O
 ,	O
 Dr.	B-PESSOA
---SENTENCE--	I-PESSOA
 Werthan	I-PESSOA
 ,	O
 ``	O
@@ -7940,7 +7939,6 @@ juntos	O
 ''	O
 .	O
 Dr.	B-PESSOA
---SENTENCE--	I-PESSOA
 Frederick	I-PESSOA
 Werthan	I-PESSOA
 -	O
@@ -7981,7 +7979,6 @@ o	O
 livro	O
 do	O
 Dr.	B-PESSOA
---SENTENCE--	I-PESSOA
 Werthan	I-PESSOA
 ,	O
 o	O
@@ -8643,7 +8640,6 @@ mandado	O
 construir	O
 por	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Isabel	I-PESSOA
 de	O
 Aragão	B-LOCAL
@@ -8664,7 +8660,6 @@ em	B-TEMPO
 1283	I-TEMPO
 por	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Mor	I-PESSOA
 Dias	I-PESSOA
 .	O
@@ -8711,7 +8706,6 @@ o	O
 auxílio	O
 de	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Isabel	I-PESSOA
 de	O
 Aragão	B-LOCAL

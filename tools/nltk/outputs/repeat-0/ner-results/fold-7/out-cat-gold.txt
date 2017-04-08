@@ -2524,7 +2524,6 @@ Pedro	I-PESSOA
 I	I-PESSOA
 e	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Pedro	I-PESSOA
 II	I-PESSOA
 e	O
@@ -2562,7 +2561,6 @@ de	O
 caligrafia	O
 de	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Pedro	I-PESSOA
 II	I-PESSOA
 ;	O
@@ -4438,7 +4436,6 @@ da	O
 praia	O
 de	O
 S.	B-LOCAL
---SENTENCE--	I-LOCAL
 Bernardino	I-LOCAL
 ;	O
 tinha	O
@@ -4605,7 +4602,6 @@ dita	O
 praia	O
 de	O
 S.	B-LOCAL
---SENTENCE--	I-LOCAL
 Bernardino	I-LOCAL
 ,	O
 e	O
@@ -4685,7 +4681,6 @@ Até	O
 longe	O
 !	O
 S.	B-LOCAL
---SENTENCE--	I-LOCAL
 Bernardino	I-LOCAL
 não	O
 ia	O
@@ -4766,7 +4761,6 @@ direcção	O
 ...	O
 em	O
 S.	B-LOCAL
---SENTENCE--	I-LOCAL
 Bernardino	I-LOCAL
 ,	O
 a	O

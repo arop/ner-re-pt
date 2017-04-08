@@ -26,7 +26,6 @@ mandado	O
 construir	O
 por	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Isabel	I-PESSOA
 de	O
 Aragão	B-LOCAL
@@ -47,7 +46,6 @@ em	B-TEMPO
 1283	I-TEMPO
 por	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Mor	I-PESSOA
 Dias	I-PESSOA
 .	O
@@ -93,7 +91,6 @@ o	O
 auxílio	O
 de	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Isabel	I-PESSOA
 de	O
 Aragão	B-LOCAL
@@ -966,7 +963,6 @@ Escócia	O
 ,	O
 em	O
 St.	B-LOCAL
---SENTENCE--	I-LOCAL
 Etienne	I-LOCAL
 .	O
 ''	O
@@ -3720,7 +3716,6 @@ na	O
 corte	O
 de	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 V	I-PESSOA
 .	O
@@ -3812,7 +3807,6 @@ da	O
 guarda	O
 de	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 João	I-PESSOA
 II	I-PESSOA
 ,	O
@@ -3885,7 +3879,6 @@ bem	O
 acolhido	O
 por	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Manuel	I-PESSOA
 que	O
 em	B-TEMPO
@@ -5447,7 +5440,6 @@ Pedro	I-PESSOA
 I	I-PESSOA
 e	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Pedro	I-PESSOA
 II	I-PESSOA
 e	O
@@ -5485,7 +5477,6 @@ de	O
 caligrafia	O
 de	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Pedro	I-PESSOA
 II	I-PESSOA
 ;	O

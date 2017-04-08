@@ -216,7 +216,6 @@ preparação	O
 dirigido	O
 pelo	O
 sr.	B-PESSOA
---SENTENCE--	I-PESSOA
 Alfredo	I-PESSOA
 Silva	I-PESSOA
 ,	O
@@ -313,12 +312,10 @@ juntamente	O
 com	O
 os	O
 srs.	B-PESSOA
---SENTENCE--	I-PESSOA
 Eduardo	I-PESSOA
 Moreira	I-PESSOA
 ,	O
 Dr.	B-PESSOA
---SENTENCE--	I-PESSOA
 João	I-PESSOA
 Gomes	I-PESSOA
 de	I-PESSOA

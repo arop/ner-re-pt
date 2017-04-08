@@ -176,7 +176,6 @@ José	B-PESSOA
 Eduardo	I-PESSOA
 Pires	I-PESSOA
 Ass.	B-ORGANIZACAO
---SENTENCE--	I-ORGANIZACAO
 de	I-ORGANIZACAO
 Acólitos	I-ORGANIZACAO
 da	O
@@ -2053,7 +2052,6 @@ Quando	O
 é	O
 que	O
 F.H.	B-PESSOA
---SENTENCE--	I-PESSOA
 Cardoso	I-PESSOA
 tomou	O
 posse	O
@@ -2613,7 +2611,6 @@ a	O
 morte	O
 de	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 Henriques	I-PESSOA
 ?	O

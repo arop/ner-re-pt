@@ -205,7 +205,6 @@ de	O
 autor	O
 :	O
 M.	B-OBRA
---SENTENCE--	I-OBRA
 Said	I-OBRA
 Ali	I-OBRA
 (	O
@@ -215,7 +214,6 @@ Bechara	I-PESSOA
 )	O
 ,	O
 J.	B-OBRA
---SENTENCE--	I-OBRA
 Mattoso	I-OBRA
 Câmara	I-OBRA
 Jr.	I-OBRA
@@ -278,7 +276,6 @@ da	O
 obra	O
 de	O
 M.	B-PESSOA
---SENTENCE--	I-PESSOA
 Said	I-PESSOA
 Ali	I-PESSOA
 e	O
@@ -399,7 +396,6 @@ entre	O
 outros	O
 ,	O
 M.	B-PESSOA
---SENTENCE--	I-PESSOA
 Said	I-PESSOA
 Ali	I-PESSOA
 ,	O
@@ -439,7 +435,6 @@ terceira	O
 ,	O
 com	O
 J.	B-PESSOA
---SENTENCE--	I-PESSOA
 Mattoso	I-PESSOA
 Câmara	I-PESSOA
 Jr.	I-PESSOA
@@ -9021,7 +9016,6 @@ na	O
 corte	O
 de	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 V	I-PESSOA
 .	O
@@ -9113,7 +9107,6 @@ da	O
 guarda	O
 de	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 João	I-PESSOA
 II	I-PESSOA
 ,	O
@@ -9186,7 +9179,6 @@ bem	O
 acolhido	O
 por	O
 D.	B-PESSOA
---SENTENCE--	I-PESSOA
 Manuel	I-PESSOA
 que	O
 em	B-TEMPO

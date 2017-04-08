@@ -2499,7 +2499,6 @@ da	O
 obra	O
 de	O
 M.	B-PESSOA
---SENTENCE--	I-PESSOA
 Said	I-PESSOA
 Ali	I-PESSOA
 e	O
@@ -2618,7 +2617,6 @@ entre	O
 outros	O
 ,	O
 M.	B-PESSOA
---SENTENCE--	I-PESSOA
 Said	I-PESSOA
 Ali	I-PESSOA
 ,	O
@@ -2658,7 +2656,6 @@ terceira	O
 ,	O
 com	O
 J.	B-PESSOA
---SENTENCE--	I-PESSOA
 Mattoso	I-PESSOA
 Câmara	I-PESSOA
 Jr.	I-PESSOA
@@ -7382,7 +7379,6 @@ preparação	O
 dirigido	O
 pelo	O
 sr.	B-PESSOA
---SENTENCE--	I-PESSOA
 Alfredo	I-PESSOA
 Silva	I-PESSOA
 ,	O
@@ -7479,12 +7475,10 @@ juntamente	O
 com	O
 os	O
 srs.	B-PESSOA
---SENTENCE--	I-PESSOA
 Eduardo	I-PESSOA
 Moreira	I-PESSOA
 ,	O
 Dr.	B-PESSOA
---SENTENCE--	I-PESSOA
 João	I-PESSOA
 Gomes	I-PESSOA
 de	I-PESSOA
