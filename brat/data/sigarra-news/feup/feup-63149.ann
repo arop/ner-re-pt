@@ -1,6 +1,5 @@
 T1	UnidadeOrganica 17 21	FEUP
 T2	Pessoa 567 585	Maria Helena Braga
-T3	Curso 620 637	Engenharia Física
 T4	UnidadeOrganica 641 675	Faculdade de Engenharia da U.Porto
 T5	UnidadeOrganica 677 681	FEUP
 T6	Pessoa 1350 1368	Maria Helena Braga
@@ -8,19 +7,20 @@ T7	Pessoa 1666 1684	Maria Helena Braga
 T8	Data 1768 1772	2014
 T9	UnidadeOrganica 1808 1812	FEUP
 T10	Pessoa 1890 1904	Andy Murchison
-T11	UnidadeOrganica 1938 1959	Universidade do Texas
+T11	Organizacao 1938 1959	Universidade do Texas
 T12	Pessoa 1978 1993	John Goodenough
 T13	Pessoa 2076 2086	Goodenough
-T14	UnidadeOrganica 2262 2271	UT-Austin
+T14	Organizacao 2262 2271	UT-Austin
 T15	Data 2277 2294	fevereiro de 2016
 T16	Data 2397 2401	FEUP
 T17	Pessoa 2610 2628	Maria Helena Braga
 T18	Data 2635 2640	julho
-T19	Data 2686 2689	EUA
+T19	Localizacao 2686 2689	EUA
 T20	Localizacao 2862 2868	Europa
 T21	Pessoa 3005 3015	Goodenough
 T22	Pessoa 3089 3093	Andy
-T23	UnidadeOrganica 3404 3425	Universidade do Texas
+T23	Organizacao 3404 3425	Universidade do Texas
 T24	Pessoa 3571 3589	Maria Helena Braga
 T25	Localizacao 3604 3612	Portugal
 T26	Localizacao 4184 4192	Portugal
+T27	UnidadeOrganica 604 637	Departamento de Engenharia Física
