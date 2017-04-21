@@ -11,9 +11,9 @@ do
 		TRAIN=../../scripts/filter-harem/harem-to-standoff/outputs/repeat-$r/fold-$i
 		MODEL=models/repeat-$r/fold-$i
 
-		python "src/ner-train-spacy.py" $TRAIN"/cat_train-standoff" $MODEL cat 
-		python "src/ner-train-spacy.py" $TRAIN"/types_train-standoff" $MODEL types 
-		python "src/ner-train-spacy.py" $TRAIN"/subtypes_train-standoff" $MODEL subtypes 
-		python "src/ner-train-spacy.py" $TRAIN"/filtered_train-standoff" $MODEL filtered 
+		time python "src/ner-train-spacy.py" $TRAIN"/cat_train-standoff" $MODEL cat 
+		time python "src/ner-train-spacy.py" $TRAIN"/types_train-standoff" $MODEL types 
+		time python "src/ner-train-spacy.py" $TRAIN"/subtypes_train-standoff" $MODEL subtypes 
+		time python "src/ner-train-spacy.py" $TRAIN"/filtered_train-standoff" $MODEL filtered 
 	done
 done

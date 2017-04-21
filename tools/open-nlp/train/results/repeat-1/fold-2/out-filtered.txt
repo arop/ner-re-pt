@@ -1,0 +1,680 @@
+--DOCSTART-- 
+Em que escola estuda o <START:PESSOA> Harry Potter <END> ?
+Qual a divisa da escola?
+Em quantas casas está dividida?
+Quem é o director da escola?
+Como são os peixes-espada?
+Qual é o recorde da IGFA para este tipo de peixe?
+Quando nasceu <START:PESSOA> Amintore Fanfani <END> ?
+E aonde nasceu?
+Quem foi <START:PESSOA> Le Corbusier <END> ?
+Qual era o seu verdadeiro nome?
+Quem era <START:PESSOA> Flaubert <END> ?
+Em que ano publicou «Bouvard e Pécuchet»?
+Lista todas as suas obras.
+O que foi a Revolução de Veludo?
+O que foi a Revolução dos Cravos?
+Quem foi <START:PESSOA> António de Oliveira Salazar <END> ?
+Quem compôs a canção "Grândola, <START:PESSOA> Vila Morena"? <END>
+Onde foi fabricado Bender Bending Rodriguez?
+Quem é <START:PESSOA> Philip J. Fry <END> ?
+Quem foi <START:PESSOA> Hermann Emil Fischer <END> ?
+Quem prémio é que ele recebeu <START:TEMPO> em 1902 <END> ?
+Quem recebeu o Prémio Nobel da Literatura <START:TEMPO> nesse ano <END> ?
+Quem era Bertha von <START:LOCAL> Suttner <END> ?
+Quem foi <START:PESSOA> Marco Pantani <END> ?
+Qual era a sua alcunha?
+Quem foi <START:PESSOA> Juan Manuel Fangio <END> ?
+O que é a obsidiana?
+O que é uma "macana"?
+O que é um buraco negro?
+O que é a realidade virtual?
+O que é o pasodoble?
+O que é a tarantela?
+O que á a Arca de Noé?
+O que é um tacógrafo?
+O que é um odómetro?
+O que é um kinnor?
+O que é o INTASAT
+O que é que era o <START:PESSOA> Rainbow Warrior? <END>
+Quem é que o afundou <START:TEMPO> em 1985 <END> ?
+Para que serve um draga-minas?
+O que é a <START:ORGANIZACAO> INTELSAT <END> ?
+O que é uma Organização Não-Governamental?
+O que era a <START:LOCAL> Gestapo <END> ?
+Quantos membros tinha durante a Segunda Grande Guerra?
+O que é a <START:ORGANIZACAO> Organização Internacional da Normalização <END> ?
+O que era a <START:PESSOA> Mão Negra? <END>
+Qual a função da <START:ORGANIZACAO> Organização Meteorológica Mundial <END> ?
+Qual é a responsabilidade da <START:ORGANIZACAO> ONUDI <END> ?
+A que se dedica a Industrial Light and <START:LOCAL> Magic <END> ?
+Em que país fica <START:LOCAL> Çatal Hüyük <END> ?
+Em que mar desagua o rio Orentes?
+Em que país fica a Muralha de <START:LOCAL> Adriano <END> ?
+Onde é que trabalha o <START:PESSOA> Homer Simpson <END> ?
+Em que país fica <START:LOCAL> Minas Gerais <END> ?
+De onde é típica a ensaimada?
+Em que cidade nasceu <START:PESSOA> Natalie Hershlag <END> ?
+Quem é o prefeito dessa cidade?
+Quem desenhou o processador Zilog Z80?
+De quantos bits era este processador?
+Como se chamam os pais de <START:PESSOA> Luke Skywalker <END> ?
+Que paises entraram na <START:LOCAL> União Europeia <END> <START:TEMPO> a 1 de Janeiro de 1995 <END> ?
+Quem é a rainha da <START:LOCAL> Austrália <END> ?
+Quem era o papa quando se realizou o Concílio de Clermont?
+Que actor faz de <START:LOCAL> Chewbacca <END> ?
+Como se chama o deus grego da Medicina?
+Quem foi o realizador de Nosferatu?
+E quem era o actor principal?
+Quem é o secretário-geral da <START:ORGANIZACAO> UGT <END> ?
+Quando é que foi o atentado terrorista contra a <START:ORGANIZACAO> AMIA <END> ?
+Quantas pessoas morreram nesse ataque?
+Quando é que morreu <START:PESSOA> Federica Montseny <END> ?
+Em que dia se realizou o assalto ao rancho do davidianos em <START:LOCAL> Waco <END> ?
+Em que ano é que o <START:PESSOA> Real Zaragoza <END> ganhou a <START:ACONTECIMENTO> Taça das Taças <END> ?
+Em que ano foi inaugurado o AVE Madrid-Sevilha?
+Em que data é que o Corte Inglês comprou as <START:PESSOA> Galerias Preciados <END> ?
+Em que dia foi assassinado <START:PESSOA> Rajiv Gandhi <END> ?
+Que quatro deuses podem ser representados num vaso canopo?
+Quem produz o Windows 95?
+Steve Jobs é o presidente de que empresa?
+Como se chamava o serviço secreto da <START:ORGANIZACAO> RDA <END> ?
+David Stern é o comissário de que organização?
+Que rádio emite o programa de <START:PESSOA> Howard Stern <END> ?
+Que escola foi fundada por <START:PESSOA> Walter Groupis <END> ?
+A que ordem pertencia São Tomás de <START:LOCAL> Aquino <END> ?
+Que ordem foi fundada por São Francisco de <START:LOCAL> Assis <END> ?
+Que exército era comandado por <START:PESSOA> Rommel <END> ?
+O Bibendum é a mascote de que empresa?
+Como se chamava o barco de <START:LOCAL> Costeau <END> ?
+Que tipo de leite se usa para fazer mozzarella?
+Como se chamava a espada do <START:PESSOA> Rei Artur <END> ?
+As bolotas são o fruto de que árvore?
+De que planta se obtêm a juncinha?
+De que material é feito um Moai?
+Que come um quebra-ossos?
+Como se chamava a bomba atómica largada em <START:LOCAL> Nagasaqui <END> ?
+Qual foi o primeiro libro impresso por <START:PESSOA> Gutenberg <END> ?
+Que forma tem a entrada do Museu do <START:LOCAL> Louvre <END> ?
+Que animais puxam o carro de <START:LOCAL> Cíbele <END> ?
+O que é que mede a escala de <START:LOCAL> Mohs <END> ?
+Que licor se faz com abrunheiro?
+Em que museu estão «As Meninas» de <START:LOCAL> Velasques <END> ?
+Que escândalo provocou a demissão de <START:LOCAL> Nixon <END> ?
+Que fabrica a <START:LOCAL> Leica <END> ?
+Que lado de um barco é bombordo?
+Como se chamam as bolas usadas no Quidditch?
+Quantas pessoas morreram no afundamento do USS Maine?
+Quantos atletas participaram nos <START:ACONTECIMENTO> Jogos Olímpicos <END> de <START:LOCAL> Barcelona <END> ?
+Quantos habitantes tem a <START:LOCAL> Lituânia <END> ?
+Quantos lugares o parlamento da <START:LOCAL> Islândia <END> ?
+Quantos anos durarão as reservas mundiais de petróleo?
+Quantas vezes é que <START:PESSOA> Alain Prost <END> foi campeão do Mundo ?
+Quantos cavalos tem as turbinas do USS Nimitz?
+Quantos golos se marcaram ao todo no <START:ACONTECIMENTO> Mundial <END> <START:TEMPO> de 1982 <END> ?
+Quantas caves tem a Torre Picasso?
+Quantos prémios Goya ganhou "Torrente: El brazo tonto de la ley"?
+Que idade tem o Sol?
+Qual a duração do filme «A <START:PESSOA> Nona Porta»? <END>
+Com que idade morreu <START:PESSOA> Alfred Hitchcock <END> ?
+Qual a envergadura do Airbus 380?
+Quantos passageiros transportou <START:TEMPO> no dia 4 de Setembro de 2006 <END> ?
+Quanto custa cada unidade?
+Qual a capacidade de carga do Antonov An-124?
+Quais são os membros fundadores da <START:ORGANIZACAO> Star Alliance <END> ?
+Em que país se fala náhuatl?
+Quantas curvas tem o Circuito do <START:LOCAL> Mónaco <END> ?
+Quem foi a primeira mulher a viajar no espaço?
+Quem realizou «O Dia da Besta»?
+Quem inaugurou o Templo de Debod em <START:LOCAL> Madrid <END> ?
+Em que ano é que Torquemada foi nomeado Inquisidor Geral?
+Em que ano foi publicada a Gramática de <START:LOCAL> Nebrija <END> ?
+Onde é que <START:PESSOA> Rachel Weisz <END> estudou literatura?
+Em que cidade fica a Sagrada Família de <START:LOCAL> Gaudí <END> ?
+Qual a altura do Vesúvio?
+A quantos quilómetros de <START:LOCAL> Huesca <END> fica o Castelo de <START:LOCAL> Loarre <END> ?
+Qual a massa molécular do metanol?
+Qual a altura da Pirámede do Sol de <START:LOCAL> Teotihuacan <END> ?
+Quantos saltos formam as Cataratas do Iguaçú?
+Quantos degraus tem a Torre de <START:LOCAL> Pisa <END> ?
+Quais são os ingredientes da sangria?
+Quem é responsável pela segurança da Cidade do <START:LOCAL> Vaticano <END> ?
+Quem atribui a Medalha Fields?
+Para quem trabalha <START:PESSOA> Jack Bauer <END> ?
+O que é que foi usado como desfolhante na Guerra do Vietname?
+Qual foi o nome de código do Desembarque da Normândia?
+De que fungo se obtêm a penicilina?
+De que molusco é que os fenícios extraíam a tinta púrpura?
+O que é que <START:PESSOA> Manuel Campello Esclápez <END> descobriu?
+De que é que Jasão e os Argonautas andavam à procura?
+Quem era presidente dos <START:LOCAL> Estados Unidos <END> <START:TEMPO> durante o <END> ataque a <START:LOCAL> Pearl Harbour <END> ?
+O que é que a Norsk Hydro produzia durante a Segunda Guerra Mundial?
+Qual o tíulo da obra que ganhou o Prémio Nadal <START:TEMPO> em 1994 <END> ?
+Quantos reservistas tinha a Haganah <START:TEMPO> em 1936 <END> ?
+Que idade tinha <START:PESSOA> Miguel Induraín <END> durante a Volta a Espanha <START:TEMPO> de 1985 <END> ?
+Em que ano é que ele ganhou a Volta à <START:ORGANIZACAO> Espanha <END> ?
+Quantas etapas da <START:ORGANIZACAO> Volta <END> à <START:LOCAL> França <END> do Futuro de 1986 é que ele ganhou?
+Que prémio é que ele recebeu <START:TEMPO> em 1992 <END> ?
+Que actores são os protagonistas de «O Bom, o Mau e o Vilão"?
+Quantas pessoas morreram na <START:LOCAL> Europa <END> durante a epidemia de peste <START:TEMPO> do século XIV <END> ?
+Em que país teve origem a epidemia de gripe <START:TEMPO> de 1918 <END> ?
+Como se chamavam os Reis Católicos?
+Como se chamava o presidente do Burundi que morreu <START:TEMPO> em 1994 <END> ?
+Em que dia foi promulgada a constituição espanhola <START:TEMPO> de 1812 <END> ?
+Quem foi o capitão do <START:PESSOA> Real Sociedad <END> <START:TEMPO> entre 1974 e 1989 <END> ?
+Em que cidade se disputou a final da <START:ACONTECIMENTO> Taça <END> da <START:LOCAL> Europa <END> de <START:LOCAL> Basquete <END> <START:TEMPO> de 1996 <END> ?
+Que grupo terrorista cometeu um atentado durante os <START:ACONTECIMENTO> Jogos Olímpicos <END> de <START:LOCAL> Munique <END> ?
+Que partido político governou a <START:ORGANIZACAO> Espanha <END> <START:TEMPO> de 28 de Outubro de 1982 a 3 de Março de 1996 <END> ?
+Que farda tinha vestida o <START:PESSOA> Rei <END> quando apareceu na televisão após o golpe de estado de <START:LOCAL> Tejero <END> ?
+O que é que Leonardo da Vinci desenhou <START:TEMPO> em 1492 <END> ?
+O que é que <START:PESSOA> Antonio Rebollo <END> usou para acender a Chama Olímpica nos <START:ACONTECIMENTO> Jogos Olímpicos <END> de <START:LOCAL> Barcelona <END> ?
+Que programa de televisão apresentou Takeshi Kitano <START:TEMPO> de 1986 a 1989 <END> ?
+Que presente é que Nova Iorque recebeu para comemorar o centenário da indepêndencia dos <START:LOCAL> Estados Unidos <END> ?
+Qual foi a distribuidora do filme «O Planeta dos Macacos» que estreou <START:TEMPO> em 1968 <END> ?
+Que velocidade atingiu Louis Blériot a <START:VALOR> 25 <END> <START:TEMPO> de Julho de 1909 <END> ?
+Quantos quilos de anchova apanhou a frota do Cantábrico <START:TEMPO> em 1994 <END> ?
+Quais são as ilhas cuja posse a <START:LOCAL> Argentina <END> disputou ao <START:LOCAL> Reino Unido <END> <START:TEMPO> de 2 de Abril a 14 de Junho de 1982 <END> ?
+Onde se disputaram os <START:ACONTECIMENTO> Jogos Mediterrânicos <END> <START:TEMPO> de 1997 <END> ?
+Que navio é que <START:PESSOA> James Cook <END> comandou <START:TEMPO> de 1768 a 1769 <END> ?
+Quem é o actor principal do filme «Tarzan, o Homem-Macaco»?
+Quanto recordes mundiais é que ele bateu?
+Quem ganhou o Óscar Honorário <START:TEMPO> em 2007 <END> ?
+Quem roubou as jóias de <START:PESSOA> Bianca Castafiore <END> ?
+Em que país fica o Lago dos Cisnes?
+Em que ano morreu o <START:PESSOA> Capitão América <END> ?
+Qual é a capital da Terra do <START:LOCAL> Nunca <END> ?
+Como se chama a mulher de <START:PESSOA> Bill Gates <END> ?
+Em que universidade é que ele estudava quando criou a <START:LOCAL> Microsoft <END> ?
+Qual o orçamento dessa universidade <START:TEMPO> para 2005 <END> ?
+Em que ano foi fundada?
+Que avião supersónico teve os seus últimos voos comerciais <START:TEMPO> em Maio de 2003 <END> ?
+Quantos passageiros conseguia transportar esse modelo de avião?
+Qual a capacidade do Estádio Santiago Bernabéu <START:TEMPO> nos anos 80 <END> ?
+Quem é o dono do estádio?
+Quanto dinheiro foi gasto na sua ampliação <START:TEMPO> entre 2001 e 2006 <END> ?
+Quantas bombas foram lançadas sobre Dresda a <START:VALOR> 14 <END> <START:TEMPO> de Fevereiro de 1945 <END> ?
+Quanto pesavam as bombas largadas sobre esta cidade <START:TEMPO> a 7 de Outubro de 1944 <END> ?
+Que organismo dirigiu Alan Turing durante a Segunda Guerra Mundial?
+Quem era o czar da Rússia durante a Segunda Grande Guerra?
+Quantos pontos marcou a Jugoslávia na final do <START:ACONTECIMENTO> Mundial de Basquetebol <END> <START:TEMPO> de 1990 <END> ?
+Contra que país é que a <START:ORGANIZACAO> Espanha <END> jogou a final de basquete das Olímpiadas <START:TEMPO> de 1984 <END> ?
+Em que ano é que Espanha ganhou o <START:ACONTECIMENTO> Mundial de Futebol <END> ?
+--DOCSTART-- 
+
+CONGRESSOS DO <START:ORGANIZACAO> PSD <END> , VOLTEM QUE ESTÃO PERDOADOS
+Há poucas coisas que me entristecem tanto como esta história das directas do <START:ORGANIZACAO> PSD <END> .
+É que eu sempre fui um aficcionado dos congressos do <START:ORGANIZACAO> PSD <END> .
+Trata-se do evento político onde é mais provável que, de repente, se levante uma dúzia de militantes, salte para o palco e desate aos pontapés a tudo e a todos, inclusive a um cartaz com a mensagem: « PSD: Responsabilidade e sentido de Estado .»
+Habituei-me, <START:TEMPO> ao longo dos anos <END> , a assistir às transmissões televisivas dos congressos social-democratas, madrugada adentro , enquanto comia pipocas.
+Menos quando <START:PESSOA> Santana Lopes <END> fazia aqueles discursos improvisados, que me provocavam um nó na garganta.
+Lembro-me de a minha mãe uma vez entrar na sala, ver-me lavado em lágrimas, perguntar o que é que se passava e de eu dizer, a soluçar: «Ele vai apresentar uma moção de estratégia ao congresso, mesmo depois de tudo o que o <START:ORGANIZACAO> Conselho Nacional lhe <END> fez... Cafagestes!»
+É certo que, agora que já não há intervenções pungentes de <START:PESSOA> Santana Lopes <END> , os congressos do <START:ORGANIZACAO> PSD <END> ficariam demasiado dependentes das gaffes de <START:PESSOA> Luís Filipe Menezes <END> .
+Na minha opinião, acho perigoso que se dê assim tanto poder a um só homem.
+Costuma-se dizer -- e com razão - que o <START:ORGANIZACAO> PSD <END> é o Sport Lisboa e Benfica da política, uma vez que se trata do partido com a maior diversidade de classes sociais.
+O que explica, ao mesmo tempo a existência de tantos barões no partido: desde que se mastigue com a boca fechada e não se diga «treuze», é-se barão.
+Segundo <START:PESSOA> Pacheco Pereira <END> , é esta diversidade social que começa a estar seriamente ameaçada.
+Há uns <START:TEMPO> tempos <END> , escreveu no PÚBLICO que «o problema do <START:ORGANIZACAO> PSD <END> é começar a ter só um <START:ORGANIZACAO> Portugal <END> ou dois dentro de si».
+Não podia estar mais em desacordo com esta afirmação.
+Para mim, é precisamente esse o problema do partido.
+Se, em vez de « Portugais », o <START:ORGANIZACAO> PSD <END> tivesse uma Finlândia ou duas Dinamarcas dentro dele, aí sim podia ser que o partido fosse a algum lado.
+De resto, fico já satisfeito por ter conseguido escrever um post sobre o <START:ORGANIZACAO> PSD <END> , sem uma única referência à baixa estatura de Marques Mendes .
+(O quê?
+Isto conta como referência?)
+--DOCSTART-- 
+
+A fama do Prius
+<START:TEMPO> Durante o ano passado <END> o nome Toyota Prius esteve nas bocas de todo o mundo e foi alvo de notícia e reportagem por vários meios de comunicação, a maioria deles sem estarem sequer relacionamos com o mundo automóvel.
+Com toda esta atenção e o sucesso nas vendas por todo o mundo o nome Prius tornou-se um sinónimo de híbrido Nos Estados Unidos da America foram vendidos <START:TEMPO> em 2004 mais de 50 mil <END> unidades deste modelo e as listas de espera têm sido grandes, de tal forma grandes que existem casos de Prius a serem vendidos em segunda mão ao mesmo preço que um novo.
+Um habitáculo simples, confortável e espaçoso.
+Além de ser um híbrido, o que proporciona consumos mais moderados e menos poluição, é também um carro conduzido pelas estrelas de Hollywood .
+<START:PESSOA> Cameron Diaz <END> , <START:PESSOA> Leonardo DiCaprio <END> ou <START:PESSOA> Will Ferrell <END> são três dos muitos nomes famosos que possuem um Toyota Prius.
+Economia e performance
+Em cidade o Prius consome apenas <START:VALOR> 4,3 <END> litros a cada 100km , tornando-o num dos automóveis mais económicos do mercado.
+Estamos claro a falar dum motor 1.5 VVT-i com apenas <START:VALOR> 78cv <END> , que aliado ao sistema HSD (Hybrid Synergy Drive) aumenta a sua potência para 110cv .
+Dos 0 aos 100km/h o Prius demora <START:VALOR> cerca de 11 segundos <END> .
+A Toyota afirma que, apesar destas prestações conseguiram reduzir em <START:VALOR> 89% <END> as emissões libertadas, comparando a um veículo novo a gasolina.
+--DOCSTART-- 
+
+Em Dezembro em <START:LOCAL> Lisboa <END>
+Sócrates : cimeira " União Europeia - África não deve ser uma cimeira «sobre Mugabe »
+A cimeira União Europeia - África , prevista <START:TEMPO> para 8 e 9 de Dezembro <END> em <START:LOCAL> Lisboa <END> , não deve ser uma cimeira sobre o Presidente do Zimbabwe , <START:PESSOA> Robert Mugabe <END> , defendeu <START:PESSOA> hoje <END> <START:PESSOA> José Sócrates <END> , primeiro-ministro português e presidente em exercício da União Europeia ( <START:ORGANIZACAO> UE <END> ).
+«O que queremos é que esta cimeira entre a União Europeia e África , uma cimeira histórica muito importante, se concentre nos documentos que vão ser aprovados e não sobre o Presidente <START:PESSOA> Robert Mugabe <END> », declarou <START:PESSOA> Sócrates <END> em Singapura , à margem da cimeira entre a <START:ORGANIZACAO> UE <END> e os países do Sudeste asiático, segundo a <START:ORGANIZACAO> Lusa <END> .
+O Zimbabwe foi convidado para participar na cimeira, apesar da oposição do <START:LOCAL> Reino Unido <END> que ameaçou boicotar a reunião se Mugabe estiver presente.
+«Esta é uma cimeira que não se realiza <START:TEMPO> há sete anos <END> , uma cimeira sobre os direitos do Homem, sobre as alterações climáticas, sobre as migrações, sobre os problemas da União Europeia e da União Africana », salientou <START:PESSOA> Sócrates <END> .
+«O objectivo é restaurar o diálogo político alargado com a África e fazer não apenas uma estratégia da <START:LOCAL> Europa <END> para a África mas uma estratégia conjunta, pela primeira vez na história», lembrou.
+«Gostaria que esta cimeira não fosse apenas sobre um país ou sobre um dirigente», insistiu.
+--DOCSTART-- 
+
+Salgado , o fotógrafo da África perdida
+" África " do fotojornalista <START:PESSOA> Sebastião Salgado <END> é um murro na alma, um livro que consegue ainda surpreender os nossos olhos tão viciados que estão na catadupa de imagens que invadem o nosso quotidiano.
+É também o carimbo que autentica a vitalidade do fotojornalismo de referência, no tempo em que num ápice de <START:VALOR> 5 anos <END> a fotografia digital e toda ferramenta que permite uma nova linguagem multimédia, pareciam condenar o preto-e-branco como a última sessão fotográfica.
+Conheci o <START:PESSOA> Sebastião Salgado <END> em Fátima <START:TEMPO> no ano de 1979 <END> .
+Ao meu lado apareceu um fotógrafo estrangeiro, de ar cansado e que começou a comentar como era louco um velhote com as pernas entrapadas que teimava em iniciar de joelhos mais uma dolorosa promessa.
+O <START:LOCAL> António Pedro Ferreira <END> , outro fotógrafo peregrino, reconheceu-o logo como sendo o <START:PESSOA> Sebastião Salgado <END> .
+<START:TEMPO> Na época <END> ele ainda não era muito conhecido, tinha iniciado a carreira de fotógrafo <START:TEMPO> em 1975 <END> , em <START:LOCAL> Angola <END> , fotografando a aventura portuguesa na hora da descolonização.
+Mandara às urtigas uma profissão respeitável de economista e descobrira que a fotografia era o meio ideal para mostrar ao Mundo a saga do sofrimento humano.
+As suas fotos tinham sido publicadas na Photo e no Paris-Match , que eu me lembre, e tinham-me marcado pela capacidade de testemunharem momentos únicos, aliando o olhar jornalístico, ao apuro técnico, a sensibilidade social ao rigor estético.
+Sempre me intrigou, e <START:TEMPO> hoje <END> de novo ao ver o " África " onde estão também essas fotos, como é que um fotógrafo sem experiência já conseguia enquadrar de uma forma tão rigorosa e com um carácter tão forte.
+Só os mestres o conseguem com muita maturidade mas ele já alinhava na grelha de partida em primeiro para aquela que acabaria por ser uma carreira fulgurante.
+Em Fátima , <START:TEMPO> no dia seguinte <END> pela manhã voltei a encontrá-lo, sempre com o <START:LOCAL> António Pedro Ferreira <END> ao lado, e ele acabou por confessar (o lugar prestava-se a isso!)
+que tinha adormecido na véspera no quarto do hotel, depois de um jantar reconfortante falhando assim as fotografias da Procissão das Velas .
+Eu já contei esta história mas gosto de a repetir porque ela desmistifica a ideia de que os grandes repórteres são infalíveis.
+Não são.
+Falar das fotografias do <START:PESSOA> Sebastião Salgado <END> é redundante.
+Elas falam, dizem, explicam, sugerem, escondem, denunciam, por si, a visão grandiosa do fotojornalista-autor.
+Interessante é o método de Salgado para concretizar as suas reportagens.
+Trabalha com uma equipa reduzida.
+A mulher, arquitecta, dá-lhe apoio na produção, no design que transporta as fotografias.
+Depois conta com mais duas ou três pessoas num pequeno apartamento em <START:LOCAL> Paris <END> .
+Por detrás das suas imagens uma ideia, um projecto, uma produção, um fim.
+Salgado não fotografa à solta, não dispara sem objectivo.
+Por isso as suas fotografias demoram anos a fazer, editar, imprimir, mostrar.
+<START:TEMPO> Durante muitos anos <END> o fotógrafo trabalhou nas agências Sygma e Gamma e mais tarde foi membro da <START:ORGANIZACAO> Magnum <END> .
+Para ter fundo de maneio para poder realizar muitas das fotografias que agora aparecem no " África ", <START:TEMPO> trabalhava nove meses <END> em <START:LOCAL> Paris <END> a fazer conselhos de ministros, política, faits-divers, para poder financiar os seus projectos especiais a preto-e-branco com cariz de autor, durante os <START:TEMPO> restantes três meses <END> <START:TEMPO> do ano <END> .
+O trabalho mais bem pago como fotojornalista foram as fotografias que fez por mero acaso do atentado a Ronald Reagen .
+A revista Time tinha-lhe pedido para seguir o Presidente <START:TEMPO> durante um mês <END> , ele fê-lo com alguma contrariedade e acabou por estar no sítio certo, à hora exacta, no instante decisivo.
+Havia mais dois fotógrafos a seu lado, um deles da Associated Press que fez fotos muito melhores, mais nítidas e mais perto, do que as dele, mas Salgado conseguiu mesmo assim com a venda dessas imagens, um pouco tremidas, comprar um pequeno apartamento em <START:LOCAL> Paris <END> .
+A obra de Salgado supera muito do que tem sido em geral <START:TEMPO> nos últimos 30 anos <END> a fotografia documental.
+Não há outro fotógrafo na arte de testemunhar com uma tão extensa foto-galeria.
+Mas se o público enche aos milhares as suas exposições e corre a comprar os seus foto-álbuns, há uma elite da fotografia que questiona o sucesso comercial assente no testemunho da tragédia alheia, mesmo que haja no seu discurso visual e falado uma obsessão de esquerda pelo estado das coisas e pelos desígnios da Humanidade .
+É um fotógrafo que ainda atravessa da película para o digital, que permanece um artesão, e que está angustiado porque duvida conseguir no mercado a tempo película a preto e branco para poder acabar o seu novo projecto.
+Com " África " regressamos ao tempo perdido e com Salgado revivemos o melhor que há na essência do fotojornalismo documental.
+<START:PESSOA> Luiz Carvalho <END> , fotojornalista do Expresso
+
+--DOCSTART-- 
+
+<START:PESSOA> José Sócrates <END> apresentou balanço dos últimos <START:TEMPO> seis meses <END>
+UE : Durão Barroso elogia prestação da presidência portuguesa
+O presidente da <START:ORGANIZACAO> Comissão Europeia <END> elogiou <START:TEMPO> hoje <END> a prestação da presidência portuguesa da <START:ORGANIZACAO> UE <END> e a «competente liderança» do primeiro-ministro, <START:PESSOA> José Sócrates <END> , na condução dos destinos europeus no segundo semestre <START:TEMPO> deste ano <END> .
+Durão Barroso discursava na sessão plenária extraordinária do <START:ORGANIZACAO> Parlamento Europeu <END> , durante a qual <START:PESSOA> José Sócrates <END> apresentou os resultados da presidência portuguesa da <START:ORGANIZACAO> UE <END> .
+<START:TEMPO> O ano de "2007 <END> mostrou que a Europa está à altura dos seus compromissos", sublinhou o presidente do executivo comunitário, estendendo à anterior presidência alemã os louros pelo acordo que permitiu a assinatura do novo tratado europeu.
+Durão Barroso lembrou que o «sucesso político tem agora de ser concretizado» com a ratificação do tratado por todos os <START:ORGANIZACAO> Estados-membros <END> , o que foi já <START:TEMPO> hoje <END> feito pela Hungria , o primeiro dos <START:VALOR> 27 <END> países a cumprir esta etapa.
+No seu discurso, o dirigente europeu disse concordar com a apreciação feita minutos antes por <START:PESSOA> José Sócrates <END> sobre <START:TEMPO> os seis meses <END> da presidência portuguesa, principalmente a assinatura do Tratado de Lisboa , novo relacionamento com o <START:ORGANIZACAO> Brasil <END> e a cimeira com África .
+Durão Barroso acrescentou à longa lista de sucessos enunciados por <START:PESSOA> Sócrates <END> outros que considerou "também importantes", como a decisão de criar o <START:ORGANIZACAO> Instituto Europeu de <END> Tecnologia e o lançamento de uma Política Marítima Europeia .
+Entre os desafios que esperam a <START:ORGANIZACAO> UE <END> <START:TEMPO> nos próximos meses <END> , o presidente da <START:ORGANIZACAO> Comissão Europeia <END> destacou a necessidade de os <START:VALOR> 27 <END> ajudarem a encontrar uma solução para resolver a questão do Kosovo .
+"Isto é um teste para a <START:ORGANIZACAO> Europa <END> onde não podemos falhar", sublinhou.
+--DOCSTART-- 
+
+Por que não lançar foguetões de água e aprender a fazer relógios de <START:LOCAL> Sol <END> ?
+:: <START:TEMPO> 2007-12-13 <END>
+Telescópios, brinquedos, livros, um simulador de voo, sessões de observação do sol e do céu nocturno e foguetões de água vão estar, <START:TEMPO> entre sexta-feira e <END> <START:TEMPO> domingo <END> , em <START:LOCAL> Cascais <END> , à disposição dos visitantes da <START:ORGANIZACAO> FASCINIO <END> - Feira de Astronomia e Ciência .
+Organizada pelo Núcleo Interactivo de Astronomia ( NUCLIO ) no Centro de Interpretação Ambiental da Ponta do Sal , em <START:LOCAL> São Pedro do Estoril <END> , a quarta edição da iniciativa inclui sessões de observação do sol e do céu nocturno, oficinas de astronomia, lançamentos de foguetões de água, palestras e uma "procura de asteróides", actividade que a instituição promove regularmente nas escolas do concelho.
+"A feira destina-se ao público em geral, embora o programa de sexta-feira esteja muito pensado para as escolas, com actividades para os primeiros ciclos, e sábado tenha actividades para os professores, com uma pequena mostra das actividades do NUCLIO ", disse à Agência Lusa a astrónoma Rosa Doran .
+" 
+Sexta-feira estão previstas actividades para as escolas, a que chamámos 'sexta-feira divertida', dedicadas ao conhecimento das estrelas e constelações e ainda observação do <START:LOCAL> Sol <END> com Telescópios e construir enfeites de Natal com motivos de astronomia", acrescentou.
+No sábado o programa prevê observação de supernovas e do Sol e apresentação a professores do projecto ' Hands-On Universe ', que pretende uma nova abordagem no ensino e aprendizagem da astronomia, recorrendo a ferramentas interactivas que podem, por exemplo, passar pela utilização de tempo de observação em telescópios profissionais nas salas de aulas e tratamento de imagens num software especialmente desenvolvido para o efeito.
+Sol para Todos
+Haverá observação nocturna do céu com telescópios e será ainda apresentado o programa do Observatório Astronómico da <START:ORGANIZACAO> Universidade <END> de <START:LOCAL> Coimbra <END> " Sol para Todos ".
+"O Observatório de <START:LOCAL> Coimbra <END> tem um grande acervo de imagens do Sol , que registam diariamente <START:TEMPO> desde os anos vinte do século passado <END> , e estão a digitalizar essas imagens para que possam estar à disposição das escolas", explica Rosa Doran , realçando que desta forma "os meninos podem fazer ciência na própria sala de aula, podem ver a evolução das manchas do sol nas últimas décadas e comparar essa evolução, por exemplo, com as mudanças do clima".
+Segundo a responsável, um dos principais objectivos da <START:ORGANIZACAO> FASCINIO <END> é dar também a conhecer a oferta existente na área e valorizar o trabalho dos profissionais portugueses, "muito ligados" à investigação de vanguarda e pouco reconhecidos pelo grande público.
+[...] 
+A Nossa Galáxia
+O NUCLIO vai por isso assinar sábado um protocolo com a Câmara Municipal de Cascais para que o Centro de Interpretação Ambiental seja disponibilizado para as suas actividades junto da comunidade escolar.
+De acordo com o documento, a autarquia irá ainda apoiar a formação agendada para o presente ano lectivo com vinte <START:TEMPO> mil euros <END> .
+Durante a feira será também apresentado o livro de divulgação científica " Passeio Aleatório pela ciência do dia-a-dia ", com a presença do autor <START:PESSOA> Nuno Crespo <END> .
+Ainda no sábado , a investigadora do Centro de Astronomia da <START:ORGANIZACAO> Universidade <END> do <START:LOCAL> Porto Catarina Lobo <END> , que estuda enxames de galáxias, vai explicar ao público em geral que tipo de galáxia é a nossa, como se formam e como evoluem na palestra " A nossa Galáxia e as outras: Ilhas no Universo ".
+<START:TEMPO> No domingo <END> está previsto que o público em geral possa participar no lançamento de foguetões de água e em Oficinas de Astronomia , com a construção de Relógios de Sol , Espectroscópios , Astrolábios , Planisférios e outros materiais de observação.
+A iniciativa termina com uma palestra por <START:PESSOA> João Fernandes <END> , o coordenador nacional <START:TEMPO> do ano internacional <END> da astronomia, que se assinala <START:TEMPO> em 2009 <END> .
+--DOCSTART-- 
+
+TROPA DE ELITE, OSSO DURO DE ROER, PEGA UM PEGA GERAL, TAMBÉM VAI PEGAR VOCÊ!
+Ontem , na esquina de casa, um camelô estendia seus murais com capas de DVDs mal impressas.
+Passei por ele sem me importar, era apenas mais um desses caras que atrapalham o nosso caminho pelas calçadas.
+Continuei rumo à sessão das 19h no Espaço de Cinema em <START:LOCAL> Botafogo <END> .
+Trinta passos adiante parei e lembrei do recente caso " Tropa de Elite : o filme tinha vazado no pirata, e desde o início da semana estava sendo vendido nas ruas do <START:LOCAL> Rio <END> .
+Titubeei um pouco, podia perder a sessão no cinema, mas acabei voltando para conferir os títulos que o camelô oferecia.
+Cheguei devagar, olhando meio de longe, um pouco constrangido, confesso.
+Ainda sou dessas pessoas que têm um certo pudor em ficar ali, cara a cara com o pirata.
+Logo encontrei dois títulos nacionais:Xuxa Gêmeas e Ó paí ó .
+Perguntei se ele tinha Tropa de Elite, o rapaz branquelo, com cara de rapper zona sul, boné e bermudão Billabong respondeu:
+- Com certeza!
+Tem sim.
+Quis saber mais sobre o filme, como se só tivesse ouvido falar através do burburinho das ruas:
+- Ah, esse não é o filme que teve os armamentos roubados no "Chapéu Mangueira"?
+- É esse mesmo.
+É com o Olavo da novela.
+- Que Olavo ?
+- O Wagner , <START:PESSOA> Wagner Moura <END> .
+- Ah legal, então é esse mesmo.
+Quanto é?
+- É cinco.
+- E a qualidade é boa?
+- É sim, é DVD mesmo, não é VCD não.
+Mídia roxinha!
+- Tá completo ne?
+Não falta cena não!?
+- Completo!
+- Beleza então, se a qualidade não for boa eu volto aqui <START:TEMPO> amanhã <END> e troco.
+- Tranqüilo, tá garantido.
+E tava mesmo.
+A qualidade realmente era perfeita, som e imagem de primeira, cartelas e intertítulos em inglês!
+Só faltaram os créditos finais.
+Nessa, o camelo parou pra olhar uma conversa meio estranha que seu companheiro de banca travava com um sujeito meio cara de PM à paisana.
+Ficou ali, meio de esguelha, prestando atenção, e eu, ao lado, esperando o produto.
+Parecia que a conversa alheia fechava alguma combinação.
+Cutuquei: 
+- E aê, tem o Tropa de Elite ou não?
+- perguntei de novo, querendo sair logo pro cinema.
+- Tem sim.
+Sai um Tropa aí - disse o branquelo pro chapa.
+O comparsa foi lá numa bolsa preta e pegou lá um plástico com uma folha mal impressa que trazia Tropa de Elite escrito com uma fonte meio "Linha Direta" e umas fotos não identificáveis que deviam reproduzir cenas do filme.
+Dentro vinha o DVD da "mídia roxinha", abri pra constatar.
+Me entregou logo dizendo:
+- Também tem aquele ali, com o <START:PESSOA> Lázaro Ramos <END> , "Ó pái ó".
+- Ó Paí ó , to ligado, esse eu já vi - o que não era verdade, só para não estender mais a transação.
+- Também tem o <START:PESSOA> Caixa Dois, <END> sabe qual é?
+- Sei sim, mas <START:TEMPO> hoje <END> só quero o Tropa mesmo - já quase íntimo do filme do Padilha .
+Paguei e fui pro cinema pensando na tamanha facilidade com que aquele filme tinha parado nas minhas mãos por <START:PESSOA> 5 <END> pratas , menos que um big mac...no esforço que devia ter sido fazer tudo aquilo: levantar a história com os Bopes, roteirizar em zilhões de tratamentos, reservar o espaço na agenda de caras como <START:PESSOA> Tulé Peak <END> (diretor de arte), Braulio Mantovani (roteirista) e <START:PESSOA> Daniel Rezende <END> (montador) - não por acaso, o mesmo trio ternura por trás de Cidade de <START:PESSOA> Deus <END> -, e além disso, aprovar o projeto, captar, produzir, filmar, ter as filmagens paralisadas pelo roubo de todo o armamento cenográfico, artefatos que protagonizam o filme do início ao fim, e ainda finalizar, negociar a comercialização, traçar uma estratégia de marketing, etc.
+Uma trabalheira danada.
+E depois de tudo isso, ver um pedaço mutilado do seu "filho" <START:TEMPO> de 3 anos <END> parar na mão de geral por <START:VALOR> 5 <END> real (a versão que circula é que a cópia vendida pelos ambulantes é o segundo corte do filme, que já estaria na 16ª versão da montagem).
+É um caso inédito para o cinema brasileiro, e talvez para a Polícia também.
+Um filme que desperta tal interesse do público, de forma tão espontânea, que ganha as ruas pela via da ilegalidade antes do seu lançamento nos cinemas, numa avassaladora "não-ação" de marketing viral, ou numa curiosa referência àquilo mesmo de que trata sua história.
+O vazamento da cópia já está sendo investigado pela própria Polícia .
+Haja metalinguagem cinematográfica!
+Resta saber como isso vai repercutir daqui pra frente.
+Vai ser bom ou não?
+Quem pode ter certeza sobre o que o diretor <START:PESSOA> José Padilha <END> diz à <START:ORGANIZACAO> Folha de S. Paulo: <END> "que ninguém sabe o efeito que as vendas piratas terão sobre a bilheteria do filme, mas acredita na chance de não haver prejuízo à performance da venda de ingressos, já que, analisa, o público do DVD pirata é um e o dos cinemas, outro."
+Ou será que o boca a boca vai fazer o filme estourar?
+Vai virar reportagem do Fantástico?
+Ganhar as páginas policiais dos jornais mais uma vez?
+Mídia espontânea ou um baita furo pirata, ninguém pode dizer ainda.
+O que dá pra comentar do lado de cá é que o filme é brilhantemente aterrador.
+Um thriller que combina a crueza esquemática de Notícias de uma guerra particular e a cinematografia exuberante de Cidade de Deus.
+Esse é só o começo de uma grande História que vem por aí.
+Em breve, num cinema perto de você.
+--DOCSTART-- 
+
+Protocolo de Quioto
+Decreto 7/2002, <START:TEMPO> de 25 de Março <END> que aprova o Protocolo de Quioto à Convenção Quadro das Nações Unidas sobre Alterações Climáticas
+Documentos relacionados com o PNALE
+Decisão da <START:ORGANIZACAO> Comissão Europeia <END> sobre o PNALE português
+Comunicado de imprensa da <START:ORGANIZACAO> COMISSÃO <END> - "Comércio de Emissões: a <START:ORGANIZACAO> Comissão <END> deu o seu aval a mais oito planos, abrindo caminho para o início do Comércio de Emissões na data prevista" (IP/04/1250)
+Plano Nacional de Atribuição de Licenças de Emissão - PNALE 2005-2007 (versão notificada à <START:ORGANIZACAO> Comissão Europeia <END> )
+PNALE 2005-2007 - Relatório da <START:ORGANIZACAO> Consulta Pública <END>
+Metodologia de Atribuição de Licenças de Emissão - PNALE 2005-2007
+Documentos relacionados com o Comércio Europeu de Licenças de Emissão
+Directiva 2003/87/CE do <START:ORGANIZACAO> Parlamento Europeu <END> e do Concelho , <START:TEMPO> de 13 de Outubro de 2003 <END> , relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na Comunidade e que altera a Directiva 96/61/CE do Conselho
+Decreto-Lei n.º 233/2004, <START:TEMPO> de 14 de Dezembro <END> , alterado pelo Decreto-Lei n.º 243-A/2004, <START:TEMPO> de 31 de Dezembro <END> , que estabelece o regime de comércio de licenças de gases com efeito de estufa na <START:LOCAL> União Europeia <END>
+Decisão da <START:ORGANIZACAO> Comissão <END> n.º 156/2004, <START:TEMPO> de 29 de Janeiro de 2004 <END> , que estabelece orientações para a monitorização e comunicação de informações relativas às emissões de gases com efeito de estufa
+Regulamento (CE) n.º 2216/2004 da <START:ORGANIZACAO> Comissão <END> <START:TEMPO> de 21 de Dezembro de 2004 <END> , relativo a um sistema de registos normalizado e protegido em conformidade com a Directiva 2003/87/CE do <START:ORGANIZACAO> Parlamento Europeu <END> e do <START:ORGANIZACAO> Conselho <END> e a Decisão n.º 280/2004/CE do <START:ORGANIZACAO> Parlamento Europeu <END> e do <START:ORGANIZACAO> Conselho <END>
+International Emissions Trading Association, "Guidelines for an accredited verification system of the greenhouse gas emissions within the EU Emissions Trading Scheme" (em inglês)
+Directiva 2004/101/CE do <START:ORGANIZACAO> Parlamento Europeu <END> e do <START:ORGANIZACAO> Conselho <END> , <START:TEMPO> de 27 de Outubro de 2004 <END> , que altera a Directiva 2003/87/CE relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na Comunidade , no que diz respeito aos mecanismos baseados em projectos do Protocolo de Quioto
+
+--DOCSTART-- 
+
+Terá ainda que se esperar para ver outros resultados do Plano Tecnológico , mas este perdeu dinâmica <START:TEMPO> no último ano <END> .
+6. 
+Quanto às « Novas Oportunidades » foram no seu início um sucesso naquilo que era mais difícil: revalorizar o papel do ensino, da educação, da aprendizagem, do saber, em sectores da população que na sua vida tinham voltado as costas a esses valores, ou por necessidade, ou por facilidade.
+Porém o programa entra agora numa fase crucial: após os momentos de arranque incial, é suposto que se começe agora a aprender e a ser avaliado.
+Esta é a parte difícil, mas a que justifica o projecto.
+E aqui as intenções iniciais começam a esmorecer, os atrasos a somarem-se, a perplexidade dos formadores a aumentar e o anúncio regular pelo governo da outorga de mais uns milhares de diplomas faz suspeitar de facilitismo.
+Vamos ver.
+7. 
+No PSD deu-se mais um passo para a irrelevância, ou ainda pior, para tornar o partido um mero gestor alternativo das políticas do <START:ORGANIZACAO> PS <END> .
+Ora, para fazer a mesma política, os eleitores preferem o <START:ORGANIZACAO> PS <END> como mais eficaz e mais credível.
+Com Marques Mendes , o <START:ORGANIZACAO> PSD <END> esboçou um ruptura com o período negro anterior, mas como quando se fazem «revoluções pela metade cava-se o seu próprio túmulo» (dizia Saint Just ), perdeu-se o pouco que se tinha adquirido voltando o partido ao dia anterior da derrota <START:TEMPO> de 2005 <END> .
+Mendes não conseguiu impor-se, mas os seus esforços foram no sentido certo.
+Menezes também não está a conseguir impor-se, mas todos os seus esforços vão no sentido errado.
+O governo está verdadeiramente à solta, a oposição numa crise maior do que alguma vez esteve <START:TEMPO> desde 2005 <END> .
+8. 
+O <START:ACONTECIMENTO> PP <END> já atingiu o equilibrio dos pequenos partidos, que atingem uma «stasis» interna onde que tudo o que acontece, não acontece.
+E no entanto, a retirada do <START:ORGANIZACAO> PSD <END> da oposição poderia ser uma oportunidade e o <START:ACONTECIMENTO> PP <END> tem aproveitado os vazios para ocupar o terreno de algumas questões importantes como a dos direitos dos contribuintes e a omnipotência do fisco.
+Mas não chega.
+Portas reduziu o partido a si próprio, e dar atenção ao PP é dar atenção a Portas e cada vez menos pessoas o fazem.
+9. 
+O PCP teve um bom ano, o problema do PCP é que ninguém dá por ela disso.
+O PCP é o único partido cuja força é «civil», mesmo que se tenha em conta o processo de estatização dos sindicatos, maior na UGT do que na <START:ORGANIZACAO> CGTP <END> .
+Conseguiu com autonomia uma capacidade de mobilização que já tinha perdido e pôs na rua muitas dezenas, senão centenas de milhares de pessoas.
+O problema do PCP é que passou de moda mediática, a sua contestação parece um arcaísmo social e por isso parece ser inútil.
+10. 
+O BE está em crise.
+Deixou-se enredar com o <START:ORGANIZACAO> PS <END> em <START:LOCAL> Lisboa <END> , o pior sítio para alguém se enredar com o <START:ORGANIZACAO> PS <END> .
+Deixou-se reduzir a Louçã e Louçã fixou-se num discurso cujo esgotamento irrita mais do que cansa.
+Para a contestação social o PCP é mais eficaz, e as causas "fracturantes" são na maioria dos casos ou inócuas, ou tão vanguardistas que ficam na marginalidade e no radical chic.
+--DOCSTART-- 
+
+O Pai Natal , <START:PESSOA> Artur Jorge <END> e o BCP
+O <START:ORGANIZACAO> Governo <END> russo proibiu uma campanha de uma cadeia de distribuição, que tinha por lema " O Pai Natal não existe ".
+O argumento é que tal ideia era nefasta para as criancinhas russas.
+Conclusão: o <START:ORGANIZACAO> Governo <END> russo acredita no Pai Natal e quer que as criancinhas também acreditem.
+<START:PESSOA> Artur Jorge <END> foi, entretanto, escolhido para seleccionador do Irão, equipa que se encontrava <START:TEMPO> há seis meses <END> sem treinador.
+Tendo em atenção o que se tem passado <START:TEMPO> nos últimos anos <END> na carreira do ex-treinador do FC Porto, que nunca termina os contratos e acaba sempre despedido com uma choruda indemnização, bem se pode dizer que a Federação Iraniana de Futebol acredita no Pai Natal .
+E <START:PESSOA> Artur Jorge <END> também, claro.
+Por outro lado, a escolha do presidente da <START:ORGANIZACAO> Caixa Geral de Depósitos <END> para presidir ao BCP só pode igualmente ser obra do Pai Natal .
+<START:PESSOA> Carlos Santos Ferreira <END> é visto como o homem que vai trazer a concórdia para um banco que não vive em paz há muito - mesmo que o vá fazer à custa do banco do <START:LOCAL> Estado <END> .
+Por isso, o ministro das Finanças , que autorizou esta mudança sem pestanejar, também deve acreditar no Pai Natal .
+Não lhe passa pela cabeça que <START:PESSOA> Santos Ferreira <END> , com o que sabe da <START:ORGANIZACAO> Caixa <END> , fique em excelente posição para ganhar quota de mercado ao banco público, que vai <START:TEMPO> este ano <END> dar <START:VALOR> mais de 800 milhões de <END> lucros, dos quais 400 milhões vão direitinhos para os cofres do <START:LOCAL> Estado <END> a título de IRC .
+Se <START:PESSOA> Santos Ferreira <END> tiver sucesso no BCP , quem vai sofrer é a Caixa - e, por tabela, todos nós, contribuintes.
+Porque quanto menos o <START:ORGANIZACAO> Estado <END> receber de dividendos das empresas públicas, mais o <START:LOCAL> Estado <END> será tentado a vir buscar-nos dinheiro aos bolsos.
+Por outras palavras, os únicos que não têm razões para acreditar no Pai Natal são os contribuintes portugueses.
+<START:PESSOA> Nicolau Santos <END>
+
+--DOCSTART-- 
+
+Novidades na Macworld <START:TEMPO> 2007 <END>
+Apple lançou o iPhone , o telemóvel mais esperado dos últimos <START:TEMPO> tempos <END>
+Sempre é o iPhone , dirão os que acompanharam as especulações e palpites <START:TEMPO> dos últimos meses <END> .
+A Apple , empresa de tecnologias que tem nos leitores multimédia iPod e nos computadores Macintosh a sua bandeira, acaba de entrar na área das telecomunicações.
+O novo telemóvel junta as capacidades de um telefone às de um leitor multimédia portátil.
+Funciona com o sistema operativo <START:PESSOA> MacOS X <END> , serve para comunicar e para trazer no bolso as músicas, o e-mail, as fotos ou os vídeos preferidos.
+O anúncio foi feito <START:TEMPO> ontem <END> , em <START:LOCAL> São Francisco <END> , nos <START:LOCAL> EUA <END> , onde decorre a Macworld , feira que a Apple organiza todos os anos para apresentar as suas novidades.
+Como de costume, a conferência de <START:PESSOA> Steve Jobs <END> , o director-geral da empresa, foi o ponto alto para os fãs da Apple .
+" 
+De vez em quando chega um produto revolucionário que muda tudo.
+É sorte se pudermos trabalhar num ao longo da carreira... e a Apple é sortuda por já ter lançado vários", disse <START:PESSOA> Steve Jobs <END> .
+O novo telefone vai estar disponível <START:TEMPO> em <END> <START:LOCAL> Junho <END> , nos <START:LOCAL> EUA <END> , em duas versões: uma com <START:VALOR> 8 <END> gigabytes (GB) de capacidade de armazenamento, que custará <START:VALOR> 600 dólares <END> , e outra com <START:VALOR> 4 <END> <START:ORGANIZACAO> GB <END> , a <START:VALOR> cerca de 500 dólares <END> .
+À <START:LOCAL> Europa <END> chegará no final <START:TEMPO> do ano <END> , e na Ásia só <START:TEMPO> em 2008 <END> .
+Tem uma câmara fotográfica com <START:VALOR> 2 <END> megapixels de resolução e um ecrã táctil com <START:VALOR> 8,8 <END> centímetros de diagonal.
+Nos <START:LOCAL> EUA <END> , o telemóvel da Apple funcionará na rede <START:ORGANIZACAO> Cingular <END> Wireless .
+O seu desenvolvimento levou ao registo de mais de 200 patentes, o que o torna numa das maiores inovações da empresa.
+O facto de ter o sistema operativo <START:ORGANIZACAO> OS X <END> - usado nos computadores da Apple - significa que o iPhone terá muitas das funções habituais naquelas máquinas.
+Permitirá aceder ao correio electrónico de forma automática ou ver os mapas do Google .
+--DOCSTART-- 
+
+O <START:ACONTECIMENTO> Tour <END> de <START:LOCAL> França de 2009 <END> vai começar no Mónaco com um contra-relógio <START:TEMPO> de 15 quilómetros <END> , numa etapa que também terminará no principado monegasco.
+O início do contra-relógio terá lugar precisamente no mesmo local do local de partida das provas de Fórmula 1.
+"O prestígio do principado, a filosofia que tem para o desporto e grandes eventos e a localização geográfrica" foram apontados por <START:PESSOA> Christian Prudhomme <END> como justificação para a decisão.
+O <START:ACONTECIMENTO> Tour <END> de <START:LOCAL> França <END> voltará assim ao Mónaco , depois de <START:VALOR> 45 anos <END> ausente.
+--DOCSTART-- 
+
+Que percentagem do orçamento da União Europeia se destina à agricultura?
+Quantos países são oficialmente candidatos à adesão à <START:ORGANIZACAO> Otan <END> ?
+Que sinfonia compôs Beethoven <START:TEMPO> em 1824 <END> ?
+Que país não é membro da <START:ORGANIZACAO> ONU <END> ?
+Quem se pensa ter participado na tentativa de assassínio de <START:PESSOA> Juan Carlos <END> <START:TEMPO> em 1995 <END> ?
+Quem era o pai de <START:PESSOA> Isabel II <END> ?
+Quem foi chanceler da <START:LOCAL> Alemanha <END> <START:TEMPO> de 1974 a 1982 <END> ?
+Quando ocorreu a coroação oficial de <START:PESSOA> Isabel II <END> ?
+Em que ano foi proposta pela primeira vez a "Parceria para a Paz"?
+Quem comandou a Insurreição de Varsóvia?
+Quem escreveu a epopeia fantástica "O <START:PESSOA> Senhor <END> dos Anéis"?
+Como se chama a mulher de <START:PESSOA> George H. W. Bush <END> ?
+Como se chama a primeira mulher a escalar o Evereste sem máscara de oxigénio?
+Quem ficou conhecido como o "chanceler de ferro"?
+Em que ano foi assassinado <START:PESSOA> Martin Luther King <END> ?
+Em que cidade nasceu <START:PESSOA> Wolfgang Amadeus Mozart <END> ?
+Quantos estados tem a <START:LOCAL> Alemanha <END> ?
+Quem é <START:PESSOA> Stephen Hawking <END> ?
+O que é o hapkido?
+Quem se tornou chanceler após ter sido ministro-presidente da <START:LOCAL> Renânia-Palatinado <END> ?
+Que rei morreu <START:TEMPO> em 1718 <END> ?
+Em que ano morreu <START:PESSOA> Charles de Gaulle <END> ?
+Qual é a altura da Torre Eiffel?
+O que é o top quark?
+De acordo com o modelo "standard", quais são as três partículas elementares da física?
+Que proporção do leite vendido é usado com cereais ao pequeno-almoço?
+Em que ano teve lugar o Desembarque da Normandia?
+Quando foi assinada a "Convenção de Basileia sobre o Controlo de Movimentos Transfronteiriços de Resíduos Perigosos"?
+A que se refere o termo "Les Six" em música?
+A quem pertencia Nice <START:TEMPO> de 1814 a 1860 <END> ?
+Qual é a sigla da <START:ORGANIZACAO> Administração Federal <END> de <START:LOCAL> Aviação <END> ?
+O que é o GI Joe?
+Qual a estrutura cujo afundamento causou controvérsia na cimeira dos G7 em <START:LOCAL> Halifax <END> ?
+Quem foi <START:PESSOA> Alexander Graham Bell? <END>
+Quem é <START:PESSOA> Danuta Walesa <END> ?
+Quem é <START:PESSOA> Vigdís Finnbogadóttir <END> ?
+Quem eram os cossacos?
+O que é o ECU verde?
+O que é o dracma?
+Quem preside à <START:ORGANIZACAO> RAI <END> ?
+Quem é o director de operações da <START:ORGANIZACAO> NASA <END> ?
+Em que ano se afundou o Titanic?
+Em que data é que os Estados Unidos invadiram o <START:LOCAL> Haiti <END> ?
+Em que ano foi a Revolução de Outubro?
+Em que ano ocorreu a retirada de <START:LOCAL> Dunquerque <END> ?
+Onde é a sede da <START:ORGANIZACAO> Interpol <END> ?
+Onde é que Braque e Picasso trabalharam juntos?
+De que organização era <START:PESSOA> Sergio Balanzino <END> secretário-geral?
+De que estúdio cinematográfico foi <START:PESSOA> Cedric Gibbons <END> director artístico?
+Quantos habitantes tem <START:LOCAL> Longyearbyen <END> ?
+Qual o principal componente da aspirina?
+Com que bicicleta bateu Miguel Induráin o recorde da hora?
+Quem venceu a <START:ACONTECIMENTO> Volta <END> a <START:LOCAL> França <END> <START:TEMPO> em 1988 <END> ?
+A que organização aderiu a Grécia <START:TEMPO> em 1952 <END> ?
+Quantos países visitou Nixon <START:TEMPO> entre 1953 e 1959 <END> ?
+Que cargo ocupava François Mitterrand ao ingressar no hospital de <START:LOCAL> Cochin <END> ?
+Quais são as três repúblicas bálticas?
+Quais são as três repúblicas soviéticas eslavas?
+O que é o Challenger?
+Quem é <START:PESSOA> Ernesto Zedillo Ponce de León <END> ?
+Quem era primeiro-ministro britânico antes de <START:PESSOA> John Major <END> ?
+Quem é <START:PESSOA> Boris Becker <END> ?
+Em que filme de <START:PESSOA> Kevin Reynolds <END> actuou <START:PESSOA> Kevin Costner <END> ?
+Onde se realizaram os <START:ACONTECIMENTO> Jogos Olímpicos <END> <START:TEMPO> de 1993 <END> ?
+Que tipo de bombas foram usadas pelo <START:LOCAL> IRA <END> no ataque a <START:LOCAL> Heathrow <END> <START:TEMPO> em 1994 <END> ?
+O que é um Chinook?
+Quem é o presidente do <START:LOCAL> Egipto <END> ?
+Onde morreu <START:PESSOA> Kurt Cobain <END> ?
+Quantos telespectadores seguiram a final do <START:ACONTECIMENTO> Campeonato do Mundo de Futebol <END> <START:TEMPO> de 1994 <END> ?
+O que é o KMT?
+Que cromossoma está na origem do mongolismo?
+Quem era presidente da <START:ORGANIZACAO> Chechénia <END> <START:TEMPO> em 1994 <END> ?
+Quem foi o primeiro homem na Lua?
+A que partido pertence <START:PESSOA> Mahfoudh Nahnah <END> ?
+Diga o nome de um filme realizado por <START:PESSOA> Claude Lanzmann <END> ?
+Onde fica a cidadezinha de <START:LOCAL> Neftegorsk <END> ?
+De que grupo é presidente <START:PESSOA> Claude Bébéar <END> ?
+Quem é <START:PESSOA> Jacques Diouf <END> ?
+O que significa NLW?
+O que é a Parceria para a Paz?
+A que partido pertence <START:PESSOA> Petru Luchinski <END> ?
+Que festival de cinema atribui o "Urso de Ouro"?
+Quem é o diretor do filme "Caro <START:PESSOA> Diário"? <END>
+O que é a UNHCR?
+Que valor adjudicou o Canadá para a remoção das armas atómicas ucranianas?
+Onde é que morreu <START:PESSOA> Ayrton Senna <END> ?
+Em que país foi aprovada uma lei que proíbe a publicidade ao tabaco?
+Onde ocorreram casos de febre aftosa?
+Quando aderirão à União Europeia a Áustria , a Suécia e a <START:ORGANIZACAO> Finlândia <END> ?
+Que estúdio produziu o filme "Toy <START:PESSOA> Story"? <END>
+Qual é a terceira maior cidade da <START:LOCAL> Baviera <END> ?
+Quem era o capitão do Ajax <START:TEMPO> em 1994 <END> ?
+O que são os otakus?
+O que é o CD-i?
+Em que cidade é que Nietzsche escreveu "Ecce Homo"?
+Quando viveu <START:PESSOA> Ludwig Wittgenstein <END> ?
+Quem foi votado o futebolista <START:TEMPO> do ano <END> na <START:LOCAL> Bélgica <END> <START:TEMPO> em 1995 <END> ?
+Onde é a nova sede da <START:ORGANIZACAO> Nederlandse Gasunie <END> ?
+Em que museu foi exibida <START:TEMPO> em 1994 <END> uma exposição sobre <START:ACONTECIMENTO> Mondriaan <END> ?
+Quando foram as Antilhas Holandesas legalmente equiparadas aos <START:LOCAL> Países Baixos <END> ?
+Descreva o World Trade Center .
+O que é um samovar?
+O que é a Bundesgrenzschutz?
+O que é a Generalitat?
+O que é a Iaaf?
+Quem eram os pictos?
+O que era o <START:PESSOA> Granma? <END>
+O que é " Margarita e o <START:PESSOA> Mestre <END> "?
+O que é Nauru?
+O que é Roque Santeiro?
+O que é a Mona Lisa?
+O que é a cachupa?
+O que é a Marselhesa?
+O que é kabuki?
+O que é o comunismo gulash?
+O que é o cirílico?
+O que é o efeito de estufa?
+O que é o fauvismo?
+O que é o xelim?
+O que é um mujique?
+O que é um ornitorrinco?
+O que é um sátrapa?
+Que sabe sobre o aikido?
+Quem foi <START:PESSOA> Amílcar Cabral <END> ?
+Quem foi <START:PESSOA> Qin Shi Huang <END> ?
+Que país foi abalado por um terramoto <START:TEMPO> em Agosto de 94 <END> ?
+O que é que foi anexado após a Guerra dos Seis Dias?
+Em que cidade é que fica o <START:LOCAL> Roque Santeiro <END> ?
+Em que estado fica <START:LOCAL> Porto Alegre <END> ?
+Onde fica <START:LOCAL> Beslan <END> ?
+Onde fica a <START:LOCAL> Grande Hanish <END> ?
+Onde fica o <START:LOCAL> Banat <END> ?
+Onde ganharam os Abba o <START:ACONTECIMENTO> Festival da Eurovisão <END> ?
+Onde naufragou o Marika-7?
+Onde é que fica a represa Ataturk?
+Qual a capital do <START:ORGANIZACAO> Estado <END> Livre de <START:LOCAL> Orange <END> ?
+Qual é a cidade santa xiita?
+Que país tomou a <START:LOCAL> Grande Hanish <END> ?
+Onde foi apunhalado <START:PESSOA> Naguib Mahfouz <END> ?
+Em quanto é que foi multado <START:PESSOA> John Fashanu <END> ?
+Em que lugar ficou Paulo de Carvalho no <START:ACONTECIMENTO> Festival da Eurovisão <END> ?
+Qual é a duração do filme "Heimat"?
+Qual é a área do <START:LOCAL> Oceano Pacífico? <END>
+Qual é o recorde mundial do salto em altura?
+Quanta cerveja bebe um brasileiro anualmente ?
+Quanto mede <START:PESSOA> Sergei Yuran <END> ?
+Quanto pesa <START:LOCAL> Romário <END> ?
+Quantos estados tem o <START:LOCAL> Brasil <END> ?
+Quantos é que eram os Beatles?
+Que percentagem da população do Québec fala francês?
+Que população tem <START:LOCAL> Amiens <END> ?
+A que dinastia pertencia <START:PESSOA> Gengis Khan <END> ?
+Como se chama a companhia ferroviária francesa?
+A quem foi conquistada <START:LOCAL> Lisboa <END> <START:TEMPO> em 1147 <END> ?
+Contra que clube jogou o Marítimo <START:TEMPO> a 2 de Abril de 1995 <END> ?
+De que equipa é treinador <START:PESSOA> Johann Cruyff <END> ?
+De que selecção é Ravelli é o guarda-redes?
+Quem foram os adversários do Boavista na Taça UEFA <START:TEMPO> de 1994 <END> ?
+Diga um jornal norueguês.
+Onde trabalha <START:PESSOA> José Rodrigues Filho <END> ?
+Que povo foi convertido Ã ortodoxia durante a Idade Média?
+Que hospital fica em <START:LOCAL> Matosinhos <END> ?
+Ravelli é o goleiro de que seleção?
+Qual o actual nome do <START:LOCAL> Ceilão <END> ?
+Que competição se realizou pela primeira vez <START:TEMPO> em 1896 <END> ?
+Qual foi o resultado do Itália-Nigéria no <START:ACONTECIMENTO> Campeonato do Mundo <END> <START:TEMPO> de 1994 <END> ?
+Em que desporto é <START:ACONTECIMENTO> Torneio das Cinco Nações <END> ?
+Em que língua está escrito o <START:PESSOA> Alcorão? <END>
+Em que telenovela aparece o prefeito Odorico ?
+Diga um livro de <START:PESSOA> Júlio Verne <END> .
+Que edifício foi erigido <START:TEMPO> no século 12 <END> ?
+Que guerra durou <START:TEMPO> de 1865 a 1870 <END> ?
+Para que instrumento são os concertos de <START:LOCAL> Chopin <END> ?
+Qual a língua mais falada no <START:LOCAL> Québec <END> ?
+Qual a nacionalidade de <START:PESSOA> Geoffrey Oryema <END> ?
+Qual a religião oficial da <START:LOCAL> Tailândia <END> ?
+Qual é o planeta vermelho?
+Que corpo celeste é Toutatis?
+Que ensina Vital do <START:LOCAL> Rego <END> ?
+Quem venceu o open da Austrália <START:TEMPO> em 1995 <END> ?
+De quem é "O <START:PESSOA> Capital"? <END>
+Diga um jogador francês do <START:LOCAL> Manchester United. <END>
+Quem salvou judeus durante a Segunda Guerra Mundial?
+Diga um escritor chinês.
+Diga um Herói da União Soviética .
+Mencione um membro da <START:ORGANIZACAO> Academia Francesa <END> .
+Quem foi presidente da <START:ORGANIZACAO> Suíça <END> <START:TEMPO> no ano de 1995 <END> ?
+Quem criou <START:PESSOA> Spirou? <END>
+Quem escreveu "A <START:PESSOA> Capital"? <END>
+Quem escreveu "O <START:PESSOA> Idiota"? <END>
+Quem é " Toninho Malvadeza "?
+Quem é o sogro de <START:PESSOA> Mohammad Khalifa <END> ?
+Quem é que escreveu "Os Persas"?
+Desde quando é Portugal uma república?
+Quando houve uma erupção do Vesúvio?
+Quando reinou <START:PESSOA> Isabel I <END> ?
+Quando teve lugar a primeira edição da Taça Davis ?
+Quando viveu <START:PESSOA> Franz Liszt <END> ?
+Quando é que Cleópatra se suicidou?
+Quando é que a <START:ORGANIZACAO> URSS <END> invadiu a Manchúria?
+Execution time: 0.535 seconds
