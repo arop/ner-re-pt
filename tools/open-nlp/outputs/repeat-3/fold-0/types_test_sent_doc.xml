@@ -1,152 +1,41 @@
 --DOCSTART--
-<START:ACONTECIMENTO_EFEMERIDE> Terramoto de 1755 <END>
-O <START:ACONTECIMENTO_EFEMERIDE> Terramoto <END>
-O sismo fez-se sentir <START:TEMPO_TEMPO_CALEND> na manhã de 1 de Novembro de 1755 <END> , <START:TEMPO_GENERICO> dia <END> que coincide com o feriado <START:TEMPO_TEMPO_CALEND> do Dia de Todos-os-Santos <END> .
-O epicentro não é conhecido com exactidão, havendo diversos sismólogos que propõem locais distanciados de centenas de quilómetros.
-No entanto, todos convergem para um epicentro no mar, <START:VALOR_QUANTIDADE> entre 150 a 500 quilómetros <END> a sudoeste de <START:LOCAL_HUMANO> Lisboa <END> .
-Devido a um forte sismo, ocorrido <START:TEMPO_TEMPO_CALEND> em 1969 <END> no <START:LOCAL_FISICO> Banco de Gorringe <END> , este local tem sido apontado como tendo forte probabilidade de aí se ter situado o epicentro <START:TEMPO_TEMPO_CALEND> em 1755 <END> .
-Relatos da época afirmam que os abalos foram sentidos, consoante o local, <START:TEMPO_DURACAO> durante entre 6 minutos a 2 horas e meia <END> , causando fissuras enormes de que ainda <START:TEMPO_GENERICO> hoje <END> há vestígios em <START:LOCAL_HUMANO> Lisboa <END> .
-Com os vários desmoronamentos os sobreviventes procuraram refúgio na zona portuária e assistiram ao recuo das águas, revelando o fundo do mar cheio de destroços de navios e cargas perdidas.
-<START:TEMPO_TEMPO_CALEND> Poucas dezenas de minutos depois <END> , um tsunami, que actualmente se supõe ter atingido <START:VALOR_QUANTIDADE> 20 metros <END> de altura, fez submergir o porto e o centro da cidade.
-Nas áreas que não foram afectadas pelo tsunami, o fogo logo se alastrou, e os incêndios duraram pelo menos cinco dias.
-Todos tinham fugido e não havia quem o apagasse.
-<START:LOCAL_HUMANO> Lisboa <END> não foi a única cidade portuguesa afectada pela catástrofe.
-Todo o sul de <START:LOCAL_HUMANO> Portugal <END> , nomeadamente o <START:LOCAL_HUMANO> Algarve <END> , foi atingido e a destruição foi generalizada.
-As ondas de choque do sismo foram sentidas por toda a <START:LOCAL_HUMANO> Europa <END> e norte da <START:LOCAL_HUMANO> África <END> .
-Os maremotos originados pela movimentação tectónica varreram desde do norte de <START:LOCAL_HUMANO> África <END> até ao norte da <START:LOCAL_HUMANO> Europa <END> , nomeadamente até à <START:LOCAL_HUMANO> Finlândia <END> e através do <START:LOCAL_FISICO> Atlântico <END> , afectando locais tão longínquos como <START:LOCAL_HUMANO> Martinica <END> e <START:LOCAL_HUMANO> Barbados <END> .
-De uma população de <START:VALOR_QUANTIDADE> 275 mil <END> habitantes em <START:LOCAL_HUMANO> Lisboa <END> , crê-se que <START:VALOR_QUANTIDADE> 90 mil <END> morreram[2].
-Outros <START:VALOR_QUANTIDADE> 10 mil <END> foram vitimados em <START:LOCAL_HUMANO> Marrocos <END> .
-<START:VALOR_QUANTIDADE> Cerca de 85% <END> das construções de <START:LOCAL_HUMANO> Lisboa <END> foram destruídas, incluindo palácios famosos e bibliotecas, conventos e igrejas, hospitais e todas as estruturas.
-Várias construções que sofreram poucos danos pelo terramoto foram destruídas pelo fogo que se seguiu ao abalo sísmico.
-A recém construída <START:OBRA_ARTE> Casa da Ópera <END> , aberta apenas <START:TEMPO_TEMPO_CALEND> seis meses antes <END> , foi totalmente consumida pelo fogo.
-O <START:OBRA_ARTE> Palácio Real <END> , que se situava na margem do <START:LOCAL_FISICO> Tejo <END> , onde <START:TEMPO_GENERICO> hoje <END> existe o <START:LOCAL_HUMANO> Terreiro do Paço <END> , foi destruído pelos abalos sísmicos e pelo tsunami.
-Dentro, a biblioteca de <START:VALOR_QUANTIDADE> 70 mil <END> volumes e centenas de obras de arte, incluindo pinturas de <START:PESSOA_INDIVIDUAL> Ticiano <END> , <START:PESSOA_INDIVIDUAL> Rubens <END> , e <START:PESSOA_INDIVIDUAL> Correggio <END> , foram perdidas.
-O precioso <START:OBRA_REPRODUZIDA> Arquivo Real <END> com documentos relativos à exploração oceânica e outros documentos antigos também foram perdidos.
-O terramoto destruiu ainda as maiores igrejas de <START:LOCAL_HUMANO> Lisboa <END> , especialmente a <START:OBRA_ARTE> Catedral de Santa Maria <END> , e as <START:OBRA_ARTE> Basílicas de São Paulo <END> , <START:OBRA_ARTE> Santa Catarina <END> , <START:OBRA_ARTE> São Vicente de Fora <END> , e a da <START:OBRA_ARTE> Misericórdia <END> .
-As ruínas do <START:OBRA_ARTE> Convento do Carmo <END> ainda <START:TEMPO_GENERICO> hoje <END> podem ser visitadas no centro da cidade.
-O túmulo de <START:PESSOA_INDIVIDUAL> Nuno Álvares Pereira <END> , nesse convento, perdeu-se também.
-O <START:LOCAL_HUMANO> Hospital Real de Todos os Santos <END> foi consumido pelos fogos e centenas de pacientes morreram queimados.
-Registos históricos das viagens de <START:PESSOA_INDIVIDUAL> Vasco da Gama <END> e <START:PESSOA_INDIVIDUAL> Cristóvão Colombo <END> foram perdidos, e incontáveis construções foram arrasadas (incluindo muitos exemplares da arquitectura <START:TEMPO_TEMPO_CALEND> do período Manuelino <END> em <START:LOCAL_HUMANO> Portugal <END> ).
+<START:PESSOA_INDIVIDUAL> Fernão de Magalhães <END>
+<START:PESSOA_INDIVIDUAL> Fernão de Magalhães <END> , <START:TEMPO_FREQUENCIA> algumas vezes <END> referenciado como <START:ABSTRACCAO_NOME> Fernando de Magalhães <END> , ( <START:TEMPO_TEMPO_CALEND> primavera de 1480 --- 27 de abril de 1521 <END> ) foi um navegador português que, ao serviço do <START:PESSOA_CARGO> rei de Espanha <END> , comandou a expedição marítima que efectuou a primeira viagem de circum-navegação ao globo.
+Foi o primeiro a dobrar estreito <START:TEMPO_TEMPO_CALEND> hoje <END> conhecido pelo seu nome (o <START:ABSTRACCAO_NOME> Estreito de Magalhães <END> ) e o primeiro europeu a navegar no <START:LOCAL_FISICO> Oceano Pacífico <END> .
+<START:PESSOA_INDIVIDUAL> Fernão de Magalhães <END> morre nas <START:LOCAL_HUMANO> Filipinas <END> no curso daquela expedição, posteriormente chefiada por <START:PESSOA_INDIVIDUAL> Juan Sebastián Elcano <END> <START:TEMPO_TEMPO_CALEND> 1522 <END> .
+Alista-se com <START:VALOR_QUANTIDADE> 25 anos <END> na armada que foi à <START:LOCAL_HUMANO> Índia <END> , comandada por <START:PESSOA_INDIVIDUAL> Francisco de Almeida <END> , embora o seu nome não figure nas crónicas; sabe-se no entanto que ali permaneceu <START:TEMPO_DURACAO> oito anos <END> , que esteve em <START:LOCAL_HUMANO> Goa <END> , <START:LOCAL_HUMANO> Cochim <END> , <START:LOCAL_HUMANO> Quíloa <END> , que acompanhou <START:PESSOA_INDIVIDUAL> Diogo Lopes de Sequeira <END> a <START:LOCAL_HUMANO> Malaca <END> , viagem que acabou em naufrágio.
+No <START:LOCAL_HUMANO> Oriente <END> , <START:PESSOA_INDIVIDUAL> Magalhães <END> estabeleceu estreitas relações de amizade com <START:PESSOA_INDIVIDUAL> Francisco Serrão <END> , que veio a ser feitor nas <START:LOCAL_HUMANO> Molucas <END> ; dele teria tido informações quanto à situação dos lugares produtores de especiarias.
+Tendo-se distinguido na defesa de <START:LOCAL_HUMANO> Azamor <END> , em que acompanhara o <START:PESSOA_CARGO> duque de Bragança <END> , pediu a <START:PESSOA_INDIVIDUAL> D. Manuel <END> uma recompensa para seus feitos; mas os boatos que corriam sobre a maneira pouco escrupulosa como dividira as presas de uma incursão tinham chegado aos ouvidos do <START:PESSOA_CARGO> Rei <END> .
+Este, apesar das suas justificações, e não o considerando culpado, não lhe concedeu as mercês pedidas.
+<START:TEMPO_TEMPO_CALEND> Em 1517 <END> foi a <START:LOCAL_HUMANO> Sevilha <END> com <START:PESSOA_INDIVIDUAL> Rui Faleiro <END> , tendo encontrado no feitor da <START:LOCAL_HUMANO> Casa de la Contratación <END> da cidade um adepto do projecto que entretanto concebera: dar a <START:ORGANIZACAO_ADMINISTRACAO> Espanha <END> a possibilidade de atingir as <START:LOCAL_FISICO> Molucas <END> pelo <START:LOCAL_HUMANO> Ocidente <END> , por mares não reservados aos portugueses no <START:OBRA_PLANO> Tratado de Tordesilhas <END> e, além disso, segundo <START:PESSOA_INDIVIDUAL> Faleiro <END> , provar que as ilhas das especiarias se situavam no hemisfério castelhano.
+Com a influência do <START:PESSOA_CARGO> bispo de Burgos <END>  conseguiram a aprovação do projecto por parte de <START:PESSOA_INDIVIDUAL> Carlos V <END> , e começaram os morosos preparativos para a viagem, cheios de incidentes; depois da ruptura com <START:PESSOA_INDIVIDUAL> Rui Faleiro <END> , <START:PESSOA_INDIVIDUAL> Magalhães <END> continuou a aparelhagem dos cinco navios que, com <START:VALOR_QUANTIDADE> 256 <END> homens de tripulação, partiram de <START:LOCAL_HUMANO> Sanlúcar de Barrameda <END> <START:TEMPO_TEMPO_CALEND> em 20 de Setembro de 1519 <END> .
+A esquadra tinha cinco navios e era tripulada por <START:VALOR_QUANTIDADE> 250 <END> homens.
 --DOCSTART--
 
-<START:ACONTECIMENTO_ORGANIZADO> US Open <END> : <START:PESSOA_INDIVIDUAL> Federer <END> campeão
-PELO QUARTO ANO CONSECUTIVO  
-<START:PESSOA_INDIVIDUAL> Roger Federer <END> conquistou <START:TEMPO_TEMPO_CALEND> este domingo <END> pela quarta vez consecutiva o <START:ACONTECIMENTO_ORGANIZADO> US Open <END> , ao bater na final o sérvio <START:PESSOA_INDIVIDUAL> Novak Djokovic <END> por <START:VALOR_CLASSIFICACAO> 7-6(4) <END> , <START:VALOR_CLASSIFICACAO> 7-6(2) <END> e <START:VALOR_CLASSIFICACAO> 6-4 <END> .
-Com este triunfo, o suíço contabiliza <START:VALOR_QUANTIDADE> 12 <END> vitórias em torneios do <START:ACONTECIMENTO_ORGANIZADO> Grand Slam <END> , aproximando-se do recorde de <START:VALOR_QUANTIDADE> 14 <END> , que pertence a <START:PESSOA_INDIVIDUAL> Pete Sampras <END> .
-A final demorou <START:TEMPO_DURACAO> 2.26 horas <END> e o líder mundial fez <START:VALOR_QUANTIDADE> 11 <END> ases contra apenas <START:VALOR_QUANTIDADE> 5 <END> do sérvio.
-Ao helvético apenas lhe falta o título no  <START:ACONTECIMENTO_ORGANIZADO> Open <END> de <START:LOCAL_HUMANO> França <END> , em <START:LOCAL_HUMANO> Roland Garros <END> .
-Entretanto, a francesa <START:PESSOA_INDIVIDUAL> Nathalie Dechy <END> conquistou o seu segundo título consecutivo em pares femininos.
-<START:PESSOA_INDIVIDUAL> Dechy <END> e a russa <START:PESSOA_INDIVIDUAL> Dinara Safina <END> bateram <START:PESSOA_INDIVIDUAL> Chan Yung-jan <END> e <START:PESSOA_INDIVIDUAL> Chuang Chia-jung <END> ( <START:LOCAL_HUMANO> Taiwan <END> ), por <START:VALOR_CLASSIFICACAO> 6-4 <END> e <START:VALOR_CLASSIFICACAO> 6-2 <END> .
---DOCSTART--
-
-Agora já pode chegar ao seu pesqueiro preferido do modo mais rápido possível e sem possibilidade de enganos no caminho!
-- <START:COISA_CLASSE> Sistema de Navegação <END> automóvel, pronto a usar , com indicações de mudança de direcção (turn-by-turn) de voz e visuais a 3 dimensões (True view 3d navigation exclusiva da <START:ORGANIZACAO_EMPRESA> Magellan <END> ), e ecrã táctil com <START:VALOR_QUANTIDADE> 32.000 <END> côres.
-Aplicação na viatura muito simples.
-Pode ser facilmente removido e aplicado noutras viaturas.
-Só tem que escolher o seu destino e o magellan roadmate calcula automaticamente a sua rota,caso mude a sua rota, para tomar um atalho o <START:COISA_CLASSE> RoadMate <END> recalcula a sua rota.
--Base de dados com mapas de <START:LOCAL_HUMANO> Portugal <END> , <START:LOCAL_HUMANO> Espanha <END> e sul de <START:LOCAL_HUMANO> França <END> incorporados
--Inclui cartão <START:COISA_CLASSE> SD <END> de <START:VALOR_QUANTIDADE> 512 Mb <END> para importação de mapas,waypoints ou rotas criadas em casa.
-Pontos de interesse, organizados em <START:VALOR_QUANTIDADE> mais de 40 <END> categorias incluíndo, restaurantes, parques, estações de serviço, hotéis, escolas etc.
-Grava <START:VALOR_QUANTIDADE> até 600 <END> endereços pessoais.
-(ou <START:VALOR_QUANTIDADE> 200 <END> endereços por cada utilizador, permitindo um máximo de <START:VALOR_QUANTIDADE> 3 <END> utilizadores.)
-O planeamento de rota pode ser feito das seguintes maneiras:
--O caminho mais rápido.
--Distância mais curta.
--O menor uso de auto-estradas
-Alimentação de 10-18V DC
-Fornecido com suporte universal, suporte com ventosa para fixação do vidro,cabo de alimentação exterior de 220V AC, cabo USB para ligação ao computador e CD-ROM com manual de instruções em português.
-Menus e indicações de voz, <START:TEMPO_TEMPO_CALEND> a partir de Setembro 2005 <END> (unidades vendidas agora terão actualização grátis <START:TEMPO_TEMPO_CALEND> nessa altura <END> .)
--Encomenda sujeita a confirmação.
+<START:TEMPO_TEMPO_CALEND> Em Dezembro <END> em <START:LOCAL_HUMANO> Lisboa <END>
+<START:PESSOA_INDIVIDUAL> Sócrates <END> : cimeira " <START:ORGANIZACAO_ADMINISTRACAO> União Europeia <END> - <START:ORGANIZACAO_ADMINISTRACAO> África <END> não deve ser uma cimeira «sobre <START:PESSOA_INDIVIDUAL> Mugabe <END> » 
+A cimeira  <START:ORGANIZACAO_ADMINISTRACAO> União Europeia <END> - <START:ORGANIZACAO_ADMINISTRACAO> África <END> , prevista <START:TEMPO_TEMPO_CALEND> para 8 <END> e <START:TEMPO_TEMPO_CALEND> 9 de Dezembro <END> em <START:LOCAL_HUMANO> Lisboa <END> , não deve ser uma cimeira sobre o  <START:PESSOA_CARGO> Presidente <END> do <START:LOCAL_HUMANO> Zimbabwe <END> , <START:PESSOA_INDIVIDUAL> Robert Mugabe <END> , defendeu <START:TEMPO_TEMPO_CALEND> hoje <END> <START:PESSOA_INDIVIDUAL> José Sócrates <END> , primeiro-ministro português e presidente em exercício da <START:LOCAL_HUMANO> União Europeia <END> ( <START:LOCAL_HUMANO> UE <END> ).
+«O que queremos é que esta cimeira entre a <START:ORGANIZACAO_ADMINISTRACAO> União Europeia <END> e <START:ORGANIZACAO_ADMINISTRACAO> África <END> , uma cimeira histórica muito importante, se concentre nos documentos que vão ser aprovados e não sobre o <START:PESSOA_INDIVIDUAL> Presidente Robert Mugabe <END> », declarou <START:PESSOA_INDIVIDUAL> Sócrates <END> em <START:LOCAL_HUMANO> Singapura <END> , à margem da cimeira entre a <START:ORGANIZACAO_ADMINISTRACAO> UE <END> e os países do <START:LOCAL_HUMANO> Sudeste <END> asiático, segundo a   Lusa .
+O <START:ORGANIZACAO_ADMINISTRACAO> Zimbabwe <END> foi convidado para participar na cimeira, apesar da oposição do <START:ORGANIZACAO_ADMINISTRACAO> Reino Unido <END> que ameaçou boicotar a reunião se <START:PESSOA_INDIVIDUAL> Mugabe <END> estiver presente.
+«Esta é uma cimeira que não se realiza <START:TEMPO_DURACAO> há sete anos <END> , uma cimeira sobre os direitos do <START:PESSOA_GRUPOMEMBRO> Homem <END> , sobre as alterações climáticas, sobre as migrações, sobre os problemas da <START:LOCAL_HUMANO> União Europeia <END> e da <START:LOCAL_HUMANO> União Africana <END> », salientou <START:PESSOA_INDIVIDUAL> Sócrates <END> .
+«O objectivo é restaurar o diálogo político alargado com a <START:ORGANIZACAO_ADMINISTRACAO> África <END> e fazer não apenas uma estratégia da <START:ORGANIZACAO_ADMINISTRACAO> Europa <END> para a <START:ORGANIZACAO_ADMINISTRACAO> África <END> mas uma estratégia conjunta, pela primeira vez na história», lembrou.
+«Gostaria que esta cimeira não fosse apenas sobre um país ou sobre um dirigente», insistiu.
 --DOCSTART--
     
-"ATAQUES GRÁFICOS CONTRA O IMPÉRIO    
- <START:PESSOA_INDIVIDUAL> Iansã Negrão <END> e <START:PESSOA_INDIVIDUAL> Flanie Ziéme <END>        
- Pacifistas protestam com tinta vermelha atirada na logomarca de instituições americanas e inglesa, em <START:LOCAL_HUMANO> Salvador <END> ( <START:LOCAL_HUMANO> BA <END> )        
-...........................................    
- <START:TEMPO_GENERICO> A terça-feira <END> em <START:LOCAL_HUMANO> Salvador <END> amanheceu diferente.
-As logomarcas nos totens dos bancos de <START:ORGANIZACAO_EMPRESA> Boston <END> e <START:ORGANIZACAO_EMPRESA> Citibank <END> , <START:ORGANIZACAO_EMPRESA> Clube Banco dos Ingleses <END> e lanchonete <START:ORGANIZACAO_EMPRESA> McDonalds <END> estavam manchadas de sangue.
-Pelo menos é o que parecia numa olhada rápida.
-O primeiro pensamento: mais uma onda de protestos atingiu os símbolos dos impérios britânico e americano.
-É vermelho, embora não seja sangue.
-Mas a imagem é tão forte quanto: sobre o verdinho do <START:LOCAL_HUMANO> BankBoston <END> , escorria uma gosmenta tinta vermelha impregnada, difícil de limpar.
-"Só outro, algum transeunte pode ter balbuciado na ida para o ponto de ônibus <START:TEMPO_GENERICO> de mais uma segunda-feira <END> , dessa vez surpreendente e politizada.
-A mensagem é assim: "Estamos devolvendo simbolicamente o sangue derramado às empresas que representam entre nós o predomínio do <START:LOCAL_HUMANO> Império <END> , as quais serão consideradas cúmplices deste projeto macabro até que tomem publicamente posição contra (1).
-E veio de um coletivo organizado e anônimo de "cidadãos de boa índole indignados com essa nova fase do imperialismo, com o nome de " Operação Sangue Quente.
-Gente pacífica, mas não passiva  .
-A inspiração veio das ruas: <START:TEMPO_TEMPO_CALEND> há três semanas <END> , um outdoor do <START:ORGANIZACAO_EMPRESA> McDonald's <END> na <START:LOCAL_HUMANO> Avenida Jorge Amado <END> havia recebido uma interferência gráfica.
-Estava lá em cima da mensagem publicitária da promoção McNight (sanduíches mais baratos <START:TEMPO_TEMPO_CALEND> durante a madrugada <END> ) um texto em tinta neon: "Lixo dos <START:LOCAL_HUMANO> EUA <END> .
-Não financie a guerra.
-Boicote os produtos americanos.
-É o que está todo mundo fazendo, não é?
-Então eles decidiram ir além: um ataque cromático em emblemas do " <START:LOCAL_HUMANO> Império <END> .
-Bombas de tinta seriam o arsenal bélico usado no atentado.
-Foram <START:VALOR_QUANTIDADE> 20 <END> pessoas no planejamento.
-Oito partiram para o ataque.
-Foi <START:TEMPO_TEMPO_CALEND> na madrugada de segunda para terça-feira <END> , <START:TEMPO_TEMPO_CALEND> entre 3 e 4 horas <END> , cronometradas, aproveitando a calmaria das ruas <START:TEMPO_GENERICO> do primeiro dia da semana <END> .
-Duas "viaturas de ataque com quatro ativistas cada e um carro de cobertura.
-Eles se definem: "São três gerações de homens e mulheres desobedientes civis e militares com diferentes graus de envolvimento em questões e ações sociais.
-O mais novo <START:VALOR_QUANTIDADE> 20 <END> , o mais velho <START:VALOR_QUANTIDADE> 59 <END> .
-"Não deixe seu sangue esfriar, proteste é só o começo.
-Ainda que o efeito vermelho das bombas tenha sido efêmero, a adrenalina continua em alta.
-SANGUE QUENTE - Pelo menos a ocupação sinistra de <START:ORGANIZACAO_ADMINISTRACAO> Bush <END> no <START:LOCAL_HUMANO> Iraque <END> serviu para mobilizar os glóbulos vermelhos de muita gente.
-O grupo da " <START:ABSTRACCAO_DISCIPLINA> Operação Sangue Quente <END> garante: "O sangue não vai esfriar tão cedo.
-Eles estão em alerta.
-A idéia é que outras intervenções surpreendam os cidadãos soteropolitanos, autoridades e o que estiver no alvo dos "guerreiros.
-O incômodo com questões sociais não se bastará com o fim da guerra.
-Para eles, a pulsão coletiva capaz de intervenções plástico-ideológicas na cidade são mais poderosas, por exemplo, do que a maioria das caminhadas em favor da paz, que costumam atrair toda a mídia local.
-O símbolo universal da paz, a pomba branca, aparece na logomarca da " <START:ABSTRACCAO_DISCIPLINA> Operação Sangue Quente <END> bicando a cabeça de uma ave, que lembra o cruzamento de um urubu com uma águia: uma remissão às forças armadas norte-americanas sendo detonada por uma força que, embora pareça inofensiva, é propositiva, intervém.
-"Nessa ação específica, queríamos atingir os cidadãos médios, para que eles associassem os alvos com o capital que financia a guerra, explicam.
-Agora, qualquer questão, a qualquer momento, em qualquer lugar poderá ser o próximo alvo do fervilhar sanguíneo dos coligados anônimos da " <START:ABSTRACCAO_DISCIPLINA> Operação Sangue Quente <END> .
-Motivos por aqui não faltam.
-Mas o grupo ambiciona mais: quer instigar os cidadãos a ações semelhantes.
-Ou, no mínimo a um exercício de pensamento.
-<START:TEMPO_TEMPO_CALEND> Um dia desses <END> uma estátua de gente importante pode aparecer ensacada (como fizeram os três artistas do grupo " <START:PESSOA_GRUPOMEMBRO> 3Nós3 <END> , <START:TEMPO_TEMPO_CALEND> no início da década de 80 <END> , <START:TEMPO_GENERICO> tempos <END> em que <START:LOCAL_HUMANO> São Paulo <END> amanhecia mais surpreendente) ou algo do gênero.
-Permanecer no anonimato é, segundo dizem, muito mais uma questão ligada à estratégia do que ao temor de autoridades.
-Ou da confusão que estas fazem quando não distinguem vândalos de manifestantes.
-Numa guerra sem armas de fogo, o anonimato pode ser a melhor estratégia.
-AÇÃO ENTRE AMIGOS - O plano foi discutido, a estratégia de ação muito bem pensada.
-Reuniões de cúpula na <START:LOCAL_HUMANO> Toca dos Carcarás <END> - nome dado ao local que abrigou os latinos de sangue quente - levantavam questões ideológicas e operacionais.
-Mapa do itinerário pronto, tinta fresca na bagagem.
-Alguns, tomados pela "síndrome do amarelismo, abortaram antes do ataque.
-"Melhor assim, disseram alguns.
-<START:TEMPO_GENERICO> Aquela madrugada <END> pertenceu ao deserto.
-No céu cinza, uma semi-lua era a única em vigília.
-O clima era protetor porque não tinha olhos, mas a calma das ruas sem gente provocava uma sensação de vulnerabilidade.
-O medo veio porque havia também outras viaturas: policiais federais e militares estavam em atividade.
-A primeira bomba que atingiu o <START:LOCAL_HUMANO> Citibank <END> da <START:LOCAL_HUMANO> Rua Miguel Calmon <END> , no <START:LOCAL_HUMANO> Comércio <END> , e que deveria ser silenciosa como planejado fez um estrondo alto.
-Pernas bambas titubearam.
-Sorte a ronda da <START:ORGANIZACAO_INSTITUICAO> Polícia Federal <END> que estava na área ter mais o que fazer <START:TEMPO_TEMPO_CALEND> naquele momento <END> .
-Da mesma forma com os homens da viatura da <START:ORGANIZACAO_INSTITUICAO> Polícia Militar <END> ocupados em espancar dois homens em outra esquina e nada viram.
-Uma prostituta entretia a guarda de outra viatura na <START:LOCAL_HUMANO> Manoel Dias <END> e o coletivo pôde agir sem problemas no <START:LOCAL_HUMANO> BankBoston <END> , último banco-alvo da ação.
-Enquanto cumpriam a missão, um advogado aguardava o pior, preparado.
-Eles alegariam protesto e desobediência civil, mas por estar dentro de uma ação política integrada, provavelmente seriam enquadrados em crime de vandalismo e formação de quadrilha.
-O plantão insone foi dispensado quando todos se reencontraram ainda com bombas armadas-não detonadas e com todos os alvos atingidos.
-Aliviados, alguém do grupo levantou o fato de nenhum deles nunca ter participado de uma ação clandestina.
-Só <START:TEMPO_TEMPO_CALEND> naquele momento <END> , eles avaliaram o perigo de uma bala ter sido disparada ou um policial ter perseguido os carros.
-As moças acharam melhor não irem direto para casa: voltaram à cena do crime como boas criminosas para fotografar e flagrar dois vigias e dois cães, todos de guarda dormindo relaxados, bem de frente para a fachada iluminada do   <START:LOCAL_HUMANO> Citibank <END> da   <START:LOCAL_HUMANO> Barra <END>  , tingida de tinta ainda quente.
-(1) Esta matéria foi escrita com base em relatos dos participantes que preferiram não se identificar.
-<START:TEMPO_TEMPO_CALEND> 16 de abril de 2003 <END>        
- Fontes:  Centro de Mídia Independente (www.midiaindependente.org).
-Jornal A Tarde    (www.atarde.com.br).
---DOCSTART--
-    
- <START:PESSOA_INDIVIDUAL> Ronaldo <END> volta a treinar com bola no <START:PESSOA_GRUPOMEMBRO> Milan <END>        
- <START:PESSOA_INDIVIDUAL> Fenômeno <END> não participava de um coletivo <START:TEMPO_TEMPO_CALEND> desde novembro <END> .
-Jogador se recupera de lesão        
- Das agências de notícias <START:LOCAL_HUMANO> Dubai <END> , <START:LOCAL_HUMANO> Emirados Árabes <END>        
- Depois de ser cotado para vestir a camisa do <START:ORGANIZACAO_INSTITUICAO> Flamengo <END> , o <START:PESSOA_INDIVIDUAL> Fenômeno <END> parece, se não satisfeito, pelo menos conformado em retornar ao grupo do <START:ORGANIZACAO_INSTITUICAO> Milan <END> .
-Após longo período se recuperando de uma lesão, <START:PESSOA_INDIVIDUAL> Ronaldo <END> calçou as chuteiras e voltou a treinar com bola, o que não fazia <START:TEMPO_TEMPO_CALEND> desde novembro <END> .
-O atacante segue em recuperação.
-<START:TEMPO_TEMPO_CALEND> Nesta sexta-feira <END> , participou da maior parte das atividades, em <START:LOCAL_HUMANO> Dubai <END> , nos <START:LOCAL_HUMANO> Emirados Árabes <END> .
-O técnico dividiu o elenco em dois times com <START:VALOR_QUANTIDADE> 11 <END> jogadores atuando na metade do gramado do estádio <START:LOCAL_HUMANO> Al Maktoum <END> .
-Em seguida, quando começou a movimentação com bola, <START:PESSOA_INDIVIDUAL> Ronaldo <END> seguiu correndo.
-Aí quem se destacou - negativamente, de acordo com o jornal italiano " La Gazzetta dello Sport  " - foi o goleiro <START:PESSOA_INDIVIDUAL> Dida <END> .
-O brasileiro voltou a não passar segurança e no treino em campo reduzido seu time foi derrotado por <START:VALOR_CLASSIFICACAO> 6 a 0 <END> .
-Três dos gols que levou eram defensáveis, segundo o jornal italiano.
-<START:PESSOA_INDIVIDUAL> Alessandro Nesta <END> saiu em defesa do companheiro.
-- Poderíamos ter vencido o <START:PESSOA_GRUPOMEMBRO> Inter <END> ( <START:VALOR_CLASSIFICACAO> 2 a 1 <END> , o segundo gol em falha de <START:PESSOA_INDIVIDUAL> Dida <END> ).
-Não podemos ficar pressionando o <START:PESSOA_INDIVIDUAL> Dida <END> .
-Estaremos ao seu lado e considero que ele está se portando de maneira positiva na concentração - explica.
+ <START:ACONTECIMENTO_ORGANIZADO> Tour <END> : Procura-se candidato        
+ <START:PESSOA_INDIVIDUAL> PAULINHO <END> EM PROVA DESFALCADA DE VEDETAS        
+ Pelo segundo ano consecutivo e <START:TEMPO_TEMPO_CALEND> após a era <END> de <START:PESSOA_INDIVIDUAL> Lance Armstrong <END> , o <START:PESSOA_GRUPOIND> Tour <END> está desfalcado de grandes candidatos à vitória.
+Sem a presença do norte-americano, do alemão <START:PESSOA_INDIVIDUAL> Jan Ullrich <END> e do italiano <START:PESSOA_INDIVIDUAL> Ivan Basso <END> , e até de outro transalpino, <START:PESSOA_INDIVIDUAL> Alessandro Petacchi <END> , a « <START:ACONTECIMENTO_ORGANIZADO> Grand Boucle <END> » inicia-se <START:TEMPO_TEMPO_CALEND> amanhã <END> em <START:LOCAL_HUMANO> Londres <END> sem grandes expectativas.
+Procura-se candidato, é este o ponto fulcral da prova, que também não terá o dorsal n.º 1 .
+Ainda está por definir quem será declarado vencedor <START:TEMPO_TEMPO_CALEND> de 2006 <END> , depois do caso de doping de <START:PESSOA_INDIVIDUAL> Floyd Landis <END> .
+Daí a organização ter decidido suspender os dorsais entre o 1  e o 1  , começando o <START:ACONTECIMENTO_ORGANIZADO> Tour <END> no 11 .
+Face então às ausências de vulto acima referidas, todas devido a ligações ao doping -- à excepção naturalmente de <START:PESSOA_INDIVIDUAL> Armstrong <END> , que se retirou após a sétima vitória <START:TEMPO_TEMPO_CALEND> em 2005 <END> --, três ou quatro nomes surgem ainda assim mais destacados na corrida pela vitória.
+São eles o cazaque <START:PESSOA_INDIVIDUAL> Alexandre Vinokourov <END> ( <START:PESSOA_GRUPOMEMBRO> Astana <END> ), os espanhóis <START:PESSOA_INDIVIDUAL> Alberto Contador <END> ( <START:PESSOA_GRUPOMEMBRO> Discovery <END> ) e <START:PESSOA_INDIVIDUAL> Alejandro Valverde <END> ( <START:PESSOA_GRUPOMEMBRO> Caisse <END> ), e o norte-americano <START:PESSOA_INDIVIDUAL> Levy Leipheimer <END> ( <START:PESSOA_GRUPOMEMBRO> Discovery <END> ).
+Nós, portugueses, teremos em atenção a estreia de <START:PESSOA_INDIVIDUAL> Sérgio Paulinho <END> .
+Cinco mil polícias    
+ <START:VALOR_QUANTIDADE> Cerca de 5 mil <END> polícias foram destacados para estarem de serviço em <START:LOCAL_HUMANO> Londres <END> por ocasião da passagem do <START:PESSOA_GRUPOIND> Tour <END> por <START:LOCAL_HUMANO> Inglaterra <END> .
+A segurança foi reforçada depois dos atentados terroristas verificados <START:TEMPO_TEMPO_CALEND> a semana passada <END> na capital inglesa e em <START:LOCAL_HUMANO> Glasgow <END> .
+E, para além do <START:ACONTECIMENTO_ORGANIZADO> Tour <END> , há ainda o  <START:ACONTECIMENTO_ORGANIZADO> Torneio de Ténis <END> de <START:LOCAL_HUMANO> Wimbledon <END> , e o  <START:ACONTECIMENTO_ORGANIZADO> GP de F1 <END> de <START:LOCAL_HUMANO> Silverstone <END> .
 --DOCSTART--
     
  <START:ACONTECIMENTO_EFEMERIDE> Restauração da Independência <END>        
@@ -159,80 +48,143 @@ No entanto, as perdas no <START:LOCAL_HUMANO> Oriente <END> tornaram-se irrevers
 Devido a estarem indisponíveis as mercadorias indianas, <START:ORGANIZACAO_ADMINISTRACAO> Portugal <END> passou a só obter lucro com a cana-de-açúcar do <START:LOCAL_HUMANO> Brasil <END> .
 --DOCSTART--
     
- Ali, só me lembro de ser eu.
-Mas talvez houvesse outros, da família <START:PESSOA_GRUPOIND> Xara Brasil <END> , que eram as pessoas ali principais, e eram realmente ... não me lembro.
-Agora outros meninos em <START:LOCAL_HUMANO> Lisboa <END> , ou iam para as piscinas, de <START:LOCAL_HUMANO> Algés <END> e <START:LOCAL_HUMANO> Dafundo <END>  , e outras coisas assim.
-D: Mas conta lá ... como é que aprendeste a nadar, que é engraçado    
- Aprendi a nadar, como digo, com esse velho lobo do mar que se tinha tornado banheiro da praia de <START:LOCAL_FISICO> S. Bernardino <END> ; tinha um chapéu mole assim amachucado, um fato de macaco, e uma cabaça à cintura e ele puxav... agarrava-me assim no queixo, com a mão, e depois dizia-me os movimentos que eu devia fazer, nadar é claro, os bálticos, não é?
-E foi assim que eu aprendi.
-D: ele atirava-te para a água com a cabaça?
-Como?
-Não, a cabaça ele andava ali sempre com ela, como banheiro... era bóia, a cabaça servia de bóia    
-D: então ele atirava-te à água...
-Não, ali à borda de água!
-à borda, primeiro começava-se à borda de água... mas com altura suficiente para eu já poder nadar.
-E ele pegava-me assim pelo queixo para me ajudar, e nadava de bruços, claro!
-nadava de bruços    
-D: Mas <START:TEMPO_TEMPO_CALEND> depois <END> ... <START:TEMPO_TEMPO_CALEND> depois <END> ... tornaste-te uma grande nadadora    
- <START:TEMPO_TEMPO_CALEND> Depois <END> ...na dita praia de <START:LOCAL_FISICO> S. Bernardino <END> , e depois na <START:LOCAL_FISICO> Praia das Maçãs <END> , tornei-me uma grande nadadora é uma maneira um bocadinho... como hei-de dizer?
-pouco rigorosa de dizer.
-Eu era uma nadadora de muita resistência.
-De fundo, digamos.
-Mas sempre com aquele estilo, que passou de bruços para agulha, e que realmente me fazia avançar muito, mas eu não sabia outro estilo, nunca nadei de braçada, crawl...        
-D: Até longe!
-<START:LOCAL_FISICO> S. Bernardino <END> não ia longe, mas... na <START:LOCAL_FISICO> Praia das Maçãs <END> ia.
-Até tão longe que a minha mãe da praia não me via!
-Só que havia um barco, uma chata... um bocado... entre o sítio onde eu estava e a praia que era para nos mostrar, a mim e ao <START:PESSOA_INDIVIDUAL> Caldeira Pires <END> , que era... que éramos os únicos que tínhamos essa autorização para ir assim longe numa determinada direcção ... em <START:LOCAL_FISICO> S. Bernardino <END> , a única avaria foi na <START:LOCAL_FISICO> Berlenga <END> , também.
-Parece que estava fadada para as tais aventuras da <START:LOCAL_FISICO> Berlenga <END> !
-Porque aí, na <START:LOCAL_FISICO> Berlenga <END> , formos numa excursão organizada pelo ... <START:PESSOA_INDIVIDUAL> Xara Brasil <END> e por um senhor que era <START:PESSOA_CARGO> governador de Peniche <END>  ou qualquer coisa assim... ou <START:PESSOA_CARGO> presidente da Câmara <END>  , para homenagear uma figura nobre que era um arquiduque austríaco... e fizeram        
-D: Estava lá?
-Estava, estava em <START:LOCAL_HUMANO> Portugal <END> , e  foi lá parece, casar com uma senhora que era a <START:PESSOA_CARGO> rainha da Boémia <END>  e que ... tinha um filho.
-Mas isto foi <START:TEMPO_TEMPO_CALEND> muito mais tarde <END> , foi aos <START:VALOR_QUANTIDADE> quinze anos <END> ... ou <START:VALOR_QUANTIDADE> dezasseis <END> , porqu nós fomos.
-Não íamos nunca seguidamente para um sítio, não é?
-ìamos um aano  para uma praia, <START:TEMPO_GENERICO> outro ano <END> para outra...        
-D: Ah, nunca iam para o mesmo sítio...
-Não.
-Foi por isso que o meu pai nunca aceitou fazer uma praia na  Areia Branca  !Porque ele tinha tido a possibilidade de comprar terreno baratíssimo e fazer a segunda casa da <START:LOCAL_HUMANO> Areia Branca <END> !
-Ele não queria um sítio fixo que o obrigasse a...      
+Uma foto para lá da verdade    
+ A fotografia mais famosa de guerra, o instante em que <START:PESSOA_INDIVIDUAL> Federico Borrell <END> , um miliciano republicano cai depois de atingido por uma bala franquista, está agora de novo em crise de autenticidade.
+<START:TEMPO_DURACAO> Há anos <END> que se discute se a fotografia da autoria do famoso fotojornalista <START:PESSOA_INDIVIDUAL> Robert Capa <END> é ou não encenada.
+Agora um documentário, " <START:OBRA_REPRODUZIDA> A Sombra do Iceberg <END> ", premiado com o prémio Melhor documentário ibero-americano , no <START:LOCAL_HUMANO> México <END> , vem outra vez questionar a autenticidade da cena ocorrida em <START:LOCAL_HUMANO> Cerro Muriano <END> , povoação dos arredores de <START:LOCAL_HUMANO> Córdoba <END> , e feita <START:TEMPO_TEMPO_CALEND> em 1936 <END> , <START:TEMPO_TEMPO_CALEND> no dia 5 de Setembro <END> .
+As dúvidas levantadas prendem-se com factos investigados.
+<START:PESSOA_INDIVIDUAL> Hugo Doménech <END> , <START:PESSOA_CARGO> professor da Universidade Jaume de Castellón <END>  e do jornalista <START:PESSOA_INDIVIDUAL> Raul Riebenbaueur <END> reuniram um especialista forense, um militar geodésico e um astrofísico e recolheram depoimentos locais.
+No filme prevalece a ideia de que o miliciano não foi morto <START:TEMPO_TEMPO_CALEND> às nove <END> mas <START:TEMPO_TEMPO_CALEND> à uma da tarde <END> , que há um relato local que diz <START:PESSOA_INDIVIDUAL> Borrel <END> ter sido morto atrás de uma árvore, que não existe na foto, e que o miliciano fotografado não é o que foi morto <START:TEMPO_TEMPO_CALEND> naquele dia <END> .
+O facto de <START:PESSOA_INDIVIDUAL> Capa <END> viajar então com a namorada <START:PESSOA_INDIVIDUAL> Gerda Taro <END> (morta <START:TEMPO_TEMPO_CALEND> pouco depois <END> ) e de enviar para <START:LOCAL_HUMANO> Paris <END> os rolos todos misturados sem a designação a quem pertencia cada um, ainda lança mais confusão na história.
+Por outro lado o negativo original nunca mais apareceu, nem a tira com as fotos tiradas <START:TEMPO_TEMPO_CALEND> antes <END> e <START:TEMPO_TEMPO_CALEND> depois <END> .
+Apesar de se conhecer uma sequência de fotos feitas no mesmo local.
+O biógrafo de <START:PESSOA_INDIVIDUAL> Capa <END> , <START:PESSOA_INDIVIDUAL> Richard Whelan <END> - falecido há pouco - recusou depor para o documentário e <START:PESSOA_INDIVIDUAL> Cornell Capa <END> , o irmão de <START:PESSOA_INDIVIDUAL> Robert <END> , já de idade avançada, nada comenta, remetendo tudo para a sua filha, a fiel depositária do espólio de <START:PESSOA_INDIVIDUAL> Robert Capa <END> .
+A fotografia foi publicada pela primeira vez, <START:TEMPO_TEMPO_CALEND> em 1936 <END> , na revista <START:LOCAL_VIRTUAL> VU <END> - pioneira do fotojornalismo moderno e inspiradora de <START:COISA_CLASSE> LIFE <END> - e <START:TEMPO_TEMPO_CALEND> dois anos mais tarde <END> (como andava devagar então a informação!)
+na <START:LOCAL_VIRTUAL> LIFE <END> .
+Na edição da <START:LOCAL_VIRTUAL> VU <END> <START:PESSOA_INDIVIDUAL> Robert Capa <END> era apresentado como o melhor fotógrafo de guerra do  <START:LOCAL_HUMANO> Mundo <END>  e a paginação da reportagem era feito num estilo então vanguardista de fotohistória.
+Esta polémica acaba por ser um pouco redundante.
+<START:PESSOA_INDIVIDUAL> Capa <END> era de uma coragem à prova de bala a trabalhar no cenário de guerra.
+Fotografou por dentro a <START:ACONTECIMENTO_EFEMERIDE> Guerra Civil <END> espanhola, sempre pelo lado republicano, estava <START:TEMPO_TEMPO_CALEND> no Dia D <END>  na <START:LOCAL_HUMANO> Normandia <END> e acabou por morrer ao pisar uma mina na <START:LOCAL_HUMANO> Indochina <END> <START:TEMPO_TEMPO_CALEND> a 25 de Maio de 1954 <END> .
+Como curiosidade passou por <START:LOCAL_HUMANO> Portugal <END> e foi visto no <START:LOCAL_HUMANO> Café Palladium <END> dos <START:LOCAL_HUMANO> Restauradores <END> pelo jornalista de <START:ORGANIZACAO_EMPRESA> O Século <END> , <START:PESSOA_INDIVIDUAL> Francisco Mata <END> , já falecido, e que o contou numa crónica do antigo <START:OBRA_REPRODUZIDA> Sete <END> .
+[...]    
+ <START:PESSOA_INDIVIDUAL> Luiz Carvalho <END> , fotojornalista do <START:ORGANIZACAO_EMPRESA> Expresso <END>      
 
   --DOCSTART--
     
- A desforra de <START:ORGANIZACAO_ADMINISTRACAO> Granada <END>        
- <START:ORGANIZACAO_ADMINISTRACAO> Granada <END> não enfrentou os <START:PESSOA_GRUPOCARGO> Reis Católicos <END> por razões de fé ou de religião.
-Pelo contrário, na corte de <START:PESSOA_INDIVIDUAL> Boabdil <END> conviviam muçulmanos, cristãos e judeus, e dessa convivência se fez a que era então, talvez, a mais brilhante civilização do seu tempo, no domínio da arquitectura, da física, da medicina, da matemática, da astrologia.
-Mas <START:LOCAL_HUMANO> Granada <END> foi sitiada e conquistada por isso mesmo e também pelo território e pela beleza demasiadamente humana do <START:LOCAL_HUMANO> Alhambra <END> .
-Quando <START:ORGANIZACAO_ADMINISTRACAO> Granada <END> caiu e a reconquista cristã se impôs então a toda a <START:LOCAL_HUMANO> Península <END> , os dois reinos católicos, <START:PESSOA_GRUPOIND> Portugal <END> e <START:PESSOA_GRUPOIND> Espanha <END> , partiram à conquista do mundo e tornaram-se  Impérios  marítimos; do <START:LOCAL_FISICO> Novo Mundo <END> e <START:LOCAL_FISICO> África <END> ao extremo da <START:LOCAL_FISICO> Ásia <END> .
-Inversamente, quando os vencidos de <START:ACONTECIMENTO_EFEMERIDE> Granada <END> se retiraram para lá do <START:LOCAL_FISICO> Estreito <END> , de onde tinham vindo <START:TEMPO_TEMPO_CALEND> séculos antes <END> , nunca mais a civilização árabe e muçulmana recuperou sombra sequer do seu antigo esplendor e liderança.
-Por isso é que <START:TEMPO_GENERICO> o ano de 1492 <END> (também o da descoberta da <START:LOCAL_FISICO> América <END> , por <START:PESSOA_INDIVIDUAL> Colombo <END> ) é um marco da história universal e um símbolo de derrota e descalabro que nunca mais foi esquecido e ultrapassado pelos crentes muçulmanos.
-Por mais inverosímil que nos possa parecer, <START:TEMPO_DURACAO> mais de cinco séculos passados <END>     e <START:TEMPO_DURACAO> quase quarenta anos depois <END>  do homem ter ido à lua, estamos perante uma nova guerra religiosa global, que é também uma guerra de civilizações.
-Quem disser que ela não existe, ou é ignorante ou diplomata --- em qualquer dos casos, perigoso <START:TEMPO_GENERICO> para os tempos <END> que correm.
-Estamos perante uma espécie de <START:ABSTRACCAO_IDEIA> Cruzadas <END> ao contrário, que o <START:ORGANIZACAO_INSTITUICAO> Islão <END> lançou contra os «não crentes» --- sejam judeus, cristãos ou ateus.
-As <START:ACONTECIMENTO_EVENTO> Twin Towers <END> , o metro de   <START:LOCAL_HUMANO> Londres <END> , a estação de   <START:LOCAL_HUMANO> Atocha <END>   em   <START:LOCAL_HUMANO> Madrid <END> ou a histeria lançada contra os cartonistas dinamarqueses e contra a <START:ORGANIZACAO_ADMINISTRACAO> Dinamarca <END> , são formas modernas de cruzadas travadas em nome de <START:PESSOA_INDIVIDUAL> Alá <END> (o <START:PESSOA_INDIVIDUAL> Misericordioso <END> ...) contra os valores em que nós, no <START:LOCAL_HUMANO> Ocidente <END> , acreditamos.
-<START:TEMPO_TEMPO_CALEND> Cinco séculos passados <END> , o <START:ABSTRACCAO_DISCIPLINA> Islão <END> tira a sua desforra de <START:ACONTECIMENTO_EFEMERIDE> Granada <END> , através das suas duas únicas e demolidoras armas: o petróleo e o terror.
-Sim, eu sei: não é --- julga-se --- todo o <START:PESSOA_GRUPOMEMBRO> Islão <END> .
-Mas é o que conta, o que lidera os crentes, o que se escuta na rua e nos jornais, o que doutrina os terroristas, o que prepara a arma nuclear.
-Em todo o mundo muçulmano houve apenas um jornal, na <START:LOCAL_HUMANO> Jordânia <END> , que ousou escrever que pior que as caricaturas «blasfemas» para o <START:ABSTRACCAO_DISCIPLINA> Islão <END> eram os terroristas blasfemos.
-Mas <START:TEMPO_TEMPO_CALEND> no dia seguinte <END> o jornal pediu desculpas pelo que escrevera e o director foi despedido.
-É verdade também que a rua é incendiada a mando da <START:ORGANIZACAO_ADMINISTRACAO> Síria <END> , do <START:ORGANIZACAO_ADMINISTRACAO> Irão <END> ou da <START:ORGANIZACAO_INSTITUICAO> Al-Qaeda <END> , e que há sempre uns palestinianos desocupados para dispararem rajadas de metralhadora para o ar com cara feroz e multidões em estado de histeria induzida, para queimar <START:LOCAL_HUMANO> Embaixadas <END> e bandeiras e ameaçar de morte todos os ocidentais a vista.
-É possível até que o grosso dos muçulmanos não pense assim, que não acredite numa leitura literal e medieval do <START:OBRA_REPRODUZIDA> Corão <END> e que não se reveja na intolerância nem no terror em nome de <START:PESSOA_INDIVIDUAL> Deus <END> que o clero radical ensina nas escolas corânicas e prega nas mesquitas.
-Mas, se assim é, não os escutamos porque eles têm medo: o terror começa dentro dos seus próprios países e sociedades.
-O medo é a outra face de uma moeda chamada liberdade.
-Onde não há liberdade, há medo; onde há medo, não há liberdade.
-É justamente isso que <START:TEMPO_GENERICO> hoje <END> nos distingue do <START:ABSTRACCAO_DISCIPLINA> Islão <END> : nós temos a liberdade, eles têm o medo como sistema endémico de vida e como arma de arremesso contra «os infiéis».
+ Juventude em <START:LOCAL_HUMANO> Durban <END>        
+    <START:TEMPO_TEMPO_CALEND> Às três horas e vinte minutos da tarde <END>   <START:TEMPO_TEMPO_CALEND> de 13 de Junho de 1888 <END>    nascia em <START:LOCAL_HUMANO> Lisboa <END> , capital portuguesa, <START:PESSOA_INDIVIDUAL> Fernando Pessoa <END> .
+O parto ocorreu no quarto andar esquerdo do nº 4 do <START:LOCAL_HUMANO> Largo de São Carlos <END> , em frente da ópera de <START:LOCAL_HUMANO> Lisboa <END> ( <START:LOCAL_HUMANO> Teatro de São Carlos <END> ).
+O seu pai era funcionário público do <START:ORGANIZACAO_ADMINISTRACAO> Ministério da Justiça <END> e crítico musical do « <START:ORGANIZACAO_EMPRESA> Diário de Notícias <END> », <START:PESSOA_INDIVIDUAL> Joaquim de Seabra Pessoa <END> ( <START:VALOR_QUANTIDADE> 38 <END> ), natural de <START:LOCAL_HUMANO> Lisboa <END> ; e a sua mãe <START:PESSOA_INDIVIDUAL> D. Maria Magdalena Pinheiro Nogueira Pessoa <END> ( <START:VALOR_QUANTIDADE> 26 <END> ), natural da <START:LOCAL_FISICO> Ilha Terceira <END> ( <START:LOCAL_HUMANO> Açores <END> ).
+Viviam com eles a <START:PESSOA_INDIVIDUAL> avó Dionísia <END> , doente mental e duas criadas velhas, <START:PESSOA_INDIVIDUAL> Joana <END> e <START:PESSOA_INDIVIDUAL> Emília <END> .
+É baptizado <START:TEMPO_TEMPO_CALEND> em 21 de Julho <END> na <START:LOCAL_HUMANO> Igreja dos Mártires <END> , no <START:LOCAL_HUMANO> Chiado <END> .
+Os padrinhos são a sua <START:PESSOA_INDIVIDUAL> Tia Anica <END> ( <START:PESSOA_INDIVIDUAL> D. Ana Luísa Pinheiro Nogueira <END> , sua tia materna) e o <START:PESSOA_INDIVIDUAL> General Chaby <END> .
+A razão por detrás do nome <START:ABSTRACCAO_NOME> Fernando António <END> encontra-se relacionada com <START:PESSOA_INDIVIDUAL> Santo António <END> : a sua família reclamava uma ligação genealógica com <START:PESSOA_INDIVIDUAL> Fernando de Bulhões <END> , nome de baptismo de <START:PESSOA_INDIVIDUAL> Santo António <END> , cujo dia tradicionalmente consagrado em <START:LOCAL_HUMANO> Lisboa <END> é <START:TEMPO_TEMPO_CALEND> 13 de Junho <END> , <START:TEMPO_GENERICO> dia <END> em que <START:PESSOA_INDIVIDUAL> Fernando Pessoa <END> nasceu.
+A sua infância e adolescência foram marcadas por factos que o influenciariam posteriormente.
+<START:TEMPO_TEMPO_CALEND> Às cinco horas da manhã <END> <START:TEMPO_TEMPO_CALEND> de 24 de Julho de 1893 <END>  , o seu pai morre com <START:VALOR_QUANTIDADE> 43 anos <END> vítima de tuberculose.
+A morte é reportada no <START:LOCAL_VIRTUAL> Diário de Notícias <END> <START:TEMPO_TEMPO_CALEND> do dia <END> .
+<START:PESSOA_INDIVIDUAL> Joaquim de Seabra Pessoa <END> deixou-o com apenas cinco anos, a mãe e o seu irmão <START:PESSOA_INDIVIDUAL> Jorge <END> que viria a falecer <START:TEMPO_TEMPO_CALEND> no outro ano <END> sem chegar a completar um ano.
+A mãe então vê-se obrigada a leiloar parte da mobília e mudam-se para uma casa mais modesta, o terceiro andar do n.º 104 da <START:LOCAL_HUMANO> Rua de São Marçal <END> .
+É também <START:TEMPO_TEMPO_CALEND> nesse período <END> que surge o seu primeiro heterónimo, <START:PESSOA_INDIVIDUAL> Chevalier de Pas <END> , facto relatado pelo próprio <START:PESSOA_INDIVIDUAL> Fernando Pessoa <END> a <START:PESSOA_INDIVIDUAL> Adolfo Casais Monteiro <END> , numa carta <START:TEMPO_TEMPO_CALEND> de 1935 <END> em que fala extensamente sobre a origem dos heterónimos.
+Ainda <START:TEMPO_TEMPO_CALEND> no mesmo ano <END> cria seu primeiro poema, um verso curto com a infantil epígrafe de À Minha Querida Mamã .
+Sua mãe casa-se pela segunda vez <START:TEMPO_TEMPO_CALEND> em 1895 <END> por procuração, na <START:LOCAL_HUMANO> Igreja de São Mamede <END> em <START:LOCAL_HUMANO> Lisboa <END> , com o <START:PESSOA_INDIVIDUAL> Comandante João Miguel Rosa <END> ,    <START:PESSOA_CARGO> cônsul de Portugal <END>     em   <START:LOCAL_HUMANO> Durban <END> ( <START:LOCAL_HUMANO> África do Sul <END> ), o qual havia conhecido <START:TEMPO_TEMPO_CALEND> um ano antes <END> .
+Em <START:LOCAL_HUMANO> África <END> , <START:PESSOA_INDIVIDUAL> Pessoa <END> viria a demonstrar possuir desde cedo habilidades para a literatura.
+Em razão do casamento, muda-se com a mãe e um tio-avô, <START:PESSOA_INDIVIDUAL> Manuel Gualdino da Cunha <END> , para <START:LOCAL_HUMANO> Durban <END> , onde passa a maior parte da sua juventude.
+Viajam no navio <START:COISA_OBJECTO> Funchal <END> até à <START:LOCAL_HUMANO> Madeira <END> e depois no paquete Inglês <START:COISA_OBJECTO> Hawarden Castle <END> até ao <START:LOCAL_FISICO> Cabo da Boa Esperança <END> .
+Tendo que dividir a atenção da mãe com os filhos do casamento e com o padrasto, <START:PESSOA_INDIVIDUAL> Pessoa <END> isola-se, o que lhe propiciava momentos de reflexão.
+Em <START:LOCAL_HUMANO> Durban <END> recebe uma educação britânica, o que lhe proporciona um profundo contacto com a língua inglesa.
+Os seus primeiros textos e estudos são feitos em inglês.
+Mantém contato com a literatura inglesa através de autores como <START:PESSOA_INDIVIDUAL> Shakespeare <END> , <START:PESSOA_INDIVIDUAL> Edgar Allan Poe <END> , <START:PESSOA_INDIVIDUAL> John Milton <END> , <START:PESSOA_INDIVIDUAL> Lord Byron <END> , <START:PESSOA_INDIVIDUAL> John Keats <END> , <START:PESSOA_INDIVIDUAL> Percy Shelley <END> , <START:PESSOA_INDIVIDUAL> Alfred Tennyson <END> , entre outros.
+O inglês teve grande destaque na sua vida, trabalhando com o idioma quando, <START:TEMPO_TEMPO_CALEND> mais tarde <END> , se torna correspondente comercial em <START:LOCAL_HUMANO> Lisboa <END> , além de utilizar o idioma em alguns dos seus textos e traduzir trabalhos de poetas ingleses, como <START:OBRA_REPRODUZIDA> O Corvo <END> e <START:OBRA_REPRODUZIDA> Annabel Lee <END> de <START:PESSOA_INDIVIDUAL> Edgar Allan Poe <END> .
+Com excepção de <START:OBRA_REPRODUZIDA> Mensagem <END> , os únicos livros publicados em vida são os das colectâneas dos seus poemas ingleses: <START:OBRA_REPRODUZIDA> Antinous <END> e <START:OBRA_REPRODUZIDA> 35 Sonnets <END> e <START:OBRA_REPRODUZIDA> English Poems I - II <END> e <START:OBRA_REPRODUZIDA> III <END> , escritos <START:TEMPO_TEMPO_CALEND> entre 1918 e 1921 <END> .
+Faz o curso primário na escola de freiras irlandesas da <START:LOCAL_HUMANO> West Street <END> , onde realiza a sua primeira comunhão e percorre <START:TEMPO_DURACAO> em três anos <END> o equivalente a cinco.
+<START:TEMPO_TEMPO_CALEND> Em 1899 <END> ingressa na <START:ORGANIZACAO_INSTITUICAO> Durban High School <END> , onde permanecerá <START:TEMPO_DURACAO> durante três anos <END> e será um dos primeiros alunos da turma, <START:TEMPO_TEMPO_CALEND> no mesmo ano <END> cria o pseudónimo <START:ABSTRACCAO_NOME> Alexander Search <END> , no qual envia cartas a si mesmo utilizando esse nome.
+<START:TEMPO_TEMPO_CALEND> No ano de 1901 <END> é aprovado com distinção no seu primeiro exame da <START:ORGANIZACAO_INSTITUICAO> Cape Scholl High Examination <END> , escreve os primeiros poemas em inglês.
+<START:TEMPO_TEMPO_CALEND> Na mesma época <END> morre sua irmã <START:PESSOA_INDIVIDUAL> Madalena Henriqueta <END> , de dois anos.
+De férias, parte <START:TEMPO_TEMPO_CALEND> em 1901 <END> com a família para <START:LOCAL_HUMANO> Portugal <END> .
+No navio em que viajam, o paquete <START:COISA_OBJECTO> König <END> , vem o corpo da sua irmã falecida.
+Em <START:LOCAL_HUMANO> Lisboa <END> mora com a família em <START:LOCAL_HUMANO> Pedrouços <END> e <START:TEMPO_TEMPO_CALEND> depois <END> na <START:LOCAL_HUMANO> Avenida de D. Carlos I <END> , n.º.
+109, 3º.
+Esquerdo.
+Na capital portuguesa nasce <START:PESSOA_INDIVIDUAL> João Maria <END> , quarto filho do segundo casamento da mãe de <START:PESSOA_INDIVIDUAL> Pessoa <END> .
+Viaja com o padrasto, a mãe e os irmãos à <START:LOCAL_FISICO> Ilha Terceira <END> , nos <START:LOCAL_FISICO> Açores <END> , onde vive a família materna.
+Também partem para <START:LOCAL_HUMANO> Tavira <END> onde para visitar os parentes paternos.
+<START:TEMPO_TEMPO_CALEND> Nessa época <END> escreve a poesia  Quando ela passa   .
+<START:PESSOA_INDIVIDUAL> Fernando Pessoa <END> permanece em <START:LOCAL_HUMANO> Lisboa <END> enquanto todos regressam para <START:LOCAL_HUMANO> Durban <END> : a mãe, o padrasto, os irmãos e a criada <START:PESSOA_INDIVIDUAL> Paciência <END> que viera com eles.
+Volta sozinho para a <START:LOCAL_HUMANO> África <END> no vapor <START:COISA_OBJECTO> Herzog <END> .
+<START:TEMPO_TEMPO_CALEND> Na mesma época <END> , tenta escrever romances em inglês e matricula-se na <START:ORGANIZACAO_INSTITUICAO> Commercial School <END> .
+Lá estuda <START:TEMPO_GENERICO> à noite <END> enquanto <START:TEMPO_GENERICO> de dia <END> se ocupa com disciplinas humanísticas.
+<START:TEMPO_TEMPO_CALEND> Em 1903 <END> , candidata-se à  Universidade do Cabo da Boa Esperança   .
+Na prova de exame para a admissão, não obtém uma boa classificação, mas tira a melhor nota entre os <START:VALOR_QUANTIDADE> 899 <END> candidatos no ensaio de estilo inglês.
+Recebe por isso o Queen Victoria Memorial Prize (« Prémio Rainha Vitória »).
+<START:TEMPO_TEMPO_CALEND> Um ano depois <END> novamente ingressa na <START:ORGANIZACAO_INSTITUICAO> Durban High School <END> onde frequenta o equivalente a um primeiro ano universitário, Aprofunda a sua cultura, lendo clássicos ingleses e latinos; escreve poesia e prosa em inglês e surgem os heterónimos <START:ABSTRACCAO_NOME> Charles Robert Anon <END> e <START:ABSTRACCAO_NOME> H. M. F. Lecher <END> ; nasce z sua irmã <START:PESSOA_INDIVIDUAL> Maria Clara <END> e publica o jornal do liceu um ensaio crítico intitulado <START:ABSTRACCAO_NOME> Macaulay <END> .
+Por fim, encerra os seus bem sucedidos estudos na <START:LOCAL_HUMANO> África do Sul <END> após realizar na <START:ORGANIZACAO_INSTITUICAO> Universidade <END> o « <START:ABSTRACCAO_DISCIPLINA> Intermediate Examination in Arts <END> », adquirindo bons resultados.
+Volta definitiva a <START:LOCAL_HUMANO> Portugal <END> e início de carreira        
+ Deixando a família em <START:LOCAL_HUMANO> Durban <END> , regressou definitivamente à capital portuguesa, sozinho, <START:TEMPO_TEMPO_CALEND> em 1905 <END> .
+Passa a viver com a <START:PESSOA_INDIVIDUAL> avó Dionísia <END> e as duas tias na <START:LOCAL_HUMANO> Rua da Bela Vista <END> , 17.
+A mãe e o padrasto também retornam a <START:LOCAL_HUMANO> Lisboa <END> , <START:TEMPO_DURACAO> durante um período <END> de férias <START:TEMPO_DURACAO> de um ano <END> em que <START:PESSOA_INDIVIDUAL> Pessoa <END> volta a morar com eles.
+Continua a produção de poemas em inglês e <START:TEMPO_TEMPO_CALEND> em 1906 <END> matricula-se no <START:ORGANIZACAO_INSTITUICAO> Curso Superior de Letras <END> (actual  <START:ORGANIZACAO_INSTITUICAO> Faculdade de Letras <END> da <START:ORGANIZACAO_INSTITUICAO> Universidade <END> de <START:LOCAL_HUMANO> Lisboa <END> ), que abandona sem sequer completar <START:TEMPO_GENERICO> o primeiro ano <END> .
+É <START:TEMPO_TEMPO_CALEND> nesta época <END> que entra em contacto com importantes escritores de literatura da língua portuguesa.
+Interessa-se pela obra de <START:PESSOA_INDIVIDUAL> Cesário Verde <END> e pelos sermões do <START:PESSOA_INDIVIDUAL> Padre Antônio Vieira <END> .
+<START:TEMPO_TEMPO_CALEND> Em Agosto de 1907 <END> , morre a sua <START:PESSOA_INDIVIDUAL> avó Dionísia <END> , deixando-lhe uma pequena herança.
+Com esse dinheiro, monta uma pequena tipografia, que rapidamente faliu, na <START:LOCAL_HUMANO> Rua da Conceição da Glória <END> , 38-4.º, sob o nome de « <START:ABSTRACCAO_NOME> Empresa Íbis --- Tipografia Editora --- Oficinas a Vapor <END> ».
+<START:TEMPO_TEMPO_CALEND> A partir de 1908 <END> , dedica-se à tradução de correspondência comercial, um trabalho que poderíamos chamar de "correspondente estrangeiro".
+Nessa profissão trabalha a vida toda, tendo uma modesta vida pública.
+Inicia a sua actividade de ensaista e crítico literário com a publicação, <START:TEMPO_TEMPO_CALEND> em 1912 <END> , na revista « <START:LOCAL_VIRTUAL> Águia <END> », do artigo « <START:OBRA_REPRODUZIDA> A nova poesia portuguesa sociologicamente considerada <END>  », a que se seguiriam outros.
+<START:PESSOA_INDIVIDUAL> Pessoa <END> é internado <START:TEMPO_TEMPO_CALEND> no dia 29 de Novembro de 1935 <END> , no <START:ORGANIZACAO_INSTITUICAO> Hospital de São Luís dos Franceses <END> , com diagnóstico de "cólica hepática" (provavelmente uma colangite aguda causada por cálculo biliar), falecendo de suas complicações, possivelmente associada a uma cirrose hepática provocada pelo óbvio excesso de álcool ao longo da sua vida (a título de curiosidade acredita-se que era muito fiel à aguardente " <START:COISA_CLASSE> Águia Real <END> ").
+<START:TEMPO_TEMPO_CALEND> No dia 30 de Novembro <END> morre aos <START:VALOR_QUANTIDADE> 47 anos <END> .
+<START:TEMPO_TEMPO_CALEND> Nos últimos momentos <END> da sua vida pede os óculos e clama pelos seus heterónimos.
+A sua última frase é escrita no idioma no qual foi educado, o inglês: I know not what tomorrow will bring ("Eu não sei o que o amanhã trará").
+Legado    
 [...]    
- E é pelo medo, também, que eles esperam ganhar esta batalha contra o <START:ORGANIZACAO_ADMINISTRACAO> Ocidente <END> , destruindo o nosso amor à liberdade.
-Esperam que, aos poucos, sejamos obrigados a chegar ao ponto crucial em que a escolha terá de ser entre a vida ou o nosso modo de vida --- a liberdade, a democracia, a tolerância.
-Sem que isso possa representar qualquer desculpa para os autores materiais, as escutas telefónicas indiscriminadas, as prisões preventivas sem advogado, os interrogatórios secretos em prisões clandestinas, as leis de excepção, a tortura e <START:ACONTECIMENTO_EFEMERIDE> Guantanamo <END> , tudo isso, tem a autoria moral dos radicais islâmicos e obedece a um plano concertado de implosão das democracias.
-É preciso ser muito forte, e preciso perceber, como <START:TEMPO_TEMPO_CALEND> em 1939 <END> , que a liberdade é o mais absoluto dos nossos bens e o maior valor da nossa cultura e modo de vida, para ser capaz de lhes resistir.
-Mas é essencial resistir, porque a alternativa é o regresso à Idade Media e a barbárie.
-É por isso que o gesto dos <START:ORGANIZACAO_ADMINISTRACAO> Comuns <END> , rejeitando a legislação de segurança interna proposta por <START:PESSOA_INDIVIDUAL> Tony Blair <END> , porque ela violava direitos e princípios em que se funda a democracia inglesa, é, apesar das consequências daí resultantes, o sinal de uma grande nação que não se rende nem ajoelha.
-Infelizmente, não foi o nosso caso.
-Pela mão do <START:PESSOA_INDIVIDUAL> ministro Freitas do Amaral <END> , e sem necessidade alguma, <START:ORGANIZACAO_ADMINISTRACAO> Portugal <END> foi enxovalhado, coberto de vergonha e de cobardia, por um dos mais tristes textos políticos que já alguém escreveu.
-Devo dizer que não me espanta por ai além: a nossa «diplomacia» não tem feito mais nada  <START:TEMPO_TEMPO_CALEND> nos últimos 25 anos <END>  que não rastejar perante os poderosos, em cada cena e em cada tempo: <START:ORGANIZACAO_ADMINISTRACAO> Angola <END> , <START:ORGANIZACAO_ADMINISTRACAO> Indonésia <END> (com a notável excepção de <START:PESSOA_INDIVIDUAL> Guterres <END> e <START:PESSOA_INDIVIDUAL> Sampaio <END> ), <START:ORGANIZACAO_ADMINISTRACAO> Estados Unidos <END> e, agora, perante os países islâmicos.
-[...]        
- <START:PESSOA_INDIVIDUAL> Miguel Sousa Tavares <END> -     Jornal "Expresso"    - 11.02.2006       
+ Analogamente a <START:PESSOA_INDIVIDUAL> Pompeu <END> que disse que "navegar é preciso; viver não é preciso", <START:PESSOA_INDIVIDUAL> Pessoa <END> diz, no poema  Navegar é Preciso   , que "viver não é necessário; o que é necessário é criar".
+Outra interpretação comum deste poema diz respeito ao fato de que a navegação foi resultado de uma atitude racionalista do mundo ocidental (a navegação exigiria precisão) enquanto a vida poderia dispensar tal precisão.
+Sobre <START:PESSOA_INDIVIDUAL> Fernando Pessoa <END> , o poeta mexicano ganhador do Nobel de Literatura <START:PESSOA_INDIVIDUAL> Octavio Paz <END> diz que "os poetas não têm biografia.
+Sua obra é sua biografia" e que, no caso do poeta português, "nada em sua vida é surpreendente --- nada, exceto seus poemas".
+O crítico literário estadunidense <START:PESSOA_INDIVIDUAL> Harold Bloom <END> considerou-o, no seu livro <START:OBRA_REPRODUZIDA> The Western Canon <END> (" <START:OBRA_REPRODUZIDA> O Cânone Ocidental <END> "), o mais representativo poeta <START:TEMPO_TEMPO_CALEND> do século XX <END> , ao lado do chileno <START:PESSOA_INDIVIDUAL> Pablo Neruda <END> .
+[3]        
+ Na comemoração do centenário do seu nascimento <START:TEMPO_TEMPO_CALEND> em 1988 <END> , seu corpo foi transladado para o <START:LOCAL_HUMANO> Mosteiro dos Jerónimos <END> , confirmando o reconhecimento que não teve em vida.
+[editar] <START:PESSOA_INDIVIDUAL> Pessoa <END> e o ocultismo        
+ <START:PESSOA_INDIVIDUAL> Fernando Pessoa <END> possuía ligações com o ocultismo e o misticismo, salientando-se a <START:ABSTRACCAO_DISCIPLINA> Maçonaria <END> e a <START:ABSTRACCAO_DISCIPLINA> Rosa-Cruz <END> (embora não se conheça qualquer filiação concreta em <START:ORGANIZACAO_INSTITUICAO> Loja <END> ou <START:ORGANIZACAO_INSTITUICAO> Fraternidade <END> destas escolas de pensamento), havendo inclusive defendido publicamente as organizações iniciáticas, no <START:LOCAL_VIRTUAL> Diário de Lisboa <END> , <START:TEMPO_TEMPO_CALEND> de 4 de fevereiro de 1935 <END> , contra ataques por parte da ditadura do <START:ORGANIZACAO_ADMINISTRACAO> Estado Novo <END> .
+O seu poema hermético mais conhecido e apreciado entre os estudantes de esoterismo intitula-se " <START:ABSTRACCAO_NOME> No Túmulo de Christian Rosenkreutz <END> ".
+Tinha o hábito de fazer consultas astrológicas para si mesmo (de acordo com a sua certidão de nascimento, nasceu <START:TEMPO_TEMPO_CALEND> às 15h20 <END> ; tinha ascendente Escorpião e o Sol em Gémeos ).
+Realizou mais de mil horóscopos.
+Certa vez, lendo uma publicação inglesa do famoso ocultista <START:PESSOA_INDIVIDUAL> Aleister Crowley <END> , <START:PESSOA_INDIVIDUAL> Fernando <END> encontrou erros no horóscopo e escreveu ao inglês para corrigi-lo, já que era um conhecedor e praticante da astrologia, conhecimentos estes que impressionaram <START:PESSOA_INDIVIDUAL> Crowley <END> e, como gostava de viagens, o fizeram ir até <START:LOCAL_HUMANO> Portugal <END> para conhecer o poeta.
+Junto com ele veio a maga alemã <START:PESSOA_INDIVIDUAL> Miss Jaeger <END> , que passou a escrever cartas a <START:PESSOA_INDIVIDUAL> Fernando <END> assinando com um pseudônimo ocultista.
+O encontro não foi muito amigável, dados os graves desequilíbrios psíquico e espiritual que <START:PESSOA_INDIVIDUAL> Crowley <END> sofria e --- apesar disso --- ensinava.
+--DOCSTART--
+    
+     <START:ORGANIZACAO_ADMINISTRACAO> MINISTÉRIOS DO AMBIENTE, DO ORDENAMENTO DO TERRITÓRIO E DO DESENVOLVIMENTO REGIONAL <END> E <START:ORGANIZACAO_ADMINISTRACAO> DA AGRICULTURA, DO DESENVOLVIMENTO RURAL E DAS PESCAS <END> .
+Portaria n.º 1/2008 <START:TEMPO_TEMPO_CALEND> de 2 de Janeiro <END>        
+ Com fundamento no disposto na  alínea a) do artigo 40.º e no n.º 1 do artigo 118.º do Decreto-Lei n.º 202/2004 , <START:TEMPO_TEMPO_CALEND> de 18 de Agosto <END> , com as alterações introduzidas pelo Decreto-Lei n.º 201/2005 , <START:TEMPO_TEMPO_CALEND> de 24 de Novembro <END> ;        
+ Ouvido o    <START:ORGANIZACAO_ADMINISTRACAO> Conselho Cinegético Municipal <END>   de   <START:LOCAL_HUMANO> Montemor-o-Novo <END>  :        
+ Manda o <START:ORGANIZACAO_ADMINISTRACAO> Governo <END> , pelos <START:PESSOA_CARGO> Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional <END> e <START:PESSOA_CARGO> da Agricultura, do Desenvolvimento Rural e das Pescas <END> , o seguinte:        
+ 1.º Pela presente portaria é concessionada, <START:TEMPO_DURACAO> pelo período de 12 anos <END>  , à  <START:ORGANIZACAO_INSTITUICAO> Associação de Caçadores <END> da <START:LOCAL_HUMANO> Ajuda <END> , com o número de identificação fiscal 502302569 e sede na <START:LOCAL_HUMANO> Rua de D. Vasco <END> , 7, 7050 <START:LOCAL_HUMANO> Montemor-o-Novo <END> , a zona de caça associativa da <START:LOCAL_HUMANO> Herdade da Casa Branca <END> e outras ( processo n.º 4799-DGRF ), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de <START:LOCAL_HUMANO> Cabrela <END> , município de <START:LOCAL_HUMANO> Montemor-o-Novo <END> , com a área de <START:VALOR_QUANTIDADE> 545 ha <END> .
+2.º A concessão de alguns terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade da actividade cinegética com a conservação da natureza, até um máximo de <START:VALOR_QUANTIDADE> 10 % <END> da área total da zona de caça.
+3.º A zona de caça concessionada pela presente portaria produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.
+Pelo <START:PESSOA_CARGO> Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional <END> , <START:PESSOA_INDIVIDUAL> Humberto Delgado Ubach Chaves Rosa <END> , <START:PESSOA_CARGO> Secretário de Estado do Ambiente <END> , <START:TEMPO_TEMPO_CALEND> em 23 de Novembro de 2007 <END> .
+--- O <START:PESSOA_CARGO> Ministro da Agricultura, do Desenvolvimento Rural e das Pescas <END>  , <START:PESSOA_INDIVIDUAL> Jaime de Jesus Lopes Silva <END> , <START:TEMPO_TEMPO_CALEND> em 30 de Novembro de 2007 <END> .
+--DOCSTART--
 
-  --DOCSTART--
+História do <START:COISA_CLASSE> RFID <END>
+A tecnologia de <START:COISA_CLASSE> RFID <END> tem suas raízes nos sistemas de radares utilizados na <START:ACONTECIMENTO_EFEMERIDE> Segunda Guerra Mundial <END> .
+Os alemães, japoneses, americanos e ingleses utilizavam radares -- que foram descobertos <START:TEMPO_TEMPO_CALEND> em 1937 <END> por <START:PESSOA_INDIVIDUAL> Sir Robert Alexander Watson-Watt <END> , um físico escocês -- para avisá-los com antecedência de aviões enquanto eles ainda estavam bem distantes.
+O problema era identificar dentre esses aviões qual era inimigo e qual era aliado.
+Os alemães então descobriram que se os seus pilotos girassem seus aviões quando estivessem retornando à base iriam modificar o sinal de rádio que seria refletido de volta ao radar.
+Esse método simples alertava os técnicos responsáveis pelo radar que se tratava de aviões alemães (esse foi, essencialmente, considerado o primeiro sistema passivo de <START:COISA_CLASSE> RFID <END> ).
+Sob o comando de <START:PESSOA_INDIVIDUAL> Watson-Watt <END> , que liderou um projeto secreto, os ingleses desenvolveram o primeiro identificador activo de amigo ou inimigo  (IFF -- Identify Friend or Foe) .
+Foi colocado um transmissor em cada avião britânico.
+Quando esses transmissores recebiam sinais das estações de radar no solo, começavam a transmitir um sinal de resposta, que identificava o aeroplano como   Friendly   (amigo).
+Os <START:COISA_CLASSE> RFID <END> funcionam no mesmo princípio básico.
+Um sinal é enviado a um transponder, o qual é ativado e reflete de volta o sinal (sistema passivo) ou transmite seu próprio sinal (sistemas ativos).
+Avanços na área de radares e de comunicação <START:COISA_CLASSE> RF <END> ( <START:COISA_CLASSE> Radio Frequency <END> ) continuaram <START:TEMPO_DURACAO> através das décadas de 50 e 60 <END> .
+Cientistas e acadêmicos dos <START:LOCAL_HUMANO> Estados Unidos <END> , <START:LOCAL_HUMANO> Europa <END> e <START:LOCAL_HUMANO> Japão <END> realizaram pesquisas e apresentaram estudos explicando como a energia <START:COISA_CLASSE> RF <END> poderia ser utilizada para identificar objetos remotamente...
+Companhias começaram a comercializar sistemas antifurto que utilizavam ondas de rádio para determinar se um item havia sido roubado ou pago normalmente.
+Era o advento das tags (etiquetas) denominadas de "etiquetas de vigilância eletrônica" as quais ainda são utilizadas <START:TEMPO_TEMPO_CALEND> até hoje <END> .
+Cada etiqueta utiliza um bit.
+Se a pessoa paga pela mercadoria, o bit é posto em off ou 0.
+E os sensores não dispararão o alarme.
+Caso o contrário, o bit continua em on ou 1, e caso a mercadoria saia através dos sensores, um alarme será disparado.
+--DOCSTART--
     
 Direitos Fundamentais    
  <START:PESSOA_INDIVIDUAL> Pöttering <END> , <START:PESSOA_INDIVIDUAL> Sócrates <END> e <START:PESSOA_INDIVIDUAL> Barroso <END> assinam  <START:OBRA_PLANO> Carta dos Direitos Fundamentais <END> da <START:ORGANIZACAO_ADMINISTRACAO> UE <END>        
@@ -279,46 +231,154 @@ http://www.eu2007.pt/UE/vPT/Noticias_Documentos/20071212DiscursoPM.htm
  Discurso de <START:PESSOA_INDIVIDUAL> José Sócrates <END> na cerimónia de <START:ACONTECIMENTO_EVENTO> Proclamação da Carta dos Direitos Fundamentais <END>      
 
 --DOCSTART--
+
+<START:ACONTECIMENTO_EFEMERIDE> Terramoto de 1755 <END>
+O <START:ACONTECIMENTO_EFEMERIDE> Terramoto <END>
+O sismo fez-se sentir <START:TEMPO_TEMPO_CALEND> na manhã de 1 de Novembro de 1755 <END> , <START:TEMPO_GENERICO> dia <END> que coincide com o feriado <START:TEMPO_TEMPO_CALEND> do Dia de Todos-os-Santos <END> .
+O epicentro não é conhecido com exactidão, havendo diversos sismólogos que propõem locais distanciados de centenas de quilómetros.
+No entanto, todos convergem para um epicentro no mar, <START:VALOR_QUANTIDADE> entre 150 a 500 quilómetros <END> a sudoeste de <START:LOCAL_HUMANO> Lisboa <END> .
+Devido a um forte sismo, ocorrido <START:TEMPO_TEMPO_CALEND> em 1969 <END> no <START:LOCAL_FISICO> Banco de Gorringe <END> , este local tem sido apontado como tendo forte probabilidade de aí se ter situado o epicentro <START:TEMPO_TEMPO_CALEND> em 1755 <END> .
+Relatos da época afirmam que os abalos foram sentidos, consoante o local, <START:TEMPO_DURACAO> durante entre 6 minutos a 2 horas e meia <END> , causando fissuras enormes de que ainda <START:TEMPO_GENERICO> hoje <END> há vestígios em <START:LOCAL_HUMANO> Lisboa <END> .
+Com os vários desmoronamentos os sobreviventes procuraram refúgio na zona portuária e assistiram ao recuo das águas, revelando o fundo do mar cheio de destroços de navios e cargas perdidas.
+<START:TEMPO_TEMPO_CALEND> Poucas dezenas de minutos depois <END> , um tsunami, que actualmente se supõe ter atingido <START:VALOR_QUANTIDADE> 20 metros <END> de altura, fez submergir o porto e o centro da cidade.
+Nas áreas que não foram afectadas pelo tsunami, o fogo logo se alastrou, e os incêndios duraram pelo menos cinco dias.
+Todos tinham fugido e não havia quem o apagasse.
+<START:LOCAL_HUMANO> Lisboa <END> não foi a única cidade portuguesa afectada pela catástrofe.
+Todo o sul de <START:LOCAL_HUMANO> Portugal <END> , nomeadamente o <START:LOCAL_HUMANO> Algarve <END> , foi atingido e a destruição foi generalizada.
+As ondas de choque do sismo foram sentidas por toda a <START:LOCAL_HUMANO> Europa <END> e norte da <START:LOCAL_HUMANO> África <END> .
+Os maremotos originados pela movimentação tectónica varreram desde do norte de <START:LOCAL_HUMANO> África <END> até ao norte da <START:LOCAL_HUMANO> Europa <END> , nomeadamente até à <START:LOCAL_HUMANO> Finlândia <END> e através do <START:LOCAL_FISICO> Atlântico <END> , afectando locais tão longínquos como <START:LOCAL_HUMANO> Martinica <END> e <START:LOCAL_HUMANO> Barbados <END> .
+De uma população de <START:VALOR_QUANTIDADE> 275 mil <END> habitantes em <START:LOCAL_HUMANO> Lisboa <END> , crê-se que <START:VALOR_QUANTIDADE> 90 mil <END> morreram[2].
+Outros <START:VALOR_QUANTIDADE> 10 mil <END> foram vitimados em <START:LOCAL_HUMANO> Marrocos <END> .
+<START:VALOR_QUANTIDADE> Cerca de 85% <END> das construções de <START:LOCAL_HUMANO> Lisboa <END> foram destruídas, incluindo palácios famosos e bibliotecas, conventos e igrejas, hospitais e todas as estruturas.
+Várias construções que sofreram poucos danos pelo terramoto foram destruídas pelo fogo que se seguiu ao abalo sísmico.
+A recém construída <START:OBRA_ARTE> Casa da Ópera <END> , aberta apenas <START:TEMPO_TEMPO_CALEND> seis meses antes <END> , foi totalmente consumida pelo fogo.
+O <START:OBRA_ARTE> Palácio Real <END> , que se situava na margem do <START:LOCAL_FISICO> Tejo <END> , onde <START:TEMPO_GENERICO> hoje <END> existe o <START:LOCAL_HUMANO> Terreiro do Paço <END> , foi destruído pelos abalos sísmicos e pelo tsunami.
+Dentro, a biblioteca de <START:VALOR_QUANTIDADE> 70 mil <END> volumes e centenas de obras de arte, incluindo pinturas de <START:PESSOA_INDIVIDUAL> Ticiano <END> , <START:PESSOA_INDIVIDUAL> Rubens <END> , e <START:PESSOA_INDIVIDUAL> Correggio <END> , foram perdidas.
+O precioso <START:OBRA_REPRODUZIDA> Arquivo Real <END> com documentos relativos à exploração oceânica e outros documentos antigos também foram perdidos.
+O terramoto destruiu ainda as maiores igrejas de <START:LOCAL_HUMANO> Lisboa <END> , especialmente a <START:OBRA_ARTE> Catedral de Santa Maria <END> , e as <START:OBRA_ARTE> Basílicas de São Paulo <END> , <START:OBRA_ARTE> Santa Catarina <END> , <START:OBRA_ARTE> São Vicente de Fora <END> , e a da <START:OBRA_ARTE> Misericórdia <END> .
+As ruínas do <START:OBRA_ARTE> Convento do Carmo <END> ainda <START:TEMPO_GENERICO> hoje <END> podem ser visitadas no centro da cidade.
+O túmulo de <START:PESSOA_INDIVIDUAL> Nuno Álvares Pereira <END> , nesse convento, perdeu-se também.
+O <START:LOCAL_HUMANO> Hospital Real de Todos os Santos <END> foi consumido pelos fogos e centenas de pacientes morreram queimados.
+Registos históricos das viagens de <START:PESSOA_INDIVIDUAL> Vasco da Gama <END> e <START:PESSOA_INDIVIDUAL> Cristóvão Colombo <END> foram perdidos, e incontáveis construções foram arrasadas (incluindo muitos exemplares da arquitectura <START:TEMPO_TEMPO_CALEND> do período Manuelino <END> em <START:LOCAL_HUMANO> Portugal <END> ).
+--DOCSTART--
     
-TECNOLOGIA E TRADIÇÃO TRIBAL A SERVIÇO DA NATUREZA    
-<START:PESSOA_INDIVIDUAL> Deck Cowboy <END> (deckcowboy@riseup.net)    
-<START:LOCAL_HUMANO> NORDHOEK <END> , <START:LOCAL_HUMANO> África do Sul <END> - Com o olhar fixo na tela de seu laptop, <START:PESSOA_INDIVIDUAL> Louis Liebenberg <END> compara dois mapas da mesma região.
-Enquanto um deles está densamente preenchido por pontos amarelos, o outro está bem mais vazio.
-As marcas indicam avistamentos de gorilas das planícies registradas por rastreadores tribais antes e depois de um surto do vírus ebola no santuário de <START:LOCAL_HUMANO> Lossi <END> , na <START:LOCAL_HUMANO> República Federativa do Congo <END> .
-Usando o <START:COISA_CLASSE> CyberTracker <END> , um software com o qual os ecologistas podem registrar suas observações em campo usando computadores portáteis conectados a aparelhos de posicionamento global ( <START:COISA_CLASSE> GPS <END> ), os rastreadores puderam reunir dados que comprovam a degradação da população local da espécie.
-Inicialmente céticos, os cientistas <START:TEMPO_TEMPO_CALEND> mais tarde <END> confirmaram suas constatações de que o vírus estava matando os gorilas e outros animais, e publicaram um artigo numa edição recente da revista <START:LOCAL_VIRTUAL> Science <END> .
-"Este é um exemplo incrível de como a coleta regular de dados pode nos ajudar", disse <START:PESSOA_INDIVIDUAL> Liebenberg <END> .
-Para ele, fundador sul-africano da <START:ORGANIZACAO_INSTITUICAO> CyberTracker Conservation <END> , as constatações não apenas ilustram a capacidade do dispositivo de melhorar o monitoramento e a interpretação de ecossistemas, mas também comprovam que rastreadores analfabetos podem recolher informações com tanta eficiência quanto cientistas com Ph.D.
-O <START:COISA_CLASSE> CyberTracker <END> é apenas mais uma das modernas tecnologias atualmente à disposição dos ecologistas, que cada vez mais recorrem a ferramentas como análises de <START:COISA_SUBSTANCIA> DNA <END> e imagens de satélite para obter uma maior compreensão da natureza.
-<START:PESSOA_INDIVIDUAL> Liebenberg <END> teve a idéia de criar o sistema <START:COISA_CLASSE> CyberTracker <END> enquanto acompanhava caçadores bosquímanos no deserto do <START:LOCAL_FISICO> Kalahari <END> .
-Fascinado desde pequeno pela arte tribal de seguir rastros, <START:PESSOA_INDIVIDUAL> Liebenberg <END> desenvolveu a teoria de que as atividades ancestrais de caça e coleta representam nada menos do que a própria origem da ciência.
-Rastrear um animal, argumenta o pesquisador, exige um processo de observação e confrontação de hipóteses muito semelhante ao método científico.
-O que <START:TEMPO_GENERICO> um dia <END> foi necessário à sobrevivência, no entanto, é <START:TEMPO_GENERICO> hoje <END> uma prática em extinção.
-Atualmente, <START:PESSOA_INDIVIDUAL> Liebenberg <END> afirma conhecer apenas seis caçadores tribais que usam suas habilidades para subsistência.
-A maioria dos jovens das tribos da região <START:TEMPO_GENERICO> hoje <END> freqüentam a escola - ao contrário de seus pais e avós, que eram analfabetos - mas raramente chegam a aprender as técnicas e o conhecimento de mundo necessários para caçar como as gerações anteriores.
-Se fosse possível encontrar um meio de colocar o conhecimento dos bosquímanos a serviço da preservação ambiental, tanto a natureza quanto as comunidades desse povo poderiam se beneficiar.
-<START:TEMPO_TEMPO_CALEND> Em 1996 <END> , <START:PESSOA_INDIVIDUAL> Liebenberg <END> e o cientista da computação <START:PESSOA_INDIVIDUAL> Lindsey Steventon <END> lançaram o primeiro modelo do <START:COISA_CLASSE> CyberTracker <END> , com o objetivo de transformar o rastreamento tradicional numa profissão moderna.
-<START:TEMPO_TEMPO_CALEND> No mesmo ano <END> , os rastreadores <START:PESSOA_INDIVIDUAL> Karel Benadie <END> e <START:PESSOA_INDIVIDUAL> James Minye <END> usaram o <START:COISA_CLASSE> CyberTracker <END> para estudar o rinoceronte negro, uma espécie ameaçada de extinção, no <START:LOCAL_HUMANO> Parque Nacional de Karoo <END> na <START:LOCAL_HUMANO> África do Sul <END> .
-Eles recolheram dados sobre os padrões de alimentação dos animais e sua vulnerabilidade à caça clandestina.
-<START:TEMPO_TEMPO_CALEND> Em 1999 <END> , <START:PESSOA_INDIVIDUAL> Liebenberg <END> , <START:PESSOA_INDIVIDUAL> Steventon <END> e os dois rastreadores, que não possuem educação formal, publicaram um artigo na revista acadêmica <START:LOCAL_VIRTUAL> Pachyderm <END> .
-"Ao incluir os rastreadores em nossas atividades de monitoramento ambiental, estamos expandindo eficientemente a própria ciência", disse <START:PESSOA_INDIVIDUAL> Liebenberg <END> .
-Mas não são apenas os rastreadores tribais que usam o <START:COISA_CLASSE> CyberTracker <END> .
-Estudantes e observadores de aves também aproveitam as vantagens do sistema.
-Ele já foi usado até por equipes de cientistas em expedições no <START:LOCAL_FISICO> Ártico <END> , no monitoramento de lobos no estado norte-americano de <START:LOCAL_HUMANO> Idaho <END> , da poluição dos rios na <START:LOCAL_HUMANO> Tanzânia <END> e do raríssimo rinoceronte de <START:LOCAL_HUMANO> Sumatra <END> , em <START:LOCAL_HUMANO> Bornéu <END> .
-O software pode ser personalizado, e é oferecido gratuitamente na <START:LOCAL_VIRTUAL> Web <END> .
-<START:VALOR_QUANTIDADE> Cerca de 400 <END> projetos em <START:VALOR_QUANTIDADE> 30 <END> países estão usando o sistema, afirma <START:PESSOA_INDIVIDUAL> Liebenberg <END> .
-O software consiste em uma série de camadas contendo menus baseados em figuras nos quais os pesquisadores registram suas observações.
-Eles selecionam ícones para representar as plantas e animais que observam, e para descrever seu comportamento e suas características.
-O <START:COISA_CLASSE> GPS <END> registra o local e a hora de cada observação.
-Rastreadores experientes normalmente podem identificar um único indivíduo de determinada espécie, ou pelo menos saber seu sexo, idade e estado de saúde, apenas observando suas pegadas.
-Com cada rastreador registrando <START:VALOR_QUANTIDADE> até 300 <END> observações <START:TEMPO_FREQUENCIA> por dia <END> , o dispositivo permite a coleta de quantidades imensas de informação, que pode ser analisada em mapas e bancos de dados quase imediatamente.
-"É aí que novos padrões vêm à tona: correlações entre espécies diferentes, características da paisagem e outros fatores que não poderiam ser descobertos de outra maneira", afirma <START:PESSOA_INDIVIDUAL> Jason Knight <END> , instrutor da <START:ORGANIZACAO_INSTITUICAO> Wilderness Awareness School <END> em <START:LOCAL_HUMANO> Duvall <END> , <START:LOCAL_HUMANO> Washington <END> .
-No entanto, <START:PESSOA_INDIVIDUAL> Christina Eisenberg <END> , uma bióloga que estuda os lobos e trabalha para o <START:ORGANIZACAO_INSTITUICAO> Serviço Americano de Vida Selvagem e Aquática <END> conta que parou de usar o sistema porque ele travava inesperadamente.
-"Perdi os dados <START:TEMPO_DURACAO> de um dia inteiro <END> de trabalho, depois de me embrenhar milhas e milhas sobre terreno acidentado mato adentro", lembra.
-"Não foi nada agradável".
-Vários projetos usando o <START:COISA_CLASSE> CyberTracker <END> em áreas de preservação da <START:LOCAL_HUMANO> África do Sul <END> também estão interrompidos, em parte devido ao preconceito contra rastreadores analfabetos e a falta de entusiasmo por parte dos administradores, diz <START:PESSOA_INDIVIDUAL> Liebenberg <END> .
-Mesmo assim, ele pretende desenvolver o <START:COISA_OBJECTO> CyberTracker <END> , transformando-o num sistema para monitorar mudanças ambientais e compartilhar informações pelo mundo todo.
-"No momento, faltam cientistas para reunir informação em campo", disse.
-"Se pudermos contar com a ajuda das pessoas que vivem nesses lugares, poderemos, teoricamente, monitorar todo o ecossistema global.
-Fonte: Centro de Mídia Independente (www.midiaindependente.org).
-Link : Cybertracker (www.cybertracker.co.za).
+ <START:PESSOA_GRUPOMEMBRO> Lobos <END> recebidos em apoteose        
+ <START:PESSOA_GRUPOMEMBRO> SELECÇÃO <END> DE REGRESSO APÓS BOA PRESTAÇÃO NO <START:ACONTECIMENTO_ORGANIZADO> MUNDIAL <END>        
+ Centenas de pessoas recepcionaram no  <START:LOCAL_HUMANO> Aeroporto <END> da <START:LOCAL_HUMANO> Portela <END> , num clima de enorme entusiasmo e euforia, a selecção portuguesa de râguebi.
+A boa prestação global da equipa no <START:ACONTECIMENTO_ORGANIZADO> Mundial <END> da modalidade, que ainda decorre em <START:LOCAL_HUMANO> França <END> , não passou despercebida em <START:LOCAL_HUMANO> Portugal <END> , embora "   <START:PESSOA_GRUPOMEMBRO> Os Lobos <END> " não tenham conseguido vencer um único jogo.
+Quando a comitiva portuguesa saiu na área de chegadas, <START:TEMPO_TEMPO_CALEND> por volta das 16.30 horas <END> , a agitação cresceu de tom, com a maioria dos adeptos a gritar o nome de <START:ABSTRACCAO_NOME> Portugal <END> de forma entusiasmada.
+<START:PESSOA_INDIVIDUAL> Vasco Uva <END> : «Honrámos o país»        
+ Um dos jogadores mais acarinhados pelos adeptos na chegada a <START:LOCAL_HUMANO> Lisboa <END> , o capitão <START:PESSOA_INDIVIDUAL> Vasco Uva <END> explicou por que houve uma empatia tão grande entre a selecção e uma fatia considerável do público português.
+"Foi a maneira como nos batemos, a maneira como fizemos honrar o <START:LOCAL_HUMANO> País <END> ", considerou, acrescentando que <START:TEMPO_GENERICO> o momento <END> mais emotivo que sentiu foi quando ouviu o hino nacional português no jogo de estreia dos " <START:PESSOA_GRUPOMEMBRO> Lobos <END> ", contra a <START:PESSOA_GRUPOMEMBRO> Escócia <END> , em <START:LOCAL_HUMANO> St. Etienne <END> .
+"Foi muito bom."
+--DOCSTART--
+
+Quadrinhos e pop art - É neste processo de renovação da sociedade norte-americana que a pop art ganha um impulso e, de certa forma, contribui para que os quadrinhos voltem de novo a ser tratados como coisa séria.
+Os artistas procuravam demolir a rigidez e a seriedade das artes plásticas através de ícones da sociedade ocidental.
+Garrafas de <START:COISA_CLASSE> Coca Cola <END> , latas de sopa, símbolos gráficos usados em estações de metrô eram usados em associações livres que permitiam o estabelecimento de relações simbólicas e afetivas com as obras em questão.
+Era uma arte que se valia da repetição de signos conhecidos no intuito de buscar uma identificação com o público a que ela se destinava.
+A idéia era eliminar as barreiras entre as culturas erudita e popular.
+Sendo assim, é compreensível que os grandes nomes da pop art utilizassem também as histórias em quadrinhos como um elemento a mais dentro de seus trabalhos.
+Afinal, a linguagem das <START:COISA_CLASSE> HQs <END> , um balão de texto ligado a uma imagem, possibilita a compreensão imediata da mensagem.
+Além do que, graficamente, eles dispunham de inúmeras referências que serviriam de parâmetro para os pintores pop.
+Isso pode ser visto na obra de <START:PESSOA_INDIVIDUAL> Roy Lichtenstein <END> e seus painéis diretamente copiados de tiras de jornal e, em menor escala, no trabalho de <START:PESSOA_INDIVIDUAL> Andy Warhol <END> .
+Neste caso, mais em decorrência da forma como ele dispunha suas obras - utilizando a narrativa seqüencial em cores primárias nos célebres retratos de <START:PESSOA_INDIVIDUAL> Marilyn Monroe <END> , <START:PESSOA_INDIVIDUAL> Mao Tsé Tung <END> e <START:PESSOA_INDIVIDUAL> James Dean <END> - do que propriamente por se comportar como um quadrinhista tradicional.
+Ao levar para as galerias a estética das <START:COISA_CLASSE> HQs <END> , a pop arte fez com que os quadrinhos ganhassem de volta o respeito que haviam perdido <START:TEMPO_TEMPO_CALEND> na década de 50 <END> .
+Claro que isso não seria possível sem a renovação promovida pelos <START:ABSTRACCAO_DISCIPLINA> Comix <END> .
+Com a pop art os quadrinhos passaram a ser aceitos por uma camada mais intelectualizada da sociedade.
+<START:PESSOA_INDIVIDUAL> Jules Feiffer <END> tem suas tiras publicadas nas páginas da elitista New Yorker.
+Na <START:LOCAL_HUMANO> Europa <END> , <START:PESSOA_INDIVIDUAL> François Truffaut <END> , <START:PESSOA_INDIVIDUAL> Alain Resnais <END> , <START:PESSOA_INDIVIDUAL> Federico Fellini <END> e <START:PESSOA_INDIVIDUAL> Umberto Eco <END> , teorizam sobre as <START:COISA_CLASSE> HQs <END> e declaram seu amor aos quadrinistas norte-americanos.
+Com a benção da pop art, finalmente as histórias em quadrinhos viraram coisa de gente grande.
+A quebra de valores promovida pela pop art, pela contracultura, pelos comix e pela beat generation influenciou ainda o jornalismo e a literatura.
+<START:PESSOA_INDIVIDUAL> Hunter S. Thompson <END> e <START:PESSOA_INDIVIDUAL> Tom Wolfe <END> criam o "new journalism" e inventam uma nova forma de narrativa, misturando a notícia a impressões pessoais e estados alterados de consciência.
+Se, por um lado, <START:PESSOA_INDIVIDUAL> Thompson <END> experimentou todos os tipos de substâncias legais e ilegais para escrever <START:OBRA_REPRODUZIDA> Fear &amp; Loathing in Las Vegas <END> , um relato de suas maluquices na capital mundial do jogo, <START:PESSOA_INDIVIDUAL> Wolfe <END> desenvolveu uma linguagem acelerada e dinâmica parecida com as narrativas das <START:COISA_CLASSE> HQs <END> .
+Inclusive com a utilização de onomatopéias: 
+"mesmo que alguém quebrasse a corrente e em que todos fluíam e fosse bater de encontro ao asfalto da <START:LOCAL_HUMANO> Grande Estrada <END> a noventa quilômetros por hora - eles possuiam isso gravado na fita - e podiam tocar <START:TEMPO_FREQUENCIA> muitas vezes <END> em retardos variáveis, skakkkkkkkkkkk-akkkkkkkk-akkkkk-akkkkkeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeee - Nua em Pêlo cada vez mais esquisita enrolada na manta preta, tremendo e depois se levantando feito uma alma penada...
+...É loucura, delírio, piração, fora da realidade, com metade do mesencéfalo repetindo
+VOCÊ ESTÁ MUITO DOIDO
+e a outra metade repetindo
+VOCÊ É <START:PESSOA_INDIVIDUAL> DEUS <END> ...
+Homem home on the range, cuspindo e buzinando fonfonrofonfon aquela maldita ladainha ao microfone - Home...home...on the ra-a-a-a-a-ange..." 
+<START:PESSOA_INDIVIDUAL> Tom Wolfe <END> - O Teste do Ácido do Refresco Elétrico 
+Essa foi a estética vigente dos primeiros textos da literatura underground norte-americana.
+Em livros como <START:OBRA_REPRODUZIDA> V <END> , <START:OBRA_REPRODUZIDA> O Leilão do Lote 49 <END> e <START:OBRA_REPRODUZIDA> Arco Íris da Gravidade <END> , todos publicados <START:TEMPO_TEMPO_CALEND> no período <END> que vai <START:TEMPO_TEMPO_CALEND> de 61 a 73 <END> , o escritor <START:PESSOA_INDIVIDUAL> Thomas Pynchon <END> <START:TEMPO_FREQUENCIA> freqüentemente <END> adota um modelo de narrativa semelhante ao das histórias em quadrinhos e nos diverte com aviões sendo abatidos por uma rajada de tortas de creme, sátiras ao quadrinho de herói (o personagem <START:PESSOA_INDIVIDUAL> Homem Foguete <END> é claramente inspirado no <START:PESSOA_INDIVIDUAL> Capitão América <END> ), monstros imensos que surgem do nada, ratos falantes, uma rolha assassina que persegue um casal em pleno ato sexual e personagens como nomes improváveis e absurdos ( <START:ABSTRACCAO_NOME> Benny Profane <END> , <START:ABSTRACCAO_NOME> Oedipa <END> e <START:ABSTRACCAO_NOME> Mucho Maas <END> , <START:ABSTRACCAO_NOME> Pierce Inverarity <END> , <START:ABSTRACCAO_NOME> Fausto Magistral <END> , <START:ABSTRACCAO_NOME> Tyrone Slothrop <END> , <START:ABSTRACCAO_NOME> General Pudding <END> , <START:ABSTRACCAO_NOME> Pig Bodine <END> ...).
+Quem também se utiliza do humor quase infantil das <START:COISA_CLASSE> HQs <END> é <START:PESSOA_INDIVIDUAL> Kurt Vonnegut <END> em seu manifesto anti-militarista <START:OBRA_REPRODUZIDA> Matadouro 5 <END> e no experimental <START:OBRA_REPRODUZIDA> Timequake <END> .
+Foi essa reciclagem da cultura de massa norte-americana e a sua junção com os valores emergentes da contracultura que permitiu o surgimento de uma narrativa genuinamente pós-moderna, um gênero que, além de bastante divertido, deixou fortes marcas na literatura norte-americana.
+<START:TEMPO_TEMPO_CALEND> Dos anos 60 até os dias de hoje <END> .
+Fonte: Kung Fu Lounge (http://kfl.blogspot.com/).
+--DOCSTART--
+    
+<START:LOCAL_HUMANO> Paquistão <END> após o assassinato    
+de <START:PESSOA_INDIVIDUAL> Benazir Bhutto <END>    
+<START:TEMPO_TEMPO_CALEND> 28/Dezembro/2007 <END> · <START:TEMPO_TEMPO_CALEND> 0:01 <END> · <START:VALOR_QUANTIDADE> 147 <END> Comentários    
+É sempre chocante assistir à decomposição de um país.
+Mas, após o assassinato de <START:PESSOA_INDIVIDUAL> Benazir Bhutto <END> , é o que está acontecendo com o <START:ORGANIZACAO_ADMINISTRACAO> Paquistão <END> .
+O momento é tenso.
+Uma revolta popular pode estourar.
+Agora, que faria sentido declarar <START:OBRA_PLANO> Estado de Emergência <END>  e impor a <START:OBRA_PLANO> Lei Marcial <END> , o <START:PESSOA_INDIVIDUAL> presidente Pervez Musharraf <END> está desautorizado.
+Afinal, <START:TEMPO_TEMPO_CALEND> há coisa de dois meses <END> , aplicou um golpe contra a <START:ORGANIZACAO_INSTITUICAO> Suprema Corte <END> utilizando-se justamente desta tática.
+Será que ousaria um novo <START:OBRA_PLANO> Estado de Emergência <END> ?
+Será que sobreviveria a tal decreto?
+Será que o <START:ORGANIZACAO_INSTITUICAO> Exército <END> se manterá fiel a ele?
+Será que o <START:ORGANIZACAO_INSTITUICAO> Serviço de Inteligência <END> , tão ligado ao norte islâmico, ainda o respeita minimamente?
+O que acontecerá não é possível prever.
+Eleições estão marcadas <START:TEMPO_TEMPO_CALEND> para 8 de janeiro <END> , <START:PESSOA_INDIVIDUAL> Bhutto <END> era favorita.
+O partido mais votado do parlamento eleito fará o primeiro ministro.
+Num país estável, o assassinato de um dos principais candidatos <START:TEMPO_TEMPO_CALEND> a essa altura <END> seria justificativa para suspender o pleito e realizá-lo adiante, quando o partido vitimado tivesse chances de apresentar novo candidato.
+Mas, se já foi <START:TEMPO_GENERICO> um dia <END> , o <START:LOCAL_HUMANO> Paquistão <END> deixou de ser um país normal, quanto mais estável.
+O ideal seria que eleições ocorressem.
+É preciso manter a mínima aparência de democracia sob o risco de que ela desapareça de vez.
+Os partidários de <START:PESSOA_INDIVIDUAL> Bhutto <END> , <START:TEMPO_TEMPO_CALEND> ontem <END> , acusavam <START:PESSOA_INDIVIDUAL> Musharraf <END> do assassinato.
+Mas será?
+Em campanha, a ex-primeira-ministra mostrava-se particularmente agressiva contra o <START:ABSTRACCAO_DISCIPLINA> Talibã <END> , o radicalismo islâmico e sua cria, a <START:ORGANIZACAO_INSTITUICAO> al-Qaeda <END> , alojados ao norte.
+<START:PESSOA_INDIVIDUAL> Benazir Bhutto <END> contava com a simpatia dos <START:ORGANIZACAO_ADMINISTRACAO> EUA <END> por conta.
+Não há dúvidas de que, como premiê, <START:PESSOA_INDIVIDUAL> Bhutto <END> forçaria o <START:PESSOA_INDIVIDUAL> presidente Musharraf <END> a ampliar sua ofensiva.
+A conversa da experiente política com o presidente afegão <START:PESSOA_INDIVIDUAL> Hamid Karzai <END> , o outro <START:PESSOA_CARGO> chefe de Estado <END> preocupado com esta briga, <START:TEMPO_TEMPO_CALEND> faz poucos dias <END> , é indício de qual sua prioridade no governo.
+Após seu assassinato, o presidente, que acaba de abandonar a farda de general, não tem como garantir sequer sua sobrevivência política.
+Se o conflito entre ambos era aberto, ausência de <START:PESSOA_INDIVIDUAL> Bhutto <END> piora a situação.
+Se a lógica ainda prevalecer no país em frangalhos, parece evidente que os maiores interessados em sua morte são justamente o <START:ORGANIZACAO_INSTITUICAO> Talibã <END> e a <START:ORGANIZACAO_INSTITUICAO> al-Qaeda <END> .
+Isto, é claro, se a lógica valer de algo.
+A <START:ORGANIZACAO_INSTITUICAO> al-Qaeda <END> <START:TEMPO_FREQUENCIA> às vezes <END> assume seus atentados.
+Outras vezes, não.
+No <START:ACONTECIMENTO_EFEMERIDE> Onze de Setembro <END> , ficou em silêncio <START:TEMPO_DURACAO> por mais de mês <END> enquanto a comunidade internacional cobrava provas de seu envolvimento antes de autorizar um ataque dos <START:ORGANIZACAO_ADMINISTRACAO> EUA <END> ao <START:LOCAL_HUMANO> Afeganistão <END> .
+Neste caso, a falta de autoria clara favorece o caos.
+O caos interessa à turma de <START:PESSOA_INDIVIDUAL> bin-Laden <END> .
+Com <START:PESSOA_INDIVIDUAL> Bhutto <END> de fora, os olhos voltam-se para outro ex-premiê, também candidato, <START:PESSOA_INDIVIDUAL> Nawaz Sharif <END> .
+Mal se passara <START:TEMPO_DURACAO> uma hora <END> da morte de <START:PESSOA_INDIVIDUAL> Bhutto <END> quando ele entrou no  <START:LOCAL_HUMANO> Hospital Geral <END> de <START:LOCAL_HUMANO> Rawalpindi <END> para as condolências.
+Dada a confusão que imperava, foi um feito.
+É arte política, sujeito hábil.
+Embora os dois ensaiassem uma aliança, <START:PESSOA_INDIVIDUAL> Sharif <END> não poderia ser mais diferente de <START:PESSOA_INDIVIDUAL> Bhutto <END> .
+Se ela era pró- <START:ORGANIZACAO_ADMINISTRACAO> EUA <END> , ele não esconde seus laços com a <START:ORGANIZACAO_ADMINISTRACAO> Arábia Saudita <END> .
+E se acaso sauditas e norte-americanos são oficialmente aliados, na realidade da política local a ação é diferente.
+A <START:ORGANIZACAO_INSTITUICAO> al-Qaeda <END> é um grupo saudita.
+A <START:ORGANIZACAO_ADMINISTRACAO> Arábia Saudita <END> era um dos três países do mundo que reconheciam, no <START:LOCAL_HUMANO> Afeganistão <END> , o governo <START:ORGANIZACAO_INSTITUICAO> Talibã <END> .
+A vertente de islamismo radical que impera no norte do <START:LOCAL_HUMANO> Paquistão <END> é profundamente semelhante à que a <START:PESSOA_POVO> Arábia Saudita <END> espalha pelo mundo.
+<START:PESSOA_INDIVIDUAL> Sharif <END> não é fundamentalista.
+Mas a geopolítica que o sustenta e financia é tão atada aos sauditas que um gabinete liderado por ele é marcado por uma interrogação.
+O que vai imperar?
+A <START:ORGANIZACAO_ADMINISTRACAO> Arábia Saudita <END> interessada em regimes islâmicos como os defendidos pelos radicais?
+Ou a <START:ORGANIZACAO_ADMINISTRACAO> Arábia Saudita <END> interessada em combater o terrorismo?
+No <START:LOCAL_HUMANO> Paquistão <END> , as duas opções são incompatíveis.
+Enterros no <START:LOCAL_HUMANO> Paquistão <END> acontecem rápido.
+Provavelmente <START:TEMPO_TEMPO_CALEND> hoje <END> , talvez <START:TEMPO_TEMPO_CALEND> amanhã <END> .
+Se demorar mais, escaparam à tradição - coisa sempre perigosa - para evitar as multidões.
+A multidão é incontrolável.
+Se o país rachar.
+Se houver um golpe de <START:ORGANIZACAO_ADMINISTRACAO> Estado <END> .
+Se radicais islâmicos conseguirem um atalho para o poder.
+O mundo respira fundo.
+O " <START:LOCAL_HUMANO> Paquistão <END> é uma potência nuclear.
+--DOCSTART--
+
+Pacto de sangue
+PASSAPORTE BIOLÓGICO <START:TEMPO_TEMPO_CALEND> EM 2008 <END>
+<START:TEMPO_GENERICO> O ano de 2008 <END> promete ser aquele em que tudo se fará para combater o flagelo do doping.
+Pelo menos é esta a intenção de vários agentes da modalidade que criaram, para tal, o passaporte biológico, a designação de um documento electrónico e individual na qual constarão todos os resultados dos controlos antidoping à urina e ao sangue efectuados aos ciclistas, assim como o respectivo perfil hematológico.
+O cruzamento destas informações permitirá avaliar as variações das análises e, consequentemente, detectar se houve manipulação de sangue.
+O passaporte biológico é o resultado de uma reunião verificada <START:TEMPO_TEMPO_CALEND> há alguns meses <END> , em <START:LOCAL_HUMANO> Paris <END> , organizada pelo ministro francês da <START:ABSTRACCAO_DISCIPLINA> Saúde <END> , o ministro francês da <START:ABSTRACCAO_DISCIPLINA> Saúde <END> , a <START:ORGANIZACAO_INSTITUICAO> UCI <END> e a <START:ORGANIZACAO_INSTITUICAO> Agência Mundial Antidopagem <END> ( <START:ORGANIZACAO_INSTITUICAO> AMA <END> ).
+O objectivo é chegar ao <START:ACONTECIMENTO_ORGANIZADO> Tour <END> com o passaporte biológico de todos os possíveis participantes em total funcionamento, de modo a evitarem-se os casos de doping que ocorreram <START:TEMPO_TEMPO_CALEND> este ano <END> .
+Contra-relógio
+O passaporte biológico abrange todos os ciclistas do <START:ACONTECIMENTO_ORGANIZADO> ProTour <END> , onde só há um português, podendo as equipas <START:PESSOA_GRUPOMEMBRO> Continentais Profissionais <END> , na qual faz parte o <START:PESSOA_GRUPOMEMBRO> Benfica <END> , serem também abrangidas.
+Ao todo, o grupo de trabalho prevê fazer <START:VALOR_QUANTIDADE> 4.200 <END> análises ao sangue -- seis por cada ciclista do <START:ACONTECIMENTO_ORGANIZADO> ProTour <END> --, mais <START:VALOR_QUANTIDADE> 3.700 <END> do que <START:TEMPO_TEMPO_CALEND> em 2007 <END> .
+Em suma, a <START:ORGANIZACAO_INSTITUICAO> UCI <END> quer controlar <START:TEMPO_TEMPO_CALEND> em 2008 <END> cada ciclista <START:TEMPO_FREQUENCIA> por 12 vezes <END> -- às análises de sangue juntam-se às da urina --, na sua maioria inopinadas, devendo gastar, com todo o programa do passaporte biológico, qualquer coisa como <START:VALOR_MOEDA> 6 milhões de euros <END> , contra <START:VALOR_MOEDA> 1 milhão <END> gasto <START:TEMPO_TEMPO_CALEND> este ano <END> .

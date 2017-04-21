@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+# -*- coding: utf8 -*-
+#
+# brat_to_stanford.py
+# José Devezas <joseluisdevezas@gmail.com>
 
 import sys, os, string
 from nltk.tokenize import WordPunctTokenizer

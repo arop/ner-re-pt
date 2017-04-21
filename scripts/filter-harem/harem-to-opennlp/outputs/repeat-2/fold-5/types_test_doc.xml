@@ -1,543 +1,189 @@
 --DOCSTART--
-Quantas pessoas tiverem que abandonar as sus casas durante as cheias <START:TEMPO_TEMPO_CALEND>de 1995<END> na <START:LOCAL_HUMANO>Holanda<END>? Que percentagem da <START:LOCAL_HUMANO>Holanda<END> está abaixo do nível do mar? Que altura atingiram as águas em <START:LOCAL_HUMANO>Lobith<END> durante as cheias? Quem era o primeiro-ministro holandês na altura? 
-Quais os nomes completos de <START:PESSOA_INDIVIDUAL>Flanders<END> e <START:PESSOA_INDIVIDUAL>Swann<END>? Em que ano é que eles se tornaram famosos? Em que línguas é que <START:PESSOA_INDIVIDUAL>Flanders<END> e <START:PESSOA_INDIVIDUAL>Swann<END>  cantavam? Em que ano morreu <START:PESSOA_INDIVIDUAL>Flanders<END>? 
-No duo "<START:PESSOA_GRUPOMEMBRO>Flanders e Swann<END>", que instrumento tocava <START:PESSOA_INDIVIDUAL>Swann<END>? Em que país é que <START:PESSOA_INDIVIDUAL>Swann<END> nasceu? Em que cidade morreu <START:PESSOA_INDIVIDUAL>Swann<END>? Como se chamava a mulher de <START:PESSOA_INDIVIDUAL>Swann<END>? 
-De que país é que <START:PESSOA_INDIVIDUAL>Pierre Beregovoy<END> era primeiro-ministro? Em que ano é que <START:PESSOA_INDIVIDUAL>Beregovoy<END> se suicidou? A que partido político pertencia? 
-Quantos fogos florestais ocorreram perto de <START:LOCAL_HUMANO>Sydney<END> <START:TEMPO_TEMPO_CALEND>em Janeiro de 1994<END>? Quantas casas foram destruídas nos subúrbios de <START:LOCAL_HUMANO>Sydney<END>? Que área de prados e florestas ardeu na <START:LOCAL_HUMANO>Nova Gales do Sul<END>? Qual a velocidade do vento durante os incêndios? 
-Como se chamava a barcaça que afundou em <START:LOCAL_FISICO>Porto Rico<END> <START:TEMPO_TEMPO_CALEND>a 7 de Janeiro de 1994<END>? Em que é que a barcaça bateu? Que quantidade de óleo para aquecimento foi derramada na água? Quantas milhas de praia tem <START:LOCAL_FISICO>Porto Rico<END>? 
-O que é o <START:ABSTRACCAO_ESTADO>Síndroma da Guerra do Golfo<END>? Quantas pessoas é que afectou? 
-A que horas é que caiu o telhado do supermercado <START:LOCAL_HUMANO>Casino<END> em <START:LOCAL_HUMANO>Nice<END>? De que material era feito o telhado do supermercado? Quantas pessoas morreram no acidente? Em que país ficava o supermercado? 
-Quando é que foram ordenadas as primeiras mulheres pela  <START:ORGANIZACAO_INSTITUICAO>Igreja<END> de <START:LOCAL_HUMANO>Inglaterra<END>? Quantas mulheres foram ordenadas? Quem é que era então  <START:PESSOA_CARGO>Arcebispo<END> de <START:LOCAL_HUMANO>Cantuária<END>? Em que catedral é que se realizaram as ordenações? 
-Diga marcas de azeite. Diga países onde se produz azeite. Que quantidade de azeite foi importada pelos <START:PESSOA_POVO>Estados Unidos<END> <START:TEMPO_TEMPO_CALEND>em 1994<END>? Quantas variedades de azeitona são utilizadas para fazer azeite? 
-De que grupo faz parte a <START:ORGANIZACAO_EMPRESA>Skoda<END>? Que tipo de <START:COISA_CLASSE>Skoda<END> tinha o motor à retaguarda? Em que país se produzem os <START:COISA_CLASSE>Skodas<END>? Em que século foi fundada a <START:ORGANIZACAO_EMPRESA>Skoda<END>? 
-O que é que <START:PESSOA_INDIVIDUAL>Alister McRae<END> faz? De onde é que ele é? Que idade é que ele tinha <START:TEMPO_TEMPO_CALEND>em 1995<END>? Em que tipo de carro é que <START:PESSOA_INDIVIDUAL>Alister McRae<END> competiu no <START:ACONTECIMENTO_ORGANIZADO>Rali dos Mil Lagos<END>, na <START:LOCAL_HUMANO>Finlândia<END>, <START:TEMPO_TEMPO_CALEND>em 1995<END>? 
-Qual a profissão de <START:PESSOA_INDIVIDUAL>Billy Connolly<END>? Qual a sua nacionalidade? Que filme com <START:PESSOA_INDIVIDUAL>Connolly<END> ganhou o prémio de melhor drama nos <START:ACONTECIMENTO_ORGANIZADO>Prémios Bafta<END> escoceses <START:TEMPO_TEMPO_CALEND>em 1995<END>? 
-Qual a profissão de <START:PESSOA_INDIVIDUAL>Kiri Te Kanawa<END>? Para que companhia discográfica é que ela gravou <START:OBRA_REPRODUZIDA>La Boheme<END> <START:TEMPO_TEMPO_CALEND>em 1994<END>? 
-Qual a profissão de <START:PESSOA_INDIVIDUAL>Michael Barrymore<END>? Diga um programa de televisão apresentado por <START:PESSOA_INDIVIDUAL>Michael Barrymore<END>. Quanto tempo é que durou o casamento dele? Como é que se chamava a mulher dele? 
-Qual a profissão de <START:PESSOA_INDIVIDUAL>John Barbirolli<END>? Quem foi o solista de violoncelo no "<START:OBRA_REPRODUZIDA>Concerto para Violoncelo<END>" de <START:PESSOA_INDIVIDUAL>Elgar<END> que ele gravou <START:TEMPO_TEMPO_CALEND>em 1965<END>? Diga uma orquestra de <START:LOCAL_HUMANO>Manchester<END> que <START:PESSOA_INDIVIDUAL>Barbirolli<END> tenha dirigido. Diga uma orquestra americana dirigida por <START:PESSOA_INDIVIDUAL>Barbirolli<END>. 
-Em que país do <START:LOCAL_HUMANO>Reino Unido<END> fica <START:LOCAL_HUMANO>Perth<END>? Que rua é conhecida como a \"Milha motorizada de Perth\"? Diga empresas de <START:LOCAL_HUMANO>Perth<END>. Diga um rio que banhe <START:LOCAL_HUMANO>Perth<END>. 
-Quantos locais pertencem ao sistema de  <START:OBRA_PLANO>Parques Nacionais<END> dos <START:LOCAL_HUMANO>Estados Unidos<END>?  Quantos acres têm os parques nacionais no seu conjunto? Qual foi o primeiro parque? Diga os dois parques criados <START:TEMPO_TEMPO_CALEND>a 31 de Outubro de 1994<END>. 
-Que espécie de animal é que <START:PESSOA_INDIVIDUAL>Victor Bernal<END> tentou comprar <START:TEMPO_TEMPO_CALEND>a 25 de Janeiro de 1993<END>? Em que tipo de avião estava o animal? Quem estava a fazer-se passar pelo animal? Em quanto foi <START:PESSOA_INDIVIDUAL>Bernal<END> multado? 
-Que oceano é que <START:PESSOA_INDIVIDUAL>Steve Fosset<END> tentou atravessar em balão <START:TEMPO_TEMPO_CALEND>em Fevereiro de 1995<END>? Que idade é que ele tinha na altura? O que é que ele fazia? Que distância é que <START:PESSOA_INDIVIDUAL>Richard Branson<END> viajou em balão <START:TEMPO_TEMPO_CALEND>em 1991<END>? 
-Em que aeroporto é que <START:PESSOA_INDIVIDUAL>Carol Ann Timmel<END> perdeu o seu gato? Como é que se chamava o gato? Em que tipo de avião é que o gato foi perdido? Quanto é que avião se atrasou enquanto prosseguia a busca? 
-Quem nacionalizou as ferrovias argentinas <START:TEMPO_TEMPO_CALEND>em 1947<END>? Que proporção das linhas era considerada insegura <START:TEMPO_TEMPO_CALEND>em 1989<END>? Quem era o presidente da comissão nacional de caminhos-de-ferro argentina <START:TEMPO_TEMPO_CALEND>em 1994<END>? Quantas pessoas trabalhavam para os caminhos-de-ferro argentinos <START:TEMPO_TEMPO_CALEND>em 1994<END>? 
-Onde é que é o museu do <START:LOCAL_HUMANO>Hermitage<END>? Quem era o director do museu <START:TEMPO_TEMPO_CALEND>em 1994<END>? Em que palácio é que fica o museu? Quantos quartos há nesse palácio? 
-O que é um organofostato? Diga pesticidas que contenham organofosfatos. 
-Quantos lugares tem um carro eléctrico <START:COISA_CLASSE>Impact<END> da <START:ORGANIZACAO_EMPRESA>General Motors<END>? Qual a autonomia do carro, em milhas? Quanto tempo demora a acelerar <START:VALOR_QUANTIDADE>das 0 às 60 milhas por hora<END>? Qual é a sua velocidade de topo? 
-Como se chamavam os dois navios que colidiram no <START:LOCAL_FISICO>Estreito do Bósforo<END> <START:TEMPO_TEMPO_CALEND>em 1994<END>? Quantos morreram na colisão? Qual o pavilhão de ambos os navios? Qual o comprimento do <START:LOCAL_FISICO>Estreito do Bósforo<END>? 
-Em que parte da <START:LOCAL_HUMANO>Rússia<END> é a <START:LOCAL_HUMANO>Catedral de Santa Sofia<END>? Quem era o arcipreste <START:TEMPO_TEMPO_CALEND>em 1995<END>? Que escocês é que construiu a catedral? Que imperatriz russa é que lhe encomendou a construção? 
-O que são a salsa, o mambo e o samba? 
-O que era o "<START:ACONTECIMENTO_ORGANIZADO>Brilliant Invader '95<END>"? Além do <START:LOCAL_HUMANO>Reino Unido<END>, que outros países participaram? De que horas a que horas é que ocorreu o evento? Diga um tipo de avião que tenha participado. 
-Quem é <START:PESSOA_INDIVIDUAL>Thom Rotella<END>? De onde é que ele é? Diga um tipo de viola que <START:PESSOA_INDIVIDUAL>Rotella<END> toque. Diga um clube onde ele tenha tocado. 
-O que é a <START:ORGANIZACAO_EMPRESA>KORG<END> onde <START:PESSOA_INDIVIDUAL>Niky Orellana<END> é comentador de futebol? Onde é que tem a sua sede? 
-O que é <START:ORGANIZACAO_EMPRESA>Kia<END>? Quem é o americano que foi nomeado para a direcção <START:TEMPO_TEMPO_CALEND>em Setembro de 1994<END>? Diga um modelo da <START:COISA_CLASSE>Kia<END>. Quantos carros é que a <START:ORGANIZACAO_EMPRESA>Kia<END> produz <START:TEMPO_FREQUENCIA>por ano<END>? 
-O que é Zanussi? Onde é que fica a sede? 
-Quem é <START:PESSOA_INDIVIDUAL>Will Carling<END>? 
-Quem é <START:PESSOA_INDIVIDUAL>Lester Piggott<END>? Quantos vencedores do <START:COISA_CLASSE>British Classic<END> é que ele montou? Quanto tempo é que ele passou na prisão por crimes fiscais? 
-Quem é <START:PESSOA_INDIVIDUAL>Jonathan Edwards<END>? 
-Quem são os "<START:PESSOA_GRUPOMEMBRO>All Blacks<END>"? Quem é o seu capitão? 
-O que é arnica? 
-Que companhia produz <START:COISA_CLASSE>Ribena<END>? 
-O que é Glaxo? 
-O que é Zantac? 
-O que é Flexoset? 
-O que é a Lakeland Plastics? 
-Dá-me informação sobre o iate "<START:COISA_OBJECTO>Geronimo<END>". 
-Quem é <START:PESSOA_INDIVIDUAL>Keith Musto<END>? 
-O que é o <START:ABSTRACCAO_ESTADO>HSBC<END>? 
-Quem é <START:PESSOA_INDIVIDUAL>sir Denys Henderson<END>? 
-Quem é <START:PESSOA_INDIVIDUAL>Nguyen Chi Thien<END>? Quando é que ele desapareceu? 
-O que é o Eurofighter? 
-Quem escreveu a canção "<START:OBRA_REPRODUZIDA>Dancing Queen<END>"? Quantas pessoas tinha esse grupo? 
-O que é um polígrafo? Quando é que foi inventado? Quem é que o inventou? Em que universidade é que o inventor estudava então? 
-Para que organização nos <START:LOCAL_HUMANO>EUA<END> trabalhava <START:PESSOA_INDIVIDUAL>Aldrich H. Ames<END>? A que país é que <START:PESSOA_INDIVIDUAL>Ames<END> vendia informação? Como é que se chamava a mulher dele? Quando é que ele foi preso? 
-Quando é que nasceu <START:PESSOA_INDIVIDUAL>Yitzhak Rabin<END>? Quando é que ele morreu? Qual era a sua profissão quando morreu? Quantas pessoas foram a <START:LOCAL_HUMANO>Jerusálem<END> prestar homenagem a <START:PESSOA_INDIVIDUAL>Rabin<END> quando ele morreu? 
-O que são "<START:COISA_CLASSE>Frosties<END>"? Que companhia é que os produz? Quando é que eles foram lançados? Qual é a mascote dos <START:COISA_CLASSE>Frosties<END>? 
-O que é <START:ORGANIZACAO_EMPRESA>Sky Europe<END>? Quando é que foi fundada? Quantas pessoas é que emprega? Quantas linhas opera? 
-Que presidente americano organizou o <START:OBRA_PLANO>Acordo de Camp David<END> ? Em que ano tiveram lugar as negociações? Quantos acordos foram assinados? Em que data foi assinado posteriormente o tratado de paz entre <START:ORGANIZACAO_ADMINISTRACAO>Israel<END> e o <START:ORGANIZACAO_ADMINISTRACAO>Egipto<END>? 
-O que é o efeito de estufa? Em que ano é que o efeito de estufa foi descoberto? Quem é que o descobriu? Menciona um gás que contribua para o aquecimento global. 
-Quem foi <START:PESSOA_INDIVIDUAL>Stu Sutcliffe<END>? Quando é que ele se juntou aos <START:PESSOA_GRUPOMEMBRO>Beatles<END>? Que instrumento é que ele tocava? O que é que ele vendeu ao homem de negócios <START:PESSOA_INDIVIDUAL>John Moores<END> para comprar uma viola? 
-O que é um <START:COISA_CLASSE>iPod<END>? Quem é que o faz? Quando é que foi lançado? Quem fez o disco duro para os <START:COISA_CLASSE>iPod<END> de primeira geração? 
-O que é uma gripe azul? Diz uma profissão cujos membros podem dizer sofrer de "gripe azul". 
-Em que país nasceu <START:PESSOA_INDIVIDUAL>Edouard Balladur<END>? Quando é que ele se tornou <START:PESSOA_CARGO>presidente de França<END> ? A que partido político pertencia? <START:TEMPO_TEMPO_CALEND>De 1968 a 1980<END>, ele foi presidente de que companhia? 
-Qual é o aperitivo mais popular na <START:LOCAL_HUMANO>Grã-Bretanha<END>? Quantas pessoas na <START:LOCAL_HUMANO>Grã-Bretanha<END> comem os "<START:COISA_CLASSE>Walkers<END>" desta marca <START:TEMPO_FREQUENCIA>todos os dias<END>? Qual é o sabor de batata frita de pacote mais popular na <START:LOCAL_HUMANO>Grã-Bretanha<END>? Que companhia britânica faz batata frita de pacote à mão? 
-Diz uma madeira que se use para construir barcos. Diz uma madeira que se use para fazer contraplacado. Diz uma madeira que se use para produzir violinos. Diz uma madeira usada para fazer papel. 
-Diz um alimento que seja parte da alimentação básica no <START:LOCAL_HUMANO>Sudeste Asiático<END>. Diz um alimento que seja parte da alimentação básica na <START:LOCAL_HUMANO>Europa<END>. 
-Diz um tipo de plástico usado para fazer plástico reforçado com fibra de carbono. Diz uma ponte que tenha sido reforçada com fibra de carbono. Diz um consumível que pode ser feito com fibra de carbono. 
-Que sistema de pensões diz ser "o segundo maior do <START:LOCAL_HUMANO>Reino Unido<END> pelo montante do fundo"? A que companhia comprou o <START:LOCAL_HUMANO>Centro Comercial Forestside<END> em <START:LOCAL_HUMANO>Belfast<END> por <START:VALOR_MOEDA>50 milhões de libras<END><START:TEMPO_TEMPO_CALEND>em 1998<END>? Que organismo administra o  <START:OBRA_PLANO>Sistema de Pensões<END> do <START:ORGANIZACAO_INSTITUICAO>SNS<END> britânico? 
-A quantas pessoas foi até agora atribuída a Medalha Olímpica Nobre Guedes? Quem é que a recebeu <START:TEMPO_TEMPO_CALEND>em 1951<END> em vela? Quem é que a recebeu <START:TEMPO_TEMPO_CALEND>em 2005<END> em judo?
-
---DOCSTART--
-    
-P: Então tu passaste uma infância muito sozinha?    
- Bem, na província, <START:TEMPO_FREQUENCIA>às vezes<END> brincava com outros meninos filhos do ... ou doutras pessoas do tribunal, ou da rua, até. Brincava... Ali, em <START:LOCAL_HUMANO>Alenquer<END> . Porque <START:TEMPO_TEMPO_CALEND>depois<END> viemos, voltámos para <START:LOCAL_HUMANO>Lisboa<END> , o meu pai esteve então, se não me engano, como ... chefe de gabinete do  <START:PESSOA_CARGO>Ministro da Justiça<END> , por isso, voltámos, que era o <START:PESSOA_INDIVIDUAL>dr. Catanho de Meneses<END> . Voltámos para <START:LOCAL_HUMANO>Lisboa<END> e foi quando saímos de <START:LOCAL_HUMANO>Santa Quitéria<END> para a <START:LOCAL_HUMANO>Rua Sampaio Pina<END> . E na <START:LOCAL_HUMANO>Rua Sampaio Pina<END> , que era ao lado do <START:LOCAL_HUMANO>Rádio Clube Português<END> , a casa que ainda existe <START:TEMPO_GENERICO>hoje<END> e faz esquina para a rua <START:LOCAL_HUMANO>Castilho<END> , no primeiro andar, então alugámos essa casa, e aí então é que eu comecei foi a aprender o alemão com uma preceptora alemã, que era... que vinha <START:TEMPO_FREQUENCIA>três vezes por semana<END>, dar-me lição de alemão. Não estava lá em casa, havia preceptoras internas, que estavam dentro, que eram internas, estavam lá, nas casas dos respectivos alunos, mas aquela senhora, a <START:PESSOA_INDIVIDUAL>Kaethe Goethe<END> , não. Vinha <START:TEMPO_FREQUENCIA>três vezes por semana<END> dar-me a lição de alemão.        
-D: E tu gostavas?    
- Gostava! Tinha uns livros assim muito engraçados, que ainda <START:TEMPO_GENERICO>hoje<END> conheces, que conservo.        
-D: E ela era professora? Ela era professora mesmo, ou?    
- Era professora, quero dizer ela veio para <START:LOCAL_HUMANO>Portugal<END> dar aulas. Não sei se veio interna para uma casa e <START:TEMPO_TEMPO_CALEND>depois<END> deixou, estava...        
-D: Mas enfim, não é uma senhora alemã que dava umas aulinhas para ... para    
- Não, ela era uma senhora que tinha vindo da <START:LOCAL_HUMANO>Alemanha<END> só para ser professora, e tinha... tinha-se instalado numa casa que era o lar das... das professoras de alemão, que havia <START:TEMPO_TEMPO_CALEND>nessa altura<END> , na <START:LOCAL_HUMANO>Avenida<END> , perto da <START:LOCAL_HUMANO>Praça da Alegria<END> . Lembro-me de ela lá me ter levado e tenho aí até fotografias de um cão, desse dito lar, a querer abraçar-me, coisa que eu não gostei nada, como continuo a não gostar de abraços de cão.        
- D: Mas já tinhas o <START:COISA_OBJECTO>Sirius<END> ...        
- Não, o <START:COISA_OBJECTO>Sirius<END> veio <START:TEMPO_TEMPO_CALEND>muitíssimo mais tarde<END> . Não, na <START:LOCAL_HUMANO>Sampaio Pina<END> não tinha o <START:COISA_OBJECTO>Sirius<END> , não tinha cão nenhum.        
-D: Então tinhas a tua mãe, como professora de tudo o resto e a senhora    
- Pois, o resto, tinha grandes amigas sempre. Constante, até era, mais até que as minhas primas... tinha as minhas primas, e tinha a <START:PESSOA_INDIVIDUAL>Joaninha Sampaio e Melo<END> , que era filha da maior amiga da minha mãe, da <START:LOCAL_HUMANO>Lourinhã<END> .      
+<START:PESSOA_GRUPOMEMBRO>Superflex<END> lança cerveja "pública"    
+<START:TEMPO_TEMPO_CALEND>29 de Novembro de 2007<END>    
+Matéria publicada originalmente na <START:LOCAL_VIRTUAL>Folha<END> online    
+<START:PESSOA_INDIVIDUAL>FABIO CYPRIANO<END> DA    
+<START:PESSOA_GRUPOMEMBRO>REPORTAGEM LOCAL<END>    
+Uma nova marca de cerveja é lançada, <START:TEMPO_TEMPO_CALEND>hoje<END>, na galeria <START:LOCAL_HUMANO>Vermelho<END>: a <START:COISA_CLASSE>Free Beer<END>. Entretanto, ao contrário das marcas tradicionais, que tratam como segredo de Estado a receita de suas bebidas, no próprio rótulo da <START:COISA_CLASSE>Free Beer<END> está estampada sua receita.    
+A <START:ABSTRACCAO_DISCIPLINA>Free Beer<END> é a nova ação do coletivo dinamarquês <START:PESSOA_GRUPOMEMBRO>Superflex<END>, composto por <START:PESSOA_INDIVIDUAL>Bjornstjerne Reuter Christiansen<END>, <START:PESSOA_INDIVIDUAL>Jakob Fenger<END> e <START:PESSOA_INDIVIDUAL>Rasmus Nielsen<END>. <START:TEMPO_TEMPO_CALEND>No ano passado<END>, o grupo trouxe polêmica à  <START:ACONTECIMENTO_ORGANIZADO>27ª Bienal<END> de <START:LOCAL_HUMANO>São Paulo<END> com o <START:COISA_CLASSE>Guaraná Power<END>, censurado pela presidência da instituição, que afirmou que não se tratava de uma obra de arte. Apesar do veto, o <START:COISA_CLASSE>Guaraná Power<END>, feito em colaboração com a  <START:ORGANIZACAO_INSTITUICAO>Cooperativa de Agricultores<END> da <START:LOCAL_HUMANO>Região de Maués<END>, na <START:LOCAL_HUMANO>Amazônia<END>, chegou a ser distribuído em museus e na própria <START:LOCAL_HUMANO>Vermelho<END>, durante a <START:ACONTECIMENTO_ORGANIZADO>Bienal<END>.    
+"Agora estamos propondo uma marca aberta e, nesse sentido, sugerimos um novo modelo econômico, que permite a qualquer um produzir e distribuir cerveja, a partir de uma receita que é pública, além de criar consumidores não obedientes, como gosta o mercado", conta <START:PESSOA_INDIVIDUAL>Fenger<END>.    
+"Free software"    
+A <START:COISA_CLASSE>Free Beer<END> surgiu <START:TEMPO_TEMPO_CALEND>em 2004<END>, numa parceria com estudantes da  <START:ORGANIZACAO_INSTITUICAO>Universidade<END> de <START:LOCAL_HUMANO>Copenhague<END>. "Buscamos transferir os princípios do software livre para algo físico, e a cerveja se tornou um bom exemplo", conta <START:PESSOA_INDIVIDUAL>Nielsen<END>. "Por isso, a <START:ABSTRACCAO_IDEIA>Free Beer<END> tem sido comparada ao <START:ABSTRACCAO_IDEIA>Linux<END> [sistema operacional gratuito] e à <START:ABSTRACCAO_IDEIA>Wikipedia<END>", diz o artista.    
+Quem quiser produzir e comercializar a <START:COISA_CLASSE>Free Beer<END> pode baixar do site www.freebeer.org a logomarca da cerveja, de forma gratuita. "Já há <START:COISA_CLASSE>Free Beer<END> sendo produzida na <START:LOCAL_HUMANO>Inglaterra<END>, nos <START:LOCAL_HUMANO>Estados Unidos<END>, na <START:LOCAL_HUMANO>Dinamarca<END> e até na <START:LOCAL_HUMANO>República Tcheca<END>", afirma <START:PESSOA_INDIVIDUAL>Fenger<END>.    
+No <START:LOCAL_HUMANO>Brasil<END>, a <START:COISA_CLASSE>Free Beer<END> está sendo produzida pela <START:ORGANIZACAO_EMPRESA>Cervejaria Germânia<END>, que irá comercializar a bebida durante a exposição a partir da versão 3.4, desenvolvida pela empresa.    
+"A única coisa que pedimos é que cada nova versão seja também tornada pública no site do <START:ORGANIZACAO_INSTITUICAO>Creative Commons<END>", diz <START:PESSOA_INDIVIDUAL>Christiansen<END>.    
+Na <START:LOCAL_HUMANO>Vermelho<END>, o <START:PESSOA_GRUPOMEMBRO>Superflex<END> apresenta o "<START:COISA_CLASSE>Free Beer Kit<END>", uma mesa com todos os ingredientes e instrumentos necessários para a produção da cerveja, o que será utilizado, aliás, no workshop "<START:ACONTECIMENTO_EVENTO>O Mundo da Cerveja<END>", com os especialistas <START:PESSOA_INDIVIDUAL>Cilene Saorin<END> e <START:PESSOA_INDIVIDUAL>Arnaldo Ribeiro<END>, <START:TEMPO_TEMPO_CALEND>no próximo dia 15 de dezembro<END>, <START:TEMPO_TEMPO_CALEND>às 14 h<END>.    
+O grupo exibe também nove máquinas "<START:COISA_CLASSE>Counter-Game Strategies<END>" (estratégias de contra-jogos), típicos brinquedos de quermesse, como jogo de argolas ou rodas giratórias, que, contudo, abordam de forma irônica o universo dos direitos autorais e da pirataria.    
+"<START:PESSOA_INDIVIDUAL>Mark Getty<END> afirma que "a propriedade intelectual é o petróleo <START:TEMPO_GENERICO>do século 21<END>'", conta <START:PESSOA_INDIVIDUAL>Christiansen<END>, "portanto, estamos tratando de um tema muito sério. Afinal, quantas guerras não foram realizadas por conta do petróleo?".    
+<START:TEMPO_TEMPO_CALEND>No próximo sábado<END>, <START:TEMPO_TEMPO_CALEND>às 16h<END>, <START:PESSOA_INDIVIDUAL>Ronaldo Lemos<END>, <START:PESSOA_CARGO>diretor do Creative Commons<END>  no <START:LOCAL_HUMANO>Brasil<END>, irá participar de um debate com os membros do <START:PESSOA_GRUPOMEMBRO>Superflex<END>, na <START:LOCAL_HUMANO>Vermelho<END>, e logo após será realizada uma gincana intitulada "<START:ABSTRACCAO_NOME>Free Beer Pub Quiz<END>", na qual participantes receberão prêmios ao responderem questões sobre propriedade intelectual e direitos autorais.  
 
   --DOCSTART--
     
- O <START:ABSTRACCAO_DISCIPLINA>Kuduro<END> e nós. Teria mesmo algo a ver?        
- <START:ABSTRACCAO_NOME>Ku<END> , palavra e não palavrão, parece vir do mais puro vernáculo do <START:ABSTRACCAO_NOME>Kimbundo<END> ( <START:ABSTRACCAO_NOME>MataKu<END> =nádegas, assento plural de ritaku), principal língua falada em <START:LOCAL_HUMANO>Luanda<END> , <START:LOCAL_HUMANO>Angola<END> (da qual falamos centenas de vocábulos, sem saber - inclusive <START:ABSTRACCAO_NOME>Ku<END> , certo?) O sentido figurado da palavra é, exatamente, o mesmo que usamos no <START:LOCAL_HUMANO>Brasil<END> : <START:ABSTRACCAO_NOME>Bunda<END> (palavra aliás, oriunda também do mesmo <START:ABSTRACCAO_NOME>Kimbundo<END> ), literalmente traduzida para o portugês também como nádegas.        
- O sentido da expressão <START:ABSTRACCAO_NOME>Kuduro<END> poderá ser melhor explicado por um Angolano, mas, ao que tudo indica, significa o que parece: <START:ABSTRACCAO_NOME>Kuduro<END> = <START:ABSTRACCAO_NOME>Bunda<END> imóvel, sem rebolar, o que, considerando-se que um dos movimentos fundamentais da dança angolana é o sofisticado rebolado (dos homens inclusive), é muito significativo. Algo como uma dança diferente , supostamente 'moderna', no âmbito das danças tradicionais que, como já disse são, extremamente, rebolativas.        
- Contudo, dança livre que é, no <START:ABSTRACCAO_DISCIPLINA>Kuduro<END> também se pode rebolar, é claro, basta querer.        
- Dito isto, o <START:ABSTRACCAO_DISCIPLINA>Kuduro<END> , inserido no âmbito da cultura <START:ABSTRACCAO_DISCIPLINA>Hip Hop<END> , é uma dança de rua (ou uma street dance, para quem gosta americanismos) Como todos os outros gêneros assemelhados, o <START:ABSTRACCAO_DISCIPLINA>Funk<END> carioca e o <START:ABSTRACCAO_DISCIPLINA>Kwaito<END> (da <START:LOCAL_HUMANO>África do Sul<END> ) é a resposta africana avassaladora influência da indústria cultural de massa capitalista, cujo eixo como se sabe, localiza-se, desde o fim da segunda guerra mundial, na <START:LOCAL_HUMANO>América do Norte<END> .        
- Mas o <START:ABSTRACCAO_DISCIPLINA>Kuduro<END> também é um símbolo dos mais fortes, <START:TEMPO_TEMPO_CALEND>neste momento<END> , da enorme capacidade da resistência cultural das populações não-brancas, do <START:TEMPO_GENERICO>outrora<END> chamado <START:ABSTRACCAO_NOME>Terceiro Mundo<END> , diante da pressão globalizante, sinônimo evidente de aculturação.        
-Kuduro Checkup    
- No <START:ABSTRACCAO_DISCIPLINA>Kuduro<END> angolano - e vejam vocês mesmos que coisa curiosa! - os passos do mix, da fusão com o break, são o mais puro e carioca dos <START:ABSTRACCAO_DISCIPLINA>Sambas<END> . Incrível!        
- Acreditem, mas, os <START:PESSOA_GRUPOMEMBRO>Pupilos do Kuduro<END> , e outros kuduristas , quando em conjunto, dançam, quase exatamente, o que a nossa <START:PESSOA_GRUPOMEMBRO>Ala dos Malandrinhos<END> dançava lá <START:TEMPO_TEMPO_CALEND>naqueles bem passados anos 60<END> . Os braços e as mãos dançam break, mas, da cintura para baixo, bundas e pernas dançam o mais desbragado dos <START:ABSTRACCAO_DISCIPLINA>Sambas<END> . Pode?        
- Teria sido aquela minha saudosa rapaziada de <START:LOCAL_HUMANO>Padre Miguel<END> a inventora do <START:ABSTRACCAO_DISCIPLINA>Kuduro<END> ?        
- Alguns pesquisadores tentam explicar a estrutura da base rítmica, da batida (beat) do <START:ABSTRACCAO_DISCIPLINA>Kuduro<END> por meio de teorias moderninhas ou simplificações que insistem em preconizar a importância, ao nosso ver, exagerada, das tecnologias na criação e na evolução destas danças e gêneros musicais. Os reis da parada seriam portanto os equipamentos eletrônicos (como o já velho <START:COISA_CLASSE>Sampler<END> , por exemplo).        
- Apenas uma opinião, mas, é preciso cuidado porque assim, por extensão, o papel do Mocinho poderia ser atribuído a sociedade neoliberal globalizada, ao <START:ABSTRACCAO_DISCIPLINA>Capitalismo<END> em suma, e ao estupendo grau de desenvolvimento tecnológico que ele propicia.        
-Besteira. Baita injustiça, sobretudo. Não há nada de novo nesta praia deserta, neste giro do prato de velha vitrola hi fi.    
- O <START:COISA_CLASSE>Sampler<END> e sucedâneos são, neste contexto, apenas instrumentos musicais, meios, facilitadores de registro, meros suportes. Se disponíveis estiverem, ferramentas de cultura serão. Se não estiverem, outras ferramentas se inventarão.        
- Aliás, o que um <START:COISA_CLASSE>Sampler<END> faz mesmo? Não muda nada. Copia. E haja periferia e miséria para samplear.        
-A grande sacação (e isto vem desde que o mundo é mundo) é , portanto, a capacidade do homem de tirar leite das pedras, resistir sem esmorecer jamais, reinventando linguagens, recriando sempre a partir de dados do cotidiano, subvertendo referências e sentidos comunicativos, extraídos de seu passado mais remoto, cimentando os degraus do presente, sem ilusões de modernidades vãs ou de futuro radiante.    
- Vírus no sistema. O Mocinho verdadeiro desta história- o anti herói - não é a sociedade,mas sim o homem.        
-----------------------    
-Inside the Kuduro    
-(em português não ficaria melhor não)    
- Senão vejamos: Em todos os gêneros citados (entre outros), a alma do negócio é um som de caixa e contratempo. É esta a célula rítmica base, a matriz, o <START:COISA_SUBSTANCIA>DNA<END> , sobre o qual se criará os sons que bem entendermos. Poderia ser um humano baterista lá no fundo, marcando a batida, mas, fica bem mais econômico usar um som gravado.        
- No caso do <START:ABSTRACCAO_DISCIPLINA>Kuduro<END> clássico (como ocorre com toda coqueluche pop, as distorções e deformações aparecem rapidamente), a batida copiada (sampleada) parece ser o que se chamava <START:TEMPO_TEMPO_CALEND>nos anos 70<END> , <START:TEMPO_TEMPO_CALEND>80<END> de <START:ABSTRACCAO_DISCIPLINA>Kabetula<END> , um ritmo muito popular em <START:LOCAL_HUMANO>Luanda<END> , semelhante ao <START:ABSTRACCAO_DISCIPLINA>Semba<END> , do qual talvez seja uma variação (uma outra corrente afirma, contudo, que o <START:ABSTRACCAO_DISCIPLINA>Kuduro<END> é uma variação do <START:ABSTRACCAO_DISCIPLINA>Kuzukuta<END> , ritmo popular do carnaval angolano).        
- Ficou tudo em casa, no entanto, porque ambos os ritmos (como a maior parte das danças de negro do <START:LOCAL_HUMANO>Brasil<END> ,  <START:TEMPO_TEMPO_CALEND>desde, pelo menos, o século 19<END> ), tipicamente urbanos que são, vieram, provavelmente, do <START:ABSTRACCAO_DISCIPLINA>Kaduke<END> , espécie de <START:ABSTRACCAO_DISCIPLINA>Kuduro<END> surgido na cidade de <START:LOCAL_HUMANO>Ambaça<END> ( <START:LOCAL_HUMANO>Mbaka<END> ), grande centro urbano e comercial (!) lá <START:TEMPO_TEMPO_CALEND>pelos idos de 1880<END> (veja <START:OBRA_REPRODUZIDA>Capello e Ivens<END> ), <START:TEMPO_TEMPO_CALEND>no tempo<END> da colonização portuguesa em <START:LOCAL_HUMANO>Angola<END>        
- Este <START:ABSTRACCAO_DISCIPLINA>Kaduke<END> , talvez tenha gerado, a partir do mesmo processo, no <START:LOCAL_HUMANO>Brasil<END> colonial, o <START:ABSTRACCAO_DISCIPLINA>Kalundu<END> que, mesclado à danças européias como a <START:ABSTRACCAO_DISCIPLINA>Polka<END> e a <START:ABSTRACCAO_DISCIPLINA>Mazurka<END> (espécies de danças de periferia brancas, populares na <START:LOCAL_HUMANO>Europa<END>   central), deram numa dança popularíssima na <START:LOCAL_HUMANO>Corte<END> brasileira (um <START:ABSTRACCAO_DISCIPLINA>Kuduro<END> colonial) chamada de <START:ABSTRACCAO_NOME>Lundu<END> .        
- Pois não é que o <START:ABSTRACCAO_DISCIPLINA>Kaduke<END> , o <START:ABSTRACCAO_DISCIPLINA>Kalundu<END> e talvez até mesmo o <START:ABSTRACCAO_DISCIPLINA>Jongo<END> formaram talvez, a base principal - coreográfica e musical- do que conhecemos vulgarmente <START:TEMPO_GENERICO>hoje<END> no <START:LOCAL_HUMANO>Brasil<END> como <START:ABSTRACCAO_DISCIPLINA>Samba<END> ?        
- Viram só? <START:ABSTRACCAO_DISCIPLINA>Kuduro<END> e <START:ABSTRACCAO_DISCIPLINA>Samba<END> : Tudo a ver.        
- Fenômeno recorrente, efetivamente, existem manifestações como o <START:ABSTRACCAO_DISCIPLINA>Kuduro<END> em todas as periferias do mundo. Decupando a estrutura de todas elas, especialmente no que diz respeito à coreografia, encontraremos, quase que invariavelmente, a seguinte composição: Passos e gestos de <START:ABSTRACCAO_DISCIPLINA>Break Dance<END> , fundidos a movimentos de uma ou mais danças tradicionais, tribais mesmo em muitos casos, existentes na cultura local.        
- Alguém já parou para pensar que na violenta e exuberante expressão coreográfica de uma multidão de jovens favelados do <START:LOCAL_HUMANO>Rio<END> , muitos deles portando fuzis automáticos como se fossem lanças, existem passos completamente estranhos ao novaiorquino repertório de movimentos de break original, de, entre outros, <START:PESSOA_INDIVIDUAL>James Brown<END> e <START:PESSOA_INDIVIDUAL>Michael Jackson<END> ? Há break sim, mas, um pouquinho só. Há desconjuntamento de braços e punhos, movimentos robóticos, como imagens de luz negra intermitente, mas, o que será que significam os outros passos?        
- Ora, é evidente que, olhando detidamente os movimentos de dança deste <START:ABSTRACCAO_DISCIPLINA>Funk Carioca<END> , iremos encontrar a mesma filosofia coreográfica do <START:ABSTRACCAO_DISCIPLINA>Kuduro<END> , em nosso caso, representada por passos de umbanda e candomblé (ritmos aliás, <START:TEMPO_GENERICO>hoje<END> banidos de algumas favelas cariocas, dominadas pela cultura ditatorial-evangélica das milícias).        
- Assim como na <START:LOCAL_HUMANO>África<END> e no <START:LOCAL_HUMANO>Brasil<END> , na <START:LOCAL_HUMANO>Índia<END> , no <START:LOCAL_HUMANO>Afeganistão<END> , na <START:LOCAL_HUMANO>Indonésia<END> , a fórmula beat futurista somado à tradição, se repetirá. Uma lógica planetária, uma espécie de cultura global periférica se estabelecerá. Para nós brasileiros, por exemplo, o <START:ABSTRACCAO_DISCIPLINA>Kuduro<END> pode vir a representar a feliz descoberta de que, embora alguns anseiem, desesperadamente, pelo nosso ingresso no clube dos brancos países desenvolvidos, fazemos parte sim - e disto muito devemos nos orgulhar- do universo paralelo da mais complexa, viva, diversificada e pujante <START:ABSTRACCAO_IDEIA>Periferia<END> .        
- Como, facilmente, se pode notar, o mundo roda enquanto a cultura das periferias gira, circula, como um bambolê. Somos do <START:LOCAL_VIRTUAL>Overmundo<END> , o pá! O Bicho, o vírus da maçã. Y love you <START:LOCAL_HUMANO>Angola<END> !        
-(Em tempo: Em terra de cego, quem tem um olho, infelizmente é... caolho.)  
+Software livre, cultura livre, palco livre...    
+ <START:PESSOA_INDIVIDUAL>Eduardo EGS<END> · <START:LOCAL_HUMANO>Porto Alegre<END> ( <START:LOCAL_HUMANO>RS<END> ) · <START:TEMPO_TEMPO_CALEND>20/4/2007<END> <START:TEMPO_TEMPO_CALEND>15:38<END> · <START:VALOR_QUANTIDADE>153<END> votos        
+ Num imenso galpão com estruturas metálicas, acontece <START:TEMPO_FREQUENCIA>todo ano<END> um evento que prima pela liberdade. É o <START:ACONTECIMENTO_ORGANIZADO>Fórum Internacional Software Livre<END> , o fisl, que chega a sua oitava edição cada vez maior. E mais diversificado. Diferentes tipos circulam pelo local em harmonia. E não haveria por que ser diferente. Todos estão lá por um motivo em comum: o uso de ferramentas livres, baseadas na colaboração. E dentro desse evento, ocorre outra manifestação de liberdade: o <START:ACONTECIMENTO_ORGANIZADO>Criei, Tive Como!<END> ,  <START:ACONTECIMENTO_ORGANIZADO>Festival Multimídia de Cultura Livre<END> do <START:LOCAL_HUMANO>Brasil<END> , que acontece pela segunda vez . Se <START:TEMPO_TEMPO_CALEND>no ano passado<END> o festival tinha um estande acanhado, num dos cantos do    <START:LOCAL_HUMANO>Centro de Eventos<END> da   <START:ORGANIZACAO_INSTITUICAO>Fiergs<END>  , em <START:LOCAL_HUMANO>Porto Alegre<END> , agora as coisas foram bem diferentes. E Como!        
+ Um estande central foi montado, com direito a banquinhos brancos e cortinas feitas com tubo de plástico, o que garantiu o resultado mais bonito entre todos os estandes, sem dúvida. Mas não ficou só por aí (e não mesmo!). O espaço contou com um estúdio de rádio e um estúdio de TV em pleno estande, que projetou vídeos o tempo inteiro, chamando a atenção dos participantes. Comandadas por <START:PESSOA_INDIVIDUAL>Gabriel Menotti<END> , do <START:ORGANIZACAO_EMPRESA>Cine Falcatrua<END> , as projeções não seguiam uma programação prévia. " <START:TEMPO_TEMPO_CALEND>Ano passado<END> a gente preparou um mote especial pra cá, que passava num horário determinado. <START:TEMPO_TEMPO_CALEND>Nesse ano<END> , a gente tá controlando a transmissão <START:TEMPO_DURACAO>24 horas<END> , conta. Foi feita uma grade de programação  <START:TEMPO_DURACAO>de 36 horas<END>  , com materiais da internet e enviados através de uma convocação especial para o festival, mas o que se viu por lá foram pessoas levando seus vídeos para passar sem marcar hora, bem no espírito colaborativo da cultura livre. "Naturalmente, você fazendo a programação do lado do espaço de exibição, as pessoas têm acesso não só a tela como ao dispositivo de controle e também a nós, que estamos controlando a estrutura. Então você tem um diálogo muito maior entre os projecionistas e o público, completa.        
+ Sem dúvida, houve uma evolução no comparativo <START:TEMPO_GENERICO>com o ano anterior<END> . Quem confirma isso é o <START:PESSOA_INDIVIDUAL>Vj<END>  pixel, que viu o festival crescer: " <START:TEMPO_TEMPO_CALEND>Esse ano<END> a gente tem uma estrutura bem maior, que não atinge só o público que tá circulando pelo fisl, mas atinge as pessoas que acessam o site do fisl na internet também, porque a gente tem uma TV e uma rádio que tão sendo exibidas aqui internamente. A gente tem um telão e uma caixa de som com a programação da rádio, mas tem também streaming desse material que a gente tá produzindo, que é onde tá a maior parte do público. Mas a evolução não ficou só na estrutura do estande e dos conteúdos. O famoso show de abertura do festival também cresceu e se diversificou.        
+ Realizada no  <START:LOCAL_HUMANO>Teatro<END> do <START:ORGANIZACAO_INSTITUICAO>Sesi<END> , local ao lado do espaço do fisl, a noite começou com os gaúchos da <START:PESSOA_GRUPOMEMBRO>Bataclã FC<END> , que entraram no palco com uniformes do <START:ORGANIZACAO_INSTITUICAO>DMLU<END> , o    <START:ORGANIZACAO_INSTITUICAO>Departamento Municipal de Limpeza Urbana<END> de   <START:LOCAL_HUMANO>Porto Alegre<END>  e abriram o show com o clássico <START:OBRA_REPRODUZIDA>Amigo Punk<END> . A certa altura, o vocalista <START:PESSOA_INDIVIDUAL>Richard Serraria<END> chamou o público que dançava na fila do gargarejo a subir ao palco, com o comentário "É software livre, é palco livre, mas acho que a cara feia dos seguranças não motivou o pessoal a se arriscar. Não que isso tenha sido problema: <START:PESSOA_INDIVIDUAL>Richard<END> acabou o show no meio da massa, cantando com as mãos pra cima, pra alegria de todos. A segunda atração foi o    <START:PESSOA_INDIVIDUAL>DJ Dolores<END>    , que antes de tocar comentou que muita gente considerava que fazer música no computador era como enviar um e-mail, uma atividade burocrática e sem vida. Pra fechar o seu discurso, largou um "Então me dêem licença que eu vou ali passar um e-mail, sob os aplausos do público. O ponto alto foi o dueto com a rabeca do <START:PESSOA_INDIVIDUAL>Maciel Salustiano<END> , filho do <START:PESSOA_INDIVIDUAL>Mestre Salustiano<END> , que fizeram uma performance de arrepiar.        
+ Na seqüência, vieram os DJs   <START:PESSOA_INDIVIDUAL>Lucio K<END> e <START:PESSOA_INDIVIDUAL>JC<END> , ganhadores do <START:ACONTECIMENTO_ORGANIZADO>Overmixter<END> , <START:ACONTECIMENTO_ORGANIZADO>Concurso de Remixes Brasil-África do Sul<END>  . O sul-africano <START:PESSOA_INDIVIDUAL>JC<END> abriu os trabalhos com o seu remix vencedor e convidou o público a bater palma enquanto a mistura sonora invadia o recinto. Em seguida, foi a vez do <START:PESSOA_INDIVIDUAL>Lucio K<END> , com o seu remix vencedor <START:OBRA_REPRODUZIDA>Tudo Vem da África<END> e com uma faixa do seu último disco, que mistura carimbó com música eletrônica, agitando a platéia. Pra valer: " No final, ainda recebi de um espectador um dos melhores elogios possíveis: "fiquei impressionado com o groove que você tem, mesmo sendo branco assim!, diverte-se o <START:PESSOA_INDIVIDUAL>Lucio<END> . Encerrando a noite, os pernambucanos do <START:PESSOA_GRUPOMEMBRO>Mombojó<END> fizeram um ótimo show, com o público cantando junto e dançando. No final, o vocalista <START:PESSOA_INDIVIDUAL>Felipe S.<END> convidou o povo pra subir ao palco, e ao contrário do show da <START:PESSOA_GRUPOMEMBRO>Bataclã<END> , o convite foi aceito, com uma galera invadindo o palco e pulando muito, pelo menos até a hora em que os seguranças começaram a tirar todo mundo de lá. Mas foi uma bela forma de terminar a festa, com alegria e empolgação, características que marcaram não só os shows como <START:TEMPO_GENERICO>os três dias<END> de <START:ACONTECIMENTO_ORGANIZADO>Criei, Tive Como!<END> .        
+ E no que depender do <START:PESSOA_INDIVIDUAL>Vj<END>  pixel , que pela segunda vez fez a ambientação visual do show ( <START:TEMPO_TEMPO_CALEND>esse ano<END> ao lado do inglês <START:PESSOA_INDIVIDUAL>Salsaman<END>), o <START:ACONTECIMENTO_ORGANIZADO>Criei<END> tem tudo para melhorar cada vez mais empolgante: "A gente gostou muito da estrutura que tem aqui, todo mundo tá adorando fazer. Nossa intenção é, terminando o evento, refletir sobre isso e escrever um relatório sobre o que foi bom e o que foi ruim, pra <START:TEMPO_TEMPO_CALEND>no ano que vem<END> fazer uma estrutura semelhante, mas ainda melhor".        
+Pelo que vi <START:TEMPO_TEMPO_CALEND>nos três dias<END> de evento, tenho certeza que esse objetivo vai ser alcançado.  
 
   --DOCSTART--
     
- <START:PESSOA_INDIVIDUAL>Cavaco<END> começa <START:TEMPO_GENERICO>ano<END> com recados de maior exigência ao <START:ORGANIZACAO_ADMINISTRACAO>Governo<END>        
- O <START:PESSOA_CARGO>Presidente da República<END> , <START:PESSOA_INDIVIDUAL>Aníbal Cavaco Silva<END> , vai deixar uma série de recados ao <START:ORGANIZACAO_ADMINISTRACAO>Governo<END> nas palavras que vai dirigir ao país <START:TEMPO_TEMPO_CALEND>no primeiro dia do ano<END> .        
- A notícia faz manchete na edição <START:TEMPO_TEMPO_CALEND>desta terça-feira<END> do <START:LOCAL_VIRTUAL>Jornal de Notícias<END> , com o diário portuense a assegurar que <START:PESSOA_INDIVIDUAL>Cavaco<END> prepara, para a sua primeira comunicação <START:TEMPO_TEMPO_CALEND>em 2008<END> ao <START:PESSOA_POVO>País<END> , um discurso com menos optimismo do que o transmitido por <START:PESSOA_INDIVIDUAL>Sócrates<END> mensagem <START:TEMPO_GENERICO>de Natal<END> .        
- Afirmando esperar <START:TEMPO_GENERICO>um ano de 2008<END> mais exigente do que <START:TEMPO_TEMPO_CALEND>2007<END> , o <START:PESSOA_CARGO>Presidente da República<END> promete, <START:TEMPO_TEMPO_CALEND>ao longo do próximo ano<END> , dar toda a atenção a temas sociais, sobretudo o desemprego, e andar pelo país a mostrar bons exemplos da criação de postos de trabalho.        
- Segundo o JN  ,    Cavaco silva    vai ainda aproveitar a ocasião para sublinhar a expectativa criada em relação aos resultados que pediu <START:TEMPO_TEMPO_CALEND>no ano passado<END> ao <START:ORGANIZACAO_ADMINISTRACAO>Governo<END> , para as áreas da economia, educação e justiça      
-
---DOCSTART--
-
-Escola lança quadrinhos em prol do meio ambiente
-Fonte: Press Release  (<START:TEMPO_TEMPO_CALEND>28/10/2003<END>)
-A <START:ACONTECIMENTO_ORGANIZADO>Expotec 2003<END>,  <START:ACONTECIMENTO_ORGANIZADO>Feira de Ciências e Cultura<END> da <START:ORGANIZACAO_INSTITUICAO>Escola Fortec<END>, reuniu <START:VALOR_QUANTIDADE>mais de 2000<END> pessoas na unidade 4, em <START:LOCAL_HUMANO>São Vicente<END> - Feira de Ciências e Cultura da Escola Fortec.
-Um dos destaques do evento foi a apresentação do resultado do trabalho desenvolvido em sala de aula pela oficina <START:ABSTRACCAO_DISCIPLINA>Noções básicas de Histórias em Quadrinhos<END>, da <START:ORGANIZACAO_INSTITUICAO>Associação dos Artistas - Música e Arte<END>.
-O evento contou com o lançamento do <START:OBRA_REPRODUZIDA>Zine Expotec 2003 - Meio Ambiente<END>, ilustrações e mascotes criados pelos alunos. Além da exposição, cada aluno criou sua mascote que virou camiseta.
-A oficina foi coordenada por <START:PESSOA_INDIVIDUAL>Fábio Tatsubô<END> com a monitoria de <START:PESSOA_INDIVIDUAL>André Prata<END>.
-Links Relacionados: <START:LOCAL_VIRTUAL>HQ Nacional<END>
-<START:ORGANIZACAO_EMPRESA>Editora Rocco<END> lança <START:OBRA_REPRODUZIDA>Mulheres Alteradas 5<END> (<START:TEMPO_TEMPO_CALEND>09/06/05<END>)
-Lançamento do mangá <START:OBRA_REPRODUZIDA>Fruits Basket<END> no <START:ACONTECIMENTO_ORGANIZADO>Anima Weekend<END> (<START:TEMPO_TEMPO_CALEND>07/04/05<END>)
-<START:PESSOA_GRUPOMEMBRO>Turma da Mônica<END> será estrela de campanha internacional de vacinação (<START:TEMPO_TEMPO_CALEND>30/03/05<END>)
-<START:COISA_CLASSE>HQs<END> de <START:PESSOA_INDIVIDUAL>Velta<END> disponíveis em CD-Rom (<START:TEMPO_TEMPO_CALEND>22/03/05<END>)
-Folclore brasileiro em estilo mangá (<START:TEMPO_TEMPO_CALEND>03/03/05<END>)
-
---DOCSTART--
-
-Que país declarou a independência <START:TEMPO_TEMPO_CALEND>em 1291<END>? 
-O que se passou <START:TEMPO_TEMPO_CALEND>a 4 de Julho de 1776<END>? 
-De quem trata o filme "<START:OBRA_REPRODUZIDA>2 filhos de Francisco<END>"? 
-Quais são as sete colinas de <START:LOCAL_HUMANO>Roma<END>? Qual é a mais pequena delas? Quem é o dono delas? Em qual delas fica a residência do presidente? 
-De que estado foi governador <START:PESSOA_INDIVIDUAL>Adhemar de Barros<END>? 
-Quem eram os almóadas? 
-Quem fabrica os foguetões <START:COISA_CLASSE>Ariane<END>? 
-Quantas pessoas morreram no atentado na estação de <START:LOCAL_HUMANO>Bolonha<END>? 
-Quem é <START:PESSOA_INDIVIDUAL>Boaventura Kloppenburg<END>? 
-Quando é que a baleia azul foi extinta? 
-O que está escrito na bandeira do <START:LOCAL_HUMANO>Brasil<END>? 
-Que árvore está na bandeira do <START:LOCAL_HUMANO>Líbano<END>? 
-Por que estado é senador <START:PESSOA_INDIVIDUAL>Barack Obama<END>? 
-O que é um barrete frígio? 
-Quantos jogadores tem um time de basquete? 
-Quem disse  "Ao vencedor, as batatas!" ? 
-Que princesa portuguesa foi <START:PESSOA_CARGO>rainha da Dinamarca<END> ? 
-Que inglês foi treinador do <START:PESSOA_GRUPOMEMBRO>Porto<END>? 
-Que mar banha <START:LOCAL_HUMANO>Braga<END>? 
-O que é a navegação de cabotagem? 
-<START:LOCAL_HUMANO>Caen<END> é a capital de que departamento? 
-O que é um caiaque? 
-Como se chama <START:ABSTRACCAO_NOME>Cayenne<END> em português? 
-Quem viajava no avião que se despenhou em <START:LOCAL_HUMANO>Camarate<END>? 
-Que cidade era capital do <START:LOCAL_HUMANO>Brasil<END> antes do governo ser transferido para <START:LOCAL_HUMANO>Brasília<END>? 
-Que rei morreu <START:TEMPO_TEMPO_CALEND>em 1718<END>? 
-O que eram cartas de alforria? 
-Que cidade francesa foi residência dos <START:PESSOA_GRUPOCARGO>Papas<END>? 
-Quando foi fundado o <START:ORGANIZACAO_INSTITUICAO>Nacional da Madeira<END>? Onde? 
-Qual o diâmetro de <START:COISA_OBJECTO>Ceres<END>? 
-Diga o nome de um chá branco. 
-Em que distrito fica <START:LOCAL_HUMANO>Chaves<END>? Quantas freguesias tem o concelho? Que municípios ficam a oeste? Quantos habitantes tinha <START:TEMPO_TEMPO_CALEND>em 2006<END>? 
-Quais são as cidades-estado da <START:LOCAL_HUMANO>Alemanha<END>? 
-De onde é nativo o cisne branco? 
-A quem pertence o <START:COISA_OBJECTO>Cisne Branco<END>? 
-Quando foi registado pela primeira vez o cometa <START:COISA_OBJECTO>Halley<END>? Em que famosa obra aparece o cometa? Que batalha aparece nessa obra? 
-Quem venceu o <START:ACONTECIMENTO_ORGANIZADO>Campeonato do Mundo de Contra-Relógio<END> <START:TEMPO_TEMPO_CALEND>em 1995<END>? Em que país se disputou a prova? Qual o tempo do vencedor? E quem venceu <START:TEMPO_TEMPO_CALEND>em 1994<END>? 
-Com quem se casou a <START:PESSOA_INDIVIDUAL>rainha Cristina<END>? Que idade tinha ela quando morreu? 
-Quem foi o <START:VALOR_CLASSIFICACAO>13º<END> <START:PESSOA_CARGO>rei de Portugal<END> ? 
-O que é a defesa siciliana? 
-Que empresa editou a <START:OBRA_REPRODUZIDA>Diciopédia<END>? 
-Que dinastia reinava em <START:LOCAL_HUMANO>Portugal<END> <START:TEMPO_TEMPO_CALEND>em 1500<END>? 
-O que são os <START:LOCAL_HUMANO>DOM<END> franceses? Quantos são eles? Qual deles fica na <START:LOCAL_HUMANO>Europa<END>? 
-Em que zona de <START:LOCAL_HUMANO>Espanha<END> nasce o rio <START:LOCAL_FISICO>Douro<END>? 
-Onde fica o parque <START:LOCAL_HUMANO>Eduardo VII<END>? 
-Quantos focos tem uma elipse? 
-Quantos pontos vale um ensaio no râguebi? 
-O que é o enxaimel? 
-Diga uma escritora sarda. 
-Como se chamava o sabre dos samurai? 
-Quem foi <START:PESSOA_INDIVIDUAL>Ésquilo<END>? 
-Em que constelação fica <START:COISA_OBJECTO>Vega<END>? E <START:COISA_OBJECTO>Régulo<END>? 
-Qual a freguesia mais populosa de <START:LOCAL_HUMANO>Évora<END>? 
-Que equipa é treinada por <START:PESSOA_INDIVIDUAL>Fernando Santos<END>? 
-Que equipa era treinada por <START:PESSOA_INDIVIDUAL>Fernando Santos<END> <START:TEMPO_TEMPO_CALEND>em 1994<END>? 
-Em que estado brasileiro fica <START:LOCAL_HUMANO>Faro<END>? 
-Em que época é que o <START:PESSOA_GRUPOMEMBRO>FC Porto<END> ganhou a <START:ACONTECIMENTO_ORGANIZADO>Liga dos Campeões<END>? 
-Que pássaro renascia das próprias cinzas? 
-Que percentagem dos finlandeses fala sueco? 
-Quando é que <START:PESSOA_INDIVIDUAL>F.H. Cardoso<END> tomou posse como presidente? 
-O que é a <START:ABSTRACCAO_ESTADO>FIDE<END>? 
-Que profundidade atinge a <START:LOCAL_FISICO>Fossa das Marianas<END>? Onde fica? Quando se atingiu o seu fundo? Por que veículo? 
-Quantas horas há de diferença entre <START:LOCAL_HUMANO>Nova Iorque<END> e <START:LOCAL_HUMANO>São Francisco<END>? 
-Além da girafa, que outro animal pertence à família  <START:COISA_CLASSE>Giraffidae<END>? 
-Que espada usavam as legiões romanas? 
-Quando caíu <START:ORGANIZACAO_ADMINISTRACAO>Granada<END>? 
-O que é a Granja do Torto? 
-Qual é a latitude e longitude da <START:LOCAL_HUMANO>Guarda<END>? 
-De que estado foi <START:PESSOA_INDIVIDUAL>Hans Modrow<END> primeiro-ministro? 
-Quem foi <START:PESSOA_INDIVIDUAL>Henrik Ibsen<END>? 
-Quem matou <START:PESSOA_INDIVIDUAL>Philipe Henriot<END>? 
-O que é o <START:ABSTRACCAO_ESTADO>ICBAS<END>? 
-Qual a população da <START:LOCAL_HUMANO>Ilha de Moçambique<END>? 
-Qual o estado mais populoso da <START:LOCAL_HUMANO>Índia<END>? 
-O que é o jagartee? 
-Quem é <START:PESSOA_INDIVIDUAL>James Baker<END>? 
-Como se chamam os filhos de <START:PESSOA_INDIVIDUAL>Jimmy Carter<END>? 
-Quando se realizaram os  <START:ACONTECIMENTO_ORGANIZADO>Jogos Olímpicos<END> de <START:LOCAL_HUMANO>Munique<END>? 
-Que senador americano foi prisioneiro no <START:LOCAL_HUMANO>Vietname<END>? 
-Em que dia ocorreu a batalha de <START:ACONTECIMENTO_EFEMERIDE>La Lys<END>? 
-Em que ilha dos <START:LOCAL_FISICO>Açores<END> fica a Lagoa? 
-Quem é o <START:PESSOA_INDIVIDUAL>Lampadinha<END>? 
-O lehendakari é presidente de quê? 
-Quando é que foi assinada a <START:OBRA_PLANO>Lei Áurea<END>? Por quem? 
-Que é o que <START:PESSOA_INDIVIDUAL>Arafat<END> usava na cabeça? 
-Quem era a locomotiva humana? 
-Em que concelho fica <START:LOCAL_HUMANO>Loivos do Monte<END>? 
-Quem abriu os  <START:ACONTECIMENTO_ORGANIZADO>Jogos Olímpicos<END> de <START:TEMPO_TEMPO_CALEND>1948<END>? 
-O que é M31? 
-Quando nasceu <START:PESSOA_INDIVIDUAL>Machado de Assis<END>? 
-O que é a Igreja Maronita? 
-Quanto custou a <START:COISA_OBJECTO>Mars Observer<END>? 
-O que é o mascarpone? De que região provêm? Em que sobremesa se usa? 
-Quando foi inaugurado o metropolitano de <START:LOCAL_HUMANO>Lisboa<END>? Quantas estações tem agora? 
-Qual o verdadeiro nome de <START:PESSOA_INDIVIDUAL>Michael Caine<END>? 
-A que altitude está <START:LOCAL_HUMANO>Miguel Pereira<END>? 
-O que é que <START:PESSOA_INDIVIDUAL>Jean Valjean<END> roubou? 
-Qual era a divisa austríaca <START:TEMPO_TEMPO_CALEND>antes de 2002<END>? 
-Quem foi <START:PESSOA_INDIVIDUAL>Monteiro Lobato<END>? Em que instituição estudou? O que é que ele estudou? Quando é que ele criou a <START:COISA_OBJECTO>Emília<END>? 
-Quantos municípios tem o distrito do <START:LOCAL_HUMANO>Porto<END>? 
-Quem ganhou a <START:ACONTECIMENTO_ORGANIZADO>NBA<END> <START:TEMPO_TEMPO_CALEND>em 1995<END>? 
-O que é a <START:COISA_OUTRO>constante de Néper<END>? 
-O que são os números <START:COISA_CLASSE>E<END>? 
-Qual o período de gestação de ocapi? Qual o seu peso? 
-Que concelho fica a leste de <START:LOCAL_HUMANO>Oeiras<END>? 
-Que cidades realizaram <START:ACONTECIMENTO_ORGANIZADO>Jogos Olímpicos<END> <START:TEMPO_TEMPO_CALEND>antes de 1900<END>? 
-Diga um recipiente da Grande Cruz do Mérito. 
-Quando começa <START:TEMPO_GENERICO>o outono<END> no hemisfério sul? 
-Quem é <START:PESSOA_INDIVIDUAL>José Eduardo Pinto da Costa<END>? Onde é que ele nasceu? 
-Quantos centímetros há num pé? 
-Quem era <START:PESSOA_CARGO>rei de Portugal<END>  <START:TEMPO_TEMPO_CALEND>em 1860<END>? 
-Qual a área do  <START:LOCAL_OUTRO>Parque Nacional<END> da <START:LOCAL_HUMANO>Peneda-Gerês<END> ? 
-Em que anos foi <START:PESSOA_INDIVIDUAL>Nelson Piquet<END> campeão do mundo? 
-Quem foi <START:PESSOA_INDIVIDUAL>Pirro<END>? 
-Qual o primeiro nome do <START:PESSOA_INDIVIDUAL>presidente Trovoada<END>? 
-Quantas regiões tem <START:LOCAL_HUMANO>Marrocos<END>? Qual é a maior delas? 
-Onde é estão sepultados <START:PESSOA_INDIVIDUAL>Fernando<END> e <START:PESSOA_INDIVIDUAL>Isabel<END>? 
-Qual é a principal indústria da <START:LOCAL_HUMANO>República Dominicana<END>? 
-Em que período existiu a <START:ORGANIZACAO_ADMINISTRACAO>República de Veneza<END>? 
-Onde é que desagua o <START:LOCAL_FISICO>Ural<END>? Qual é o seu comprimento? 
-Qual o comprimento total da rodovia <START:LOCAL_HUMANO>Dom Pedro I<END>? 
-Quem comandou os gregos em <START:ACONTECIMENTO_EFEMERIDE>Salamina<END>? 
-Quem se tornou rei após a morte de <START:PESSOA_INDIVIDUAL>D. Afonso Henriques<END>? 
-Que ordem foi fundada por <START:PESSOA_INDIVIDUAL>Santa Clara<END>? 
-O que é o Saquê ? 
-Quantos senadores tem o <START:ORGANIZACAO_ADMINISTRACAO>Senado<END> brasileiro actualmente? Quantos anos tem os seus mandatos? Quantos senadores tem cada estado? Quantos senadores havia <START:TEMPO_TEMPO_CALEND>em 1972<END>? 
-Quem foi o último <START:PESSOA_CARGO>rei da Bulgária<END> ? 
-Diga uma catedral de <START:LOCAL_HUMANO>Sófia<END>. 
-Em que jornal escreve o <START:PESSOA_INDIVIDUAL>Miguel Sousa Tavares<END>? 
-A que partido pertencia <START:PESSOA_INDIVIDUAL>Spadolini<END>? 
-Quais são as línguas oficiais da <START:LOCAL_HUMANO>Suíça<END>? E quantos cantões tem? Quando é que <START:ORGANIZACAO_ADMINISTRACAO>Berna<END> aderiu à <START:ORGANIZACAO_ADMINISTRACAO>Confederação<END>? 
-Que selecções disputaram a final da  <START:ACONTECIMENTO_ORGANIZADO>Taça América<END> <START:TEMPO_TEMPO_CALEND>de 1995<END>? 
-Quantos espartanos lutaram na <START:ACONTECIMENTO_EFEMERIDE>Batalha das Termópilas<END>? 
-Quem sucedeu a <START:PESSOA_INDIVIDUAL>Augusto<END>? 
-Qual é a capital de <START:LOCAL_HUMANO>Timor Ocidental<END>? 
-Qual o estilo arquitectónico da <START:OBRA_ARTE>Torre dos Clérigos<END>? Quantos degraus tem a torre? Qual á a altura dela? Quando foi erigida? 
-O que era uma trirreme? 
-Como se chamava o avião supersónico russo? 
-Qual o túnel ferroviário mais comprido do mundo? E qual o seu comprimento? Em que país fica? 
-O que é o <START:COISA_OBJECTO>Tux<END>? Que animal é? Quem o criou? Quando? 
-Diga uma emissora de televisão brasileira que tenha iniciado as suas actividades <START:TEMPO_TEMPO_CALEND>antes de 1970<END>. 
-O que é a <START:ABSTRACCAO_ESTADO>TVI<END>? 
-O que é a Union Jack? 
-Onde é que nasceu o <START:PESSOA_INDIVIDUAL>Vítor Baía<END>? Onde é que começou a jogar futebol? Quantos golos é que marcou na sua carreira? Que idade tinha ele quando se mudou para o <START:ORGANIZACAO_INSTITUICAO>FC Porto<END>? 
-Quem é <START:PESSOA_INDIVIDUAL>George Vassiliou<END>? 
-Quero o nome de um vinho húngaro. 
-Que clube foi campeão português de voleibol <START:TEMPO_TEMPO_CALEND>em 1995<END>? E quem venceu a  <START:ACONTECIMENTO_ORGANIZADO>Taça<END> de <START:LOCAL_HUMANO>Portugal<END> <START:TEMPO_TEMPO_CALEND>nesse ano<END>? 
-Quais são os signos do Zodíaco? 
-Quantas ilhas tem <START:LOCAL_HUMANO>Cabo Verde<END>? Quantas são habitadas? Em qual delas nasceu <START:PESSOA_INDIVIDUAL>Eugénio Tavares<END>? E em qual deles fica a <START:LOCAL_HUMANO>Praia<END>?
-
---DOCSTART--
-    
- Nas voltas que a <START:ACONTECIMENTO_ORGANIZADO>Pampulha<END> dá...        
- Entre os <START:VALOR_QUANTIDADE>quase 10 mil<END> que correram os <START:VALOR_QUANTIDADE>quase 18k<END> da  <START:ACONTECIMENTO_ORGANIZADO>Volta Internacional<END> da <START:LOCAL_HUMANO>Pampulha<END> <START:TEMPO_TEMPO_CALEND>no início do mês<END> estava, havia um monte de... <START:PESSOA_GRUPOMEMBRO>Índios<END> !!!        
- O <START:PESSOA_INDIVIDUAL>Antonio Ricardo<END> e mais uma turma da <START:PESSOA_GRUPOMEMBRO>Araribóia Runners<END> , trocou <START:LOCAL_HUMANO>Nikiti<END> por <START:LOCAL_HUMANO>BH<END> para suar ao redor do  <START:LOCAL_FISICO>Lago<END> da <START:LOCAL_HUMANO>Pampulha<END> . Bela paisagem, calor demais, esforço descomunal para alguns, exemplos de solidariedade que são para a gente seguir... Enfim, mais uma prova para colocar num lugar destacado na prateleira das boas memórias. Diz aí, <START:PESSOA_INDIVIDUAL>Antonio<END> ...        
- "Mais uma vez a prova foi fantástica! Testando resistência, o psicológico e outros bichos mais. Se você acha que a meia maratona é pesada, corra <START:VALOR_QUANTIDADE>18km<END> na <START:LOCAL_HUMANO>Pampulha<END> onde a largada somente  aconteceu <START:TEMPO_TEMPO_CALEND>às 10h<END> , debaixo do maior sol e com  muito calor. Isso é <START:ABSTRACCAO_IDEIA>Pampulha<END> ! O coração da <START:LOCAL_HUMANO>Terra do Pão de Queijo<END> ... Muita gente caída nas calçadas recorrendo ao balão de oxigênio. Muita mesmo!        
-"Esta prova realmente testa as condições do atleta e se ele se preparou adequadamente para enfrentá-la. Apesar da excelente estrutura de apoio, com muitos postos de hidratação (água a balde), o calor era muito forte. As motos espalhadas com médicos e ambulâncias trabalhando muito. Show.    
- "O <START:PESSOA_INDIVIDUAL>Alex<END> aqui da <START:PESSOA_GRUPOMEMBRO>Sulamerica<END> , faltando <START:VALOR_QUANTIDADE>1 km<END> , sentiu câimbras e foi para o hospital, ficando no soro... <START:PESSOA_INDIVIDUAL>Mateus<END> meu filho, faltando <START:VALOR_QUANTIDADE>3km<END> , também sentiu câimbras nas duas pernas. Por sorte, o <START:PESSOA_INDIVIDUAL>Edu<END> parou e veio com ele devagar até a chegada. (Valeu <START:PESSOA_INDIVIDUAL>Edu<END> , obrigado por ajudar meu filho!  Araribóia  !!!) Continuei meu ritmo e dei uma força para o ' <START:PESSOA_INDIVIDUAL>Chico Buarque<END> ' ( <START:PESSOA_INDIVIDUAL>Israel<END> ), grande guerreiro araribóia, mandou muito bem! ( <START:VALOR_QUANTIDADE>1:40:00<END> ). Eu estava bem, minha passada dez, mais um índio amigo precisava de apoio pra chegar e, como somos uma família, fiz de tudo para ele cruzar a linha de chegada voando...        
- "Os índios <START:PESSOA_GRUPOIND>Araribóias<END> que saíram de <START:LOCAL_HUMANO>Niterói<END> na maior expectativa, cruzaram a linha de chegada com louvor. Parabéns <START:PESSOA_GRUPOIND>Família Araribóia<END> pelo desempenho na <START:LOCAL_HUMANO>Terra do Pão de Queijo<END> !"        
- Os arabibóias que deram a volta na <START:LOCAL_FISICO>Pampulha<END> foram: <START:PESSOA_INDIVIDUAL>Claudia Donelate<END> , <START:PESSOA_INDIVIDUAL>Jorge Américo<END> , <START:PESSOA_INDIVIDUAL>Mateus Silva<END> , <START:PESSOA_INDIVIDUAL>Antônio Ricardo<END> , <START:PESSOA_INDIVIDUAL>Israel Firmino<END> e <START:PESSOA_INDIVIDUAL>Luiz Eduardo Bustamante<END> .        
-Parabéns!!    
-Para saber mais sobre a prova, é só clicar aqui.    
- Receba este blog PermalinkEnvieComente Ler comentários ( 2 )      
+ Da <START:ABSTRACCAO_DISCIPLINA>Bauhaus<END> para ... a <START:ABSTRACCAO_DISCIPLINA>House<END> :        
+ "Eu estou tentando mostrar minha idéia de como será a vida <START:TEMPO_TEMPO_CALEND>no século vinte e um<END> . A tecnologia vai moldar a maneira como pensamos. Por exemplo, à medida que as coisas ficam mais caras, o espaço se torna uma coisa rarefeita. Posso ver isso já acontecendo em <START:LOCAL_HUMANO>Londres<END> . Logo, a tecnologia vai criar espaços de outras formas. Espaços virtuais. Espaços sonoros."        
+ O tecno de <START:LOCAL_HUMANO>Detroit<END> é arquitetura. É por isso que não há progressão narrativa, mudanças de acordes, desdobramentos temáticos, nem contraponto. Espaços sonoros, não som viajando através do tempo. "Tão poucas pessoas entendem isso", diz <START:PESSOA_INDIVIDUAL>Mills<END> , falando em minimalismo, "Como só deixar a coisa tocar..."        
+ Os carros e edifícios se desmaterializaram em resposta à tração do futuro. "Nós estamos quase fora da fase do territorial", diz <START:PESSOA_INDIVIDUAL>Mills<END> . <START:LOCAL_HUMANO>Detroit<END> , a primeira cidade portátil. Seus habitantes a virtualizaram <START:TEMPO_TEMPO_CALEND>muito tempo atrás<END> . "Isto é o que muitas pessoas costumavam fazer em <START:LOCAL_HUMANO>Detroit<END> . Nós poderíamos criar uma canção só para a ambiência, só para o local onde você mora, e deixá-la rolar <START:TEMPO_DURACAO>por todo o dia<END> . Esta não é a música que você vai eventualmente colocar num <START:COISA_CLASSE>DAT<END> e vender. É música habitável."        
+Evolução da Máquina:    
+ É perceptível, quando se escuta <START:PESSOA_INDIVIDUAL>Mills<END> , que apesar dele pensar sua música em termos concretos (cordas "se liquefazem no corpo" como "ao ligar um aquecedor"), o som <START:TEMPO_FREQUENCIA>frequentemente<END> parece ser só sinal para ele, só um veículo para a mensagem. Então tem essa mensagem um conteúdo? O inovador selo de <START:LOCAL_HUMANO>Detroit<END> <START:COISA_CLASSE>Underground Resistance<END> ( <START:COISA_CLASSE>UR<END> ), que <START:PESSOA_INDIVIDUAL>Mills<END> fundou com <START:PESSOA_INDIVIDUAL>Mike Banks<END> , costumava emplastrar suas capas com linguagem tipo-manifesto, preparando seu público para alguma indefinida revolução sônica. Logo eu quis saber se "a mensagem" é política.        
+ "Oh, não", diz <START:PESSOA_INDIVIDUAL>Mills<END> . "É abstrata. É o que você está tentando dizer." Bem, isso me esclareceu. <START:PESSOA_INDIVIDUAL>Mills<END> é totalmente inacessível sobre conteúdo ou inspiração para os sons de seus álbuns. Não parece haver uma clara agenda estética ou social. Mas ele tem alguns princípios organizativos pouco usuais. "Eu penso num conceito e provavelmente o ponho em algum tipo de escala de cor," ele me conta em certo momento. "Preciso de uma sensação muito clara com algum tanto de drama, então talvez eu pegue verde. Em minha mente tenho esta idéia de como soa o verde. Verde é as frequências que são mais baixas, não subsônicas, mas de médio alcance." Então ele confusamente glosa isso dizendo "é como se você pegasse um teclado e começasse do branco e fosse por todo o caminho até o negro."        
+ <START:TEMPO_FREQUENCIA>A maior parte das vezes<END> <START:PESSOA_INDIVIDUAL>Mills<END> fala de si mesmo como o originador da mensagem, usando o usual e romântico vocabulário do artista, do criador. Mas ele é um criador com uma relação peculiar com seus instrumentos. "Geralmente eu dou início numa sequência e então deixo ela tocar. Eu saio e deixo-a tocando <START:TEMPO_DURACAO>por cerca de vinte e quatro horas<END> . As máquinas flutuam. Com o passar do tempo a sequência muda ligeiramente. As máquinas moldam a si mesmas, dando seu próprio caráter a uma faixa. Nós fizemos muito disso com o <START:ABSTRACCAO_DISCIPLINA>UR<END> . <START:TEMPO_FREQUENCIA>Algumas vezes<END> nós deixamos o som rolar <START:TEMPO_DURACAO>por vários dias<END> . Ele evoluia para um estado muito fixo.        
+ "O tecno, obviamente, é música da e sobre a tecnologia." Os produtores estão familiarizados com seu kit de estúdio e o imaginário de cabine de vôos, painéis de controle e instrumentação ("e agora...Eu aperto esse switch"), que tem desde sempre temperado samplers e títulos de canções, sinalizando sua afinidade com tecnicistas de outros tipos. <START:LOCAL_HUMANO>Detroit<END> , como o lugar imaginário onde uma velha geração de máquinas industriais está dando lugar a máquinas de informação, fluxos se acelerando e desmaterializando, é onde relações humanas com a tecnologia estão sendo reconfiguradas.        
+ <START:PESSOA_INDIVIDUAL>Jeff Mills<END> sai para o cinema e deixa as máquinas evoluirem sua sequência no estúdio, e ao fazê-lo assim faz o comentário talvez mais eloquente que nós temos de uma mudança cultural em todos os tipos de produção, artística e de outro tipo. É uma tensão que tem sido <START:TEMPO_DURACAO>há muito tempo<END> sentida na música pop, bem expressa no slogan mal intensionado de camiseta de garotada indie <START:TEMPO_TEMPO_CALEND>de alguns anos atrás<END> : 'os escrotos sem cara do tecno.' (Por todo lugar outras camisetas respondiam "foda-se o <START:ABSTRACCAO_DISCIPLINA>Britpop<END> "). <START:TEMPO_TEMPO_CALEND>Nestes dias<END> o ídolo de rock, <START:PESSOA_INDIVIDUAL>Liam Oásis da Vida<END> , em cada polegada o artista tradicional, solitário e romanticamente sofrendo no palco, está em combate mortal com alguma coisa distribuída, cambiante ( <START:PESSOA_INDIVIDUAL>Mills<END> é x102 , <START:PESSOA_GRUPOMEMBRO>UR<END> , <START:PESSOA_GRUPOMEMBRO>Axis<END> ...) e não de todo humana. <START:TEMPO_FREQUENCIA>Algumas vezes<END> <START:PESSOA_INDIVIDUAL>Mills<END> se auto denomina ' <START:ABSTRACCAO_NOME>Criador<END> de propósitos' e o ouvinte encontra a seguinte afirmação (não-assinada) numa capa: "só a consciência de um propósito que é maior que qualquer homem pode semear e fortificar as almas dos homens." É muito fácil identificar o criador de propósitos como o artista e o poder como <START:PESSOA_INDIVIDUAL>Deus<END> . Em <START:LOCAL_HUMANO>Detroit<END> o poder que é maior que o homem, que está semeando e fertilizando sua alma, é inorgânico, sem nome, baseado em silício.        
+Medo    
+ " <START:TEMPO_FREQUENCIA>Algumas vezes<END> quando eu penso em um ritmo", diz <START:PESSOA_INDIVIDUAL>Mills<END> , "eu penso numa máquina que está - caminhando em algum lugar, algum tipo de movimento, e eu tento vividamente criar esse tipo de progressão melódica." Tanques robôs, linhas de montagem, colonizando a imaginação, articuladas como vias permanentes de batidas pesadas bombando os corpos do público dançante. Quem origina esse ritmo? Nós ou eles? Reconstitua o processo de volta. Quem veio primeiro? Artista ou máquina? A idéia da máquina na mente do artista? O que pôs a idéia ali? Eterno retorno...        
+ O tecno de <START:LOCAL_HUMANO>Detroit<END> é também música assustadora, assustadora precisamente por que sua implacável repetição nos lembra de nossa imersão em sistemas mecanizados, computadorizados. <START:LOCAL_HUMANO>Detroit<END> fetichiza esta relação: tome drogas, conecte seu corpo ao ritmo das máquinas - não é nada diferente do que você faz no escritório <START:TEMPO_FREQUENCIA>todo dia<END> . Talvez você se sinta como um rato de laboratório pressionando uma alavanca por doses de endorfinas. Ao menos <START:TEMPO_TEMPO_CALEND>às três da manhã<END> num galpão (warehouse, pra raves) quando embarca numa outra pastilha, você sabe que é um honesto rato de laboratório.      
 
   --DOCSTART--
     
- O jardim de caminhos que se encontram (algumas palavras sobre o conto de <START:PESSOA_INDIVIDUAL>Borges<END> e o filme de <START:PESSOA_INDIVIDUAL>Tom Tykwer<END> )        
- <START:PESSOA_INDIVIDUAL>Roberto Azoubel<END>        
- (Este texto é dedicado ao professor e poeta <START:PESSOA_INDIVIDUAL>Jorge Wanderley<END> (em memória) que me "incomodava" com <START:ABSTRACCAO_DISCIPLINA>Borges<END> e com a literatura.)        
- Uma das tarefas mais importantes da arte foi sempre a de gerar uma demanda cujo atendimento integral só poderia produzir-se <START:TEMPO_TEMPO_CALEND>mais tarde<END> ."        
- <START:PESSOA_INDIVIDUAL>Walter Benjamim<END>        
-I1.    
- Com o desenvolvimento da imprensa <START:TEMPO_TEMPO_CALEND>no começo do século XX<END> , o romance - forma literária intrinsecamente ligada ao objeto livro - emerge em sintonia com toda a evolução das forças produtivas da sociedade, tornando-se um gênero de grande difusão no mundo. Tal difusão levou o filósofo alemão <START:PESSOA_INDIVIDUAL>Walter Benjamim<END> a se preocupar com a morte do narrador - aquele do discurso vivo - como podemos observar no texto <START:OBRA_REPRODUZIDA>O Narrador<END> , escrito <START:TEMPO_TEMPO_CALEND>em 1936<END> .        
- O texto de <START:PESSOA_INDIVIDUAL>Benjamim<END> nos remete a uma recente discussão que seria a factível morte da literatura diante do crescimento da produção cinematográfica que se espalha pelo planeta. Proponho-me neste texto analisar justamente esta contenda, assumindo posições que ficarão nítidas no decorrer do seu corpo. Para tal empreitada, tomo como referências o conto  O Jardim dos Caminhos que se Bifurcam   , escrito <START:TEMPO_TEMPO_CALEND>em 1941<END> pelo argentino <START:PESSOA_INDIVIDUAL>Jorge Luis Borges<END> , e o fresquíssimo <START:OBRA_REPRODUZIDA>Corra Lola, Corra<END> ( <START:OBRA_REPRODUZIDA>Lola Rennt<END> ), filme alemão realizado pelo diretor e roteirista <START:PESSOA_INDIVIDUAL>Tom Tykwer<END> .        
-II    
- Para chegarmos ao conto de <START:PESSOA_INDIVIDUAL>Borges<END> , passemos antes por <START:PESSOA_INDIVIDUAL>Italo Calvino<END> . No capítulo chamado " <START:ABSTRACCAO_NOME>Multiplicidade<END> " do seu livro <START:OBRA_REPRODUZIDA>Seis Propostas para o Próximo Milênio<END>  , <START:PESSOA_INDIVIDUAL>Calvino<END> destaca como uma das (boas) características da literatura contemporânea essa capacidade de estabelecer redes de conexões entre os acontecimentos, entre as pessoas, entre as coisas do mundo, em outras palavras, essa capacidade atual de a escritura poder ser múltipla.        
- No decorrer do capítulo, o autor italiano mostra várias formas de multiplicidades que ocorrem na literatura. No entanto, para não sairmos do foco da discussão do texto, fiquemos inicialmente com o exemplo do romancista italiano <START:PESSOA_INDIVIDUAL>Carlo Emilio Gadda<END> , de quem, entre outros autores, <START:PESSOA_INDIVIDUAL>Calvino<END> se serve como ilustração.        
- Segundo <START:PESSOA_INDIVIDUAL>Calvino<END> (   <START:TEMPO_TEMPO_CALEND>1990<END>   : 121), " <START:PESSOA_INDIVIDUAL>Gadda<END> durante toda a sua vida buscou representar o mundo como um rolo, uma embrulhada, um aranzel, sem jamais atenuar-lhe a complexidade inextricável - ou, melhor dizendo, a presença simultânea dos elementos mais heterogêneos que concorrem para a determinação de cada evento". E mais adiante, apoiado no ensaio  La disarmonia prestabilita   do crítico <START:PESSOA_INDIVIDUAL>Gian Carlo Roscioni<END> , <START:PESSOA_INDIVIDUAL>Calvino<END> ainda coloca que "esse conhecimento das coisas enquanto 'relações infinitas, passadas e futuras, reais e possíveis, que para elas convergem?, exige que tudo seja exatamente denominado, descrito e localizado no espaço e no tempo"(   CALVINO, 1990 :123).         
- Outros romancistas como <START:PESSOA_INDIVIDUAL>Proust<END> e <START:PESSOA_INDIVIDUAL>George Perec<END> , com o seu <START:OBRA_REPRODUZIDA>A Vida Modos de Usar<END> , são citados no capítulo como exemplos de uma escritura que conduz à multiplicidade (de caminhos, de níveis, de pensamentos, de vozes etc.). Mas, de acordo com <START:PESSOA_INDIVIDUAL>Calvino<END> , esse modelo de redes possíveis pode ser construído tanto em romances extensos, como pode ser concentrado nas poucas páginas de um conto de <START:PESSOA_INDIVIDUAL>Borges<END> . Chegamos assim a'  O Jardim dos Caminhos que se Bifurcam .        
- O conto, classificado pelo autor como policial, narra o percurso do personagem principal da cama até o jardim em que comete um assassinato como estratégia de sua missão de espionagem. No entanto, no seu enredo (e aqui também me apoio na leitura que <START:PESSOA_INDIVIDUAL>Calvino<END> faz dele) <START:PESSOA_INDIVIDUAL>Borges<END> desenvolve várias noções acerca do tempo.        
- No início, enquanto o protagonista está no seu quarto se preparando para realizar sua incumbência, o autor expõe um tempo preciso e no presente: "refleti que tudo aquilo que acontece com alguém, acontece agora, precisamente agora. Séculos de séculos e apenas no presente ocorrem fatos; inumeráveis homens no ar, na terra e no mar e tudo o que realmente sucede, sucede a mim..." (   BORGES,1995 : 94 ).  Em seguida, <START:PESSOA_INDIVIDUAL>Calvino<END> , ainda no seu <START:OBRA_REPRODUZIDA>Seis Propostas<END> ..., relata que <START:PESSOA_INDIVIDUAL>Borges<END> mostra "uma idéia de tempo determinado pela vontade, no qual o futuro se apresenta tão irrevogável quanto o  passado"(   CALVINO, 1990 : N).  Por último, a idéia de um tempo múltiplo, que é a idéia central do conto e, afinal, o que nos interessa aqui. Veremos abaixo como essa idéia de um tempo múltiplo se apresenta no conto.        
- Ao chegar numa casa de portão alto, o protagonista é recebido por sua futura vítima, <START:PESSOA_INDIVIDUAL>Stephen Albert<END> , sujeito que fora encarregado de decifrar um enigma do livro escrito por <START:PESSOA_INDIVIDUAL>Ts'ui Pen<END> . Este, que era um antepassado do próprio personagem principal, tinha abandonado sua próspera vida (era governador de sua província, doutor em astronomia, em astrologia, enxadrista, calígrafo e famoso poeta) para compor um labirinto e um livro. No entanto, o enigma revelado por <START:PESSOA_INDIVIDUAL>Albert<END> é justamente que o livro e o labirinto são o mesmo objeto. A chave para a descoberta estava num fragmento de uma carta deixada por <START:PESSOA_INDIVIDUAL>Ts'ui Pen<END> , no qual estava escrito: "Deixo aos vários futuros (não a todos) meu jardim de caminhos que se bifurcam" (BORGES, 1995: 94 94 | BORGES, 1995: 94).      
+NOME: COLETIVOS, SENHA: COLABORAÇÃO    
+ <START:PESSOA_INDIVIDUAL>Ricardo Rosas<END>        
+ A recente onda dos coletivos artísticos e ativistas (ou "artivistas") no <START:LOCAL_HUMANO>Brasil<END> tem chamado a atenção da mídia mainstream para um fenômeno de proporções bem maiores e razões mais profundas que a vã filosofia dos cadernos culturais poderia imaginar. Pouco compreendida, a dinâmica destas articulações chega assim maquiada com um verniz espetaculoso e superficial que, ao que parece, tenta esconder o pano de fundo crítico e instrumental desses grupos. <START:TEMPO_FREQUENCIA>Muitas vezes<END> passageiros como um casual flashmob, outras vezes organizados e duradouros como uma associação, tais ajuntamentos são na verdade indícios de uma mutação maior que está se dando tanto na esfera tecnológica quanto na social.        
+ Coletivos, em si, nada têm de novo. Já  são uma tradição na arte, na literatura, que percorreu <START:TEMPO_GENERICO>todo o século vinte<END> , aqui como lá fora. Segundo o historiador de coletivos artísticos <START:PESSOA_INDIVIDUAL>Alan Moore<END> (1) , seu ponto de partida foi logo após a   <START:ACONTECIMENTO_EFEMERIDE>Revolução Francesa<END> , com os  estudantes de <START:PESSOA_INDIVIDUAL>Jacques-Louis David<END> , os barbados, ou " <START:PESSOA_GRUPOMEMBRO>Barbu<END> ", que formaram uma comunidade criativa que viria a ser chamada de <START:ABSTRACCAO_NOME>Boêmia<END> , espécie de nação imaginária espiritual de artistas -cujo nome provinha de uma nação de verdade e geraria a idealização do estilo de vida "boêmio"-, compondo um contraponto à academia oficial. Desde então, o fenômeno tem <START:TEMPO_FREQUENCIA>ocasionalmente<END> se repetido ao longo da história da arte, como o <START:ABSTRACCAO_DISCIPLINA>Arts and Crafts<END> na <START:LOCAL_HUMANO>Inglaterra<END> vitoriana, dadaístas, situacionistas, <START:PESSOA_GRUPOMEMBRO>Fluxus<END> , numa lista quase infinita de grupos dos mais diversos tipos. No <START:LOCAL_HUMANO>Brasil<END> , eles remontam <START:TEMPO_TEMPO_CALEND>ao século dezenove<END> , com o grupo dos românticos em <START:LOCAL_HUMANO>São Paulo<END> , os grupelhos de poetas simbolistas, os modernistas <START:TEMPO_TEMPO_CALEND>da década de 1920<END> , o grupo antropofágico, os concretistas <START:TEMPO_TEMPO_CALEND>nos anos 1950<END> , o coletivo <START:PESSOA_GRUPOMEMBRO>Rex<END> de artistas <START:TEMPO_TEMPO_CALEND>na década seguinte<END> , <START:PESSOA_GRUPOMEMBRO>3Nós3<END> e <START:PESSOA_GRUPOMEMBRO>Manga Rosa<END> <START:TEMPO_TEMPO_CALEND>na década de 1970<END> , <START:PESSOA_GRUPOMEMBRO>Tupi Não Dá<END> , ou os mais recentes <START:PESSOA_GRUPOMEMBRO>Neo-Tao<END> e <START:PESSOA_GRUPOMEMBRO>Mico<END> , entre inúmeros outros.        
+ O que diferencia a atual voga de movimentações coletivas no <START:LOCAL_HUMANO>Brasil<END> são o caráter político de boa parte delas, assim como o uso que muitas fazem da internet, seja via listas de discussão, websites, fotologs e blogs ou simplesmente comunicação e ações planejadas por e-mail.        
+ Na <START:LOCAL_HUMANO>Europa<END> e nos <START:LOCAL_HUMANO>EUA<END> , a fusão de arte e política já estava presente nos dadaístas e surrealistas, e representou o ponto fundamental dos situacionistas no pós-guerra, e desde então essa mescla tem se dado em vários grupos que atuam na fronteira ativismo/arte, como o <START:ABSTRACCAO_DISCIPLINA>Arte &amp; Linguagem<END> , <START:ABSTRACCAO_DISCIPLINA>Art Workers Coalition<END> , <START:ABSTRACCAO_DISCIPLINA>Black Mask<END> , neoístas, <START:ABSTRACCAO_DISCIPLINA>Gran Fury<END> , <START:ABSTRACCAO_DISCIPLINA>Group Material<END> , <START:ABSTRACCAO_DISCIPLINA>PAD/D<END> , <START:ABSTRACCAO_DISCIPLINA>Guerrilla Girls<END> , ou os mais recentes <START:ABSTRACCAO_DISCIPLINA>Luther Blissett Project<END> , <START:ABSTRACCAO_DISCIPLINA>RTmark<END> , <START:ABSTRACCAO_DISCIPLINA>Etoy<END> , <START:ABSTRACCAO_DISCIPLINA>Critical Art Ensemble<END> , boa parte destes últimos atuando diretamente com alta tecnologia, no que se tem atualmente denominado de mídia tática.        
+ Se essa junção sempre esteve presente lá fora, o atual beco sem saída do neoliberalismo parece haver despertado a consciência de vários grupos no <START:LOCAL_HUMANO>Brasil<END> , que passaram a criar fora das instituições estabelecidas com performances, intervenções urbanas, festas, tortadas, filmagens in loco de protestos e manifestações, ocupações, trabalhos com movimentos sociais, culture jamming e ativismo de mídia. À diferença dos coletivos high tech europeus e americanos, os coletivos brasileiros atuam nos interstícios das práticas tradicionais da cultura instituída, em ações até agora de um víes mais low tech.        
+ Mesmo assim, a maioria deles surgem ou agem graças à internet. Alguns, como o <START:ABSTRACCAO_DISCIPLINA>Expressão Sarcástica<END> , <START:ABSTRACCAO_DISCIPLINA>Vitoriamario<END> , <START:ABSTRACCAO_DISCIPLINA>Poro<END> , <START:ABSTRACCAO_DISCIPLINA>TEMP<END> , <START:ABSTRACCAO_DISCIPLINA>BaseV<END> , ou <START:ABSTRACCAO_DISCIPLINA>Cocadaboa<END> , possuem seus próprios sites. Outros, como o <START:ABSTRACCAO_DISCIPLINA>CORO<END> , um grupo que pretende mapear todos os coletivos em ação no <START:LOCAL_HUMANO>Brasil<END> , ou a <START:ABSTRACCAO_DISCIPLINA>Universidade do Fora<END> , entre outros, funcionam com lista de discussão. Blogs também hospedam grupos com identidade virtual à <START:ABSTRACCAO_IDEIA>Luther Blissett<END> , como o <START:PESSOA_GRUPOMEMBRO>Ari Almeida<END> ou <START:PESSOA_GRUPOMEMBRO>Timóteo Pinto<END> , enquanto os fotologs tem servido como meio de divulgação de coletivos como o <START:ABSTRACCAO_DISCIPLINA>Radioatividade<END> , ou grupos do stencil e do sticker (adesivo) como <START:ABSTRACCAO_DISCIPLINA>Faca<END> , <START:ABSTRACCAO_DISCIPLINA>Coletivo Rua<END> , <START:ABSTRACCAO_DISCIPLINA>SHN<END> , entre dezenas de outros.        
+Se a tecnologia não é fundamento básico destes grupos para ações tipo hacktivismo, net arte ou similares, é por meio dela, contudo, que se dá a dinâmica de ação e propagação das atividades destes grupos na vida real. Pois uma palavra-chave de todos estes coletivos é a colaboração. Espécie de buzzword atualmente, a colaboração, bem como termos irmãos como livre cooperação, comunidade, interação e rede são senhas para uma transformação que está se dando em escala global.    
+ Foi a colaboração que permitiu o surgimento de movimentos massivos como os protestos "anti-globalização", bem como a organização de festas-protesto como as do <START:ABSTRACCAO_DISCIPLINA>Reclaim the Streets<END> , ou ainda a publicação aberta da rede    <START:ORGANIZACAO_INSTITUICAO>Indymedia<END> . A divisão de tarefas, o compartilhamento de valores e a liderança coletiva caracterizam em grande parte essas organizações cuja tradução mais exata é a filosofia do open source.        
+ Inicialmente restrita ao círculo de programadores e geeks, a idéia da criação coletiva e distribuída que caracteriza as comunidades <START:ABSTRACCAO_DISCIPLINA>Linux<END> e software livre tem virado fonte de inspiração para grupos os mais diversos que estão se voltando para este modo de trabalho como um modelo viável e menos restritivo, não-hierárquico.        
+ Tive recentemente a oportunidade de participar de uma conferência sobre o tema na universidade de   <START:LOCAL_HUMANO>Buffalo<END>   , <START:LOCAL_HUMANO>NY<END> . Chamada " <START:ABSTRACCAO_NOME>Redes, arte e colaboração<END> " (" <START:ABSTRACCAO_NOME>Networks, art and collaboration<END> "), e organizada pelo artista e professor de novas mídias <START:PESSOA_INDIVIDUAL>Trebor Scholz<END> e por <START:PESSOA_INDIVIDUAL>Geert Lovink<END> , net crítico e teórico de mídia tática, a conferência teve o mérito de reunir diversos ativistas, teóricos e artistas que trabalham colaborativamente, e pautou por abordar diversas facetas da questão, como o conflito com os interesses financeiros das grandes instituições do capitalismo, os conflitos internos dentro da dinâmica coletiva, ou as diversas iniciativas em áreas que vão das artes à educação, da criação em rede à distribuição livre de conhecimento.        
+ O tema é quente o bastante para gerar <START:TEMPO_DURACAO>semanas<END> de debates acalorados, mas aqui se limitou <START:TEMPO_DURACAO>a um final de semana<END> onde se sucederam mesas abertas, performances e apresentações de projetos. Teóricos e historiadores de arte ativista em coletivos como <START:PESSOA_INDIVIDUAL>Gregory Sholette<END> , <START:PESSOA_INDIVIDUAL>Alan Moore<END> e <START:PESSOA_INDIVIDUAL>Brian Holmes<END> , grupos como <START:PESSOA_GRUPOMEMBRO>Critical Art Ensemble<END> e <START:PESSOA_GRUPOMEMBRO>Guerrilla Girls<END> , net críticos como <START:PESSOA_INDIVIDUAL>McKenzie Wark<END> , ou o teórico maior da colaboração online, o alemão <START:PESSOA_INDIVIDUAL>Cristoph Spehr<END> , estiveram presentes. <START:PESSOA_INDIVIDUAL>Spehr<END> , autor do cultuado livro  Die Aliens sind unter uns!   (" <START:OBRA_REPRODUZIDA>"Os alienígenas estão entre nós!<END> "), tem servido como o melhor tradutor da mecânica funcional do código aberto (open source) para o campo da política, da organização social, e da economia.        
+ Entre alguns pontos fundamentais, <START:PESSOA_INDIVIDUAL>Spehr<END> defende a noção de que as relações devem se basear na liberdade e igualdade de uns para com os outros e com a cooperação; que regras devem ser estabelecidas, negociadas (e cumpridas) para que a cooperação funcione; que conflitos que surjam ao longo dessas negociações podem construir o respeito mútuo, a independência na cooperação e nos tornar mais fortes; e que organização, lealdade para com as pessoas, não com as instituições, e auto-confiança, são elementos essenciais.        
+ Em seu livro, num estilo que remixa ensaio e ficção científica, grupos colaborativos independentes e autônomos seriam os grandes monstros que ameaçam o atual estágio do neo-liberalismo corporativo. Espécie de alienígenas no meio da lógica capitalista da competitividade e das redes de "cooperação forçada", os coletivos colaborativos autônomos atuam numa esfera que transcende a mercantilização e podem efetuar uma troca auto-sustentável que, se aplicada em larga escala - o que para muitos é pura utopia - , correria o risco de transformar totalmente a paisagem social, econômica e política do planeta. Comunismo open source? Talvez, pelo menos é o que <START:PESSOA_INDIVIDUAL>Spehr<END> acredita, com um otimismo desafiante, o mesmo que o faz organizar a conferência anual " <START:ACONTECIMENTO_ORGANIZADO>Out of This World<END> em <START:LOCAL_HUMANO>Bremen<END> , onde junta programadores, ativistas, escritores de ficção científica, filósofos e teóricos para debater a aplicação do código aberto à transformação social visando o futuro.        
+ Por outro lado, o capitalismo há muito já aprendeu a trabalhar em rede. O fenômeno dos coletivos de livre cooperação na esfera artístico-ativista encontra seu paralelo nos grupos criativos de trabalho descentralizado e flexível produzindo para o mercado. Como diz o teórico <START:PESSOA_INDIVIDUAL>Brian Holmes<END> num ensaio sobre a questão (2), esse tipo de organização característica da produção imaterial no atual estágio capitalista do pós-fordismo, seria o da "personalidade flexível", adaptativa e versátil em sua atuação profissional, a qual, obviamente não excluiria sob hipótese alguma a competição ou o controle pela vigilância, ainda que à distância. Para combatê-la, só um ativismo "flexível" que, mesmo por sua característica cooperativa e autônoma, se adaptasse à configuração de um mundo cada vez mais baseado em redes, distribuído em setores terceirizados, "aparentemente" independentes.        
+ Em se tratando da internet, o crescente uso das redes de compartilhamento peer-to-peer, weblogs, software livre, listas de discussão, publicações abertas tipo slashdot, wiki ou <START:COISA_CLASSE>Indymedia<END> , as bibliotecas online de livre acesso, foruns e todas as outras formas operacionais das comunidades na rede estariam abrindo o caminho para essa transformação pelo trabalho colaborativo que os ativistas e coletivos <START:TEMPO_GENERICO>de hoje<END> usam como tática de resistência e cuja disseminação compartilhada podem ter consequências ainda imprevisíveis.        
+ Como diz <START:PESSOA_INDIVIDUAL>Geert Lovink<END> em seu último livro, <START:OBRA_REPRODUZIDA>My First Recession<END> , a cultura da internet "é um meio global no qual redes sociais são moldadas por uma mistura de regras implícitas, redes informais, conhecimento, convenções e rituais coletivos" (3). Procurar entender o atual fenômeno dos coletivos ignorando essa dinâmica de código e cultura, ou seja, modus operandi, instrumentos, ativismos e lutas democráticas face a uma crescente repressão na guerra global do capital, equivaleria a esquecer por completo a senha <START:TEMPO_TEMPO_CALEND>na hora<END> de logar. Esqueceu sua senha?      
+
+  --DOCSTART--
+
+Bibliografia de <START:PESSOA_GRUPOMEMBRO>Censurados<END>
+Os <START:PESSOA_GRUPOMEMBRO>Censurados<END> nasceram em <START:LOCAL_HUMANO>Lisboa<END> "<START:TEMPO_TEMPO_CALEND>no ano de 1988<END>, pelo antigo vocalista da banda <START:PESSOA_GRUPOMEMBRO>Ku de Judas<END>, <START:PESSOA_INDIVIDUAL>João Ribas<END>, juntando-se-lhe <START:PESSOA_INDIVIDUAL>Orlando Cohen<END>, o ex-membro dos <START:PESSOA_GRUPOMEMBRO>Peste &amp; Sida<END>, <START:PESSOA_INDIVIDUAL>Samuel Palitos<END> e ainda <START:PESSOA_INDIVIDUAL>Fred Valsassina<END>.
+Os <START:PESSOA_GRUPOMEMBRO>Censurados<END> começaram por tocar ao vivo. Muito. As letras, em português, eram simples e directas, refrões fortes que traduziam o sentimento da juventude <START:TEMPO_TEMPO_CALEND>da era Cavaquista<END>. O primeiro registo em vinil, na compilação "<START:OBRA_REPRODUZIDA>Feedback<END>" incluiu os temas "<START:OBRA_REPRODUZIDA>Senhores Politicos<END>", <START:OBRA_REPRODUZIDA>Não Vales Nada<END>" e "<START:OBRA_REPRODUZIDA>Está a andar de Mota<END>" (um instrumental). "<START:OBRA_REPRODUZIDA>Tu ò Bófia<END>", "<START:OBRA_REPRODUZIDA>Não Vales Nada<END>", "<START:OBRA_REPRODUZIDA>Angústia<END>", "<START:OBRA_REPRODUZIDA>Senhores Politicos<END>" eram temas fortíssimos que foram passando de cassete em cassete e eram entoados em coro nos concertos muito antes do lançamento do álbum "<START:OBRA_REPRODUZIDA>Censurados<END>"<START:TEMPO_TEMPO_CALEND>1990<END>. Este disco é um album histórico que foi aclamado pela mais importante fanzine dedicada ao <START:ABSTRACCAO_DISCIPLINA>Punk<END> e <START:ABSTRACCAO_DISCIPLINA>Hardore<END> "na altura, a <START:COISA_CLASSE>Maximum Rockn'Roll<END>(<START:LOCAL_HUMANO>EUA<END>) apesar das letras em português, o que mostra a qualidade das composições e sobretudo das prestações dos músicos.
+<START:TEMPO_TEMPO_CALEND>Em 1991<END> editam o <START:VALOR_CLASSIFICACAO>2º<END>  album "<START:OBRA_REPRODUZIDA>Confusão<END>" e passam <START:TEMPO_DURACAO>os anos seguintes<END> na estrada. <START:TEMPO_TEMPO_CALEND>Em 1993<END> sai o "<START:OBRA_REPRODUZIDA>Sopa<END>" com o single de mesmo nome e uma participação de <START:PESSOA_INDIVIDUAL>Jorge Palma<END> na música "<START:OBRA_REPRODUZIDA>Estou agarrado a ti<END>". <START:TEMPO_TEMPO_CALEND>O ano de 1994<END> é <START:TEMPO_GENERICO>o ano<END> da despedida, mas <START:TEMPO_TEMPO_CALEND>antes<END> participam no tributo a <START:PESSOA_INDIVIDUAL>Zeca Afonso<END>, "<START:OBRA_REPRODUZIDA>Filhos da Madrugada<END>" com a reedição do tema "<START:OBRA_REPRODUZIDA>O que faz falta<END>".
+<START:TEMPO_TEMPO_CALEND>Em 1998<END> a editora "<START:ORGANIZACAO_EMPRESA>El Tatu<END>" de <START:PESSOA_INDIVIDUAL>Tim<END> reedita os albuns "<START:OBRA_REPRODUZIDA>Censurados<END>" e "<START:OBRA_REPRODUZIDA>Sopa<END>".
+<START:TEMPO_TEMPO_CALEND>Em 1999<END> os <START:PESSOA_GRUPOMEMBRO>Censurados<END> reaparecem, para rejubilo dos fãns, participando no tributo de <START:PESSOA_GRUPOMEMBRO>Xutos &amp; Pontapés<END>, "<START:OBRA_REPRODUZIDA>XX Anos XX Bandas<END>". Participaram na tourné de promoção desse disco com os <START:PESSOA_GRUPOMEMBRO>Xutos<END>, mas ao contrário do que se esperava os <START:PESSOA_GRUPOMEMBRO>Censurados<END> ficaram por aí, não voltando nunca mais.
+<START:TEMPO_TEMPO_CALEND>Em 2006<END> é lançado a biografia da banda, "<START:OBRA_REPRODUZIDA>Censurados Até Morrer<END>", escrita por <START:PESSOA_INDIVIDUAL>Augusto Figueira<END> e <START:PESSOA_INDIVIDUAL>Renato Conteiro<END>.
 
   --DOCSTART--
     
-<START:ACONTECIMENTO_ORGANIZADO>Cavalo-marinho<END> <START:ACONTECIMENTO_ORGANIZADO>Boi PIntado<END>, <START:TEMPO_GENERICO>o dia de Reis<END>  e a <START:OBRA_PLANO>Lei Rouanet<END>, <START:LOCAL_HUMANO>Recife<END>, <START:LOCAL_HUMANO>PE<END> · <START:TEMPO_TEMPO_CALEND>05/1<END>    
- <START:PESSOA_INDIVIDUAL>Rosa Campello<END> · <START:LOCAL_HUMANO>Recife<END> ( <START:LOCAL_HUMANO>PE<END> ) · <START:TEMPO_TEMPO_CALEND>31/12/2007<END> <START:TEMPO_TEMPO_CALEND>11:18<END> · <START:VALOR_QUANTIDADE>137<END> votos        
- Celebração <START:TEMPO_GENERICO>ao Dia de Reis<END>  , evento que acontece sempre <START:TEMPO_TEMPO_CALEND>dia 06 de janeiro<END> , estaremos antecipando-o um pouco, <START:TEMPO_TEMPO_CALEND>para o dia 05 de janeiro de 2008<END> , e com motivos de sobra para comemorá-lo: <START:PESSOA_INDIVIDUAL>Mestre Grimário<END> acaba de receber incentivo para finalizar seu CD <START:OBRA_REPRODUZIDA>CAVALO-MARINHO BOI PINTADO<END> , o qual tem a participação especial das crianças do <START:ORGANIZACAO_INSTITUICAO>Ponto de Cultura<END> do <START:ORGANIZACAO_INSTITUICAO>MOVIMENTO PRÓ-CRIANÇA<END> através da <START:OBRA_PLANO>Lei Rouanet<END> !!!!!!!!!!!!!!!!!!!!!!!!        
- A Empresa socialmente responsável , é a <START:ORGANIZACAO_EMPRESA>STN - SISTEMA DE TRANSMISSÃO DO NORDESTE<END>  .        
- " <START:ABSTRACCAO_DISCIPLINA>CAVALO-MARINHO<END> , Uma Dança Dramática Brasileira:        
- <START:ABSTRACCAO_DISCIPLINA>Cavalo-marinho<END> , uma tradição folclórica do ciclo <START:TEMPO_GENERICO>de Natal<END>  , é a versão pernambucana do <START:ABSTRACCAO_DISCIPLINA>Bumba-meu-Boi<END> . Encontrado em toda parte do <START:LOCAL_HUMANO>Brasil<END> , o <START:ABSTRACCAO_DISCIPLINA>Bumba-meu-boi<END> é uma dança dramática que tem como elemento principal a morte e ressurreição do boi mágico.        
- Uma apresentação de cavalo-marinho abrange música vocal, dança, cenas dramáticas, ação, poesia improvisada, música instrumental, máscaras e fantasias. No interior, para o norte do <START:LOCAL_HUMANO>Recife<END> , apresenta-se durante a safra da cana-de-açúcar( <START:TEMPO_TEMPO_CALEND>agosto a janeiro<END> ).        
- O enredo do <START:ABSTRACCAO_DISCIPLINA>Cavalo-marinho<END> concentra-se em torno do <START:PESSOA_CARGO>Capitão<END> , um proprietário rural que tinha deixado suas terras sob o controle de <START:PESSOA_INDIVIDUAL>Mateus<END> e <START:PESSOA_INDIVIDUAL>Sebastião<END> , dois vaqueiros. O <START:PESSOA_CARGO>Capitão<END> deseja celebrar a volta dele às suas terras, mas, os vaqueiros não deixam. O <START:PESSOA_CARGO>Capitão<END> manda um <START:PESSOA_CARGO>Soldado<END> tirar a licença à força, e ele consegue, após muita confusão cômica e pancadas altas, mas, sem dor, das bexigas de boi que o <START:PESSOA_INDIVIDUAL>Mateus<END> e o <START:PESSOA_INDIVIDUAL>Sebastião<END> usam como armas e instrumentos musicais. Agora é a vez do <START:PESSOA_INDIVIDUAL>Mestre Ambrósio<END> , que imita todas as personagens do folguedo, que continua com uma longa seqüência de danças pelo <START:PESSOA_CARGO>Capitão<END> e seus <START:PESSOA_GRUPOIND>Galantes<END> , uma guarda de honra. Entre elas, são danças em homenagem aos <START:PESSOA_GRUPOMEMBRO>Reis Magos<END> , que compartilha temas musicais com as devoções de <START:PESSOA_GRUPOCARGO>Reis<END> no <START:LOCAL_HUMANO>Portugal<END> , e uma para  <START:PESSOA_INDIVIDUAL>São Gonçalo<END> de <START:LOCAL_HUMANO>Amarante<END> .        
- Entram, em seguida, dezenas de personagens, cada uma das quais faz parte do mundo do engenho-de-açúcar. Entre elas, há personagens realísticas, como o <START:PESSOA_INDIVIDUAL>Valentão<END> , o <START:PESSOA_INDIVIDUAL>Cangaceiro<END> e o <START:PESSOA_INDIVIDUAL>Vaqueiro<END> - que fala na poesia do <START:LOCAL_HUMANO>Sertão<END> , e imaginárias- como o  <START:PESSOA_INDIVIDUAL>Caboclo<END> de <START:LOCAL_HUMANO>Urubá<END> . A apresentação termina com a entrada, dança, morte e ressurreição do <START:COISA_OBJECTO>Boi<END> . O acompanhamento musical fica por conta do banco, um grupo de músicos que tocam <START:COISA_OBJECTO>Rabeca<END>  , <START:COISA_OBJECTO>Pandeiro<END>  , <START:COISA_OBJECTO>Bage<END>  ( <START:COISA_OBJECTO>Reco-reco<END>  ) e <START:COISA_OBJECTO>Mineiro<END>  ( <START:COISA_OBJECTO>Ganzá<END>  ). Os <START:PESSOA_GRUPOMEMBRO>Percussionistas<END> e, <START:TEMPO_FREQUENCIA>às vezes<END> , o <START:PESSOA_INDIVIDUAL>Rabequeiro<END> também cantam. Entre seqüências, se ouve toadas do vasto repertório, versos improvisados e música instrumental para dança.        
- <START:TEMPO_TEMPO_CALEND>Durante os anos 90<END> , o interesse no <START:ABSTRACCAO_DISCIPLINA>Cavalo-marinho<END> por parte do público da região metropolitana do <START:LOCAL_HUMANO>Recife<END> tem crescido muito, como parte de um ressurgimento de interesse na cultura popular em geral. Jovens visitam o interior para assistir a apresentações e para entrar no <START:ACONTECIMENTO_EVENTO>Mergulhão<END> - a dança de abertura do <START:ACONTECIMENTO_ORGANIZADO>Cavalo-marinho<END>, e existem diversos projetos de pesquisa e documentação" .        
- Texto: <START:PESSOA_INDIVIDUAL>John Murphy<END> , Ph.D., Etnomusicólogo e professor de música na <START:ORGANIZACAO_INSTITUICAO>Western Illinois University<END> ( <START:TEMPO_TEMPO_CALEND>até 2001<END> ) e a <START:ORGANIZACAO_INSTITUICAO>University of North Texas<END> ( à partir de Agosto de 2001 ).      
+ <START:PESSOA_INDIVIDUAL>Pêro da Covilhã<END>         
+ <START:PESSOA_INDIVIDUAL>Pedro<END> ou <START:PESSOA_INDIVIDUAL>Pêro da Covilhã<END>  ( <START:LOCAL_HUMANO>Covilhã<END> ?, <START:TEMPO_TEMPO_CALEND>1450? --- 1530?<END> ) foi um diplomata e explorador português.        
+ Com <START:VALOR_QUANTIDADE>cerca de 18 anos<END> cativa um espanhol que visitava a <START:LOCAL_HUMANO>Covilhã<END> para comprar tecidos que o convida a servir o seu amo, <START:PESSOA_INDIVIDUAL>D. Juan de Guzman<END> , irmão do   <START:PESSOA_CARGO>Duque de Medina-Sidónia<END> , um dos mais conceituados fidalgos de <START:LOCAL_HUMANO>Sevilha<END> ; <START:PESSOA_INDIVIDUAL>Pêro<END> aceita a proposta e parte para <START:LOCAL_HUMANO>Sevilha<END> onde lhe é atribuído o papel de espadachim. Impressionado com a desenvoltura de <START:PESSOA_INDIVIDUAL>Pêro de Covilhã<END>  , convida-o <START:PESSOA_INDIVIDUAL>D. Juan de Gusman<END> a participar nas embarcações do seu irmão, o <START:PESSOA_CARGO>Duque<END> conhecido também como o <START:ABSTRACCAO_NOME>Pirata Espanhol<END> ; <START:PESSOA_INDIVIDUAL>Pêro<END> recusa a oferta e, <START:TEMPO_TEMPO_CALEND>em 1474<END> , acompanha <START:PESSOA_INDIVIDUAL>D. Juan<END> a <START:LOCAL_HUMANO>Lisboa<END> a uma entrevista com    <START:PESSOA_INDIVIDUAL>Afonso V<END>   de   <START:LOCAL_HUMANO>Portugal<END>  .        
+ <START:PESSOA_INDIVIDUAL>D. Afonso<END> simpatiza com <START:PESSOA_INDIVIDUAL>Pêro<END> também pelo seu domínio de línguas, nomeadamente a língua árabe e <START:PESSOA_INDIVIDUAL>D. Juan<END> cede a <START:PESSOA_CARGO>el-Rei<END> os serviços do português. É assim que <START:PESSOA_INDIVIDUAL>Pêro da Covilhã<END> , aos seus <START:VALOR_QUANTIDADE>24 anos<END> , é admitido como moço de esporas de <START:PESSOA_INDIVIDUAL>D. Afonso V<END> . <START:TEMPO_TEMPO_CALEND>Passado pouco tempo<END> , decide <START:PESSOA_CARGO>el-Rei<END> elevá-lo a escudeiro, com direito a armas e cavalo.        
+ <START:TEMPO_TEMPO_CALEND>Em 1476<END> acompanha <START:PESSOA_INDIVIDUAL>D. Afonso V<END> na batalha de <START:ACONTECIMENTO_EFEMERIDE>Toro<END>, a tentativa fracassada de <START:PESSOA_INDIVIDUAL>D. João<END> de reclamar o trono de <START:LOCAL_HUMANO>Castela<END> , já que era cunhado de    <START:PESSOA_INDIVIDUAL>Henrique IV<END>   de   <START:LOCAL_HUMANO>Castela<END>  . <START:TEMPO_TEMPO_CALEND>Mais tarde<END> , em iria acompanhar <START:PESSOA_INDIVIDUAL>D. Afonso<END> na jornada a <START:LOCAL_HUMANO>França<END> para pedir auxílio ao    <START:PESSOA_INDIVIDUAL>rei Luís XI<END>   de   <START:LOCAL_HUMANO>França<END>  na luta pelo trono de <START:LOCAL_HUMANO>Castela<END> , que seria rejeitado. Entretanto, <START:PESSOA_INDIVIDUAL>D. Afonso<END> abdica do trono, para <START:PESSOA_INDIVIDUAL>D. João II<END> .        
+ Após a execução do   <START:PESSOA_CARGO>Duque de Bragança<END> pelas próprias mãos do rei, <START:PESSOA_INDIVIDUAL>Pêro da Covilhã<END>  foi designado para investigar quais os nobres que conspiravam contra <START:PESSOA_INDIVIDUAL>D. João II<END> , conseguindo identificar o <START:PESSOA_INDIVIDUAL>D. Diogo<END> ,   <START:PESSOA_CARGO>duque de Viseu<END> e <START:PESSOA_INDIVIDUAL>D. Garcia de Meneses<END> ,    <START:PESSOA_CARGO>bispo de Évora<END>    .        
+ Na sequência do desejo de <START:PESSOA_CARGO>el-Rei<END> continuar a obra iniciada pelo   <START:PESSOA_INDIVIDUAL>infante D. Henrique<END> dos <START:OBRA_PLANO>Descobrimentos<END> , escolhe novamente <START:PESSOA_INDIVIDUAL>Pêro da Covilhã<END>  para embaixador nos tratados de paz com os berberes do <START:LOCAL_HUMANO>Magrebe<END> (como o    <START:PESSOA_CARGO>rei de Fez<END>    e o de <START:LOCAL_HUMANO>Tremecém<END> ), que convinham ao reino para convergir os esforços na odisseia marítima.        
+ <START:PESSOA_INDIVIDUAL>Pêro da Covilhã<END> torna-se, entretanto, escudeiro da guarda real e casa com <START:PESSOA_INDIVIDUAL>Catarina<END> que <START:TEMPO_TEMPO_CALEND>em poucos meses<END> engravida.      
 
 --DOCSTART--
+    
+<START:ACONTECIMENTO_ORGANIZADO>CCB 15 ANOS<END> | UM PRESENTE AOS ESPECTADORES        
+ Com um grande concerto realizado ao ar livre, na <START:LOCAL_HUMANO>Praça do Museu<END> , <START:TEMPO_TEMPO_CALEND>no dia 21 de Março de 1993<END> , o <START:ORGANIZACAO_INSTITUICAO>CCB<END> iniciava, <START:TEMPO_TEMPO_CALEND>há quinze anos<END> , a sua actividade como centro de produção e apresentação de espectáculos e exposições  o maior de <START:LOCAL_HUMANO>Portugal<END> . O <START:LOCAL_HUMANO>Grande Auditório<END> viria a ser inaugurado <START:TEMPO_TEMPO_CALEND>seis meses depois<END> , <START:TEMPO_TEMPO_CALEND>a 22 de Setembro<END> , com um recital da soprano catalã <START:PESSOA_INDIVIDUAL>Montserrat Caballé<END> , enquanto o <START:LOCAL_HUMANO>Pequeno Auditório<END> abrira as suas portas <START:TEMPO_TEMPO_CALEND>em Junho<END> com um espectáculo do violoncelista <START:PESSOA_INDIVIDUAL>Anner Bylsma<END> .        
+ Neste arco temporal  <START:TEMPO_DURACAO>de 15 anos<END>  , o <START:ORGANIZACAO_INSTITUICAO>CCB<END> apresentou ao público de <START:LOCAL_HUMANO>Lisboa<END> artistas tão diversos como <START:PESSOA_INDIVIDUAL>Sviatoslav Richter<END> e <START:PESSOA_INDIVIDUAL>Cecilia Bartoli<END> , <START:PESSOA_INDIVIDUAL>Pina Bausch<END> et <START:PESSOA_INDIVIDUAL>Pippo Delbono<END> , <START:PESSOA_INDIVIDUAL>Peter Brook<END> e <START:PESSOA_INDIVIDUAL>Jordi Savall<END> , <START:PESSOA_INDIVIDUAL>Philip Glass<END> et <START:PESSOA_INDIVIDUAL>Keith Jarrett<END> , a <START:PESSOA_GRUPOMEMBRO>Royal Shakespeare Company<END> e o <START:PESSOA_GRUPOMEMBRO>Piccolo Teatro di Milano<END> , <START:PESSOA_INDIVIDUAL>Robert Lepage<END> e a companhia <START:PESSOA_GRUPOMEMBRO>Cheek by Jowl<END> , a companhia de ópera do <START:ORGANIZACAO_INSTITUICAO>Teatro Mariinski<END> de <START:LOCAL_HUMANO>S. Petersburgo<END> e <START:PESSOA_GRUPOMEMBRO>The Wooster Group<END> . Aqui se estrearam os <START:PESSOA_GRUPOMEMBRO>The Gift<END> , aqui actuaram <START:PESSOA_INDIVIDUAL>Maria João Pires<END> e <START:PESSOA_INDIVIDUAL>Bernardo Sassetti<END> , aqui se apresentaram os <START:PESSOA_GRUPOMEMBRO>Madredeus<END> e <START:PESSOA_GRUPOMEMBRO>GNR<END> , <START:PESSOA_INDIVIDUAL>Sérgio Godinho<END> e <START:PESSOA_INDIVIDUAL>Luís Represas<END> , <START:PESSOA_INDIVIDUAL>Jorge Palma<END> e <START:PESSOA_INDIVIDUAL>Mariza<END> . Os visitantes do <START:LOCAL_HUMANO>CCB<END> puderam ver <START:TEMPO_TEMPO_CALEND>nestes anos<END> exposições de <START:PESSOA_INDIVIDUAL>Roy Lichtenstein<END> e <START:PESSOA_INDIVIDUAL>Frida Kahlo<END> , de <START:PESSOA_INDIVIDUAL>Robert Rauschenberg<END> e de <START:PESSOA_INDIVIDUAL>Paula Rêgo<END> , de <START:PESSOA_INDIVIDUAL>Antoni Tàpies<END> e de <START:PESSOA_INDIVIDUAL>Helena Almeida<END> , de <START:PESSOA_INDIVIDUAL>Júlio Pomar<END> e de <START:PESSOA_INDIVIDUAL>Sabine Hornig<END> , de <START:PESSOA_INDIVIDUAL>Candida Höfer<END> e de <START:PESSOA_INDIVIDUAL>Sebastião Salgado<END> , de <START:PESSOA_INDIVIDUAL>Aleksander Rodchenko<END> e de <START:PESSOA_INDIVIDUAL>Louise Bourgeois<END> .        
+ <START:TEMPO_TEMPO_CALEND>Durante estes anos<END> de viragem <START:TEMPO_TEMPO_CALEND>do século<END>, o <START:LOCAL_HUMANO>CCB<END> acolheu alguns dos maiores espectáculos apresentados em <START:LOCAL_HUMANO>Lisboa<END> , tornando-se um dos equipamentos culturais de referência do país e um parceiro crescentemente procurado por insituições culturais internacionais. O balanço <START:TEMPO_DURACAO>desta década e meia<END> de actividade praticamente ininterrupta (o <START:LOCAL_HUMANO>Centro<END> só fecha <START:TEMPO_TEMPO_CALEND>no Dia de Natal<END> ) mede-se pela frequência diária de centenas de pessoas, que habitam os espaços de estudo e lazer do <START:LOCAL_HUMANO>CCB<END> , além dos muitos milhares que ferquentam as suas actividades. <START:TEMPO_TEMPO_CALEND>Em 2006<END> , <START:VALOR_QUANTIDADE>150.000<END> pessoas assistiram a espectáculos, <START:VALOR_QUANTIDADE>200.000<END> visitaram as exposições, <START:VALOR_QUANTIDADE>90.000<END> frequentaram reuniões e congressos, <START:VALOR_QUANTIDADE>20.000<END> crianças participaram em actividades de pedagogia e animação.        
+ É por isso que as comemorações dos <START:VALOR_QUANTIDADE>15 anos<END> de actividade do <START:ORGANIZACAO_INSTITUICAO>CCB<END> , que decorrerão <START:TEMPO_TEMPO_CALEND>ao longo do ano de 2008<END> , vão ser especialmente orientadas para o público que fez do <START:LOCAL_HUMANO>CCB<END> um equipamento indipensável na vida cultural da cidade. Não editaremos álbuns auto-congratulatórios nem promoveremos grandes jantares de celebração; não lançaremos fogo de artifício nem nos envolveremos em extravagâncias de programação que estariam para lá da nossa dimensão e recursos. Investiremos tudo o que está ao nosso alcance para tornar a programação de espectáculos <START:TEMPO_TEMPO_CALEND>de 2008<END> mais acessível aos frequentadores do <START:ORGANIZACAO_INSTITUICAO>CCB<END> .        
+ Assim, um conjunto de espectáculos programados para o <START:LOCAL_HUMANO>Grande Auditório<END> foi escolhido para integrar a série   <START:ACONTECIMENTO_ORGANIZADO>CCB 15 Anos<END>, em que o leque de preços se situa em média <START:VALOR_QUANTIDADE>30%<END> abaixo dos preços normalmente praticados para espectáculos semelhantes, mantendo-se além disso os descontos habituais. Mais: nos casos em que isso seja tecnicamente possível, os lugares de <START:LOCAL_HUMANO>Galeria<END> (em pé, <START:TEMPO_FREQUENCIA>por vezes<END> com visibilidade reduzida) serão postos à venda ao preço único de <START:VALOR_MOEDA>5 EUR<END> (estes naturalmente sem desconto), permitindo que toda a gente tenha acesso aos espectáculos de maior atractividade para o público.        
+ As comemorações terão assim início já <START:TEMPO_TEMPO_CALEND>em Dezembro<END> , com a apresentação da    <START:OBRA_REPRODUZIDA>Oratória de Natal<END>   de   <START:PESSOA_INDIVIDUAL>J. S. Bach<END>    pela <START:PESSOA_GRUPOMEMBRO>Akademie für Alte Musik<END> e o <START:PESSOA_GRUPOMEMBRO>RIAS Kammerchor<END> de <START:LOCAL_HUMANO>Berlim<END> , para a qual o preço dos bilhetes varia entre os <START:VALOR_MOEDA>5<END> ( <START:LOCAL_HUMANO>Galerias<END> ) e os <START:VALOR_MOEDA>25 EUR<END> ( <START:LOCAL_HUMANO>1ª Plateia<END> ); <START:TEMPO_TEMPO_CALEND>em Janeiro<END> , a ópera visual <START:OBRA_REPRODUZIDA>Operação Orfeu<END>, apresentada pela companhia dinamarquesa <START:PESSOA_GRUPOMEMBRO>Hotel ProForma<END> , será também um espectáculo <START:ACONTECIMENTO_ORGANIZADO>CCB 15 Anos<END> (bilhetes <START:VALOR_MOEDA>entre 15 e 20 EUR<END> ):     <START:ACONTECIMENTO_ORGANIZADO>CCB 15 Anos<END> será também o ciclo de piano <START:ACONTECIMENTO_EVENTO>Beethoven 2008<END> (cinco recitais com o preço único de <START:VALOR_MOEDA>15 EUR<END> por concerto). E <START:TEMPO_TEMPO_CALEND>em Fevereiro<END> haverá três espectáculos integrados nas comemorações : o concerto do quinteto de <START:PESSOA_INDIVIDUAL>Enrico Rava<END> , um dos maiores trompetistas de jazz da actualidade, oferecerá preços <START:VALOR_MOEDA>entre os 5 e os 20 EUR<END> ; as duas récitas da coreografia de <START:PESSOA_INDIVIDUAL>William Forsythe<END> <START:OBRA_REPRODUZIDA>Impressing the Czar<END>, pelo <START:PESSOA_GRUPOMEMBRO>Ballet Real da Flandres<END> , terão bilhetes <START:VALOR_MOEDA>entre 5 e 30 EUR<END> ; e a <START:ACONTECIMENTO_EVENTO>Carta Branca a Jorge Palma<END>, <START:TEMPO_TEMPO_CALEND>no último dia do mês<END> , propõe entradas <START:VALOR_MOEDA>entre 5 e 20 EUR<END> .        
+ Mas a festa vai continuar <START:TEMPO_DURACAO>ao longo do ano de 2008<END> . Cada edição do <START:OBRA_PLANO>Programa de Actividades<END> assinalará com o selo <START:ACONTECIMENTO_ORGANIZADO>CCB 15 Anos<END> os espectáculos integrados nesta oferta especial. E contamos com todos, nesta comemoração de uma data que deve ser pretexto para uma renovação da nossa ligação com o público que connosco habita, <START:TEMPO_FREQUENCIA>todos os dias<END>, <START:TEMPO_TEMPO_CALEND>de há 15 anos para cá<END>  , o  <START:LOCAL_HUMANO>Centro Cultural<END> de <START:LOCAL_HUMANO>Belém<END> .      
 
-Que percentagem do orçamento da <START:ORGANIZACAO_ADMINISTRACAO>União Europeia<END> se destina à agricultura? 
-Quantos países são oficialmente candidatos à adesão à <START:ORGANIZACAO_ADMINISTRACAO>Otan<END>? 
-Que sinfonia compôs <START:PESSOA_INDIVIDUAL>Beethoven<END> <START:TEMPO_TEMPO_CALEND>em 1824<END>? 
-Que país não é membro da <START:ORGANIZACAO_ADMINISTRACAO>ONU<END>? 
-Quem se pensa ter participado na tentativa de assassínio de <START:PESSOA_INDIVIDUAL>Juan Carlos<END> <START:TEMPO_TEMPO_CALEND>em 1995<END>? 
-Quem era o pai de <START:PESSOA_INDIVIDUAL>Isabel II<END>? 
-Quem foi <START:PESSOA_CARGO>chanceler da Alemanha<END>  <START:TEMPO_TEMPO_CALEND>de 1974 a 1982<END>? 
-Quando ocorreu a coroação oficial de <START:PESSOA_INDIVIDUAL>Isabel II<END>? 
-Em que ano foi proposta pela primeira vez a "<START:OBRA_PLANO>Parceria para a Paz<END>"? 
-Quem comandou a <START:ACONTECIMENTO_EFEMERIDE>Insurreição de Varsóvia<END>? 
-Quem escreveu a epopeia fantástica "<START:OBRA_REPRODUZIDA>O Senhor dos Anéis<END>"? 
-Como se chama a mulher de <START:PESSOA_INDIVIDUAL>George H. W. Bush<END>? 
-Como se chama a primeira mulher a escalar o <START:LOCAL_FISICO>Evereste<END> sem máscara de oxigénio? 
-Quem ficou conhecido como o "chanceler de ferro"? 
-Em que ano foi assassinado <START:PESSOA_INDIVIDUAL>Martin Luther King<END>? 
-Em que cidade nasceu <START:PESSOA_INDIVIDUAL>Wolfgang Amadeus Mozart<END>? 
-Quantos estados tem a <START:LOCAL_HUMANO>Alemanha<END>? 
-Quem é <START:PESSOA_INDIVIDUAL>Stephen Hawking<END>? 
-O que é o hapkido? 
-Quem se tornou chanceler após ter sido ministro-presidente da <START:LOCAL_HUMANO>Renânia-Palatinado<END>? 
-Que rei morreu <START:TEMPO_TEMPO_CALEND>em 1718<END>? 
-Em que ano morreu <START:PESSOA_INDIVIDUAL>Charles de Gaulle<END>? 
-Qual é a altura da <START:OBRA_ARTE>Torre Eiffel<END>? 
-O que é o top quark? 
-De acordo com o modelo "standard", quais são as três partículas elementares da física? 
-Que proporção do leite vendido é usado com cereais ao pequeno-almoço? 
-Em que ano teve lugar o <START:ACONTECIMENTO_EFEMERIDE>Desembarque da Normandia<END>? 
-Quando foi assinada a "<START:OBRA_PLANO>Convenção de Basileia sobre o Controlo de Movimentos Transfronteiriços de Resíduos Perigosos<END>"? 
-A que se refere o termo "<START:ABSTRACCAO_NOME>Les Six<END>" em música? 
-A quem pertencia <START:LOCAL_HUMANO>Nice<END> <START:TEMPO_TEMPO_CALEND>de 1814 a 1860<END>? 
-Qual é a sigla da <START:ORGANIZACAO_INSTITUICAO>Administração Federal de Aviação<END>? 
-O que é o GI Joe? 
-Qual a estrutura cujo afundamento causou controvérsia na cimeira dos <START:ORGANIZACAO_ADMINISTRACAO>G7<END> em <START:LOCAL_HUMANO>Halifax<END>? 
-Quem foi <START:PESSOA_INDIVIDUAL>Alexander Graham Bell?<END> 
-Quem é <START:PESSOA_INDIVIDUAL>Danuta Walesa<END>? 
-Quem é <START:PESSOA_INDIVIDUAL>Vigdís Finnbogadóttir<END>? 
-Quem eram os cossacos? 
-O que é o ECU verde? 
-O que é o dracma? 
-Quem preside à <START:ORGANIZACAO_INSTITUICAO>RAI<END>? 
-Quem é o director de operações da <START:ORGANIZACAO_ADMINISTRACAO>NASA<END>? 
-Em que ano se afundou o <START:COISA_OBJECTO>Titanic<END>? 
-Em que data é que os <START:ORGANIZACAO_ADMINISTRACAO>Estados Unidos<END> invadiram o <START:LOCAL_HUMANO>Haiti<END>? 
-Em que ano foi a <START:ACONTECIMENTO_EFEMERIDE>Revolução de Outubro<END>? 
-Em que ano ocorreu a retirada de <START:LOCAL_HUMANO>Dunquerque<END>? 
-Onde é a sede da <START:ORGANIZACAO_ADMINISTRACAO>Interpol<END>? 
-Onde é que <START:PESSOA_INDIVIDUAL>Braque<END> e <START:PESSOA_INDIVIDUAL>Picasso<END> trabalharam juntos? 
-De que organização era <START:PESSOA_INDIVIDUAL>Sergio Balanzino<END> secretário-geral? 
-De que estúdio cinematográfico foi <START:PESSOA_INDIVIDUAL>Cedric Gibbons<END> director artístico? 
-Quantos habitantes tem <START:LOCAL_HUMANO>Longyearbyen<END>? 
-Qual o principal componente da aspirina? 
-Com que bicicleta bateu <START:PESSOA_INDIVIDUAL>Miguel Induráin<END> o recorde da hora? 
-Quem venceu a <START:ACONTECIMENTO_ORGANIZADO>Volta a França<END> <START:TEMPO_TEMPO_CALEND>em 1988<END>? 
-A que organização aderiu a <START:ORGANIZACAO_ADMINISTRACAO>Grécia<END> <START:TEMPO_TEMPO_CALEND>em 1952<END>? 
-Quantos países visitou <START:PESSOA_INDIVIDUAL>Nixon<END> <START:TEMPO_TEMPO_CALEND>entre 1953 e 1959<END>? 
-Que cargo ocupava <START:PESSOA_INDIVIDUAL>François Mitterrand<END> ao ingressar no hospital de <START:LOCAL_HUMANO>Cochin<END> ? 
-Quais são as três repúblicas bálticas? 
-Quais são as três repúblicas soviéticas eslavas? 
-O que é o Challenger? 
-Quem é <START:PESSOA_INDIVIDUAL>Ernesto Zedillo Ponce de León<END>? 
-Quem era primeiro-ministro britânico antes de <START:PESSOA_INDIVIDUAL>John Major<END>? 
-Quem é <START:PESSOA_INDIVIDUAL>Boris Becker<END>? 
-Em que filme de <START:PESSOA_INDIVIDUAL>Kevin Reynolds<END> actuou <START:PESSOA_INDIVIDUAL>Kevin Costner<END>? 
-Onde se realizaram os  <START:ACONTECIMENTO_ORGANIZADO>Jogos Olímpicos<END> <START:TEMPO_TEMPO_CALEND>de 1993<END>? 
-Que tipo de bombas foram usadas pelo <START:PESSOA_GRUPOMEMBRO>IRA<END> no ataque a <START:LOCAL_HUMANO>Heathrow<END> <START:TEMPO_TEMPO_CALEND>em 1994<END>? 
-O que é um Chinook? 
-Quem é o <START:PESSOA_CARGO>presidente do Egipto<END> ? 
-Onde morreu <START:PESSOA_INDIVIDUAL>Kurt Cobain<END>? 
-Quantos telespectadores seguiram a final do  <START:ACONTECIMENTO_ORGANIZADO>Campeonato do Mundo de Futebol<END> <START:TEMPO_TEMPO_CALEND>de 1994<END>? 
-O que é o <START:ABSTRACCAO_ESTADO>KMT<END>? 
-Que cromossoma está na origem do mongolismo? 
-Quem era <START:PESSOA_CARGO>presidente da Chechénia<END>  <START:TEMPO_TEMPO_CALEND>em 1994<END>? 
-Quem foi o primeiro homem na <START:LOCAL_FISICO>Lua<END>? 
-A que partido pertence <START:PESSOA_INDIVIDUAL>Mahfoudh Nahnah<END>? 
-Diga o nome de um filme realizado por <START:PESSOA_INDIVIDUAL>Claude Lanzmann<END>? 
-Onde fica a cidadezinha de <START:LOCAL_HUMANO>Neftegorsk<END>? 
-De que grupo é presidente <START:PESSOA_INDIVIDUAL>Claude Bébéar<END>? 
-Quem é <START:PESSOA_INDIVIDUAL>Jacques Diouf<END>? 
-O que significa <START:ABSTRACCAO_NOME>NLW<END>? 
-O que é a Parceria para a Paz? 
-A que partido pertence <START:PESSOA_INDIVIDUAL>Petru Luchinski<END>? 
-Que festival de cinema atribui o "Urso de Ouro"? 
-Quem é o diretor do filme "<START:OBRA_REPRODUZIDA>Caro Diário<END>"? 
-O que é a <START:ABSTRACCAO_ESTADO>UNHCR<END>? 
-Que valor adjudicou o <START:ORGANIZACAO_ADMINISTRACAO>Canadá<END> para a remoção das armas atómicas ucranianas? 
-Onde é que morreu <START:PESSOA_INDIVIDUAL>Ayrton Senna<END>? 
-Em que país foi aprovada uma lei que proíbe a publicidade ao tabaco? 
-Onde ocorreram casos de febre aftosa? 
-Quando aderirão à  <START:ORGANIZACAO_ADMINISTRACAO>União Europeia<END> a <START:ORGANIZACAO_ADMINISTRACAO>Áustria<END>, a <START:ORGANIZACAO_ADMINISTRACAO>Suécia<END> e a <START:ORGANIZACAO_ADMINISTRACAO>Finlândia<END>? 
-Que estúdio produziu o filme "<START:OBRA_REPRODUZIDA>Toy Story<END>"? 
-Qual é a terceira maior cidade da <START:LOCAL_HUMANO>Baviera<END>? 
-Quem era o capitão do <START:PESSOA_GRUPOMEMBRO>Ajax<END> <START:TEMPO_TEMPO_CALEND>em 1994<END>? 
-O que são os otakus? 
-O que é o CD-i? 
-Em que cidade é que <START:PESSOA_INDIVIDUAL>Nietzsche<END> escreveu "<START:OBRA_REPRODUZIDA>Ecce Homo<END>"? 
-Quando viveu <START:PESSOA_INDIVIDUAL>Ludwig Wittgenstein<END>? 
-Quem foi votado o futebolista do ano na <START:LOCAL_HUMANO>Bélgica<END> <START:TEMPO_TEMPO_CALEND>em 1995<END>? 
-Onde é a nova sede da <START:ORGANIZACAO_EMPRESA>Nederlandse Gasunie<END>? 
-Em que museu foi exibida <START:TEMPO_TEMPO_CALEND>em 1994<END> uma exposição sobre <START:PESSOA_INDIVIDUAL>Mondriaan<END>? 
-Quando foram as <START:LOCAL_HUMANO>Antilhas Holandesas<END> legalmente equiparadas aos <START:LOCAL_HUMANO>Países Baixos<END>? 
-Descreva o <START:LOCAL_HUMANO>World Trade Center<END>. 
-O que é um samovar? 
-O que é a Bundesgrenzschutz? 
-O que é a Generalitat? 
-O que é a Iaaf? 
-Quem eram os pictos? 
-O que era o Granma? 
-O que é "Margarita e o Mestre"? 
-O que é Nauru? 
-O que é Roque Santeiro? 
-O que é a Mona Lisa? 
-O que é a cachupa? 
-O que é a Marselhesa? 
-O que é kabuki? 
-O que é o comunismo gulash? 
-O que é o cirílico? 
-O que é o efeito de estufa? 
-O que é o fauvismo? 
-O que é o xelim? 
-O que é um mujique? 
-O que é um ornitorrinco? 
-O que é um sátrapa? 
-Que sabe sobre o aikido? 
-Quem foi <START:PESSOA_INDIVIDUAL>Amílcar Cabral<END>? 
-Quem foi <START:PESSOA_INDIVIDUAL>Qin Shi Huang<END>? 
-Que país foi abalado por um terramoto <START:TEMPO_TEMPO_CALEND>em Agosto de 94<END>? 
-O que é que foi anexado após a <START:ACONTECIMENTO_EFEMERIDE>Guerra dos Seis Dias<END>? 
-Em que cidade é que fica o Roque Santeiro? 
-Em que estado fica <START:LOCAL_HUMANO>Porto Alegre<END>? 
-Onde fica Beslan? 
-Onde fica a Grande Hanish? 
-Onde fica o Banat? 
-Onde ganharam os <START:PESSOA_GRUPOMEMBRO>Abba<END> o <START:ACONTECIMENTO_ORGANIZADO>Festival da Eurovisão<END>? 
-Onde naufragou o <START:COISA_OBJECTO>Marika-7<END>? 
-Onde é que fica a represa <START:LOCAL_FISICO>Ataturk<END>? 
-Qual a capital do <START:LOCAL_HUMANO>Estado Livre de Orange<END>? 
-Qual é a cidade santa xiita? 
-Que país tomou a <START:LOCAL_HUMANO>Grande Hanish<END>? 
-Onde foi apunhalado <START:PESSOA_INDIVIDUAL>Naguib Mahfouz<END>? 
-Em quanto é que foi multado <START:PESSOA_INDIVIDUAL>John Fashanu<END>? 
-Em que lugar ficou <START:PESSOA_INDIVIDUAL>Paulo de Carvalho<END> no <START:ACONTECIMENTO_ORGANIZADO>Festival da Eurovisão<END>? 
-Qual é a duração do filme "<START:OBRA_REPRODUZIDA>Heimat<END>"? 
-Qual é a área do <START:LOCAL_FISICO>Oceano Pacífico<END>? 
-Qual é o recorde mundial do salto em altura? 
-Quanta cerveja bebe um brasileiro <START:TEMPO_DURACAO>anualmente<END>? 
-Quanto mede <START:PESSOA_INDIVIDUAL>Sergei Yuran<END>? 
-Quanto pesa <START:PESSOA_INDIVIDUAL>Romário<END>? 
-Quantos estados tem o <START:LOCAL_HUMANO>Brasil<END>? 
-Quantos é que eram os <START:PESSOA_GRUPOMEMBRO>Beatles<END>? 
-Que percentagem da população do <START:LOCAL_HUMANO>Québec<END> fala francês? 
-Que população tem <START:LOCAL_HUMANO>Amiens<END>? 
-A que dinastia pertencia <START:PESSOA_INDIVIDUAL>Gengis Khan<END>? 
-Como se chama a companhia ferroviária francesa? 
-A quem foi conquistada <START:LOCAL_HUMANO>Lisboa<END> <START:TEMPO_TEMPO_CALEND>em 1147<END>? 
-Contra que clube jogou o <START:PESSOA_GRUPOMEMBRO>Marítimo<END> <START:TEMPO_TEMPO_CALEND>a 2 de Abril de 1995<END>? 
-De que equipa é treinador <START:PESSOA_INDIVIDUAL>Johann Cruyff<END>? 
-De que selecção é <START:PESSOA_INDIVIDUAL>Ravelli<END> é o guarda-redes? 
-Quem foram os adversários do <START:PESSOA_GRUPOMEMBRO>Boavista<END> na  <START:ACONTECIMENTO_ORGANIZADO>Taça UEFA<END> <START:TEMPO_TEMPO_CALEND>de 1994<END>? 
-Diga um jornal norueguês. 
-Onde trabalha <START:PESSOA_INDIVIDUAL>José Rodrigues Filho<END>? 
-Que povo foi convertido Ã  ortodoxia durante a Idade Média? 
-Que hospital fica em <START:LOCAL_HUMANO>Matosinhos<END>? 
-<START:PESSOA_INDIVIDUAL>Ravelli<END> é o goleiro de que seleção? 
-Qual o actual nome do <START:LOCAL_HUMANO>Ceilão<END>? 
-Que competição se realizou pela primeira vez <START:TEMPO_TEMPO_CALEND>em 1896<END>? 
-Qual foi o resultado do  <START:PESSOA_GRUPOMEMBRO>Itália<END>-<START:PESSOA_GRUPOMEMBRO>Nigéria<END> no  <START:ACONTECIMENTO_ORGANIZADO>Campeonato do Mundo<END> <START:TEMPO_TEMPO_CALEND>de 1994<END>? 
-Em que desporto é <START:ACONTECIMENTO_ORGANIZADO>Torneio das Cinco Nações<END>? 
-Em que língua está escrito o <START:OBRA_REPRODUZIDA>Alcorão<END>? 
-Em que telenovela aparece o prefeito <START:PESSOA_INDIVIDUAL>Odorico<END>? 
-Diga um livro de <START:PESSOA_INDIVIDUAL>Júlio Verne<END>. 
-Que edifício foi erigido <START:TEMPO_TEMPO_CALEND>no século 12<END>? 
-Que guerra durou <START:TEMPO_TEMPO_CALEND>de 1865 a 1870<END>? 
-Para que instrumento são os concertos de <START:PESSOA_INDIVIDUAL>Chopin<END>? 
-Qual a língua mais falada no <START:LOCAL_HUMANO>Québec<END>? 
-Qual a nacionalidade de <START:PESSOA_INDIVIDUAL>Geoffrey Oryema<END>? 
-Qual a religião oficial da <START:LOCAL_HUMANO>Tailândia<END>? 
-Qual é o planeta vermelho? 
-Que corpo celeste é <START:COISA_OBJECTO>Toutatis<END>? 
-Que ensina <START:PESSOA_INDIVIDUAL>Vital do Rego<END>? 
-Quem venceu o open da <START:LOCAL_HUMANO>Austrália<END> <START:TEMPO_TEMPO_CALEND>em 1995<END>? 
-De quem é "<START:OBRA_REPRODUZIDA>O Capital<END>"? 
-Diga um jogador francês do <START:PESSOA_GRUPOMEMBRO>Manchester United<END>. 
-Quem salvou judeus durante a <START:ACONTECIMENTO_EFEMERIDE>Segunda Guerra Mundial<END>? 
-Diga um escritor chinês. 
-Diga um  Herói da <START:LOCAL_HUMANO>União Soviética<END>. 
-Mencione um membro da <START:ORGANIZACAO_INSTITUICAO>Academia Francesa<END>. 
-Quem foi <START:PESSOA_CARGO>presidente da Suíça<END>  <START:TEMPO_TEMPO_CALEND>no ano de 1995<END>? 
-Quem criou <START:COISA_OBJECTO>Spirou<END>? 
-Quem escreveu "<START:OBRA_REPRODUZIDA>A Capital<END>"? 
-Quem escreveu "<START:OBRA_REPRODUZIDA>O Idiota<END>"? 
-Quem é "<START:PESSOA_INDIVIDUAL>Toninho Malvadeza<END>"? 
-Quem é o sogro de <START:PESSOA_INDIVIDUAL>Mohammad Khalifa<END>? 
-Quem é que escreveu "<START:OBRA_REPRODUZIDA>Os Persas<END>"? 
-Desde quando é <START:ORGANIZACAO_ADMINISTRACAO>Portugal<END> uma república? 
-Quando houve uma erupção do <START:LOCAL_FISICO>Vesúvio<END>? 
-Quando reinou <START:PESSOA_INDIVIDUAL>Isabel I<END>? 
-Quando teve lugar a primeira edição da <START:ACONTECIMENTO_ORGANIZADO>Taça Davis<END>? 
-Quando viveu <START:PESSOA_INDIVIDUAL>Franz Liszt<END>? 
-Quando é que <START:PESSOA_INDIVIDUAL>Cleópatra<END> se suicidou? 
-Quando é que a <START:ORGANIZACAO_ADMINISTRACAO>URSS<END> invadiu a <START:LOCAL_HUMANO>Manchúria<END>?
+  --DOCSTART--
+
+<START:PESSOA_INDIVIDUAL>Afonso de Albuquerque<END>
+Biografia
+Foi educado na corte de <START:PESSOA_INDIVIDUAL>D. Afonso V<END>. Partiu na esquadra mandada <START:TEMPO_TEMPO_CALEND>em 1480<END> em socorro do  <START:PESSOA_INDIVIDUAL>rei D. Fernando<END> de <START:LOCAL_HUMANO>Nápoles<END>, «para reprimir o furor dos turcos». Esteve na expedição <START:TEMPO_TEMPO_CALEND>de 1489<END> para defender a fortaleza da <START:LOCAL_HUMANO>Graciosa<END>, situada da ilha que o rio <START:LOCAL_FISICO>Luco<END> forma junto da cidade de <START:LOCAL_HUMANO>Larache<END>. Foi estribeiro-mor do <START:PESSOA_INDIVIDUAL>rei D. João II<END>, a quem <START:TEMPO_TEMPO_CALEND>em 1476<END> acompanhou nas guerras com <START:ORGANIZACAO_ADMINISTRACAO>Castela<END>. Esteve assim nas praças-fortes de <START:LOCAL_HUMANO>Arzila<END> e <START:LOCAL_HUMANO>Larache<END> (<START:LOCAL_HUMANO>Marrocos<END>) <START:TEMPO_TEMPO_CALEND>em 1489<END>, e <START:TEMPO_TEMPO_CALEND>em 1490<END> faz parte da guarda de <START:PESSOA_INDIVIDUAL>D. João II<END>, tendo voltado novamente a <START:LOCAL_HUMANO>Arzila<END> <START:TEMPO_TEMPO_CALEND>em 1495<END>.
+<START:TEMPO_TEMPO_CALEND>Em 6 de abril de 1503 <END> partiu para a <START:LOCAL_HUMANO>Índia<END> com o primo <START:PESSOA_INDIVIDUAL>Francisco de Albuquerque<END>, comandando cada qual três naus, tendo participado em várias batalhas, erguido a fortaleza em <START:LOCAL_HUMANO>Cochim<END> e estabelecido relações comerciais com <START:ORGANIZACAO_ADMINISTRACAO>Coulão<END>.
+De regresso ao reino de <START:LOCAL_HUMANO>Portugal<END>, «mais cheio de glórias que de despojos», foi bem acolhido por <START:PESSOA_INDIVIDUAL>D. Manuel<END> que <START:TEMPO_TEMPO_CALEND>em 1506<END> o tornou a enviar ao <START:LOCAL_HUMANO>Oriente<END> em companhia de <START:PESSOA_INDIVIDUAL>Tristão da Cunha<END> e nomeando-o governador da <START:LOCAL_HUMANO>Índia<END>  na sucessão do <START:PESSOA_INDIVIDUAL>vice-Rei D. Francisco de Almeida<END>. Neste posto, conquistou vários portos em <START:LOCAL_HUMANO>Omã<END> acabando por chegar à riquíssima cidade de <START:LOCAL_HUMANO>Ormuz<END>, que se tornou tributária de <START:LOCAL_HUMANO>Portugal<END>. <START:TEMPO_TEMPO_CALEND>Em 1510<END> toma <START:LOCAL_HUMANO>Goa<END> ao turco <START:PESSOA_INDIVIDUAL>Hidalcão<END> e <START:TEMPO_TEMPO_CALEND>em 1511<END> toma <START:LOCAL_HUMANO>Malaca<END>, abrindo aos portugueses o acesso às especiarias das <START:LOCAL_HUMANO>Molucas<END> e ao comércio com a <START:LOCAL_HUMANO>China<END>.
+<START:TEMPO_TEMPO_CALEND>Em Fevereiro de 1513<END> <START:PESSOA_INDIVIDUAL>Albuquerque<END> parte para o estreito de <START:LOCAL_FISICO>Bab-el-Mandebe<END>, tentando tomar <START:ORGANIZACAO_ADMINISTRACAO>Áden<END> sem êxito. Com a construção da fortaleza de <START:LOCAL_HUMANO>Ormuz<END> <START:TEMPO_TEMPO_CALEND>em 1515<END> concluiu o seu plano de domínio dos pontos estratégicos que permitiam o controlo marítimo e o monopólio comercial da <START:ORGANIZACAO_ADMINISTRACAO>Índia<END>.
+<START:TEMPO_TEMPO_CALEND>Em 1514<END> na <START:LOCAL_HUMANO>Índia<END> dedicou-se à administração e diplomacia, a concluir a paz com <START:ORGANIZACAO_ADMINISTRACAO>Calecute<END>, a receber embaixadas de reis indianos e a consolidar e embelezar <START:ORGANIZACAO_ADMINISTRACAO>Goa<END>, onde, por meio do casamento de portugueses com mulheres indígenas procura criar uma raça luso-indiana. O seu prestígio chegara ao auge criando as bases do <START:ORGANIZACAO_ADMINISTRACAO>Império Português<END> no <START:LOCAL_HUMANO>Oriente<END> .
+Jaz em local desconhecido em <START:LOCAL_HUMANO>Goa<END>, na <START:LOCAL_HUMANO>India<END>? Ora, quando morreu, conta <START:PESSOA_INDIVIDUAL>Diogo Barbosa Machado<END> na <START:LOCAL_VIRTUAL>Bibliotheca Lusitana<END> (<START:LOCAL_VIRTUAL>Tomo I<END>, página 23) que «foi amortalhado com o manto da  Ordem militar de Santiago,  de que era comendador, sepultado na igreja de <START:LOCAL_HUMANO>Nossa Senhora da Serra<END> em <START:LOCAL_HUMANO>Goa<END>, que edificara em agradecimento do feliz sucesso da conquista de <START:LOCAL_HUMANO>Malaca<END>. <START:TEMPO_TEMPO_CALEND>Passados 51 anos<END> , foi trasladado, como dispusera seu testamento, ao convento de  <START:LOCAL_HUMANO>Nossa Senhora da Graça<END> dos <START:ABSTRACCAO_DISCIPLINA>Religiosos Eremitas de Santo Agostinho<END>  da corte, para onde foi conduzido <START:TEMPO_TEMPO_CALEND>em 19 de maio de 1566<END> com pompa». 
+
+  --DOCSTART--
+    
+ O <START:PESSOA_INDIVIDUAL>Pai Natal<END> , <START:PESSOA_INDIVIDUAL>Artur Jorge<END> e o <START:ORGANIZACAO_EMPRESA>BCP<END>        
+ O <START:ORGANIZACAO_ADMINISTRACAO>Governo<END> russo proibiu uma campanha de uma cadeia de distribuição, que tinha por lema " O <START:PESSOA_INDIVIDUAL>Pai Natal<END> não existe ". O argumento é que tal ideia era nefasta para as criancinhas russas. Conclusão: o <START:ORGANIZACAO_ADMINISTRACAO>Governo<END> russo acredita no <START:ABSTRACCAO_IDEIA>Pai Natal<END> e quer que as criancinhas também acreditem.        
+ <START:PESSOA_INDIVIDUAL>Artur Jorge<END> foi, entretanto, escolhido para seleccionador do <START:PESSOA_GRUPOMEMBRO>Irão<END>, equipa que se encontrava <START:TEMPO_DURACAO>há seis meses<END> sem treinador. Tendo em atenção o que se tem passado <START:TEMPO_TEMPO_CALEND>nos últimos anos<END> na carreira do ex-treinador do <START:PESSOA_GRUPOMEMBRO>FC Porto<END>, que nunca termina os contratos e acaba sempre despedido com uma choruda indemnização, bem se pode dizer que a <START:ORGANIZACAO_INSTITUICAO>Federação Iraniana de Futebol<END>  acredita no <START:PESSOA_INDIVIDUAL>Pai Natal<END> . E <START:PESSOA_INDIVIDUAL>Artur Jorge<END> também, claro.        
+ Por outro lado, a escolha do <START:PESSOA_CARGO>presidente da Caixa Geral de Depósitos<END>  para presidir ao <START:ORGANIZACAO_EMPRESA>BCP<END> só pode igualmente ser obra do <START:PESSOA_INDIVIDUAL>Pai Natal<END> . <START:PESSOA_INDIVIDUAL>Carlos Santos Ferreira<END> é visto como o homem que vai trazer a concórdia para um banco que não vive em paz há muito - mesmo que o vá fazer à custa do banco do <START:ORGANIZACAO_ADMINISTRACAO>Estado<END> .        
+ Por isso, o <START:PESSOA_CARGO>ministro das Finanças<END> , que autorizou esta mudança sem pestanejar, também deve acreditar no <START:ABSTRACCAO_IDEIA>Pai Natal<END> . Não lhe passa pela cabeça que <START:PESSOA_INDIVIDUAL>Santos Ferreira<END> , com o que sabe da <START:ORGANIZACAO_EMPRESA>Caixa<END> , fique em excelente posição para ganhar quota de mercado ao banco público, que vai <START:TEMPO_TEMPO_CALEND>este ano<END> dar <START:VALOR_MOEDA>mais de 800 milhões<END> de lucros, dos quais <START:VALOR_MOEDA>400 milhões<END> vão direitinhos para os cofres do <START:ORGANIZACAO_ADMINISTRACAO>Estado<END> a título de <START:COISA_CLASSE>IRC<END> . Se <START:PESSOA_INDIVIDUAL>Santos Ferreira<END> tiver sucesso no <START:ORGANIZACAO_EMPRESA>BCP<END> , quem vai sofrer é a <START:ORGANIZACAO_EMPRESA>Caixa<END> - e, por tabela, todos nós, contribuintes. Porque quanto menos o <START:ORGANIZACAO_ADMINISTRACAO>Estado<END> receber de dividendos das empresas públicas, mais o <START:ORGANIZACAO_ADMINISTRACAO>Estado<END> será tentado a vir buscar-nos dinheiro aos bolsos.        
+ Por outras palavras, os únicos que não têm razões para acreditar no <START:ABSTRACCAO_IDEIA>Pai Natal<END> são os contribuintes portugueses.        
+ <START:PESSOA_INDIVIDUAL>Nicolau Santos<END>      
+
+  --DOCSTART--
+
+Telemoveis.com TV
+Escolher outra notícia
+Telemóveis vão ter domínio na <START:LOCAL_VIRTUAL>Net<END>
+<START:TEMPO_TEMPO_CALEND>2005-07-13<END>
+A decisão vem na sequência de vários pedidos de um grupo de operadores móveis e fabricantes de telemóveis, que criaram uma joint-venture» para estimular o aparecimento de sites destinados exclusivamente a estes equipamentos. E o <START:ORGANIZACAO_INSTITUICAO>ICANN<END> assincou já o acordo nesse sentido com a <START:ORGANIZACAO_EMPRESA>mTLD Top Level Domain<END>, que congrega a <START:ORGANIZACAO_INSTITUICAO>GSM Association<END>, a <START:ORGANIZACAO_EMPRESA>Microsoft<END>, fabricantes como a <START:ORGANIZACAO_EMPRESA>Nokia<END>, a <START:ORGANIZACAO_EMPRESA>Samsung<END> e a <START:ORGANIZACAO_EMPRESA>Ericsson<END> e operadores como a <START:ORGANIZACAO_EMPRESA>Vodafone<END>, a <START:ORGANIZACAO_EMPRESA>Telefónica Móviles<END>, a <START:ORGANIZACAO_EMPRESA>Hutchison 3<END> e a <START:ORGANIZACAO_EMPRESA>T-Mobile<END>.
+O objectivo desta iniciativa é fazer aumentar a utilização da  Internet  no telemóvel, funcionalidade ainda pouco utilizada, devido à escassez de sites e conteúdos adaptados aos equipamentos.
+Em princípio, o sufixo .mobi deverá ser integrado automaticamente nos endereços logo que o sistema detecte que o acesso está a ser efectuado via telemóvel.
+
+--DOCSTART--
+    
+ <START:PESSOA_GRUPOMEMBRO>Lobos<END> recebidos em apoteose        
+ <START:PESSOA_GRUPOMEMBRO>SELECÇÃO<END> DE REGRESSO APÓS BOA PRESTAÇÃO NO <START:ACONTECIMENTO_ORGANIZADO>MUNDIAL<END>        
+ Centenas de pessoas recepcionaram no  <START:LOCAL_HUMANO>Aeroporto<END> da <START:LOCAL_HUMANO>Portela<END> , num clima de enorme entusiasmo e euforia, a selecção portuguesa de râguebi. A boa prestação global da equipa no <START:ACONTECIMENTO_ORGANIZADO>Mundial<END> da modalidade, que ainda decorre em <START:LOCAL_HUMANO>França<END> , não passou despercebida em <START:LOCAL_HUMANO>Portugal<END> , embora "   <START:PESSOA_GRUPOMEMBRO>Os Lobos<END> " não tenham conseguido vencer um único jogo.        
+ Quando a comitiva portuguesa saiu na área de chegadas, <START:TEMPO_TEMPO_CALEND>por volta das 16.30 horas<END> , a agitação cresceu de tom, com a maioria dos adeptos a gritar o nome de <START:ABSTRACCAO_NOME>Portugal<END> de forma entusiasmada.        
+ <START:PESSOA_INDIVIDUAL>Vasco Uva<END> : «Honrámos o país»        
+ Um dos jogadores mais acarinhados pelos adeptos na chegada a <START:LOCAL_HUMANO>Lisboa<END> , o capitão <START:PESSOA_INDIVIDUAL>Vasco Uva<END> explicou por que houve uma empatia tão grande entre a selecção e uma fatia considerável do público português. "Foi a maneira como nos batemos, a maneira como fizemos honrar o <START:LOCAL_HUMANO>País<END> ", considerou, acrescentando que <START:TEMPO_GENERICO>o momento<END> mais emotivo que sentiu foi quando ouviu o hino nacional português no jogo de estreia dos " <START:PESSOA_GRUPOMEMBRO>Lobos<END> ", contra a <START:PESSOA_GRUPOMEMBRO>Escócia<END> , em <START:LOCAL_HUMANO>St. Etienne<END> . "Foi muito bom."      
+
+--DOCSTART--
+    
+ História protege <START:PESSOA_GRUPOMEMBRO>Briosa<END>        
+ CONIMBRICENSES VENCEU NA <START:LOCAL_HUMANO>FIGUEIRA DA FOZ<END> NAS DUAS ÚLTIMAS ÉPOCAS        
+ <START:ORGANIZACAO_INSTITUICAO>Naval<END> e <START:ORGANIZACAO_INSTITUICAO>Académica<END> não podem deixar <START:TEMPO_TEMPO_CALEND>amanhã<END> de olhar para a tradição. É que a <START:PESSOA_GRUPOMEMBRO>Briosa<END> venceu sempre na <START:LOCAL_HUMANO>Figueira da Foz<END> ( <START:TEMPO_TEMPO_CALEND>2005/06<END> : <START:VALOR_CLASSIFICACAO>1-0<END> e <START:TEMPO_TEMPO_CALEND>2006/07<END> : <START:VALOR_CLASSIFICACAO>1-0<END> ) mas, por outro lado, a <START:PESSOA_GRUPOMEMBRO>Naval<END> também costuma brilhar em <START:LOCAL_HUMANO>Coimbra<END> -- <START:TEMPO_TEMPO_CALEND>2005/06<END> : <START:VALOR_CLASSIFICACAO>2-2<END> e <START:TEMPO_TEMPO_CALEND>2006/07<END> : <START:VALOR_CLASSIFICACAO>2-1<END> ) e, <START:TEMPO_TEMPO_CALEND>neste momento<END> , até está mais bem posicionada na <START:ACONTECIMENTO_ORGANIZADO>Liga<END> .        
+ <START:TEMPO_TEMPO_CALEND>No ano passado<END> , <START:PESSOA_INDIVIDUAL>Joeano<END> marcou o golo do triunfo na <START:LOCAL_HUMANO>Figueira da Foz<END> , mas <START:PESSOA_INDIVIDUAL>Domingos<END> desvaloriza tudo isso. «A história nem sempre se repete e não há jogos iguais. Aliás, a <START:PESSOA_GRUPOMEMBRO>Naval<END> fez uma boa recuperação e vamos encontrar um adversário forte.» Para facilitar os índices de motivação, o técnico pede, na <START:LOCAL_HUMANO>Figueira da Foz<END> , «mais adeptos da <START:PESSOA_GRUPOMEMBRO>Académica<END> do que da <START:PESSOA_GRUPOMEMBRO>Naval<END> ».      
+
+  --DOCSTART--
+
+É nós na fita! A arte como espaço de reflexão.
+<START:PESSOA_INDIVIDUAL>Juliaura<END> · <START:LOCAL_HUMANO>Porto Alegre<END> (<START:LOCAL_HUMANO>RS<END>)
+Não creio que se deva dizer mais "A obra de arte como espaço de reflexão e não como retrato de um gueto, isolado, à parte do contexto geral da sociedade."
+Com a citação dessa frase de <START:PESSOA_INDIVIDUAL>Jessé Oliveira<END>, <START:PESSOA_INDIVIDUAL>Fabio Gomes<END> iniciou matéria de cobertura do <START:ACONTECIMENTO_ORGANIZADO>2º Encontro de Arte de Matriz Africana<END>, realizado <START:TEMPO_TEMPO_CALEND>de 12 a 16 de dezembro de 2007<END> no <START:LOCAL_HUMANO>Teatro de Arena<END> em <START:LOCAL_HUMANO>Porto Alegre<END>.
+Bem baixinho, só aqui pra nós do <START:PESSOA_GRUPOMEMBRO>Overmundo<END>, a cobertura é um espetáculo a mais, embora não fizesse parte da programação. Um estouro, como diz <START:PESSOA_INDIVIDUAL>vovó Marinalva<END>. 
+<START:PESSOA_INDIVIDUAL>Fabio<END> (ele não acentua o nome e que eu vou fazer com a proparoxítona relativa, a quebra de ditongo, o escambáu), pois o homem diz que <START:PESSOA_INDIVIDUAL>Jessé Oliveira<END> escreveu a frase "a propósito de justificar a escolha do texto <START:OBRA_REPRODUZIDA>Transegun<END>, de <START:PESSOA_INDIVIDUAL>Cuti<END>, como primeira peça montada pelo grupo <START:PESSOA_GRUPOMEMBRO>CaixaPreta<END>, criado <START:TEMPO_TEMPO_CALEND>em 2002<END> a partir da reunião de artistas negros atuantes em <START:LOCAL_HUMANO>Porto Alegre<END>. 
+Aí eu me derreti toda, por que tenho paixnão pelo <START:PESSOA_INDIVIDUAL>Cuti<END> desde que sentei no colo dele. Calma pessoal, calminha aí. Eu tinha dois aninhos de idade, quando ele participou em um encontro em <START:LOCAL_HUMANO>Porto<END>, na <START:LOCAL_HUMANO>Câmara de Vereadores<END>, e "<START:PESSOA_INDIVIDUAL>Papá<END> estava lá comigo e eu só queria saber do colo do moço lindão, conforme a resenha da época. Não vamos desviar do assunto que quer tratar é da presença nossa, humana, nos palcos da vida.
+É disso mesmo, de diálogo e reflexão que se falou um tantão da abertura ao encerramento do encontro. <START:PESSOA_INDIVIDUAL>Fabio<END> diz que foi assim no monólogo Madrugada, me Proteja , também de <START:PESSOA_INDIVIDUAL>Cuti<END>, interpretado <START:TEMPO_TEMPO_CALEND>no sábado, 15<END>, pelo ator <START:PESSOA_INDIVIDUAL>Sílvio Ramão<END>; na única atração musical do <START:ACONTECIMENTO_ORGANIZADO>Encontro<END>, o show <START:ACONTECIMENTO_EVENTO>Epahei!<END>, da cantora e compositora <START:PESSOA_INDIVIDUAL>Karine Cunha<END>, <START:TEMPO_TEMPO_CALEND>na quinta, 13<END>, de quem nem vou falar muito porque vira prosa de fã e não tô aqui pra torrar vocês com meu gostinho particular e sim pra reportar as coisas como foram vistas pelo <START:PESSOA_INDIVIDUAL>Fabio<END>, né?
+Diz ele:
+Em <START:LOCAL_VIRTUAL>Madrugada<END>..., <START:PESSOA_INDIVIDUAL>Sílvio<END> vive um negro de alta classe média que, julgando-se inalcançável pela insegurança que (infelizmente) tem sido a marca das noites nas grandes cidades, é humilhado durante um assalto. Já o show de <START:PESSOA_INDIVIDUAL>Karine<END> se apoiou nas canções em homenagem a diversos orixás que estruturam seu segundo CD, <START:OBRA_REPRODUZIDA>Epahei!<END>, lançado <START:TEMPO_TEMPO_CALEND>em agosto<END>. (Palhinha dela no linque, di grátis)
+O <START:PESSOA_INDIVIDUAL>Fabio<END> contou que um destaque do <START:ACONTECIMENTO_ORGANIZADO>Encontro<END> foi a apresentação <START:TEMPO_TEMPO_CALEND>na sexta, 14<END>, da peça <START:OBRA_REPRODUZIDA>Taba-Taba<END>, texto do francês <START:PESSOA_INDIVIDUAL>Bernard Koltès<END>, que marca a estréia da atriz <START:PESSOA_INDIVIDUAL>Renata de Lélis<END> na direção. 
+Teve também "<START:ACONTECIMENTO_EVENTO>Sortilégio Negro<END>, de <START:PESSOA_INDIVIDUAL>Abdias do Nascimento<END>, fundador do <START:ABSTRACCAO_DISCIPLINA>Teatro Experimental do Negro<END> (<START:ABSTRACCAO_DISCIPLINA>TEN<END>), referência histórica assumida pelo <START:ABSTRACCAO_DISCIPLINA>CaixaPreta<END> já <START:TEMPO_TEMPO_CALEND>na época<END> do lançamento de <START:OBRA_REPRODUZIDA>Transegun<END>. E recital de poemas de <START:PESSOA_INDIVIDUAL>Oliveira Silveira<END> que já nos foi muito bem apresentado aqui nas nossas overmundanas paragens pelo meu poeta querido dos mais mais.
+Aquela história da presença nossa nos palcos, nós na cena, nós brilhando, nós dirigindo, nós na fita foi assunto a partir da trajetória de <START:PESSOA_INDIVIDUAL>Abdias<END> e do <START:ABSTRACCAO_DISCIPLINA>TEN<END>, temas abordados na única palestra do <START:ACONTECIMENTO_ORGANIZADO>Encontro<END>, feita pela atriz <START:PESSOA_INDIVIDUAL>Vera Lopes<END>.
+Uma das fundadoras do <START:ABSTRACCAO_DISCIPLINA>CaixaPreta<END>, <START:PESSOA_INDIVIDUAL>Vera<END> falou, segundo <START:PESSOA_INDIVIDUAL>Fabio<END>, que não consegue entender porque alguns consideram a arte européia como superior, dando como exemplo que o teatro grego surgiu a partir de ritos - em que animais sacrificados eram oferecidos <START:PESSOA_INDIVIDUAL>Dionísio<END> - muito semelhantes às oferendas dos cultos afro-brasileiros para os orixás.
+<START:PESSOA_INDIVIDUAL>Vera Lopes<END> deixou o povo presente acabrunhado quando protestou firme porque não consta imagem alguma do teatro africano num dos raros livros brasileiros que falam do assunto - <START:OBRA_REPRODUZIDA>História do Teatro<END> (<START:TEMPO_TEMPO_CALEND>1978<END>), de <START:PESSOA_INDIVIDUAL>Nélson Araújo<END>. 
+Eu, meio miolo mole até nem sei porque um estudo sério, em profundidade sobre a questão esqueceu esse detalhezinho. Vai ver que... Ah! Não pode ser por...
+Será?
+Deixemos esse outro assunto sério para lá, amizades.
+O final do <START:ACONTECIMENTO_ORGANIZADO>2º Encontro de Arte de Matriz Africana<END> teve a apresentação de <START:OBRA_REPRODUZIDA>Hamlet Sincrético<END>. Golaço da produção, conforme <START:PESSOA_INDIVIDUAL>Fábio Gomes<END>. 
+Para ele a peça dirigida por <START:PESSOA_INDIVIDUAL>Jessé Oliveira<END> é "primorosa; a montagem relê o clássico a partir de uma estética negra, com elementos da cultura afro-brasileira ajudando a contar a história imortalizada por <START:PESSOA_INDIVIDUAL>William Shakespeare<END>. É notável o equilíbrio que <START:PESSOA_INDIVIDUAL>Jessé<END> conseguiu ao mesclar todos estes elementos". 
+E segue:
+- Cada personagem encarna um tipo ou um mito da cultura negra, em especial das religiões afro-brasileiras: <START:PESSOA_INDIVIDUAL>Hamlet<END> é <START:PESSOA_INDIVIDUAL>Xangô<END>; o <START:PESSOA_INDIVIDUAL>rei Cláudio<END>, <START:PESSOA_INDIVIDUAL>Zé Pelintra<END>; e <START:PESSOA_INDIVIDUAL>Polônio<END>, um ex-babalorixá que se tornou pastor evangélico. A música ao vivo (o próprio elenco manda ver em cânticos de umbanda, sambas, hip-hop, ladainhas de capoeira e até cantos evangélicos), além de ajudar a contar a história, torna o nível de comunicação do espetáculo com a platéia algo digno de nota.  
+
+  --DOCSTART--
+
+<START:OBRA_PLANO>Protocolo de Quioto<END> 
+<START:OBRA_PLANO>Decreto 7/2002<END>, <START:TEMPO_TEMPO_CALEND>de 25 de Março<END> que aprova o <START:OBRA_PLANO>Protocolo de Quioto<END> à <START:OBRA_PLANO>Convenção Quadro das Nações Unidas sobre Alterações Climáticas<END> 
+Documentos relacionados com o <START:OBRA_PLANO>PNALE<END>
+Decisão da <START:ORGANIZACAO_ADMINISTRACAO>Comissão Europeia<END> sobre o <START:OBRA_PLANO>PNALE<END> português
+Comunicado de imprensa da <START:ORGANIZACAO_ADMINISTRACAO>COMISSÃO<END> - "Comércio de Emissões: a <START:ORGANIZACAO_ADMINISTRACAO>Comissão<END> deu o seu aval a mais oito planos, abrindo caminho para o início do Comércio de Emissões na data prevista" (IP/04/1250)
+<START:OBRA_PLANO>Plano Nacional de Atribuição de Licenças de Emissão<END> - <START:OBRA_PLANO>PNALE 2005-2007<END>  (versão notificada à <START:ORGANIZACAO_ADMINISTRACAO>Comissão Europeia<END>)
+<START:OBRA_PLANO>PNALE 2005-2007 - Relatório da Consulta Pública <END> 
+<START:OBRA_PLANO>Metodologia de Atribuição de Licenças de Emissão - PNALE 2005-2007<END>  
+Documentos relacionados com o Comércio Europeu de Licenças de Emissão
+ Directiva 2003/87/CE do <START:ORGANIZACAO_ADMINISTRACAO>Parlamento Europeu<END> e do <START:ORGANIZACAO_ADMINISTRACAO>Concelho<END>, <START:TEMPO_TEMPO_CALEND>de 13 de Outubro de 2003<END>, relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na <START:LOCAL_HUMANO>Comunidade<END> e que altera a Directiva 96/61/CE do <START:ORGANIZACAO_ADMINISTRACAO>Conselho<END> 
+<START:OBRA_PLANO>Decreto-Lei n.º 233/2004<END>, <START:TEMPO_TEMPO_CALEND>de 14 de Dezembro<END>, alterado pelo <START:OBRA_PLANO>Decreto-Lei n.º 243-A/2004<END>, <START:TEMPO_TEMPO_CALEND>de 31 de Dezembro<END>, que estabelece o regime de comércio de licenças de gases com efeito de estufa na <START:LOCAL_HUMANO>União Europeia<END>
+<START:OBRA_PLANO>Decisão da Comissão n.º 156/2004<END>, <START:TEMPO_TEMPO_CALEND>de 29 de Janeiro de 2004<END>, que estabelece orientações para a monitorização e comunicação de informações relativas às emissões de gases com efeito de estufa
+Regulamento (CE) n.º 2216/2004 da <START:ORGANIZACAO_ADMINISTRACAO>Comissão<END> <START:TEMPO_TEMPO_CALEND>de 21 de Dezembro de 2004<END>, relativo a um sistema de registos normalizado e protegido em conformidade com a <START:OBRA_PLANO>Directiva 2003/87/CE<END> do <START:ORGANIZACAO_ADMINISTRACAO>Parlamento Europeu<END> e do <START:ORGANIZACAO_ADMINISTRACAO>Conselho<END> e a <START:OBRA_PLANO>Decisão n.º 280/2004/CE<END> do <START:ORGANIZACAO_ADMINISTRACAO>Parlamento Europeu<END> e do <START:ORGANIZACAO_ADMINISTRACAO>Conselho<END>
+International Emissions Trading Association, "Guidelines for an accredited verification system of the greenhouse gas emissions within the EU Emissions Trading Scheme" (em inglês)
+ <START:OBRA_PLANO>Directiva 2004/101/CE<END> do <START:ORGANIZACAO_ADMINISTRACAO>Parlamento Europeu<END> e do <START:ORGANIZACAO_ADMINISTRACAO>Conselho<END>, <START:TEMPO_TEMPO_CALEND>de 27 de Outubro de 2004<END>, que altera a <START:OBRA_PLANO>Directiva 2003/87/CE<END> relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na <START:LOCAL_HUMANO>Comunidade<END>, no que diz respeito aos mecanismos baseados em projectos do <START:OBRA_PLANO>Protocolo de Quioto<END>

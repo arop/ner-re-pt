@@ -1,44 +1,276 @@
 --DOCSTART--
- Sistema de Posicionamento Global        
- O Sistema de Posicionamento Global , vulgarmente conhecido por GPS (do acrónimo do inglês Global Positioning System ), é um sistema de posicionamento por satélite americano, por vezes incorrectamente designado de sistema de navegação, utilizado para determinação da posição de um receptor na superfície da <START:LOCAL_FISICO_PLANETA> Terra <END> ou em órbita.
-Existem atualmente dois sistemas efetivos de posicionamento por satélite; o GPS americano e o Glonass russo; também existem mais dois sistemas em implantação; o Galileo europeu e o Compass chinês.
-O sistema GPS foi criado e é controlado pelo    Departamento de Defesa   dos   <START:LOCAL_HUMANO_PAIS> Estados Unidos da América <END>  , DoD , e pode ser utilizado por qualquer pessoa, gratuitamente, necessitando apenas de um receptor que capte o sinal emitido pelos satélites.
-O DoD fornece dois tipos de serviços GPS : Standard e Precision .
-Contrariamente ao que inicialmente acontecia, actualmente os dois serviços estão disponíveis em regime aberto em qualquer parte do mundo.
-O sistema está dividido em três partes: espacial, de controlo e utilizador.
-O segmento espacial é composto pela constelação de satélites.
-O segmento de controlo é formado pelas estações terrestres dispersas pelo mundo ao longo da <START:LOCAL_FISICO_REGIAO> Zona Equatorial <END> , responsáveis pela monitorização das órbitas dos satélites, sincronização dos relógios atómicos de bordo dos satélites e actualização dos dados de almanaque que os satélites transmitem.
-O segmento do utilizador consiste num receptor que capta os sinais emitidos pelos satélites.
-Um receptor GPS ( GPSR ) descodifica as transmissões do sinal de código e fase de múltiplos satélites e calcula a sua posição com base nas distâncias a estes.
-A posição é dada por latitude, longitude e altitude, coordenadas geodésicas referentes ao sistema WGS84 .
+TERROR, POP ART E CONTRACULTURA    
+ A história dos quadrinhos, de Bill Gaines a Roy Lichtenstein        
+ Por Vladimir Cunha (yoyodine@hotmail.com)        
+ <START:TEMPO_TEMPO_CALEND_DATA> Até 1947 <END> , o jovem William M.Gaines não passava de um bon-vivant dedicado única e exclusivamente às coisas boas do mundo.
+Mas só <START:TEMPO_TEMPO_CALEND_DATA> até 1947 <END> , pois <START:TEMPO_TEMPO_CALEND_DATA> naquele mesmo ano <END> sua vida mudaria drasticamente após a morte de sua mãe num acidente de barco.
+Profundamente abatido com a tragédia, seu pai, Max Gaines , resolveu retirar-se dos negócios e passou para o filho a missão de tocar adiante a empresa da família, a editora de quadrinhos religiosos Educational Comics .
+O único problema é que quadrinhos religiosos não eram exatamente um gênero de sucesso entre a molecada, que preferia as aventuras do Capitão América às adaptações carolas de passagens do Novo Testamento , daí ser compreensível que a Educational Comics estivesse em sérias dificuldades financeiras.
+Entretanto, o destino de Gaines tomaria um rumo inesperado quando ele cruzou o caminho de Al Feldstein , um talentoso artista freelancer em começo de carreira e que, assim como o ex-playboy, adorava aventuras de terror e mistério.
+Descobertas as afinidades, a dupla juntou as forças e criou duas histórias: A Cripta do Terror e A Câmara do Horror .
+E já que pior do que estava não podia ficar, Gaines aproveitou a editora que herdara do pai e lançou os dois títulos no mercado.
+Nasciam aí os quadrinhos de terror e a lendária EC Comics .
+A publicação bolada por Gaines e Feldstein , batizada com o apropriado título de Tales From the Crypt , tornou-se um sucesso espetacular entre crianças e adolescentes e motivo de choque para os norte-americanos adultos.
+Jamais o cidadão comum - classe média, branco, suburbano e fiel defensor do American Way of Life como o caminho mais curto para o Paraíso - iria permitir que seus filhos passassem o tempo lendo histórias sobre aberrações, trapaças, assassinatos, bruxaria, exorcismo e magia-negra.
+O mundo permitido era aquele idealizado nas pinturas de Norman Rockwell , do garoto loiro de cabelo escovinha, das ceias do Dia de Ação de Graças  e das bandeirantes de rosto corado.
+A América mergulhava no sonho da prosperidade capitalista, numa vida melhor através da química e no seu estabelecimento como superpotência econômica e militar.
+Encarar o lado feio e bizarro da vida não estava nos planos de ninguém.
+Exceto da molecada, que, dos cafundós do <START:LOCAL_HUMANO_DIVISAO> Arkansas <END> ao centro de <START:LOCAL_HUMANO_DIVISAO> Nova Iorque <END> , fazia a fortuna de Gaines comprando qualquer coisa que tivesse o selo EC Comics estampado na capa.
+Isso aconteceu porque Bill Gaines criou uma identificação imediata com o público ao se apropriar da linguagem radiofônica - todas as histórias eram apresentadas por um narrador, geralmente o Zelador da Cripta , a Bruxa Velha ou o Guardião da Câmara - e também porque arrebanhou um time de artistas de primeira para atingir, nas páginas da revista, o clima de demência que as histórias pediam.
+Assim como Will Eisner , os desenhistas Jack Davis , Frank Frazetta , Johnny Craig e Graham "Ghastly" Ingels tinham um traço sombrio e carregado de dramaticidade.
+Houve também tendência em distorcer certas expressões faciais na tentativa de transpor para o papel a loucura interna de cada personagem.
+Tales From The Crypt impressionava também por sua logomarca ao mostrar a palavra " Crypt " grafada de tal forma que dava a impressão de estar apodrecendo.
+O sucesso da EC Comics nas bancas, levou Gaines a ampliar sua linha de "produtos".
+Na esteira do sucesso de Tales From The Crypt , foram lançados The Vault Of Horror , Crime SuspenStories , The Haunt of Fear e Shock SuspenStories .
+Aproveitando a maré boa, Gaines adaptou as histórias do conhecido autor Ray Bradbury e jogou no mercado Weird Science e Weird Fantasy , publicações que misturavam suspense e terror a uma ficção científica um pouco mais pessimista, semelhante a de escritores como Phillip K.Dick e William Gibson .
+Não contente em se tornar o novo rei dos quadrinhos - desbancado as HQs de super-hérois, que, depois de Tales From The Crypt , entraram em decadência - Gaines aventurou-se pelo campo do humor.
+<START:TEMPO_TEMPO_CALEND_DATA> Em 1952 <END> chegava às bancas a MAD Magazine , o mais novo empreendimento da EC Comics , editada pelo escritor e desenhista Harvey Kurtzman .
+O grande mérito da MAD Magazine trazer para as HQs um humor anárquico, satírico e, principalmente, judeu.
+Ainda em sua primeira fase - reconhecidamente a melhor de todas - ela destruiu sem dó nem piedade todo e qualquer ícone da cultura de massa norte-americana.
+Flash Gordon virou Flesh Garden ( Jardim de Carne ), um brutamontes com zero de QI  , e Batman foi transformando em um anão vampiro que vivia tentando agarrar a Mulher Maravilha .
+São notáveis também as sátiras feitas ao Superman ( Superduperman e a charge   Supermarket , sobre um supermercado exclusivo para heróis) e as adaptações de contos de fadas, todas elas temperadas por uma certa dosa de perversão sexual.
+A MAD merece ainda um capítulo à parte sobre sua produção gráfica, pois foi nela que floresceu o talento de Wallace Wood ; Basil Wolverton , especialista em desenhar monstros deformados, e Bill Elder , os responsáveis pela "cara" da fase clássica da revista.
+Para se ter uma idéia de como a coisa era pesada para época, o slogan da MAD era uma provocação absurda: "MAD Magazine: Humor In a Jugular Vein!!
+", frase que, nos anúncios da revista, aparecia escrita sob uma Monalisa deformada criada por Basil Wolverton .
+A festa duraria pouco e, logo, a década de 50 seria conhecida como um dos períodos mais sem-graça da história das HQs .
+Apesar de algumas coisas maravilhosas, como Pogo , de Walt Kelly , e Ferdinando , as histórias em quadrinhos sofreram um duro golpe com o surgimento do macarthismo, da paranóia anti-comunista e com a publicação de A Seducao dos Inocentes - livro do psiquiatra Frederic Werthan sobre os "malefícios" das HQs .
+Entre outras coisas, Dr. Werthan , "provava" que Batman e Robin mantinham um ardoroso caso homossexual:        
+ " Constantemente eles se salvam um ao outro de ataques violentos de um número sem-fim de inimigos.
+Transmite-se a sensação de que nós, homens, devemos nos manter juntos porque há muitas criaturas malvadas que têm que ser exterminadas... Às vezes , Batman acaba numa cama, ferido, e mostra-se o jovem Robin sentado ao seu lado.
+Em casa, levam uma vida idílica.
+São Bruce Wayne e Dick Grayson .
+Bruce é descrito como um grã-fino e o relacionamento oficial é que Dick é pupilo de Bruce .
+Vivem em aposentos suntuosos com lindas flores em grandes vasos... Batman é, às vezes , mostrado num robe de chambre...é como um sonho de dois homossexuais vivendo juntos".
+Dr. Frederick Werthan - The Seduction of the Inocents        
+ Impelido pela caça às bruxas do Senador Joseph MacCarthy - cujo alvo foi, principalmente, atores, roteiristas e diretores de <START:LOCAL_HUMANO_DIVISAO> Hollywood <END> acusados de comunismo - e o livro do Dr. Werthan , o governo norte-americano tentou acabar com todo o tipo de publicação cujo conteúdo fosse considerado "imoral" ou "impróprio".
+A primeira a dançar foi a EC Comics .
+Todos seus títulos foram proibidos e a MAD passou a pegar menos pesado em suas sátiras e mudou de formato para poder continuar nas bancas.
+Outro caso célebre foi a perseguição que o criador de Ferdinando , All Capp , sofreu por causa de uma história sobre os schmoos, um bichinho fictício semelhante a uma foca que se proliferava à velocidade da luz e tinha uma carne deliciosa, além de dar leite e pôr ovos.
+Na história, os Estados Unidos entram em polvorosa porque ninguém mais queria trabalhar, já que todo mundo tinha um schmoo em casa e não passava mais fome.
+Por isso, o schmoos foram considerados pelo governo como uma apologia ao comunismo e All Capp teve que tirá-los das aventuras de   Ferdinando .
+O resultado mais triste da paranóia do Senador MacCarthy e do chefe do FBI  , J Edgar Hoover , foi a criação do Comics Code , aquele selinho encontrado em todas as revistas comercializadas nos <START:LOCAL_HUMANO_PAIS> EUA <END> .
+Sem ele, as publicações de quadrinhos não poderiam ser vendidas, o que levou as editoras a implantar a censura interna, acabando assim com a liberdade de criação de seus artistas.
+Apesar de algumas coisas legais aqui e ali, as HQs só saíram do marasmo <START:TEMPO_TEMPO_CALEND_DATA> no começo dos anos 60 <END> após o surgimento da literatura beat e das primeiras manifestações da contracultura.
+Criado em <START:LOCAL_HUMANO_DIVISAO> São Francisco <END> , o movimento dos Comix deu um novo impulso criativo aos quadrinhos.
+Primeiro porque seus integrantes estavam num desbunde total e não estavam nem aí para a rígida moral norte-americana.
+Segundo porque as revistas dos Comix não eram vendidas em bancas e sim em lojinhas hippies, cujos donos não queriam nem saber se as ditas-cujas tinham ou não o famigerado Comics Code Aproval .
+É um período marcado pela negação à linguagem formal das HQs .
+Nos comix, por muitas vezes não havia uma seqüência lógica na narrativa.
+Uma historia poderia ser interrompida para dar vazão a algum experimentalismo gráfico ou não ter exatamente um roteiro.
+Poderiam ainda ser ácidas e demolidoras - como as notórias edições de Air Pirates , de Dan O'Neil e Ted Richards , nas quais Mickey e Minie Mouse apareciam fazendo toda espécie de loucuras sexuais - ou simplesmente desagradáveis, principalmente em alguns momentos mais escatológicos da Zap Comix , a primeira publicação underground do planeta.
+Entre os nomes do quadrinho underground, destacam-se Robert Crumb , Gilbert Shelton , Robert Williams , Skip Williamson e Ricky Griffin , litografista que fez a cabeça de toda uma geração com sua arte psicodélica e posters de Carlos Santana , The Doors e Gratefull Dead .
+Os comix atraíram também uma parcela considerável de artistas da velha guarda.
+Cansado da censura do Comics Code e empolgado com o movimento, Will Eisner lança um gênero inédito: as novelas gráficas ( Um Contrato com Deus e O Edifício ), uma mistura de literatura e quadrinhos com uma linguagem mais madura e bem mais experimental do que a usada na HQ tradicional.
+Outro veterano a pedir uma vaga no porão do quadrinho underground foi Harvey Kurtzman .
+À margem da indústria desde a instituição do Comics Code , ele voltou à cena com a revista Help , uma versão ainda mais pirada da MAD Magazine .
+Junto com ele vieram os bons companheiros de EC Comics Bill Elder e Wallace Wood , que, <START:TEMPO_TEMPO_CALEND_DATA> nesse período <END> , deu ao mundo a memorável My World , uma fábula pessoal sobre a decadência moral dos Estados Unidos .
+--DOCSTART--
+
+Autor Mensagem
+joseep
+<START:LOCAL_VIRTUAL_SITIO> Site Admin <END> 
+Registo: <START:TEMPO_TEMPO_CALEND_DATA> 12 Apr 2005 <END>
+Mensagens: 4
+Local/Origem: <START:LOCAL_HUMANO_DIVISAO> Lisboa <END> ( <START:LOCAL_HUMANO_PAIS> Portugal <END> )
+Colocada: <START:TEMPO_TEMPO_CALEND_DATA> Quarta-feira Maio 04, 2005 <END> <START:TEMPO_TEMPO_CALEND_HORA> 23:36 <END> Assunto: Como efectuar um Registo (tem vantagens)
+Gostaria muito, que os Acólitos, se registassem no forum, de modo a ser algo organizado, principalmente os da AAPSE e é muito simples, querem ver.
+1º-Vão ao cabeçalho, onde estão várias teclas, uma delas REGISTAR-SE, e seleccionam.
+2º- Aceitam o contrato,
+3º Preenchem o que acharem necessário e SUBMETEM (NAO ESQUECER USERNAME, PASS e vosso e-mail).
+4º Vão ao vosso e-mail, que colocaram no registo, e vão ver que receberam um novo mail, abrem e carregam no link para concluir o registo (PASSO MUITO IMPORTANTE, dúvidas contactem-me)
+5º - Quando acederem ao forum da próxima vez vão a ENTRAR (em cima) e digitam o vosso USERNAME e PASS.
+Qualquer dúvida contactem!
+_________________
+Um abraço,
+José Eduardo Pires
+Ass.
+de Acólitos da Paróquia de Santo Eugénio  
+
+--DOCSTART--
+
+ <START:LOCAL_HUMANO_DIVISAO> Lisboa <END> - <START:LOCAL_HUMANO_DIVISAO> Dakar <END> : Carlos Sousa ambiciona pódio
+PILOTO PORTUGUÊS NÃO ESCONDE DESEJO E ELOGIA ORGANIZAÇÃO
+O piloto português Carlos Sousa revelou que tem "capacidade para chegar ao pódio" dos automóveis na edição <START:TEMPO_TEMPO_CALEND_DATA> de 2008 <END> do  <START:LOCAL_HUMANO_DIVISAO> Lisboa <END> - <START:LOCAL_HUMANO_DIVISAO> Dakar <END> cujo percurso foi <START:TEMPO_TEMPO_CALEND_DATA> hoje <END> apresentado em <START:LOCAL_HUMANO_DIVISAO> Lisboa <END> .
+Carlos Sousa acredita que <START:TEMPO_TEMPO_CALEND_DATA> este ano <END> o rali vai ser mais duro.
+"Vai ser um percurso para os mais resistentes.
+É mais difícil, mais exigente e as coisas entre os mais rápidos vão ser decididas ao segundo", afirmou o piloto da Lagos Team, que vai conduzir um Volkswagen Touareg idêntico aos de fábrica.
+Apesar de ambicionar um lugar nos três primeiros, o piloto sabe que a concorrência é apertada e que não vai ser fácil: "Há 15 ou mais pilotos com hipóteses de chegar à vitória e ao pódio.
+As coisas vão ficar mais interessantes para quem vir o rali em casa ou pela <START:LOCAL_VIRTUAL_SITIO> Internet <END> , mas para os pilotos vai ser uma luta <START:TEMPO_TEMPO_CALEND_DATA> até ao último dia <END> ".
+O português, que nas últimas três edições foi sempre sétimo classificado, sofreu uma lesão cervical <START:TEMPO_TEMPO_CALEND_DATA> em Setembro <END> .
+No entanto, já está a treinar a bom ritmo e garantiu que estará nas melhores condições <START:TEMPO_TEMPO_CALEND_DATA> dentro de mês e meio <END> , quando começar o rali.
 --DOCSTART--
     
- Reino Unido quer proibir Tintim        
- <START:TEMPO_TEMPO_CALEND_DATA> 12/Julho/2007 <END> · 182 Comentários        
- A Comissão pela Igualdade Racial , do governo britânico, pediu que as livrarias interrompam a venda de Tintim na África  , segundo álbum em quadrinhos de uma das séries mais populares do mundo.
-O livro é racista.
-Profundamente racista.
-Colonialista ao limite.
-Publicado <START:TEMPO_TEMPO_CALEND_DATA> em 1930 <END> , em Tintin au Congo  negros são burros qual portas e são chamados de macacos.
-O álbum não é sequer particularmente bom: é uma obra menor na coleção ilustrada e redigida por Georges Remi , que se assinava Hergé .
-No <START:LOCAL_HUMANO_PAIS> Reino Unido <END> , Tintim na África  é vendido entre os livros adultos, não entre os juvenis, justamente por conta do conteúdo racista.
-Traz na capa um alerta.
-Já velho, antes de morrer, Hergé falou da obra.
-"Quando jovem, disse, "fui muito influenciado pelos preconceitos e estereótipos burgueses do tempo.
-Ele listava Tintim na África  entre seus pecados de juventude.
-Hergé é autor de algumas das coisas mais geniais e profundas da história dos quadrinhos.
-Inclua-se na lista sua obra prima, Tintim no Tibete , na qual o jovem repórter embrenha-se pelas montanhas geladas na tentativa de encontrar Chang , seu amigo chinês, único sobrevivente de um acidente de avião.
-O livro, <START:TEMPO_TEMPO_CALEND_DATA> de 1960 <END> , é místico, orientalizado, respeitoso - tolerante e fascinado com o encontro de culturas distintas.
-O governo britânico não está censurando: pede que as livrarias cooperem interrompendo a venda.
-Tintim na África  faz parte de uma coleção de 23 álbuns.
-Se é mais imaturo - e é - também é um retrato de como a burguesia européia via o resto do mundo <START:TEMPO_TEMPO_CALEND_DATA> nos anos 1930 <END> .
-Se o racismo nos incomoda <START:TEMPO_TEMPO_CALEND_DATA> hoje <END> , se mesmo racistas envergonham-se de demonstrar o que pensam, é por conta de tragédias e lutas que, entre o Holocausto e Luther King , remodelaram nossa percepção do mundo.
-Esquecer que o racismo era natural <START:TEMPO_TEMPO_CALEND_DATA> há oitenta anos <END> é desdenhar do esforço envolvido em dominá-lo.
-Se deixamos de ler os registros cotidianos <START:TEMPO_TEMPO_CALEND_DATA> daquele tempo <END> - como Tintim na África  -, estimulamos este esquecimento.
-Nenhuma obra deve ser lida ignorando a época na qual foi escrita.
-O intervalo entre Tintim na África  e Tintim no Tibete  mostra ao leitor de Hergé a mudança do autor.
-Certamente ele não seria lembrado se tivesse deixado apenas aqueles primeiros álbuns.
-Mas como cresceu entre um e outro.
+ COISAS DA SÁBADO  : A DIFERENÇA ENTRE O JORNAL DE NOTÍCIAS E O DIÁRIO DE NOTÍCIAS        
+ <START:TEMPO_TEMPO_CALEND_DATA> No dia <END> em que a operação « Noite Branca » começou a prender suspeitos de serem responsáveis pelo clima de violência no <START:LOCAL_HUMANO_DIVISAO> Porto <END> , a comparação entre um jornal de <START:LOCAL_HUMANO_DIVISAO> Lisboa <END> , o Diário de Notícias , e um do <START:LOCAL_HUMANO_DIVISAO> Porto <END> , o Jornal de Notícias , <START:TEMPO_TEMPO_CALEND_DATA> no mesmo dia 17 de Dezembro <END> , não podia ser mais significativa.
+O  Diário de Notícias  falava das biografias e do background dos detidos, fazendo nota, como é óbvio, do seu profundo envolvimento com a claque do FCP , os Super Dragões .
+Na verdade nenhum destes homens se tornou conhecido por ser segurança na noite, nem por frequentar ginásios e mesmo as suas páginas e vídeos guerreiros (*) nunca tinham merecido muita atenção.
+Onde eles apareciam era à frente da claque em filmes (a SIC mostrou-os) e em fotos de segurança aos dirigentes do clube.
+No <START:LOCAL_VIRTUAL_COMSOCIAL> Jornal de Notícias <END> tudo isto é cuidadosamente omitido e os presos aparecem sem biografia, ou apenas com uma referência casual e singular a essa pertença.
+De facto, o Jornal de Notícias parece ser um jornal do <START:LOCAL_HUMANO_PAIS> Casaquistão <END> tal é a ignorância do que se passa à sua volta.
+Mas não é, é mesmo do <START:LOCAL_HUMANO_DIVISAO> Porto <END> e esse é que é o problema: é do <START:LOCAL_HUMANO_DIVISAO> Porto <END> e cala.
+--DOCSTART--
+    
+ Euro segue em alta face ao dólar        
+ O euro segue a reforçar os ganhos em relação à divisa dos Estados Unidos <START:TEMPO_TEMPO_CALEND_DATA> esta segunda-feira <END> , cotando sobre 1,474 dólares , seis cêntimos acima dos máximos da sessão anterior.
+A tendência reflecte as perspectivas do mercado de uma nova descida nas taxas de juro da    Reserva Federal   dos   <START:LOCAL_HUMANO_PAIS> EUA <END>  com o objectivo de inverter o cenário de abrandamento da economia.
+Por outro lado, números do Fundo Monetário Internacional divulgados <START:TEMPO_TEMPO_CALEND_DATA> na passada sexta-feira <END> indicam que a divisa europeia já pesa 26,4% do total das reservas externas em todo mundo <START:TEMPO_TEMPO_CALEND_DATA> no terceiro trimestre <END> , mais do que <START:TEMPO_TEMPO_CALEND_DATA> no trimestre anterior <END> e a comparar com 24,4% <START:TEMPO_TEMPO_CALEND_DATA> um ano antes <END> .
+<START:TEMPO_TEMPO_CALEND_DATA> Na passada sexta-feira <END> , o Banco Central Europeu ( BCE ) fixou a taxa de câmbio oficial a 1,4692 dólares , um valor que corresponde a mais 17% face ao câmbio média calculado <START:TEMPO_TEMPO_CALEND_DATA> para 2006 <END> , quando a moeda única europeia se fixou em 1,2556 dólares , segundo dados do BCE para a média anual.
+--DOCSTART--
+
+Camacho ganhou sempre a Jesualdo mas não ao FC Porto
+AS ESTATÍSTICAS DO CLÁSSICO DE SÁBADO QUANTO À LIGA 
+Se as estatísticas quiserem dizer alguma coisa, Camacho pode encarar o clássico <START:TEMPO_TEMPO_CALEND_DATA> de sábado <END> com optimismo.
+O espanhol soma por vitórias os 3 jogos frente a Jesualdo Ferreira, técnico ao qual sucedeu no comando do Benfica, <START:TEMPO_TEMPO_CALEND_INTERVALO> em 2002/2003 <END> .
+No entanto, há outra leitura que tem de ser feita: o espanhol jamais venceu o FC Porto para o campeonato.
+Em três "duelos", face a Jesualdo, então ao comando do Sp.Braga, Camacho venceu por duas vezes como visitante (3-1 <START:TEMPO_TEMPO_CALEND_INTERVALO> em 2002/2003 <END> e 3-0 <START:TEMPO_TEMPO_CALEND_INTERVALO> em 2003/2004 <END> ) e uma como anfitrião (2-0 <START:TEMPO_TEMPO_CALEND_INTERVALO> em 2003/2004 <END> ).
+O espanhol está 100 por cento vitorioso face a Jesualdo, mas nunca enceu o FC Porto para o campeonato, tendo como melhor registo o empate na <START:LOCAL_HUMANO_CONSTRUCAO> Luz <END> , <START:TEMPO_TEMPO_CALEND_INTERVALO> em 2003/2004 <END> (1-1).
+Na mesma temporada, Camacho perdeu no <START:LOCAL_HUMANO_CONSTRUCAO> FC Porto <END> por 2-0 e, na anterior, já tinha perdido em casa por 1-0.
+No entanto, pesar de não ter qualquer triunfo no campeonato, o espanhol conquistou frente aos "dragões" o único título da sua carreira.
+<START:TEMPO_TEMPO_CALEND_DATA> A 16 de Maio de 2004 <END> , na final da  Taça de <START:LOCAL_HUMANO_PAIS> Portugal <END> , o FC Porto adiantou-se, por Derlei, mas o grego Fyssas empatou e, no prolongamento, Simão derrotou o "onze" de José Mourinho, que,  <START:TEMPO_TEMPO_CALEND_DATA> 10 dias depois <END> , viria a vencer a Liga dos Campeões (3-0 ao AS Mónaco).
+Por seu lado, Jesualdo Ferreira tem um balanço negativo nos confrontos com o Benfica, com quatro vitórias, três empates e cinco derrotas (13-19 em golos), mas nunca perdeu ao comando do FC Porto: "a época passada, venceu no <START:LOCAL_HUMANO_CONSTRUCAO> Dragão <END> (3-2) e empatou na <START:LOCAL_HUMANO_CONSTRUCAO> Luz <END> (1-1).
+--DOCSTART--
+    
+A MÚSICA É A MENSAGEM    
+ Por Hari Kunzru        
+ A relação do tecno com o binômio homem-máquina, no diálogo com Jeff Mills , o legendário produtor de tecno de <START:LOCAL_HUMANO_DIVISAO> Detroit <END> nos leva a impressionantes insights do impacto que a terceira onda tem causado na paisagem contemporânea.
+<START:LOCAL_HUMANO_DIVISAO> Detroit <END> , essa "cidade portátil", virtualizada na minimalista batida de um sequenciador automático, profetiza em sua música - que já nos deu a Motown , Stooges , e MC5 - o zeitgeist <START:TEMPO_TEMPO_CALEND_DATA> deste início de milênio <END> .
+Uma Cidade Difícil    
+ <START:LOCAL_HUMANO_DIVISAO> Detroit <END> tem por longo tempo sido um lugar de referência na imaginação sônica.
+Com o fim da escravatura, ela se tornou, como <START:LOCAL_HUMANO_DIVISAO> Chicago <END> , um das estações ferroviárias do êxodo negro na direção do norte.
+As ferrovias atuavam como artérias culturais, trasmitindo pessoas e formas culturais do profundo sul de <START:LOCAL_HUMANO_DIVISAO> New Orleans <END> e o rural <START:LOCAL_HUMANO_REGIAO> Delta do Mississipi <END> , pelo centro-oeste e para o iluminado mundo novo urbano dos <START:LOCAL_FISICO_REGIAO> Grandes Lagos <END> .
+No processo o som acústico do    Blues do   <START:LOCAL_FISICO_OUTRO> Delta <END>  foi exposto ao ruído das linhas de produção industrial, e se transmutou no boogie de trem a vapor, de chão de fábrica do Rythm'n'Blues elétrico.
+O    Blues   de   <START:LOCAL_HUMANO_OUTRO> Basin Street <END>  vira a Pegada da Cidade Motor ( Motor City Stomp ).
+Quando do boom <START:TEMPO_TEMPO_CALEND_DATA> dos anos sessenta <END> , <START:LOCAL_HUMANO_DIVISAO> Detroit <END> era sinônimo das esperançosas ficções-soul de três minutos da Motown , um selo cuja ética produtivista e apelo de mercado massificado foi sempre um irônico espelho da cultura da Ford e da General Motors que dominava as vidas de seu jovem público negro.
+O povo da Motown deu seus primeiros passos dançando nas ruas, mas, à medida que os 70 iam passando, eles foram gradualmente reduzidos a viver só para a cidade.
+<START:TEMPO_TEMPO_CALEND_DATA> Durante os desolados anos Reagan <END>  , <START:LOCAL_HUMANO_DIVISAO> Detroit <END> parecia uma zona morta, um símbolo do fim da velha ordem industrial.
+Mas <START:TEMPO_TEMPO_CALEND_DATA> pelo começo dos noventa <END> a decadente cidade, tendo absorvido o trauma da crise do petróleo e a recessão mundial, reinventou-se como o imaginário e sombrio coração de uma nova cultura urbana global.
+O tecno de <START:LOCAL_HUMANO_DIVISAO> Detroit <END> é o som da cidade.
+Não das pessoas da cidade, mas da própria cidade.
+Os humanos, se eles ainda estão vivos mesmo, foram totalmente cooptados pela máquina urbana, absorvidos em seus processos, seus corpos disciplinados pelos ritmos implacáveis dela.
+Não é exagero dizer que este estilo, com seus frios tons sintéticos e batidas rápidas e rígidas de quatro-por-quatro teve provavelmente mais influencia no tipo de música que soa pelo mundo do que qualquer outro gênero desde o Blues .
+Transmissões do Futuro:    
+ A síntese de Detroit de grooves de trance funk e futurismo disco europeu foi realizada por um surpreendentemente pequeno círculo de produtores, que começaram seus experimentos <START:TEMPO_TEMPO_CALEND_DATA> em meados dos 80 <END> .
+As estórias de Cybotron , Model 500 e a transição da disco para o eletro-funk para o tecno foram muito bem contadas em outras paragens por escritores como Matthew Collin ( <START:OBRA_REPRODUZIDA_LIVRO> Altered State <END> ) e Kodwo Eshun ( <START:OBRA_REPRODUZIDA_LIVRO> More Brilliant Than The Sun: Adventures In Sonic Fiction <END> ).
+Um dos pioneiros foi Jeff Mills , que, como produtor e DJ, tem semeado o som de <START:LOCAL_HUMANO_DIVISAO> Durban <END> a <START:LOCAL_HUMANO_DIVISAO> Tóquio <END> , e a ele não se deveria atribuir pouca responsabilidade pelo fato de que seres urbanos de todo o mundo agora vivam numa paisagem midiática onde enxutas batidas eletrônicas servem como trilha sonora para tudo, desde idas ao shopping e suas experiências com drogas, a noites em casa em frente da tv.
+Mills é um homem calmo, um tipo parecido com um pássaro, com uma cara ossuda e longos dedos.
+Quando está na cabine ele usa três picapes, raramente tocando um vinil por mais de um minuto , e frequentemente abrindo todos os três canais ao mesmo tempo; filtrando o som, logo uma picape toca a linha de baixo, o segundo a linha do meio e o terceiro a linha principal.
+Seu envolvimento com as máquinas é tão intenso, tão concentrado que, como ele se lança do mixer para a picape, Mills o DJ parece evidentemente um componente de uma assemblage homem-máquina, um sistema que inclui público, PA , o aparato completo da produção de vinis, e o Stylus de cartucho, cuja sensibilidade ele aprimorou de forma que o cartucho produza um triplo zumbido raivoso e metálico.
+Não é surpreendente que quando Mills descreve a experiencia de fazer música num estúdio, ele está preocupado com a frustração que sente quando "a mensagem" (para Mills música é sempre "a mensagem", ou "comunicação") é perdida ou degradada na transmissão da mente para o DAT .
+"O produtor tem de transferir o que ele está pensando para suas mãos e então para a máquina," ele explica.
+"Quanto melhor o produtor, mais clara será a imagem.
+É uma tradução de minhas mãos para a máquina.
+E é aí normalmente onde ela [a máquina], se perde."
+De certa forma este é um sentimento padrão, um anseio expresso por todo artista desde que os românticos começaram a lamentar a lacuna entre a inspiração e o artefato.
+Mas o anseio de Mills por uma simbiose mais próxima com seus instrumentos deriva para um desejo pela cyborguização, pela integração física.
+"O que eu tenho esperança", ele diz, "é de que alguém crie um sequenciador que traduza o que você está pensando para um teclado ou gerador de som.
+Muitas idéias ficam perdidas porque não podemos fazer com que nossas máquinas realizem exatamente o que nós pensamos."
+Para uma cultura musical dominante que está acostumada a tratar álbuns como "obras", objetos invioláveis que contém algum tipo de essência artística, a concepção de Mills sobre música pode parecer estranha.
+"Depois que faz o álbum", ele diz, "você põe a idéia nas mãos do DJ e é ele quem decide remodelar essa mensagem no momento mais oportuno ou da melhor forma."
+Ele parece pensar a obra musical como processo, como fluxo de informação, abrindo um canal entre produtor e público dançante.
+A linguagem de mensagens, comunicações e comunicados oficiais e oficiosos de Mills é parte da teologia que guia o tecno de <START:LOCAL_HUMANO_DIVISAO> Detroit <END> : a estória do circuito informacional que corre do futuro para o presente, do Claro Amanhã dos cruzadores pesados drexciyanos, de OVNIs ('você provavelmente verá um voando...') e dos anéis de Saturno , diretamente de volta para as rôtas rotas <START:TEMPO_TEMPO_CALEND_DATA> de hoje <END> .
+É um circuito que canaliza energia através do corpo do produtor para seu estúdio, energia que posteriormente sai pelo PA e se distribui sobre a pista de dança.
+Detroit mesma é uma picape satélite, coletando e amplificando o futuro-potencial, transmitindo-o perpassando carros enferrujados nas ruas da cidade... Mills : "Para mim, [minha música é] sobre fazer as pesoas sentirem que elas estão num tempo à frente deste tempo presente.
+Como se você estivesse ouvindo alguém falar numa língua que você não entende, ou se encontrasse numa vizinhança desconhecida.
+Isso quer dizer tirar você da sua base, deixando o ouvinte desarmado."
+Ao contrário de alguns outros produtores, o futuro criado por Mills não é um sonho em ficção científica de puro cromo.
+É um "verfremdungseffekt", a desorientação do potencial puro.
+O ataque das batidas de Detroit é apenas um assalto pra tirar as defesas, forçando os ouvintes a se abrirem para a mensagem.
+--DOCSTART--
+
+É nós na fita!
+A arte como espaço de reflexão.
+Juliaura · <START:LOCAL_HUMANO_DIVISAO> Porto Alegre <END> ( <START:LOCAL_HUMANO_DIVISAO> RS <END> )
+Não creio que se deva dizer mais "A obra de arte como espaço de reflexão e não como retrato de um gueto, isolado, à parte do contexto geral da sociedade."
+Com a citação dessa frase de Jessé Oliveira, Fabio Gomes iniciou matéria de cobertura do 2º Encontro de Arte de Matriz Africana, realizado <START:TEMPO_TEMPO_CALEND_INTERVALO> de 12 a 16 de dezembro de 2007 <END> no <START:LOCAL_HUMANO_CONSTRUCAO> Teatro de Arena <END> em <START:LOCAL_HUMANO_DIVISAO> Porto Alegre <END> .
+Bem baixinho, só aqui pra nós do Overmundo, a cobertura é um espetáculo a mais, embora não fizesse parte da programação.
+Um estouro, como diz vovó Marinalva.
+Fabio (ele não acentua o nome e que eu vou fazer com a proparoxítona relativa, a quebra de ditongo, o escambáu), pois o homem diz que Jessé Oliveira escreveu a frase "a propósito de justificar a escolha do texto <START:OBRA_REPRODUZIDA_OUTRO> Transegun <END> , de Cuti, como primeira peça montada pelo grupo CaixaPreta, criado <START:TEMPO_TEMPO_CALEND_DATA> em 2002 <END> a partir da reunião de artistas negros atuantes em <START:LOCAL_HUMANO_DIVISAO> Porto Alegre <END> .
+Aí eu me derreti toda, por que tenho paixnão pelo Cuti desde que sentei no colo dele.
+Calma pessoal, calminha aí.
+Eu tinha dois aninhos de idade, quando ele participou em um encontro em <START:LOCAL_HUMANO_DIVISAO> Porto <END> , na <START:LOCAL_HUMANO_CONSTRUCAO> Câmara de Vereadores <END> , e "Papá estava lá comigo e eu só queria saber do colo do moço lindão, conforme a resenha da época.
+Não vamos desviar do assunto que quer tratar é da presença nossa, humana, nos palcos da vida.
+É disso mesmo, de diálogo e reflexão que se falou um tantão da abertura ao encerramento do encontro.
+Fabio diz que foi assim no monólogo Madrugada, me Proteja , também de Cuti, interpretado <START:TEMPO_TEMPO_CALEND_DATA> no sábado, 15 <END> , pelo ator Sílvio Ramão; na única atração musical do Encontro, o show Epahei!, da cantora e compositora Karine Cunha, <START:TEMPO_TEMPO_CALEND_DATA> na quinta, 13 <END> , de quem nem vou falar muito porque vira prosa de fã e não tô aqui pra torrar vocês com meu gostinho particular e sim pra reportar as coisas como foram vistas pelo Fabio, né?
+Diz ele:
+Em <START:LOCAL_VIRTUAL_OBRA> Madrugada <END> ..., Sílvio vive um negro de alta classe média que, julgando-se inalcançável pela insegurança que (infelizmente) tem sido a marca das noites nas grandes cidades, é humilhado durante um assalto.
+Já o show de Karine se apoiou nas canções em homenagem a diversos orixás que estruturam seu segundo CD, Epahei!, lançado <START:TEMPO_TEMPO_CALEND_DATA> em agosto <END> .
+(Palhinha dela no linque, di grátis)
+O Fabio contou que um destaque do Encontro foi a apresentação <START:TEMPO_TEMPO_CALEND_DATA> na sexta, 14 <END> , da peça Taba-Taba, texto do francês Bernard Koltès, que marca a estréia da atriz Renata de Lélis na direção.
+Teve também "Sortilégio Negro, de Abdias do Nascimento, fundador do Teatro Experimental do Negro (TEN), referência histórica assumida pelo CaixaPreta já <START:TEMPO_TEMPO_CALEND_DATA> na época <END> do lançamento de <START:OBRA_REPRODUZIDA_OUTRO> Transegun <END> .
+E recital de poemas de Oliveira Silveira que já nos foi muito bem apresentado aqui nas nossas overmundanas paragens pelo meu poeta querido dos mais mais.
+Aquela história da presença nossa nos palcos, nós na cena, nós brilhando, nós dirigindo, nós na fita foi assunto a partir da trajetória de Abdias e do TEN, temas abordados na única palestra do Encontro, feita pela atriz Vera Lopes.
+Uma das fundadoras do CaixaPreta, Vera falou, segundo Fabio, que não consegue entender porque alguns consideram a arte européia como superior, dando como exemplo que o teatro grego surgiu a partir de ritos - em que animais sacrificados eram oferecidos Dionísio - muito semelhantes às oferendas dos cultos afro-brasileiros para os orixás.
+Vera Lopes deixou o povo presente acabrunhado quando protestou firme porque não consta imagem alguma do teatro africano num dos raros livros brasileiros que falam do assunto - <START:OBRA_REPRODUZIDA_LIVRO> História do Teatro <END> ( <START:TEMPO_TEMPO_CALEND_DATA> 1978 <END> ), de Nélson Araújo.
+Eu, meio miolo mole até nem sei porque um estudo sério, em profundidade sobre a questão esqueceu esse detalhezinho.
+Vai ver que... Ah!
+Não pode ser por...
+Será?
+Deixemos esse outro assunto sério para lá, amizades.
+O final do 2º Encontro de Arte de Matriz Africana teve a apresentação de <START:OBRA_REPRODUZIDA_TEATRO> Hamlet Sincrético <END> .
+Golaço da produção, conforme Fábio Gomes.
+Para ele a peça dirigida por Jessé Oliveira é "primorosa; a montagem relê o clássico a partir de uma estética negra, com elementos da cultura afro-brasileira ajudando a contar a história imortalizada por William Shakespeare.
+É notável o equilíbrio que Jessé conseguiu ao mesclar todos estes elementos".
+E segue:
+- Cada personagem encarna um tipo ou um mito da cultura negra, em especial das religiões afro-brasileiras: Hamlet é Xangô; o rei Cláudio, Zé Pelintra; e Polônio, um ex-babalorixá que se tornou pastor evangélico.
+A música ao vivo (o próprio elenco manda ver em cânticos de umbanda, sambas, hip-hop, ladainhas de capoeira e até cantos evangélicos), além de ajudar a contar a história, torna o nível de comunicação do espetáculo com a platéia algo digno de nota.
+--DOCSTART--
+    
+TECNOLOGIA E TRADIÇÃO TRIBAL A SERVIÇO DA NATUREZA    
+Deck Cowboy (deckcowboy@riseup.net)    
+<START:LOCAL_HUMANO_DIVISAO> NORDHOEK <END> , <START:LOCAL_HUMANO_PAIS> África do Sul <END> - Com o olhar fixo na tela de seu laptop, Louis Liebenberg compara dois mapas da mesma região.
+Enquanto um deles está densamente preenchido por pontos amarelos, o outro está bem mais vazio.
+As marcas indicam avistamentos de gorilas das planícies registradas por rastreadores tribais antes e depois de um surto do vírus ebola no santuário de <START:LOCAL_HUMANO_OUTRO> Lossi <END> , na <START:LOCAL_HUMANO_PAIS> República Federativa do Congo <END> .
+Usando o CyberTracker, um software com o qual os ecologistas podem registrar suas observações em campo usando computadores portáteis conectados a aparelhos de posicionamento global (GPS), os rastreadores puderam reunir dados que comprovam a degradação da população local da espécie.
+Inicialmente céticos, os cientistas <START:TEMPO_TEMPO_CALEND_DATA> mais tarde <END> confirmaram suas constatações de que o vírus estava matando os gorilas e outros animais, e publicaram um artigo numa edição recente da revista <START:LOCAL_VIRTUAL_COMSOCIAL> Science <END> .
+"Este é um exemplo incrível de como a coleta regular de dados pode nos ajudar", disse Liebenberg.
+Para ele, fundador sul-africano da CyberTracker Conservation, as constatações não apenas ilustram a capacidade do dispositivo de melhorar o monitoramento e a interpretação de ecossistemas, mas também comprovam que rastreadores analfabetos podem recolher informações com tanta eficiência quanto cientistas com Ph.D.
+O CyberTracker é apenas mais uma das modernas tecnologias atualmente à disposição dos ecologistas, que cada vez mais recorrem a ferramentas como análises de DNA e imagens de satélite para obter uma maior compreensão da natureza.
+Liebenberg teve a idéia de criar o sistema CyberTracker enquanto acompanhava caçadores bosquímanos no deserto do <START:LOCAL_FISICO_REGIAO> Kalahari <END> .
+Fascinado desde pequeno pela arte tribal de seguir rastros, Liebenberg desenvolveu a teoria de que as atividades ancestrais de caça e coleta representam nada menos do que a própria origem da ciência.
+Rastrear um animal, argumenta o pesquisador, exige um processo de observação e confrontação de hipóteses muito semelhante ao método científico.
+O que um dia foi necessário à sobrevivência, no entanto, é hoje uma prática em extinção.
+Atualmente, Liebenberg afirma conhecer apenas seis caçadores tribais que usam suas habilidades para subsistência.
+A maioria dos jovens das tribos da região hoje freqüentam a escola - ao contrário de seus pais e avós, que eram analfabetos - mas raramente chegam a aprender as técnicas e o conhecimento de mundo necessários para caçar como as gerações anteriores.
+Se fosse possível encontrar um meio de colocar o conhecimento dos bosquímanos a serviço da preservação ambiental, tanto a natureza quanto as comunidades desse povo poderiam se beneficiar.
+<START:TEMPO_TEMPO_CALEND_DATA> Em 1996 <END> , Liebenberg e o cientista da computação Lindsey Steventon lançaram o primeiro modelo do CyberTracker, com o objetivo de transformar o rastreamento tradicional numa profissão moderna.
+<START:TEMPO_TEMPO_CALEND_DATA> No mesmo ano <END> , os rastreadores Karel Benadie e James Minye usaram o CyberTracker para estudar o rinoceronte negro, uma espécie ameaçada de extinção, no <START:LOCAL_HUMANO_OUTRO> Parque Nacional de Karoo <END> na <START:LOCAL_HUMANO_PAIS> África do Sul <END> .
+Eles recolheram dados sobre os padrões de alimentação dos animais e sua vulnerabilidade à caça clandestina.
+<START:TEMPO_TEMPO_CALEND_DATA> Em 1999 <END> , Liebenberg, Steventon e os dois rastreadores, que não possuem educação formal, publicaram um artigo na revista acadêmica <START:LOCAL_VIRTUAL_COMSOCIAL> Pachyderm <END> .
+"Ao incluir os rastreadores em nossas atividades de monitoramento ambiental, estamos expandindo eficientemente a própria ciência", disse Liebenberg.
+Mas não são apenas os rastreadores tribais que usam o CyberTracker.
+Estudantes e observadores de aves também aproveitam as vantagens do sistema.
+Ele já foi usado até por equipes de cientistas em expedições no <START:LOCAL_FISICO_REGIAO> Ártico <END> , no monitoramento de lobos no estado norte-americano de <START:LOCAL_HUMANO_DIVISAO> Idaho <END> , da poluição dos rios na <START:LOCAL_HUMANO_PAIS> Tanzânia <END> e do raríssimo rinoceronte de <START:LOCAL_HUMANO_DIVISAO> Sumatra <END> , em <START:LOCAL_HUMANO_DIVISAO> Bornéu <END> .
+O software pode ser personalizado, e é oferecido gratuitamente na <START:LOCAL_VIRTUAL_SITIO> Web <END> .
+Cerca de 400 projetos em 30 países estão usando o sistema, afirma Liebenberg.
+O software consiste em uma série de camadas contendo menus baseados em figuras nos quais os pesquisadores registram suas observações.
+Eles selecionam ícones para representar as plantas e animais que observam, e para descrever seu comportamento e suas características.
+O GPS registra o local e a hora de cada observação.
+Rastreadores experientes normalmente podem identificar um único indivíduo de determinada espécie, ou pelo menos saber seu sexo, idade e estado de saúde, apenas observando suas pegadas.
+Com cada rastreador registrando até 300 observações por dia, o dispositivo permite a coleta de quantidades imensas de informação, que pode ser analisada em mapas e bancos de dados quase imediatamente.
+"É aí que novos padrões vêm à tona: correlações entre espécies diferentes, características da paisagem e outros fatores que não poderiam ser descobertos de outra maneira", afirma Jason Knight, instrutor da Wilderness Awareness School em <START:LOCAL_HUMANO_DIVISAO> Duvall <END> , <START:LOCAL_HUMANO_DIVISAO> Washington <END> .
+No entanto, Christina Eisenberg, uma bióloga que estuda os lobos e trabalha para o Serviço Americano de Vida Selvagem e Aquática conta que parou de usar o sistema porque ele travava inesperadamente.
+"Perdi os dados de um dia inteiro de trabalho, depois de me embrenhar milhas e milhas sobre terreno acidentado mato adentro", lembra.
+"Não foi nada agradável".
+Vários projetos usando o CyberTracker em áreas de preservação da <START:LOCAL_HUMANO_PAIS> África do Sul <END> também estão interrompidos, em parte devido ao preconceito contra rastreadores analfabetos e a falta de entusiasmo por parte dos administradores, diz Liebenberg.
+Mesmo assim, ele pretende desenvolver o CyberTracker, transformando-o num sistema para monitorar mudanças ambientais e compartilhar informações pelo mundo todo.
+"No momento, faltam cientistas para reunir informação em campo", disse.
+"Se pudermos contar com a ajuda das pessoas que vivem nesses lugares, poderemos, teoricamente, monitorar todo o ecossistema global.
+Fonte: Centro de Mídia Independente (www.midiaindependente.org).
+Link : Cybertracker (www.cybertracker.co.za).
+--DOCSTART--
+    
+     Tratado de Lisboa ( <START:TEMPO_TEMPO_CALEND_DATA> 2007 <END> )        
+ O Tratado de Lisboa  ou Tratado de Reforma , é o acordo ratificado pelo Conselho da União Europeia   em <START:LOCAL_HUMANO_DIVISAO> Lisboa <END> , <START:TEMPO_TEMPO_CALEND_DATA> a 19 de Outubro de 2007 <END> , e que substitui a   Constituição   europeia <START:TEMPO_TEMPO_CALEND_DATA> de 2004 <END> .
+[1]        
+ O Tratado de Lisboa  confere à União Europeia , personalidade jurídica própria para assinar acordos internacionais a nível comunitário.
+O termo « Comunidade » será substituído por « União », nomeia o Alto Representante para a Política Exterior e de Segurança Comum da União Europeia  e estabelece a aplicação formal da dupla maioria <START:TEMPO_TEMPO_CALEND_DATA> a partir de 2014 <END> .
+História    
+ A emenda proposta pela Presidência alemã do Conselho da União Europeia   ( <START:TEMPO_TEMPO_CALEND_DATA> 2007 <END> ) <START:TEMPO_TEMPO_CALEND_DATA> a 19 de Maio de 2007 <END> incluiu a "essência da Constituição ".
+A proposta foi apresentada após as reuniões de trabalho entre a presidência e os delegados dos 27 estados membros <START:TEMPO_TEMPO_CALEND_DATA> durante o primeiro semestre de 2007 <END> .
+Decidiu-se abandonar o formato do  ' Tratado constitucional '  e, em alternativa, dar impulso a um tratado clássico que introduza emendas nos dois tratados actualmente em vigor, o Tratado da União Europeia e o Tratado da Comunidade Europeia , que passaria a chamar-se  Tratado sobre o funcionamento da União  .
+Portugal , que assumiu a presidência da UE <START:TEMPO_TEMPO_CALEND_DATA> durante o segundo semestre de 2007 <END> , lançou uma conferência intergovernamental ( CIG ) <START:TEMPO_TEMPO_CALEND_DATA> nos dias 23 <END> e <START:TEMPO_TEMPO_CALEND_DATA> 24 de Julho <END> , para acabar a redação do texto, coincidindo com a reunião de ministros dos Negócios Estrangeiros .
+O novo Tratado foi apresentado na cimeira <START:TEMPO_TEMPO_CALEND_DATA> de 18 de Outubro <END> , em <START:LOCAL_HUMANO_DIVISAO> Lisboa <END> , tendo sido assinado pelos representantes dos vários governos <START:TEMPO_TEMPO_CALEND_DATA> no dia 13 de Dezembro de 2007 <END> , no <START:LOCAL_HUMANO_CONSTRUCAO> Mosteiro dos Jerónimos <END> .
+Dar-se-á agora início ao processo de ratificação com o objectivo de que o texto entre em vigor <START:TEMPO_TEMPO_CALEND_DATA> em 2009 <END> .
 --DOCSTART--
     
  Uma alteração num único gene é capaz de transformar um vírus inofensivo no agente causador de uma gripe mortal.
@@ -52,135 +284,103 @@ Desse modo, conseguiu identificar qual deles era o responsável pela maior capaci
 Os cientistas ainda não sabem exatamente qual o papel do PB2 , mas ele parece codificar uma enzima responsável pela indução de um número maior de partículas virais nas células infectadas.
 O estudo do grupo de Kawaoka está na edição <START:TEMPO_TEMPO_CALEND_DATA> de hoje <END> da revista científica " Science ".
 --DOCSTART--
+    
+ CONGRESSOS DO PSD , VOLTEM QUE ESTÃO PERDOADOS        
+ Há poucas coisas que me entristecem tanto como esta história das directas do PSD .
+É que eu sempre fui um aficcionado dos congressos do PSD .
+Trata-se do evento político onde é mais provável que, de repente, se levante uma dúzia de militantes, salte para o palco e desate aos pontapés a tudo e a todos, inclusive a um cartaz com a mensagem: «  PSD: Responsabilidade e sentido de Estado .»        
+ Habituei-me, ao longo dos anos , a assistir às transmissões televisivas dos congressos social-democratas, madrugada adentro , enquanto comia pipocas.
+Menos quando Santana Lopes fazia aqueles discursos improvisados, que me provocavam um nó na garganta.
+Lembro-me de a minha mãe uma vez entrar na sala, ver-me lavado em lágrimas, perguntar o que é que se passava e de eu dizer, a soluçar: «Ele vai apresentar uma moção de estratégia ao congresso, mesmo depois de tudo o que o Conselho Nacional lhe fez... Cafagestes!»        
+ É certo que, agora que já não há intervenções pungentes de Santana Lopes , os congressos do PSD ficariam demasiado dependentes das gaffes de Luís Filipe Menezes .
+Na minha opinião, acho perigoso que se dê assim tanto poder a um só homem.
+Costuma-se dizer -- e com razão - que o PSD é o Sport Lisboa e Benfica da política, uma vez que se trata do partido com a maior diversidade de classes sociais.
+O que explica, ao mesmo tempo a existência de tantos barões no partido: desde que se mastigue com a boca fechada e não se diga «treuze», é-se barão.
+Segundo Pacheco Pereira , é esta diversidade social que começa a estar seriamente ameaçada.
+<START:TEMPO_TEMPO_CALEND_DATA> Há uns tempos <END> , escreveu no <START:LOCAL_VIRTUAL_COMSOCIAL> PÚBLICO <END> que «o problema do PSD é começar a ter só um Portugal ou dois dentro de si».
+Não podia estar mais em desacordo com esta afirmação.
+Para mim, é precisamente esse o problema do partido.
+Se, em vez de « Portugais », o PSD tivesse uma Finlândia ou duas Dinamarcas dentro dele, aí sim podia ser que o partido fosse a algum lado.
+De resto, fico já satisfeito por ter conseguido escrever um post sobre o PSD , sem uma única referência à baixa estatura de Marques Mendes .
+(O quê?
+Isto conta como referência?)
+--DOCSTART--
+    
+A hora da verdade    
+ 1.
+<START:TEMPO_TEMPO_CALEND_DATA> Hoje à noite <END> o Benfica tem um teste elucidativo sobre o seu verdadeiro valor.
+Teve-o também <START:TEMPO_TEMPO_CALEND_DATA> antes <END> contra o Manchester United , onde passou com distinção, é facto, mas o Manchester <START:TEMPO_TEMPO_CALEND_DATA> desta época <END> e, sobretudo, o <START:TEMPO_TEMPO_CALEND_DATA> de Dezembro passado <END> , é uma pálida imitação dos «red devils» de um passado recente , que tudo atemorizavam.
+O Liverpool , para além de campeão europeu em título, é melhor equipa e mais calculista.
+Contra ele, o Benfica tem de jogar o seu máximo e então se verá se o seu máximo está ou não ao mais alto nível europeu.
+Ao iniciar com uma derrota inapelável este terrível ciclo de nove dias em que tudo se pode sonhar e tudo se pode perder, o  Benfica de Ronald Koeman  parece ter lançado a descrença entre os seus --- adeptos e jornalistas.
+De repente, a tão louvada equipa <START:TEMPO_TEMPO_CALEND_DATA> de há três semanas atrás <END> parece já não inspirar confiança a ninguém e o seu treinador virou um saco de pancada ao alcance de todas as frustrações.
+Acusa-se Koeman de mudar constantemente a equipa, como se ele fosse responsável pelas lesões e castigos ou pela chegada de uma mini-enxurrada de reforços <START:TEMPO_TEMPO_CALEND_DATA> em Dezembro <END> , anunciados pela <START:ORGANIZACAO_INSTITUICAO_SUB> Direcção <END> como o suplemento que faltava para a conquista da Liga dos Campeões e que ele, logicamente, tinha de experimentar e utilizar.
+E esquecendo-se até de que foi uma dessas inesperadas «revoluções» na formação da equipa que conduziu à também inesperada vitória contra o Manchester .
+Até se acusa Koeman de já ter experimentado quatro guarda-redes, como se fosse ele o culpado pelas lesões de Quim e de Moreira , pela manifesta impreparação de Nereu , ou pela «épica» contratação de Moretto , delirantemente saudada pela massa associativa e afins.
+Embora não me motive muito perceber o que se passa em casa alheia, a mim parece-me que, mais prosaicamente, a questão das esperanças traídas no Benfica tem sobretudo a ver com a ilusão criada sobre o valor real da equipa.
+Tudo começou na época passada, com um Campeonato e uma Taça ganhos de forma que foi tudo menos convincente mas que, por temor ou reverência, ninguém se atreveu a questionar.
+Por isso, quando Luís Filipe Vieira disse que esta era uma equipa de campeões, toda a gente fingiu que sim, e, quando, reforços acrescentados, ele passou a dizer que esta era uma equipa capaz de chegar à final e talvez ganhar a Champions , continuaram todos a fingir que acreditavam.
+Depois, houve a vitória sobre o Manchester e a série de sete triunfos consecutivos na Liga  portuguesa e foi ver o José Veiga , de peito feito, a anunciar a inevitável revalidação do título e a Europa ao virar da esquina.
+Mas ninguém se deteve a pensar quantos, desses sete jogos, foram ganhos sem dúvidas de arbitragem e através de exibições convincentes, porque é um crime de lesa-majestade questionar o mérito dos triunfos benfiquistas.
+E assim se criou a verdade oficial de que estava aí um grande Benfica , que nada nem ninguém conseguiriam parar.
+Agora, três súbitas derrotas depois, cai-se no extremo oposto.
+E na pior altura, quando a equipa mais precisava da confiança dos seus.
+Mas, se <START:TEMPO_TEMPO_CALEND_INTERVALO> entre hoje e domingo <END> , tudo correr mal para os benfiquistas, é certo e sabido que quem semeou os ventos de ilusão não colherá as tempestades de desilusão.
+Isso está guardado para um bode expiatório mais conveniente.
+2.
+O Benfica jogava em <START:LOCAL_HUMANO_CONSTRUCAO> Guimarães <END> sob o peso de ter três jogadores ameaçados de não poderem defrontar o FC Porto caso vissem um cartão amarelo.
+Lucílio Baptista foi a escolha adequada para a ocasião (mas digo desde já que nenhum daqueles três mereceu um amarelo).
+Mas, no resto, Lucílio não deixou os seus predicados por mãos alheias: num jogo sem dureza nem indisciplina, com faltas distribuídas por igual por ambas as equipas, Lucílio Batista conseguiu marcar o dobro de faltas ao Vitória , deixando inúmeras por assinalar contra o Benfica , e mostrar sete cartões amarelos a jogadores do Guimarães contra apenas um aos benfiquistas.
+3.
+E, a propósito do « Apito Dourado », essa mega investigação judicial, que parece ter o condão de vir a arrastar-se durante anos , tornando alguns eternamente suspeitos (ou até mesmo já condenados, a quem isso convém) e outros estranhamente imunes às suspeitas, aguardei com alguma curiosidade o despacho de pronúncia, no que se refere ao presidente do FC Porto  .
+Mas, afinal e como aqui antecipei desde o início, a montanha pariu um rato, ou pior ainda, pariu a insustentável continuação das suspeitas por confirmar.
+Mais de um ano de investigações decorrido, depois daquele imenso aparato policial-mediático para ouvir o «suspeitíssimo» Pinto da Costa , depois de dezenas ou centenas de milhares de contos gastos aos contribuintes, depois de não sei quantas prorrogações de prazo a favor do Ministério Público , depois do reforço extraordinário dos meios de investigação, a «task force » judicial de <START:LOCAL_HUMANO_DIVISAO> Gondomar <END> conclui apenas em extrair certidões do processo para que outros continuem a investigar Pinto da Costa .
+E, quanto a factos novos, indícios novos, provas recolhidas, nada.
+A suspeita «gravíssima» mantém-se rigorosamente a mesma <START:TEMPO_TEMPO_CALEND_DATA> de há um ano atrás <END> : <START:TEMPO_TEMPO_CALEND_DATA> em 2004 <END> , o    FC Porto de José Mourinho    , já virtual campeão nacional, com alguns onze pontos de avanço sobre o segundo classificado, o Benfica , a semanas de se tornar campeão europeu, terá subornado, com recurso a «meninas» o árbitro do encontro no <START:LOCAL_HUMANO_CONSTRUCAO> Dragão <END> contra o E. Amadora , em vias de despromoção, como forma de garantir a vitória no jogo --- parece que, de outra maneira, não conseguiriam ganhar.
+E é nisto que se gasta o tempo e o dinheiro dos contribuintes: não fazendo justiça, mas mantendo eternas as suspeitas que a tantos convém.
+Mas também a verdade é que, à luz do que está em causa---e é apenas isto--- só acredita, ou finge acreditar, quem quer.
+4.
+E, pé ante pé, o Sporting está a cinco pontos do FC Porto e poderá ficar a dois se, <START:TEMPO_TEMPO_CALEND_DATA> domingo <END> na <START:LOCAL_HUMANO_CONSTRUCAO> Luz <END> , a equipa de Adriaanse falhar mais uma vez num jogo decisivo.
+Dou-me conta, já <START:TEMPO_TEMPO_CALEND_DATA> há um tempo <END> , que muito pouco ou quase nada tenho escrito sobre o Sporting esta época.
+A razão é simples e vai parecer escandalosa aos olhos dos indefectíveis sportinguistas, mas acarreto as consequências de porventura vir a ter de engolir o que vou escrever: não vejo que o Sporting tenha futebol para ser campeão nacional, esta época.
+Estão em segundo lugar, já só a cinco pontos e ainda vão receber o FC Porto em <START:LOCAL_HUMANO_CONSTRUCAO> Alvalade <END> ?
+Pois, é facto.
+Mas, mesmo assim, não me convencem.
+Ainda <START:TEMPO_TEMPO_CALEND_DATA> esta semana <END> o que vi, contra o Paços de Ferreira e em <START:LOCAL_HUMANO_CONSTRUCAO> Alvalade <END> , foi uma equipa que chegou ao golo num penalty duvidoso e caído dos céus, que dele viveu toda a segunda parte, sem criar uma só oportunidade de golo e que, já próximo do final, marcou o segundo golo numa jogada precedida de falta e ainda um terceiro <START:TEMPO_TEMPO_CALEND_DATA> depois da hora <END> .
+Um 3-0 absolutamente enganador, num jogo que não mereceu sequer ganhar.
+Como disse, é possível que ainda tenha de engolir esta opinião.
+Mas, se isso acontecer, é porque o FC Porto entregou o ouro ao bandido.
+© Miguel Sousa Tavares -    Jornal "A Bola"    - 21.02.2006      
 
-Tabaco: Associação lamenta exemplo de presidente da ASAE 
-O presidente da Confederação Portuguesa para a Prevenção do Tabagismo  (CPPT) considerou <START:TEMPO_TEMPO_CALEND_DATA> hoje <END> «um exemplo lamentável» o facto de o presidente da Confederação Portuguesa para a Prevenção do Tabagismo  ter sido fotografado a fumar num casino depois da entrada em vigor da lei do Tabaco.
-António Nunes, presidente da Autoridade de Segurança Alimentar e Económica  (ASAE), uma das entidades que irá fiscalizar a aplicação da lei que proibe o fumo em espaços fechados de utilização pública, foi fotografado pelo Diário de Notícias (DN) a fumar uma cigarrilha no  <START:LOCAL_HUMANO_CONSTRUCAO> Casino <END> do <START:LOCAL_HUMANO_DIVISAO> Estoril <END> <START:TEMPO_TEMPO_CALEND_HORA> às 02.30 da manhã <END> <START:TEMPO_TEMPO_CALEND_DATA> do dia 01 de Janeiro <END> .
-Em explicações ao DN, António Nunes considerou que a nova lei «não proíbe expressamente o tabaco nos casinos e nas salas de jogos», justificando com a existência de um conflito de interesses com a lei do jogo, que contudo, não faz qualquer referência ao consumo de tabaco.
-No entanto, um parecer da Direcção Geral de Saúde a que a Lusa teve acesso <START:TEMPO_TEMPO_CALEND_DATA> sexta-feira <END> indica que os casinos e salas de jogo «sendo locais fechados não podem deixar de se incluir no âmbito da aplicação a lei», além de estarem abrangidos na lei por «serem locais de trabalho».
-«Trata-se de uma daquelas situações inoportunas e um exemplo lamentável que nos mostra que estamos em face de uma dependência grave», disse à Lusa o presidente da Confederação Portuguesa para a Prevenção do Tabagismo , Luís Rebelo.
-Luís Rebelo desvalorizou contudo o impacto desta situação na aplicação da nova lei e atribuiu a atitude de António Nunes a «um automatismo» inconsciente.
-Sobre as dúvidas manifestadas pelo máximo responsável da ASAE relativamente ao âmbito de aplicação da nova lei, Luís Rebelo considerou que a legislação «é clara» quanto à proibição de fumar nos casinos e salas de jogos.
-«Não pode haver dúvidas quanto à aplicação da lei sobretudo ao nível das entidades responsáveis pela sua fiscalização», disse.
-Sobre os primeiros dias da vigência da proibição de fumar em espaços de uso colectivo fechados, Luís Rebelo considerou que a lei está a ter «uma óptima» aplicação com «a generalidade dos fumadores a compreender a proibição».
-A lei do Tabaco, que proíbe o fumo nos serviços da administração pública, restaurantes, bares, discotecas ou centros comerciais, entrou em vigor <START:TEMPO_TEMPO_CALEND_HORA> às 00:00 <END> <START:TEMPO_TEMPO_CALEND_DATA> do dia 01 de Janeiro <END> .
-A Lusa tentou contactar o porta-voz da ASAE  para obter esclarecimentos adicionais mas tal foi impossível <START:TEMPO_TEMPO_CALEND_DATA> até ao momento <END> .
---DOCSTART--
+  --DOCSTART--
     
- AdC dá aprovação à compra da Carrefour Portugal pela Sonae        
- A Autoridade da Concorrência formalizou <START:TEMPO_TEMPO_CALEND_DATA> hoje <END> a decisão de não oposição à compra da Carrefour Portugal pela Sonae Distribuição , que fica obrigada à alienação, de pelo menos, dois supermercados Modelo .
-Além da alienação das lojas Modelo de <START:LOCAL_HUMANO_DIVISAO> Eiras <END> , no distrito de <START:LOCAL_HUMANO_DIVISAO> Coimbra <END> e de <START:LOCAL_HUMANO_DIVISAO> Lagoa <END> , no concelho de <START:LOCAL_HUMANO_DIVISAO> Portimão <END> , a Sonae Distribuição comprometeu-se à desafectação de áreas de vendas do retalho alimentar em <START:LOCAL_HUMANO_DIVISAO> Paços de Ferreira <END> , <START:LOCAL_HUMANO_DIVISAO> Penafiel <END> e de <START:LOCAL_HUMANO_DIVISAO> Valongo <END> , <START:LOCAL_HUMANO_DIVISAO> Porto <END> , de acordo com o comunicado <START:TEMPO_TEMPO_CALEND_DATA> hoje <END> divulgado no site da Autoridade da Concorrência .
-A entidade liderada por Abel Mateus tinha já comunicado, <START:TEMPO_TEMPO_CALEND_DATA> a 10 de Dezembro <END> , à Sonae Distribuição , a «decisão provável de não oposição», que se tornou agora efectiva.
-A Sonae Distribuição comprometeu-se a cumprir algumas condições para manter uma concorrência efectiva em todos os mercados relevantes analisados pela Autoridade da Concorrência , nomeadamente, <START:LOCAL_HUMANO_DIVISAO> Montijo <END> , <START:LOCAL_HUMANO_DIVISAO> Seixal <END> , <START:LOCAL_HUMANO_DIVISAO> Barreiro <END> , <START:LOCAL_HUMANO_DIVISAO> Paços de Ferreira <END> , <START:LOCAL_HUMANO_DIVISAO> Penafiel <END> , <START:LOCAL_HUMANO_REGIAO> Grande Porto <END> , <START:LOCAL_HUMANO_DIVISAO> Viana do Castelo <END> , <START:LOCAL_HUMANO_DIVISAO> Coimbra <END> e <START:LOCAL_HUMANO_DIVISAO> Portimão <END> .
-Entre os compromissos assumidos pela Sonae Distribuição , conta-se ainda o de não apresentar pedidos de novas licenças para retalho de base alimentar nos mercados relevantes <START:LOCAL_HUMANO_DIVISAO> Montijo <END> , <START:LOCAL_HUMANO_DIVISAO> Seixal <END> , <START:LOCAL_HUMANO_DIVISAO> Barreiro <END> , <START:LOCAL_HUMANO_DIVISAO> Paços de Ferreira <END> , <START:LOCAL_HUMANO_DIVISAO> Penafiel <END> , <START:LOCAL_HUMANO_DIVISAO> Viana do Castelo <END> , coimbra e <START:LOCAL_HUMANO_DIVISAO> Portimão <END> .
-No mercado relevante de <START:LOCAL_HUMANO_DIVISAO> Viana do Castelo <END> , a Sonae terá que alienar o projecto da loja Carrefour e, se não existir comprador para o projecto, não poderá utilizar a licença num prazo de cinco anos a contar da decisão da Autoridade , salvo se, entretanto, tiver aberto ao público algum hipermercado concorrente na região, segundo o comunicado da AdC .
-No <START:LOCAL_HUMANO_REGIAO> Grande Porto <END> , a Sonae terá que converter o projecto Carrefour para o <START:LOCAL_HUMANO_DIVISAO> Campo 24 de Agosto <END> em supermercado Modelo , o que equivale a uma redução da área afecta à actividade de base alimentar em, pelo menos, 1.500 metros quadrados .
---DOCSTART--
-    
- <START:LOCAL_HUMANO_DIVISAO> Amazonas <END> - Índios querem sobrenomes característicos da etnia        
- HOME PAGE <START:LOCAL_VIRTUAL_SITIO> RONDONIA AO VIVO <END> , <START:TEMPO_TEMPO_CALEND_DATA> 24.12.2007 <END>        
- Índios do <START:LOCAL_HUMANO_DIVISAO> Amazonas <END> reivindicam o direito de registrar os filhos de forma organizada, respeitosa e com os sobrenomes que caracterizam suas etnias.
-Os pontos foram apontados pelos indígenas na reunião de encerramento da primeira fase do  Projeto Registro Civil dos Povos Indígenas do <START:LOCAL_HUMANO_DIVISAO> Amazonas <END> , que aconteceu <START:TEMPO_TEMPO_CALEND_DATA> na última semana <END> em <START:LOCAL_HUMANO_DIVISAO> Manaus <END> .
-De acordo com o projeto, iniciado <START:TEMPO_TEMPO_CALEND_DATA> em setembro de 2007 <END> , 17 líderes indígenas estiveram em 44 comunidades no <START:LOCAL_HUMANO_REGIAO> Alto Rio Negro <END> , <START:LOCAL_HUMANO_REGIAO> Alto e Médio Solimões <END> , <START:LOCAL_HUMANO_REGIAO> Vale do Javari <END> , <START:LOCAL_HUMANO_REGIAO> Purus <END> , <START:LOCAL_HUMANO_REGIAO> Juruá <END> e <START:LOCAL_HUMANO_REGIAO> Manaus <END> para aplicar os questionários de avaliação sobre a atual situação dos registros civis da população e coletar dados para a elaboração de um relatório.
-O documento, será apresentado <START:TEMPO_TEMPO_CALEND_DATA> em março de 2008 <END> e incluirá o resultado geral das avaliações e as sugestões dos povos indígenas.
-Ao todo, foram mais de 1,4 mil questionários aplicados em 325 comunidades, o equivalente a 43 etnias visitadas.
-Fonte: Clipping da    6ªCCR do MPF     .
---DOCSTART--
-
-Lisboa-Dakar'2008 começa <START:TEMPO_TEMPO_CALEND_DATA> a 5 de Janeiro <END>
-PROVA TERÁ PERTO DE 6.000 QUILÓMETROS
-A  30.ª  edição do Dakar vai partir de <START:LOCAL_HUMANO_DIVISAO> Lisboa <END> <START:TEMPO_TEMPO_CALEND_DATA> no dia 5 de Janeiro <END> com a chegada ao <START:LOCAL_HUMANO_PAIS> Senegal <END> marcada <START:TEMPO_TEMPO_CALEND_DATA> para 20 <END> , numa competição que terá <START:TEMPO_TEMPO_CALEND_DATA> no próximo ano <END> perto de 6.000 quilómetros de provas especiais.
-"Os itinerários provisórios indiciam uma quilometragem de especiais significante mais importante que <START:TEMPO_TEMPO_CALEND_DATA> nos anos anteriores <END> .
-<START:TEMPO_TEMPO_CALEND_DATA> Em 2006 <END> e <START:TEMPO_TEMPO_CALEND_DATA> 2007 <END> ficámos nos 4.000 , 5.000 quilómetros .
-<START:TEMPO_TEMPO_CALEND_DATA> Em 2008 <END> , queremos mais especiais e menos ligações", afirmou o director do Lisboa-Dakar , Etienne Lavigne, durante a apresentação da prova.
-A partida da edição <START:TEMPO_TEMPO_CALEND_DATA> de 2008 <END> está marcada para a <START:LOCAL_HUMANO_CONSTRUCAO> Praça do Império <END> , em <START:LOCAL_HUMANO_DIVISAO> Lisboa <END> .
-O  <START:LOCAL_HUMANO_CONSTRUCAO> Centro Cultural <END> de <START:LOCAL_HUMANO_DIVISAO> Belém <END> será o quartel-general para os carros, motos e camiões.
-De fora do percurso ficou o <START:LOCAL_HUMANO_PAIS> Mali <END> , depois dos problemas de segurança ocorridos na prova <START:TEMPO_TEMPO_CALEND_DATA> deste ano <END> , o que levou ao cancelamento de uma etapa.
-"Existe muita instabilidade <START:TEMPO_TEMPO_CALEND_DATA> neste momento <END> em alguns países africanos.
-São zonas de risco onde não poderíamos a 100 por cento garantir a segurança, não só dos pilotos, mas de todo o staff que está envolvido na prova", justificou Etienne Lavigne, revelando que o Plano de Segurança Rodoviária que tinha sido criado para a última edição foi reformulado.
-<START:LOCAL_HUMANO_DIVISAO> Lisboa <END> e <START:LOCAL_HUMANO_DIVISAO> Portimão <END> deverão receber as primeiras especiais, estando ainda em estudo os percursos exactos para as duas etapas iniciais.
-"Estamos muito perto dos desenhos finais dos percursos.
-Não podemos tornar público, mas temos trabalhado intensamente nesse sentido.
-Não há muito para mud ar.
-Os padrões estão de tal maneira elevados que é difícil fazer melhor", afirmou João Lagos, empresário responsável pela parte portuguesa do Lisboa-Dakar.
-De acordo com os números revelados <START:TEMPO_TEMPO_CALEND_DATA> hoje <END> pela organização, na edição <START:TEMPO_TEMPO_CALEND_DATA> 2007 <END> do rali mais de um milhão de pessoas assistiram à passagem por <START:LOCAL_HUMANO_PAIS> Portugal <END> .
-" <START:TEMPO_TEMPO_CALEND_DATA> Nestes últimos dois anos <END> , <START:LOCAL_HUMANO_PAIS> Portugal <END> , <START:LOCAL_HUMANO_DIVISAO> Lisboa <END> e <START:LOCAL_HUMANO_DIVISAO> Portimão <END> deixaram uma marca muito forte no Dakar.
-Foram anos fantásticos, com uma adesão fantástica e um ambiente extraordinário", sublinhou João Lagos.
---DOCSTART--
-
-Agora já pode chegar ao seu pesqueiro preferido do modo mais rápido possível e sem possibilidade de enganos no caminho!
--Sistema de Navegação automóvel, pronto a usar , com indicações de mudança de direcção (turn-by-turn) de voz e visuais a 3 dimensões (True view 3d navigation exclusiva da Magellan), e ecrã táctil com 32.000 côres.
-Aplicação na viatura muito simples.
-Pode ser facilmente removido e aplicado noutras viaturas.
-Só tem que escolher o seu destino e o magellan roadmate calcula automaticamente a sua rota,caso mude a sua rota, para tomar um atalho o RoadMate recalcula a sua rota.
--Base de dados com mapas de <START:LOCAL_HUMANO_PAIS> Portugal <END> , <START:LOCAL_HUMANO_PAIS> Espanha <END> e sul de <START:LOCAL_HUMANO_PAIS> França <END> incorporados
--Inclui cartão SD de 512 Mb para importação de mapas,waypoints ou rotas criadas em casa.
-Pontos de interesse, organizados em mais de 40 categorias incluíndo, restaurantes, parques, estações de serviço, hotéis, escolas etc.
-Grava até 600 endereços pessoais.
-(ou 200 endereços por cada utilizador, permitindo um máximo de 3 utilizadores.)
-O planeamento de rota pode ser feito das seguintes maneiras:
--O caminho mais rápido.
--Distância mais curta.
--O menor uso de auto-estradas
-Alimentação de 10-18V DC
-Fornecido com suporte universal, suporte com ventosa para fixação do vidro,cabo de alimentação exterior de 220V AC, cabo USB para ligação ao computador e CD-ROM com manual de instruções em português.
-Menus e indicações de voz, <START:TEMPO_TEMPO_CALEND_DATA> a partir de Setembro 2005 <END> (unidades vendidas agora terão actualização grátis <START:TEMPO_TEMPO_CALEND_DATA> nessa altura <END> .)
--Encomenda sujeita a confirmação.
---DOCSTART--
-    
- Educação Ambiental        
- Este espaço se destina a divulgar os principais Programas , Projetos e Ações desenvolvidos pela <START:ORGANIZACAO_ADMINISTRACAO_SUB> Coordenação-Geral de Educação Ambiental <END> que tem como eixos centrais: Fortalecimento da Política Nacional de Educação Ambiental - Lei 9795/99 ; Formação Continuada na Educação Básica ; Fomento a projetos de Educação Ambiental  ; Educação Ambiental no Ensino Superior .Estas ações, em sua maior parte, estão em consonância com as ações procedidas no âmbito da <START:ORGANIZACAO_ADMINISTRACAO_SUB> Diretoria de Educação Ambiental <END> - <START:ORGANIZACAO_ADMINISTRACAO_SUB> DEA <END> , do Ministério do Meio Ambiente ; guardadas suas competências e atribuições específicas.
-Enraizamento da Educação Ambiental no <START:LOCAL_HUMANO_PAIS> Brasil <END>        
- Ações do <START:ORGANIZACAO_ADMINISTRACAO_SUB> Órgão Gestor <END> desenvolvidas junto às Unidades da Federação  , a fim de articular e fortalecer entidades, instituições e colegiados que trabalham com Educação Ambiental , incentivando a organicidade entre as ações, projetos e programas.
-Mapeamento da EA no Ensino Superior        
- Contribuir para a ampliação do debate a respeito da Educação Ambiental ( EA ) em instituições de educação superior ( IES ) brasileiras, com vistas à reflexão sobre políticas públicas educacionais que considerem a dimensão ambiental na formação dos profissionais de nível superior das diferentes áreas do conhecimento.
-Ver síntese da pesquisa.
-O que fazem as escolas que dizem que fazem EA        
- Quais são os caminhos utilizados pelas escolas em Educação Ambiental ?
-Para responder a essa pergunta, uma parceria entre a Secretaria de Educação Continuada, Alfabetização e Diversidade - SECAD/MEC , o INEP e a Associação Nacional de Pesquisa em Educação - ANPED possibilitou a elaboração de uma pesquisa para aprofundar os dados obtidos no Censo Escolar ( <START:TEMPO_TEMPO_CALEND_INTERVALO> 2001-2004 <END> ) e conhecer melhor como estas alternativas são processadas e significadas nos diferentes contextos escolares, possibilitando uma compreensão qualitativa dos caminhos de inserção da Educação Ambiental no ensino fundamental.
-Educação de Chico Mendes        
-Programa de fomento a projetos de educação ambiental no ensino básico    
- O Programa Educação de Chico Mendes surgiu para dar continuidade à construção permanente da educação ambiental e à promoção de um círculo virtuoso na busca do conhecimento, pesquisa e geração de saber e ações transformadoras a partir das escolas e das comunidades locais.
-[...]        
- - Formação continuada de professores em Educação Ambiental        
- A Resolução nº 13 do FNDE dá continuidade do Programa Vamos Cuidar do Brasil com as Escolas , estabelecendo normas para o apoio financeiro a projetos de formação de professores em Educação Ambiental .
-Tais projetos de formação envolverão professores do segundo ciclo do ensino fundamental ( 5a a 8a séries), de escolas públicas que participaram do processo da II Conferência Nacional Infanto-Juvenil pelo Meio Ambiente ; e à elaboração, aquisição, reimpressão ou reprodução do material didático empregado na formação.
-O objetivo desta ação, é estimular, em professores, alunos e gestores de educação, a leitura crítica da realidade a partir da diversidade e do meio ambiente e a participação no processo de construção de conhecimentos, pesquisa e intervenção cidadã com base em valores voltados à sustentabilidade da vida em suas múltiplas dimensões.
-Os projetos de formação devem aprimorar a qualidade da abordagem da educação ambiental que, segundo    Censo   do   INEP    , encontra presente em 94,5% d        
- as escolas do ensino fundamental do <START:LOCAL_HUMANO_PAIS> Brasil <END> .
-Portfolio do <START:ORGANIZACAO_ADMINISTRACAO_SUB> Órgão Gestor da Política Nacional de Educação Ambiental <END>        
- Reúne um resumo de todos os programas, projetos e ações do <START:ORGANIZACAO_INSTITUICAO_SUB> Órgão Gestor da Política Nacional de Educação Ambiental <END> .
-Programa Juventude e Meio Ambiente        
- Este Programa se propõe a incentivar e a aprofundar o debate socioambiental com foco em políticas públicas, deflagrando um processo de formação de jovens e de fortalecimento dos Coletivos Jovens de Meio Ambiente existentes em todo o país.
-A proposta dos Coletivos Jovens vem sendo construída e implementada <START:TEMPO_TEMPO_CALEND_DATA> desde 2003 <END> , a partir da realização da I Conferência Nacional Infanto-Juvenil pelo Meio Ambiente .
-(*acesse a proposta de identidade visual dos Coletivos Jovens para compreender melhor esses grupos*)        
- O   <START:OBRA_REPRODUZIDA_LIVRO> Manual Orientador para Coletivos Jovens de Meio Ambiente <END>    é uma das publicações do Programa , e tem como objetivo contribuir para o fortalecimento dos Coletivos Jovens ( CJs ) já existentes e estimular a formação de novos Coletivos Jovens em municípios.A principal linha de ação do Programa é a formação de jovens na área socioambiental, em cinco temas principais: Educação Ambiental ; Fortalecimento Organizacional ; Educomunicação ; Empreendedorismo ; e Participação Política .
-Trata-se de um processo de formação presencial e a distância, e que envolverá jovens de todos os estados brasileiros.
-Orientações Curriculares    
- Ensino Médio        
- A Secretaria de Educação Continuada, Alfabetização e Diversidade ( SECAD ) foi convidada pelo departamento de   Ensino Médio da Secretaria de Educação Básica ( SEB ) a participar do processo de reelaboração dos     Parâmetros Curriculares Nacionais do Ensino Médio     , no intuito de produzir textos que contemplassem a perspectiva da diversidade.Nesse sentido, a SECAD fez uma oficina com a participação de suas coordenações-gerais onde foi trabalhada a questão da diversidade no currículo como forma de orientar as atividades pedagógicas, ou seja, definir qual a concepção de currículo e diversidade que se quer trabalhar, quais os objetivos e qual a melhor maneira de inserir as diferentes temáticas nas áreas e disciplinas do ensino médio.
-Cada coordenação produziu um texto procurando articular as várias temáticas, que resultará num <START:OBRA_REPRODUZIDA_LIVRO> Caderno de Diversidade <END> para acompanhar os <START:OBRA_REPRODUZIDA_LIVRO> Parâmetros Curriculares Nacionais do Ensino Médio <END> .
-Com-vida MEC        
-    Programa Institucional de Gestão Ambiental do MEC    que visa a melhor gestão dos recursos naturais e a diminuição dos impactos ambientais gerados pelas suas atividades.
---DOCSTART--
-    
- Por que não lançar foguetões de água e aprender a fazer relógios de Sol  ?
-:: <START:TEMPO_TEMPO_CALEND_DATA> 2007-12-13 <END>        
- Telescópios, brinquedos, livros, um simulador de voo, sessões de observação do sol e do céu nocturno e foguetões de água vão estar, <START:TEMPO_TEMPO_CALEND_INTERVALO> entre sexta-feira e domingo <END> , em <START:LOCAL_HUMANO_DIVISAO> Cascais <END> , à disposição dos visitantes da FASCINIO - Feira de Astronomia e Ciência .
-Organizada pelo Núcleo Interactivo de Astronomia ( NUCLIO ) no  <START:LOCAL_HUMANO_CONSTRUCAO> Centro de Interpretação Ambiental <END> da <START:LOCAL_HUMANO_DIVISAO> Ponta do Sal <END> , em <START:LOCAL_HUMANO_DIVISAO> São Pedro do Estoril <END> , a quarta edição da iniciativa inclui sessões de observação do sol e do céu nocturno, oficinas de astronomia, lançamentos de foguetões de água, palestras e uma "procura de asteróides", actividade que a instituição promove regularmente nas escolas do concelho.
-"A feira destina-se ao público em geral, embora o programa <START:TEMPO_TEMPO_CALEND_DATA> de sexta-feira <END> esteja muito pensado para as escolas, com actividades para os primeiros ciclos, e <START:TEMPO_TEMPO_CALEND_DATA> sábado <END> tenha actividades para os professores, com uma pequena mostra das actividades do NUCLIO ", disse à Agência Lusa a astrónoma Rosa Doran .        
- "
-<START:TEMPO_TEMPO_CALEND_DATA> Sexta-feira <END> estão previstas actividades para as escolas, a que chamámos 'sexta-feira divertida', dedicadas ao conhecimento das estrelas e constelações e ainda observação do Sol com Telescópios  e construir enfeites  de Natal  com motivos de astronomia", acrescentou.
-<START:TEMPO_TEMPO_CALEND_DATA> No sábado <END> o programa prevê observação de supernovas e do Sol e apresentação a professores do projecto ' Hands-On Universe ', que pretende uma nova abordagem no ensino e aprendizagem da astronomia, recorrendo a ferramentas interactivas que podem, por exemplo, passar pela utilização de tempo de observação em telescópios profissionais nas salas de aulas e tratamento de imagens num software especialmente desenvolvido para o efeito.
-Sol para Todos    
- Haverá observação nocturna do céu com telescópios e será ainda apresentado o programa do  Observatório Astronómico da Universidade de <START:LOCAL_HUMANO_DIVISAO> Coimbra <END>  " Sol para Todos ".
-"O    Observatório   de   <START:LOCAL_HUMANO_DIVISAO> Coimbra <END>  tem um grande acervo de imagens do Sol , que registam diariamente <START:TEMPO_TEMPO_CALEND_DATA> desde os anos vinte do século passado <END> , e estão a digitalizar essas imagens para que possam estar à disposição das escolas", explica Rosa Doran , realçando que desta forma "os meninos podem fazer ciência na própria sala de aula, podem ver a evolução das manchas do sol <START:TEMPO_TEMPO_CALEND_DATA> nas últimas décadas <END> e comparar essa evolução, por exemplo, com as mudanças do clima".
-Segundo a responsável, um dos principais objectivos da FASCINIO é dar também a conhecer a oferta existente na área e valorizar o trabalho dos profissionais portugueses, "muito ligados" à investigação de vanguarda e pouco reconhecidos pelo grande público.
-[...]    
-A Nossa Galáxia    
- O NUCLIO vai por isso assinar <START:TEMPO_TEMPO_CALEND_DATA> sábado <END> um protocolo com a  Câmara Municipal de <START:LOCAL_HUMANO_DIVISAO> Cascais <END> para que o <START:LOCAL_HUMANO_CONSTRUCAO> Centro de Interpretação Ambiental <END> seja disponibilizado para as suas actividades junto da comunidade escolar.
-De acordo com o documento, a autarquia irá ainda apoiar a formação agendada <START:TEMPO_TEMPO_CALEND_DATA> para o presente ano lectivo <END> com vinte mil euros .
-Durante a feira será também apresentado o livro de divulgação científica " <START:OBRA_REPRODUZIDA_LIVRO> Passeio Aleatório pela ciência do dia-a-dia <END> ", com a presença do autor Nuno Crespo .
-Ainda <START:TEMPO_TEMPO_CALEND_DATA> no sábado <END> , a investigadora do  Centro de Astronomia   da   Universidade do <START:LOCAL_HUMANO_DIVISAO> Porto <END> Catarina Lobo , que estuda enxames de galáxias, vai explicar ao público em geral que tipo de galáxia é a nossa, como se formam e como evoluem na palestra " A nossa Galáxia e as outras: Ilhas no Universo ".
-<START:TEMPO_TEMPO_CALEND_DATA> No domingo <END> está previsto que o público em geral possa participar no lançamento de foguetões de água e em Oficinas de Astronomia , com a construção de Relógios de Sol  , Espectroscópios  , Astrolábios  , Planisférios  e outros materiais de observação.
-A iniciativa termina com uma palestra por João Fernandes , o coordenador nacional do ano internacional da astronomia, que se assinala <START:TEMPO_TEMPO_CALEND_DATA> em 2009 <END> .
+ « PolivalênciaVacas - Para o BCE somos vacas!!
+Para o Banco Central Europeu somos gado!!
+Os politicos comprados por Bruxelas gerem as manadas nacionais.
+Se somos mais caros do que produzimos, mais vale abater.
+Esta é a politica de saude deste admiravel mundo novo.
+- -    
+ Fui <START:TEMPO_TEMPO_CALEND_DATA> ontem <END> ( <START:TEMPO_TEMPO_CALEND_DATA> terça <END> ) às urgencias pediátricas de cascais com a minmha filhiha de 4 anos e ...        
+ "Vai ter que voltar, porque só funciona <START:TEMPO_TEMPO_CALEND_INTERVALO> das 08h00 às 09h00 <END> "        
+Desculpem??
+Que M... é esta??!
+Que grande M... é esta??!
+Este é o país real, mas a situação é surreal.
+Não aconteceu com um amigo, conhecido, ou familiar.
+Aconteceu COMIGO!!
+Em primeira mão.
+Que é que eles querem?
+Vamos reagir eficaz e eficientemente.
+1º - Assinar a petição contra o desmembramento, só possivel pela cegueira provocada pela rentabilidade que enche os bolsos de alguns e lixa todos, dos cuidados INDISPENSAVEIS de saude em <START:LOCAL_HUMANO_PAIS> Portugal <END> .
+Petição contra esta abominavel realidade    
+ 2º - Arranjar uma petição de cidadãos a exigir a extinção do BCE .
+Quero lá saber se é impossível, retrógrado, ou excessivo.
+Eles que se cuidem.
+Tem que ser possível domesticá-los, e se não for, exterminá-los.
+Que se vão encher para outro planeta.
+Quem paga os ordenados exorbitantes que eles ganham?
+Nós!!
+Para quê!??
+Só que não somos gado.
+Somos cidadão e temos que nos saber fazer respeitar.
+Portanto, toca a fazer esta petição, para os por em sentido e sentirem cagufa no rabinho!

@@ -1,20 +1,394 @@
 --DOCSTART--
- <START:ORGANIZACAO_ADMINISTRACAO>China<END> vai desenvolver nova geração de telemóveis <START:TEMPO_TEMPO_CALEND>em 2008<END>        
- A <START:ORGANIZACAO_ADMINISTRACAO>China<END> vai desenvolver telemóveis de banda larga «de nova geração» <START:TEMPO_TEMPO_CALEND>em 2008<END> , informa <START:TEMPO_TEMPO_CALEND>hoje<END> a imprensa estatal.        
- O <START:ORGANIZACAO_ADMINISTRACAO>Conselho de Estado<END> aprovou o plano de pesquisa da tecnologia de terceira geração, usando os padrões de redes nacionais <START:COISA_CLASSE>TD-SCDMA<END> . A estreia poderá acontecer durante os  <START:ACONTECIMENTO_ORGANIZADO>Jogos Olímpicos<END> <START:TEMPO_TEMPO_CALEND>de 2008<END> .        
- O programa de desenvolvimento «estará de acordo com as tendências da tecnologia da informação e ajudará a melhorar a inovação e competitividade mundial das empresas chinesas», disse o <START:PESSOA_CARGO>ministro da Indústria da Informação<END> , <START:PESSOA_INDIVIDUAL>Wang Xundong<END> , citado pela agência <START:ORGANIZACAO_EMPRESA>Xinhua<END> .        
- Segundo <START:PESSOA_INDIVIDUAL>Wang<END> , este será um dos principais temas da pesquisa tecnológica chinesa <START:TEMPO_TEMPO_CALEND>em 2008<END> , juntamente com o desenvolvimento de microprocessadores e circuitos integrados, entre outros.        
- A tecnologia <START:COISA_CLASSE>TD-SCDMA<END> é desenvolvida integralmente pela <START:ORGANIZACAO_ADMINISTRACAO>China<END> , em oposição aos padrões norte-americanos ( <START:COISA_CLASSE>CDMA 2000<END> ) e europeus ( <START:COISA_CLASSE>WCDMA<END> ).        
- Ainda não há data para a concessão de licenças para telemóveis <START:COISA_CLASSE>3G<END> , que serão disputadas entre as quatro grandes operadoras de comunicações fixas e móveis do país: <START:ORGANIZACAO_EMPRESA>China Telecom<END> , <START:ORGANIZACAO_EMPRESA>China Netcom<END> , <START:ORGANIZACAO_EMPRESA>China Mobile<END> e <START:ORGANIZACAO_EMPRESA>China Unicom<END> .      
+Onde ficam as <START:LOCAL_FISICO>Ilhas Marquesas<END>? 
+De que organização é que <START:PESSOA_INDIVIDUAL>Javier Solana<END> era secretário-geral? 
+O que é a <START:ORGANIZACAO_INSTITUICAO>EFTA<END>? Quando é que foi criada? Que cinco países da <START:ORGANIZACAO_INSTITUICAO>EFTA<END> se juntaram ao <START:OBRA_PLANO>EEE"EEE<END> quando este entrou em vigor? 
+Qual é o maior banco do <START:LOCAL_HUMANO>Japão<END>? 
+A que companhia pertencia o <START:COISA_OBJECTO>Airbus<END> atacado pelo <START:PESSOA_GRUPOMEMBRO>GIA<END> <START:TEMPO_TEMPO_CALEND>em Dezembro de 1994<END>? 
+Quem é <START:PESSOA_INDIVIDUAL>Michael Jackson<END>? Diga um dos grandes sucessos de <START:PESSOA_INDIVIDUAL>Michael Jackson<END>? Com quem é que ele se casou <START:TEMPO_TEMPO_CALEND>em Maio de 1994<END>? 
+Qual era a nacionalidade de <START:PESSOA_INDIVIDUAL>Ayrton Senna<END>? Quantas vezes é que ele foi campeão do mundo? Quando é que ele morreu? Em que circuito de <START:ABSTRACCAO_DISCIPLINA>F1<END> é que ele morreu? 
+Quando é que caiu o regime comunista do <START:LOCAL_HUMANO>Afeganistão<END>? Quem era o presidente do regime comunista do <START:LOCAL_HUMANO>Afeganistão<END> antes dessa queda? 
+Quantos casamentos ocurreram na <START:LOCAL_HUMANO>Grã-Bretanha<END> <START:TEMPO_TEMPO_CALEND>em 1993<END>? 
+O que é o <START:ORGANIZACAO_INSTITUICAO>IRA<END>? Contra que aeroporto londrino o <START:ORGANIZACAO_INSTITUICAO>IRA<END> lançou um ataque de morteiro <START:TEMPO_TEMPO_CALEND>em 1994<END>? 
+Quando é que foi inaugurada a  <START:LOCAL_HUMANO>Ponte<END> da <START:LOCAL_HUMANO>Normandia<END>? 
+Quando ocorreu o tremor de terra em <START:LOCAL_HUMANO>Los Angeles<END>? 
+Quem é <START:PESSOA_INDIVIDUAL>Paul Touvier<END>? Quando é que começou o julgamento de <START:PESSOA_INDIVIDUAL>Paul Touvier<END>? 
+Quando é que foi criado o  <START:ORGANIZACAO_INSTITUICAO>Tribunal Internacional Penal<END> para o <START:LOCAL_HUMANO>Ruanda<END> ? 
+Quando é que <START:PESSOA_INDIVIDUAL>Liamine Zéroul<END> foi eleito para a presidência da <START:LOCAL_HUMANO>Argélia<END>? 
+Quando é que a <START:OBRA_PLANO>Organização Mundial do Comércio<END> entrou em vigor? 
+Em que ano nasceu <START:PESSOA_INDIVIDUAL>Richard Nixon<END>? 
+Quando é que o antigo  <START:LOCAL_HUMANO>Parlamento<END> da <START:LOCAL_HUMANO>Bretanha<END> foi destruído por um incêndio? 
+Onde fica Lillehammer? 
+Quando é que <START:PESSOA_INDIVIDUAL>Eduardo Frei<END> se tornou <START:PESSOA_CARGO>presidente do Chile<END> ? 
+Em que ano é que <START:PESSOA_INDIVIDUAL>Eugène Ionesco<END> entrou na <START:ORGANIZACAO_INSTITUICAO>Academia Francesa<END>? 
+Que bispo foi suspenso pelo <START:ORGANIZACAO_INSTITUICAO>Vaticano<END> <START:TEMPO_TEMPO_CALEND>a 13 de Fevereiro de 1995<END>? 
+Em <START:LOCAL_HUMANO>França<END>, quem foi nomeado <START:PESSOA_CARGO>Primeiro Ministro<END> <START:TEMPO_TEMPO_CALEND>a 17 de Maio de 1995<END>? 
+Onde fica Balcarce? 
+Que famoso condutor argentino se retirou <START:TEMPO_TEMPO_CALEND>em 1958<END>? 
+Quem ganhou o <START:ACONTECIMENTO_ORGANIZADO>Torneio das Cinco Nações<END> <START:TEMPO_TEMPO_CALEND>em 1994<END>? 
+Quem ganhou o Óscar de melhor filme por "<START:OBRA_REPRODUZIDA>Forrest Gump<END>"? 
+Quem ganhou o Prémio Goncourt <START:TEMPO_TEMPO_CALEND>em 1995<END>? 
+Quem ganhou o Óscar de melhor actor <START:TEMPO_TEMPO_CALEND>em 1994<END>? 
+Quem se suicidou <START:TEMPO_TEMPO_CALEND>a 8 de Abril de 1994<END>? 
+Que duas personalidades famosas presidiram ao júri do  <START:ACONTECIMENTO_ORGANIZADO>Festival<END> de <START:LOCAL_HUMANO>Cannes<END> <START:TEMPO_TEMPO_CALEND>de 1994<END>? 
+Quantos habitantes tem <START:LOCAL_HUMANO>Catmandu<END>? 
+A que partido político pertence <START:PESSOA_INDIVIDUAL>Thérèse Aillaud<END>? Ela é deputada por que região? 
+Quem foi eleito <START:PESSOA_CARGO>presidente da África do Sul<END>  <START:TEMPO_TEMPO_CALEND>a 9 de Maio de 1994<END>? 
+Quem se tornou <START:PESSOA_CARGO>líder do Partido Trabalhista<END>  britânico <START:TEMPO_TEMPO_CALEND>a 21 de Julho de 1994<END>? 
+Quais as cinco praias do desembarque das quais um industrial comprou <START:VALOR_QUANTIDADE>200 toneladas<END>  de areia para comemorar o <START:VALOR_QUANTIDADE>50º<END> aniversário do <START:ACONTECIMENTO_EFEMERIDE>Dia-D<END>? 
+Quem era <START:PESSOA_CARGO>presidente da Comissão Europeia<END>  <START:TEMPO_TEMPO_CALEND>em 1995<END>? 
+Onde é que  <START:PESSOA_INDIVIDUAL>Stephanie<END> do <START:LOCAL_HUMANO>Mónaco<END> e <START:PESSOA_INDIVIDUAL>Daniel Ducruet<END> se casaram? 
+Quantas pessoas estavam presentes na cerimónia em memória do escritor <START:PESSOA_INDIVIDUAL>Elias Canetti<END>? 
+Qual o endereço da  <START:LOCAL_HUMANO>Delegação de Turismo<END> do <START:LOCAL_HUMANO>Sri Lanka<END>? 
+Que aconteceu na <START:LOCAL_HUMANO>Argélia<END> <START:TEMPO_TEMPO_CALEND>na noite de 17 para 18 de Agosto de 1994<END>? Quantas pessoas morreram no terramoto? Quantos quilómetros são de <START:LOCAL_HUMANO>Orão<END> a <START:LOCAL_HUMANO>Macara<END>? 
+Um míssil <START:COISA_CLASSE>ASMP<END> é quantas vezes mais rápido do que a velocidade do som? 
+O que é a <START:ORGANIZACAO_INSTITUICAO>FPLP<END>? Quem era considerado chefe do grupo? Em que país fica Beit Liqya? 
+A que cidade chinesa foi <START:PESSOA_INDIVIDUAL>Warren Christopher<END> enviado por <START:PESSOA_INDIVIDUAL>Bill Clinton<END> para apreciar os eventuais progressos relativos aos direitos humanos? 
+Quem é <START:PESSOA_INDIVIDUAL>Sir Winston Churchill<END>? 
+Que prémio ganhou o filme "<START:OBRA_REPRODUZIDA>Pulp Fiction<END>" no  <START:ACONTECIMENTO_ORGANIZADO>Festival<END> de <START:LOCAL_HUMANO>Cannes<END>? Quem realizou esse filme? Quem é o actor principal? 
+Quantos habitantes tem a <START:LOCAL_HUMANO>União Soviética<END>? 
+Quantos poços tiveram que ser encerrados após a ruptura de um oleoduto na <START:LOCAL_HUMANO>Sibéria<END>? 
+Onde é que fica o aeroporto de <START:LOCAL_HUMANO>Irkutsk<END>? 
+Que dois bancos se fundiram para formar o banco <START:ORGANIZACAO_EMPRESA>Tokyo-Mitsubishi<END>? 
+Quantos quilómetros separam <START:LOCAL_HUMANO>Kikwit<END> de <START:LOCAL_HUMANO>Kinshasa<END>? 
+Em que filme de <START:PESSOA_INDIVIDUAL>André Cayatte<END> participou <START:PESSOA_INDIVIDUAL>Annie Girardot<END> <START:TEMPO_TEMPO_CALEND>em 1971<END>? De que doença é que ela sofre <START:TEMPO_TEMPO_CALEND>desde 2006<END>? Onde é que ela nasceu? 
+O que é a aceleração centrífuga? 
+O que significa a sigla <START:ABSTRACCAO_NOME>WIA<END>? 
+Em que ano foi realizado o filme "<START:OBRA_REPRODUZIDA>Ace Ventura em África<END>"? 
+Que vírus atingiu o <START:LOCAL_HUMANO>Zaire<END>? 
+O que é Geographos? 
+Que avião civil efectuou o voo mais longo sem escalas? Onde é que o <START:COISA_CLASSE>A340<END> levou a cabo o voo mais longo sem escalas por um avião civil? Quando é que este feito foi levado a cabo? 
+Que nome se dá a uma inflamação dos gânglios? 
+Quais são os outros três nomes do <START:ORGANIZACAO_INSTITUICAO>Arsenal Football Club<END>? Quando é que este clube foi fundado? Em que estádio é que os jogadores do <START:PESSOA_GRUPOMEMBRO>Arsenal<END> têm estado a treinar <START:TEMPO_TEMPO_CALEND>desde Agosto de 2006<END>? Quantos lugares tem o estádio? 
+Com que Prémio Nobel é que <START:PESSOA_INDIVIDUAL>Seamus Heaney<END> foi galardoado? 
+Quantos estados ratificaram a convenção adoptada pela  <START:ORGANIZACAO_ADMINISTRACAO>Assembleia Geral<END> da <START:ORGANIZACAO_ADMINISTRACAO>ONU<END> <START:TEMPO_TEMPO_CALEND>em 20 de Novembro de 1989<END>? 
+Quem é <START:PESSOA_INDIVIDUAL>Arsène Wenger<END>? De que equipa é que ele se tornou treinador <START:TEMPO_TEMPO_CALEND>em 1987<END>? 
+Em que ano foi fundada a firma <START:ORGANIZACAO_EMPRESA>Adidas Group AG<END>? Qual é a sua área de trabalho? 
+Qual é a altitude do <START:LOCAL_FISICO>Monte Rosa<END>? 
+Quantos litros de azeite são comercializados <START:TEMPO_FREQUENCIA>por ano<END> pela <START:ORGANIZACAO_EMPRESA>EBS<END>? 
+De que país é <START:PESSOA_INDIVIDUAL>Kim Il Sung<END> presidente? 
+As amêndoas são o fruto de que árvore? De onde é que ela é originária? 
+Quem é <START:PESSOA_INDIVIDUAL>Charles-Ange Ginésy<END>? De que município é que ele também é presidente? Em que grupo político é que ele tem assento? 
+O que é a febre-amarela? 
+Que ferry-boat famoso naufragou no <START:LOCAL_FISICO>Mar Báltico<END>? 
+Em que país teve lugar a cimeira dos <START:ORGANIZACAO_ADMINISTRACAO>G7<END> <START:TEMPO_TEMPO_CALEND>em Julho de 1994<END>? 
+A que horas ocorreu o acidente no metro de <START:LOCAL_HUMANO>Valência<END> <START:TEMPO_TEMPO_CALEND>a 3 de Julho de 2006<END>? Quantos mortos causou esse acidente? A que velocidade circulava o metro? 
+Quando é que a <START:LOCAL_HUMANO>Tanzânia<END> fechou as fronteiras aos refugiados do <START:LOCAL_HUMANO>Ruanda<END>? 
+Que slalom é que <START:PESSOA_INDIVIDUAL>Alberto Tomba<END> ganhou <START:TEMPO_TEMPO_CALEND>a 6 de Fevereiro de 1994<END>? 
+O que é "<START:PESSOA_GRUPOMEMBRO>Ace of Base<END>"? De que cidade é este grupo? Quem são os quatro membros que compõem o grupo? 
+Qual é o arranha-céus mais alto do mundo? 
+O que é <START:PESSOA_INDIVIDUAL>Asandros<END>? Quem é o irmão dele? 
+Onde é que <START:PESSOA_INDIVIDUAL>Danny Barker<END> morreu? 
+Quem foi nomeado <START:PESSOA_CARGO>presidente da SNCF<END>  <START:TEMPO_TEMPO_CALEND>em 20 de Dezembro de 1995<END>? 
+Que quatro planetas do sistema solar são compostos principalmente de gás? Diga um corpo celeste. De que é que é composta a atmosfera da <START:COISA_OBJECTO>Lua<END>? 
+Em informática, o que é <START:COISA_CLASSE>Alien<END>? 
+Qual é a principal companhia de aviação em <START:LOCAL_HUMANO>França<END>? Que cinco companhias de aviação que se fundiram <START:TEMPO_TEMPO_CALEND>em 1933<END> para criar a <START:ORGANIZACAO_EMPRESA>Air France<END>? Em quantos países os aviões da <START:ORGANIZACAO_EMPRESA>Air France<END> fazem os seus <START:VALOR_QUANTIDADE>1800<END> voos diários? Que companhia detém <START:VALOR_QUANTIDADE>100%<END> do capital da <START:ORGANIZACAO_EMPRESA>Air France<END>? 
+Que conto célebre de <START:PESSOA_INDIVIDUAL>Hans Christian Andersen<END> é a adaptação do conto "<START:OBRA_REPRODUZIDA>Aladino e a Lâmpada Mágica<END>"? 
+O que é a <START:ORGANIZACAO_INSTITUICAO>AIEA<END>? Que prémio é recebeu <START:TEMPO_TEMPO_CALEND>em 2005<END>? Em que cidade podemos encontrar essa agência? Qual foi o seu orçamento <START:TEMPO_TEMPO_CALEND>para o ano de 2004<END>? 
+Quando é que <START:PESSOA_INDIVIDUAL>Thierry Henry<END> ganhou o campeonato do mundo de râguebi? 
+O que é a <START:ORGANIZACAO_INSTITUICAO>MNEF<END>? Quando é que chegou ao fim o último julgamento sobre o escândalo da <START:ORGANIZACAO_INSTITUICAO>MNEF<END>? Segundo <START:PESSOA_INDIVIDUAL>Jean Michel Grosz<END>, que organização foi criada no seu escritório? 
+Qual era a altura de <START:PESSOA_INDIVIDUAL>Marylin Monroe<END>? 
+Que vaivém pôs a sonda espacial <START:COISA_OBJECTO>Ulisses<END> em órbita? 
+Que idade tinha <START:PESSOA_INDIVIDUAL>Grégory Villemin<END> quando o seu corpo foi encontrado? Quem era <START:PESSOA_INDIVIDUAL>Bernard Laroche<END>? Que juiz acusou <START:PESSOA_INDIVIDUAL>Christine Villemin<END>? 
+O que é <START:ORGANIZACAO_EMPRESA>Alcatel<END>? Que companhia foi criada por <START:PESSOA_INDIVIDUAL>Pierre Azaria<END> <START:TEMPO_TEMPO_CALEND>em 1898<END>? Com que grupo a <START:ORGANIZACAO_EMPRESA>Alcatel<END> anunciou a fusão <START:TEMPO_TEMPO_CALEND>em Março de 2006<END>? Quem era o <START:PESSOA_CARGO>director-geral da Alcatel<END>  <START:TEMPO_TEMPO_CALEND>de 1986 a 1995<END>? 
+O que é Assédic? 
+Quando é que saiu o rimeiro <START:COISA_CLASSE>Álbum<END>  da cantora americana <START:PESSOA_INDIVIDUAL>Anastacia<END>? Desde a saída do seu primeiro álbum, quantos discos é que <START:PESSOA_INDIVIDUAL>Anastacia<END> vendeu? 
+Quando é que <START:PESSOA_INDIVIDUAL>Jacques Chirac<END> foi assassinado? 
+Que jogador espanhol ganhou <START:ACONTECIMENTO_ORGANIZADO>Roland Garros<END> <START:TEMPO_TEMPO_CALEND>em 1994<END>? 
+Quantos habitantes tem a <START:LOCAL_HUMANO>Alemanha<END>? Quantos quilómetros de ferrovia tinha a <START:LOCAL_HUMANO>Alemanha<END> <START:TEMPO_TEMPO_CALEND>em 1998<END>? <START:TEMPO_TEMPO_CALEND>Em Novembro de 2005<END>, qual a taxa de desemprego na <START:LOCAL_HUMANO>Alemanha<END>? Qual era a moeda da <START:LOCAL_HUMANO>Alemanha<END> antes do euro? 
+Num relógio, qual o ponteiro que aponta para as horas? 
+O que é o amianto? Qual a primeira causa de morte das pessoas expostas ao amianto? 
+O que é um administrador de rede? 
+Quem é <START:PESSOA_INDIVIDUAL>Allan Frederick Jacobsen<END>? Por que clube joga? Quanto é que ele pesa? 
+Em que árvore crescem os morangos? 
+Quem é <START:PESSOA_INDIVIDUAL>Amira Casar<END>? Onde é que ela nasceu? Em que filme é que ela entrou com <START:PESSOA_INDIVIDUAL>Richard Anconina<END>? 
+Como se chama o <START:PESSOA_CARGO>presidente das Filipinas<END> ? 
+Que barragem seria a maior do mundo se tivesse sido construída? Qual era o custo estimado do projecto? 
+Quantos meses tem <START:TEMPO_GENERICO>numa semana<END>? 
+Que agência está encarregada de centralizar as ofertas e pedidos de emprego em <START:LOCAL_HUMANO>França<END>? Quantos colaboradores tem a <START:ORGANIZACAO_INSTITUICAO>ANPE<END>? Quem é que dirige essa agência <START:TEMPO_TEMPO_CALEND>desde 2005<END>? 
+O que é um afixo? 
+Quem foi assassinado <START:TEMPO_TEMPO_CALEND>a 4 de Novembro de 1995<END>, aos <START:VALOR_QUANTIDADE>73 anos<END>? 
+Qual é a primeira região francesa em população? Quantos habitantes tem essa região? 
+O que é o Filival? 
+Em quantas províncias está dividido o <START:LOCAL_HUMANO>Afeganistão<END>? Que língua é falada pela maioria da população afegã? Quantas escolas havia no <START:LOCAL_HUMANO>Afeganistão<END> <START:TEMPO_TEMPO_CALEND>em 2003<END>? 
+O que é o ácido desoxirribonucleico? Que sigla se usa para designar essa molécula? 
+Qual é o antigo nome do <START:LOCAL_HUMANO>Alabama<END>? Quantos condados tem o <START:LOCAL_HUMANO>Alabama<END>? Que estado fica a norte do <START:LOCAL_HUMANO>Alabama<END>? 
+Que organismo gere os subsídios de desemprego em <START:LOCAL_HUMANO>França<END>? 
+Que organização se dedica especificamente à sobrevivência dos patos? 
+Quem é que derrotou <START:PESSOA_INDIVIDUAL>Michael Moorer<END> no <START:VALOR_CLASSIFICACAO>10º<END> round em <START:LOCAL_HUMANO>Las Vegas<END>? 
+O que é uma árvore coral? Que altura pode esta árvore atingir? 
+Quanto é que pesa uma maçã? 
+O que á <START:ORGANIZACAO_INSTITUICAO>AFNOR<END>? Qual é o equivalente da <START:ORGANIZACAO_INSTITUICAO>AFNOR<END> nos <START:LOCAL_HUMANO>Estados Unidos<END>? 
+O que é uma alergia? Que outro nome se dá a uma alergia? <START:TEMPO_TEMPO_CALEND>Em 1980<END>, que percentagem da população tinha sido atingida por elas? Que alergia afecta <START:VALOR_QUANTIDADE>cerca de 8%<END> das crianças? 
+Qual é a altura do <START:LOCAL_FISICO>Monte Claro<END>? 
+Quais eram os primeiros nomes dos dois irmãos <START:PESSOA_GRUPOIND>Piccard<END>? Qual deles descobriu o urânio 235? Que duas profissões teve este último? 
+Que personagem é que <START:PESSOA_INDIVIDUAL>César Romero<END> representava na famosa série televisiva "<START:OBRA_REPRODUZIDA>Batman<END>"? Onde é que ele morreu? Que idade tinha ele? 
+A que movimento político pertence a <START:PESSOA_INDIVIDUAL>Arlette Laguiller<END>?
 
 --DOCSTART--
     
- <START:PESSOA_INDIVIDUAL>HEIDEGGER<END> e o 4-4-2: Foi, <START:TEMPO_TEMPO_CALEND>ontem<END> , apresentado o livro « <START:OBRA_REPRODUZIDA>Liderança - As Lições de José Mourinho<END> » de <START:PESSOA_INDIVIDUAL>Luís Lourenço<END> , baseado na sua tese de mestrado. Segundo o autor, <START:PESSOA_INDIVIDUAL>José Mourinho<END> "é diferente por partir de um novo paradigma de pensamento, preconizado por <START:PESSOA_INDIVIDUAL>Heidegger<END> ou <START:PESSOA_INDIVIDUAL>Morin<END> , por exemplo, e o operacionalizar. Trata-se de um novo olhar para o <START:ABSTRACCAO_IDEIA>Todo<END> , que põe de parte a divisão e análise das partes e o pensamento cartesiano <START:TEMPO_TEMPO_CALEND>de há quatro séculos<END> ". Cada vez que leio isto (e faço-o <START:TEMPO_FREQUENCIA>várias vezes ao dia<END> , na esperança de o vir a compreender), gosto de imaginar a seguinte conversa entre dois adeptos, à saída de <START:LOCAL_HUMANO>Stanford Bridge<END> :        
- - Eh pá, o <START:PESSOA_GRUPOMEMBRO>Chelsea<END> não merecia ter empatado este jogo.        
- - Pois não. Mas a primeira parte foi tão má que parecia que o <START:PESSOA_INDIVIDUAL>Mourinho<END> não tinha lido « <START:OBRA_REPRODUZIDA>O Ser e o Tempo<END> ».        
- - Quantas vezes é que o <START:PESSOA_INDIVIDUAL>Heidegger<END> avisou que o 4-4-2 só resulta se o trinco compensar a subida dos laterais?        
-- Exacto. Meu amigo, se é para ver a nossa equipa voltar ao pensamento cartesiano, não contes mais comigo para vir ao estádio.    
- - Calma. Também tens que perceber que estava nevoeiro. Se calhar, por isso é que, durante a primeira parte, o <START:PESSOA_INDIVIDUAL>Mourinho<END> não conseguiu ver o <START:ABSTRACCAO_IDEIA>Todo<END> .      
+ <START:PESSOA_INDIVIDUAL>Aristides de Sousa Mendes<END>        
+ A <START:ACONTECIMENTO_EFEMERIDE>Segunda Guerra Mundial<END>        
+ <START:PESSOA_INDIVIDUAL>Aristides de Sousa Mendes<END> permanece ainda    <START:PESSOA_CARGO>cônsul de Bordéus<END>    quando tem início a <START:ACONTECIMENTO_EFEMERIDE>Segunda Guerra Mundial<END> , e as tropas de <START:ORGANIZACAO_ADMINISTRACAO>Adolf Hitler<END> avançam rapidamente sobre a <START:LOCAL_HUMANO>França<END> . <START:PESSOA_INDIVIDUAL>Salazar<END> manteve a neutralidade de <START:ORGANIZACAO_ADMINISTRACAO>Portugal<END> .        
+ Pela <START:OBRA_PLANO>Circular 14<END> , <START:PESSOA_INDIVIDUAL>Salazar<END> ordena aos cônsules portugueses espalhados pelo mundo que recusem conferir vistos às seguintes categorias de pessoas: "estrangeiros de nacionalidade indefinida, contestada ou em litígio; os apátridas; os judeus, quer tenham sido expulsos do seu país de origem ou do país de onde são cidadãos".        
+ Entretanto, <START:TEMPO_TEMPO_CALEND>em 1940<END> , o governo francês refugiou-se temporariamente na cidade, fugindo de <START:LOCAL_HUMANO>Paris<END> antes da chegada das tropas alemãs. Dezenas de milhar de refugiados que fogem do avanço <START:PESSOA_GRUPOMEMBRO>Nazi<END> dirigiram-se a <START:LOCAL_HUMANO>Bordéus<END> . Muitos deles afluem ao consulado português desejando obter um visto de entrada para <START:LOCAL_HUMANO>Portugal<END> ou para os <START:LOCAL_HUMANO>Estados Unidos<END> , onde <START:PESSOA_INDIVIDUAL>Sousa Mendes<END> , o cônsul, caso seguisse as instruções do seu governo distribuiria vistos com parcimónia.        
+ Já <START:TEMPO_TEMPO_CALEND>no final de 1939<END> , <START:PESSOA_INDIVIDUAL>Sousa Mendes<END> tinha desobedecido às instruções do seu governo e emitido alguns vistos. Entre as pessoas que ele tinha então decidido ajudar encontra-se o    <START:PESSOA_CARGO>Rabino<END>   de   <START:LOCAL_HUMANO>Antuérpia<END>   <START:PESSOA_INDIVIDUAL>Jacob Kruger<END>  , que lhe faz compreender que há que salvar os refugiados judeus.        
+ <START:TEMPO_TEMPO_CALEND>A 16 de Junho de 1940<END> , <START:PESSOA_INDIVIDUAL>Aristides<END> decide entregar um visto a todos os refugiados que o pedirem: "A partir de agora, darei vistos a toda a gente, já não há nacionalidades, raça ou religião". Com a ajuda dos seus filhos e sobrinhos e do <START:PESSOA_INDIVIDUAL>rabino Kruger<END> , ele carimba passaportes, assina vistos, usando todas as folhas de papel disponíveis.        
+ Confrontado com os primeiros avisos de <START:ORGANIZACAO_ADMINISTRACAO>Lisboa<END> , ele terá dito: "Se há que desobedecer, prefiro que seja a uma ordem dos homens do que a uma ordem de <START:PESSOA_INDIVIDUAL>Deus<END> ".        
+ Uma vez que <START:PESSOA_INDIVIDUAL>Salazar<END> tomara medidas contra o cônsul, <START:PESSOA_INDIVIDUAL>Aristides<END> continuou a sua actividade <START:TEMPO_TEMPO_CALEND>de 20 a 23 de Junho<END> em <START:LOCAL_HUMANO>Baiona<END> ( <START:LOCAL_HUMANO>França<END> ), no escritório de um vice-cônsul estupefacto, e mesmo na presença de dois outros funcionários de <START:PESSOA_INDIVIDUAL>Salazar<END> . <START:TEMPO_TEMPO_CALEND>A 22 de Junho de 1940<END> , a <START:ORGANIZACAO_ADMINISTRACAO>França<END> pediu um armistício à <START:ORGANIZACAO_ADMINISTRACAO>Alemanha Nazi<END> . Mesmo a caminho de <START:LOCAL_HUMANO>Hendaye<END> , <START:PESSOA_INDIVIDUAL>Aristides<END> continua a emitir vistos para os refugiados que cruzam com ele a caminho da fronteira, uma vez que <START:TEMPO_TEMPO_CALEND>a 23 de Junho<END> , <START:PESSOA_INDIVIDUAL>Salazar<END> demitira-o de suas funções de cônsul.        
+ Apesar de terem sido enviados funcionários para trazer <START:PESSOA_INDIVIDUAL>Aristides<END> , este lidera com a sua viatura uma coluna de veículos de refugiados e guia-os em direcção à fronteira, onde do lado espanhol não existe qualquer telefone. Por isso mesmo, os guardas fronteiriços não tinham sido ainda avisados da decisão de <START:ORGANIZACAO_ADMINISTRACAO>Madrid<END> de fechar as fronteiras com a <START:LOCAL_FISICO>França<END> . <START:PESSOA_INDIVIDUAL>Sousa Mendes<END> impressiona os guardas aduaneiros, que acabariam por deixar passar todos os refugiados, que com os seus vistos puderam continuar viagem até <START:LOCAL_HUMANO>Portugal<END> .      
+
+--DOCSTART--
+
+Que percentagem do orçamento da <START:ORGANIZACAO_ADMINISTRACAO>União Europeia<END> se destina à agricultura? 
+Quantos países são oficialmente candidatos à adesão à <START:ORGANIZACAO_ADMINISTRACAO>Otan<END>? 
+Que sinfonia compôs <START:PESSOA_INDIVIDUAL>Beethoven<END> <START:TEMPO_TEMPO_CALEND>em 1824<END>? 
+Que país não é membro da <START:ORGANIZACAO_ADMINISTRACAO>ONU<END>? 
+Quem se pensa ter participado na tentativa de assassínio de <START:PESSOA_INDIVIDUAL>Juan Carlos<END> <START:TEMPO_TEMPO_CALEND>em 1995<END>? 
+Quem era o pai de <START:PESSOA_INDIVIDUAL>Isabel II<END>? 
+Quem foi <START:PESSOA_CARGO>chanceler da Alemanha<END>  <START:TEMPO_TEMPO_CALEND>de 1974 a 1982<END>? 
+Quando ocorreu a coroação oficial de <START:PESSOA_INDIVIDUAL>Isabel II<END>? 
+Em que ano foi proposta pela primeira vez a "<START:OBRA_PLANO>Parceria para a Paz<END>"? 
+Quem comandou a <START:ACONTECIMENTO_EFEMERIDE>Insurreição de Varsóvia<END>? 
+Quem escreveu a epopeia fantástica "<START:OBRA_REPRODUZIDA>O Senhor dos Anéis<END>"? 
+Como se chama a mulher de <START:PESSOA_INDIVIDUAL>George H. W. Bush<END>? 
+Como se chama a primeira mulher a escalar o <START:LOCAL_FISICO>Evereste<END> sem máscara de oxigénio? 
+Quem ficou conhecido como o "chanceler de ferro"? 
+Em que ano foi assassinado <START:PESSOA_INDIVIDUAL>Martin Luther King<END>? 
+Em que cidade nasceu <START:PESSOA_INDIVIDUAL>Wolfgang Amadeus Mozart<END>? 
+Quantos estados tem a <START:LOCAL_HUMANO>Alemanha<END>? 
+Quem é <START:PESSOA_INDIVIDUAL>Stephen Hawking<END>? 
+O que é o hapkido? 
+Quem se tornou chanceler após ter sido ministro-presidente da <START:LOCAL_HUMANO>Renânia-Palatinado<END>? 
+Que rei morreu <START:TEMPO_TEMPO_CALEND>em 1718<END>? 
+Em que ano morreu <START:PESSOA_INDIVIDUAL>Charles de Gaulle<END>? 
+Qual é a altura da <START:OBRA_ARTE>Torre Eiffel<END>? 
+O que é o top quark? 
+De acordo com o modelo "standard", quais são as três partículas elementares da física? 
+Que proporção do leite vendido é usado com cereais ao pequeno-almoço? 
+Em que ano teve lugar o <START:ACONTECIMENTO_EFEMERIDE>Desembarque da Normandia<END>? 
+Quando foi assinada a "<START:OBRA_PLANO>Convenção de Basileia sobre o Controlo de Movimentos Transfronteiriços de Resíduos Perigosos<END>"? 
+A que se refere o termo "<START:ABSTRACCAO_NOME>Les Six<END>" em música? 
+A quem pertencia <START:LOCAL_HUMANO>Nice<END> <START:TEMPO_TEMPO_CALEND>de 1814 a 1860<END>? 
+Qual é a sigla da <START:ORGANIZACAO_INSTITUICAO>Administração Federal de Aviação<END>? 
+O que é o GI Joe? 
+Qual a estrutura cujo afundamento causou controvérsia na cimeira dos <START:ORGANIZACAO_ADMINISTRACAO>G7<END> em <START:LOCAL_HUMANO>Halifax<END>? 
+Quem foi <START:PESSOA_INDIVIDUAL>Alexander Graham Bell?<END> 
+Quem é <START:PESSOA_INDIVIDUAL>Danuta Walesa<END>? 
+Quem é <START:PESSOA_INDIVIDUAL>Vigdís Finnbogadóttir<END>? 
+Quem eram os cossacos? 
+O que é o ECU verde? 
+O que é o dracma? 
+Quem preside à <START:ORGANIZACAO_INSTITUICAO>RAI<END>? 
+Quem é o director de operações da <START:ORGANIZACAO_ADMINISTRACAO>NASA<END>? 
+Em que ano se afundou o <START:COISA_OBJECTO>Titanic<END>? 
+Em que data é que os <START:ORGANIZACAO_ADMINISTRACAO>Estados Unidos<END> invadiram o <START:LOCAL_HUMANO>Haiti<END>? 
+Em que ano foi a <START:ACONTECIMENTO_EFEMERIDE>Revolução de Outubro<END>? 
+Em que ano ocorreu a retirada de <START:LOCAL_HUMANO>Dunquerque<END>? 
+Onde é a sede da <START:ORGANIZACAO_ADMINISTRACAO>Interpol<END>? 
+Onde é que <START:PESSOA_INDIVIDUAL>Braque<END> e <START:PESSOA_INDIVIDUAL>Picasso<END> trabalharam juntos? 
+De que organização era <START:PESSOA_INDIVIDUAL>Sergio Balanzino<END> secretário-geral? 
+De que estúdio cinematográfico foi <START:PESSOA_INDIVIDUAL>Cedric Gibbons<END> director artístico? 
+Quantos habitantes tem <START:LOCAL_HUMANO>Longyearbyen<END>? 
+Qual o principal componente da aspirina? 
+Com que bicicleta bateu <START:PESSOA_INDIVIDUAL>Miguel Induráin<END> o recorde da hora? 
+Quem venceu a <START:ACONTECIMENTO_ORGANIZADO>Volta a França<END> <START:TEMPO_TEMPO_CALEND>em 1988<END>? 
+A que organização aderiu a <START:ORGANIZACAO_ADMINISTRACAO>Grécia<END> <START:TEMPO_TEMPO_CALEND>em 1952<END>? 
+Quantos países visitou <START:PESSOA_INDIVIDUAL>Nixon<END> <START:TEMPO_TEMPO_CALEND>entre 1953 e 1959<END>? 
+Que cargo ocupava <START:PESSOA_INDIVIDUAL>François Mitterrand<END> ao ingressar no hospital de <START:LOCAL_HUMANO>Cochin<END> ? 
+Quais são as três repúblicas bálticas? 
+Quais são as três repúblicas soviéticas eslavas? 
+O que é o Challenger? 
+Quem é <START:PESSOA_INDIVIDUAL>Ernesto Zedillo Ponce de León<END>? 
+Quem era primeiro-ministro britânico antes de <START:PESSOA_INDIVIDUAL>John Major<END>? 
+Quem é <START:PESSOA_INDIVIDUAL>Boris Becker<END>? 
+Em que filme de <START:PESSOA_INDIVIDUAL>Kevin Reynolds<END> actuou <START:PESSOA_INDIVIDUAL>Kevin Costner<END>? 
+Onde se realizaram os  <START:ACONTECIMENTO_ORGANIZADO>Jogos Olímpicos<END> <START:TEMPO_TEMPO_CALEND>de 1993<END>? 
+Que tipo de bombas foram usadas pelo <START:PESSOA_GRUPOMEMBRO>IRA<END> no ataque a <START:LOCAL_HUMANO>Heathrow<END> <START:TEMPO_TEMPO_CALEND>em 1994<END>? 
+O que é um Chinook? 
+Quem é o <START:PESSOA_CARGO>presidente do Egipto<END> ? 
+Onde morreu <START:PESSOA_INDIVIDUAL>Kurt Cobain<END>? 
+Quantos telespectadores seguiram a final do  <START:ACONTECIMENTO_ORGANIZADO>Campeonato do Mundo de Futebol<END> <START:TEMPO_TEMPO_CALEND>de 1994<END>? 
+O que é o <START:ABSTRACCAO_ESTADO>KMT<END>? 
+Que cromossoma está na origem do mongolismo? 
+Quem era <START:PESSOA_CARGO>presidente da Chechénia<END>  <START:TEMPO_TEMPO_CALEND>em 1994<END>? 
+Quem foi o primeiro homem na <START:LOCAL_FISICO>Lua<END>? 
+A que partido pertence <START:PESSOA_INDIVIDUAL>Mahfoudh Nahnah<END>? 
+Diga o nome de um filme realizado por <START:PESSOA_INDIVIDUAL>Claude Lanzmann<END>? 
+Onde fica a cidadezinha de <START:LOCAL_HUMANO>Neftegorsk<END>? 
+De que grupo é presidente <START:PESSOA_INDIVIDUAL>Claude Bébéar<END>? 
+Quem é <START:PESSOA_INDIVIDUAL>Jacques Diouf<END>? 
+O que significa <START:ABSTRACCAO_NOME>NLW<END>? 
+O que é a Parceria para a Paz? 
+A que partido pertence <START:PESSOA_INDIVIDUAL>Petru Luchinski<END>? 
+Que festival de cinema atribui o "Urso de Ouro"? 
+Quem é o diretor do filme "<START:OBRA_REPRODUZIDA>Caro Diário<END>"? 
+O que é a <START:ABSTRACCAO_ESTADO>UNHCR<END>? 
+Que valor adjudicou o <START:ORGANIZACAO_ADMINISTRACAO>Canadá<END> para a remoção das armas atómicas ucranianas? 
+Onde é que morreu <START:PESSOA_INDIVIDUAL>Ayrton Senna<END>? 
+Em que país foi aprovada uma lei que proíbe a publicidade ao tabaco? 
+Onde ocorreram casos de febre aftosa? 
+Quando aderirão à  <START:ORGANIZACAO_ADMINISTRACAO>União Europeia<END> a <START:ORGANIZACAO_ADMINISTRACAO>Áustria<END>, a <START:ORGANIZACAO_ADMINISTRACAO>Suécia<END> e a <START:ORGANIZACAO_ADMINISTRACAO>Finlândia<END>? 
+Que estúdio produziu o filme "<START:OBRA_REPRODUZIDA>Toy Story<END>"? 
+Qual é a terceira maior cidade da <START:LOCAL_HUMANO>Baviera<END>? 
+Quem era o capitão do <START:PESSOA_GRUPOMEMBRO>Ajax<END> <START:TEMPO_TEMPO_CALEND>em 1994<END>? 
+O que são os otakus? 
+O que é o CD-i? 
+Em que cidade é que <START:PESSOA_INDIVIDUAL>Nietzsche<END> escreveu "<START:OBRA_REPRODUZIDA>Ecce Homo<END>"? 
+Quando viveu <START:PESSOA_INDIVIDUAL>Ludwig Wittgenstein<END>? 
+Quem foi votado o futebolista do ano na <START:LOCAL_HUMANO>Bélgica<END> <START:TEMPO_TEMPO_CALEND>em 1995<END>? 
+Onde é a nova sede da <START:ORGANIZACAO_EMPRESA>Nederlandse Gasunie<END>? 
+Em que museu foi exibida <START:TEMPO_TEMPO_CALEND>em 1994<END> uma exposição sobre <START:PESSOA_INDIVIDUAL>Mondriaan<END>? 
+Quando foram as <START:LOCAL_HUMANO>Antilhas Holandesas<END> legalmente equiparadas aos <START:LOCAL_HUMANO>Países Baixos<END>? 
+Descreva o <START:LOCAL_HUMANO>World Trade Center<END>. 
+O que é um samovar? 
+O que é a Bundesgrenzschutz? 
+O que é a Generalitat? 
+O que é a Iaaf? 
+Quem eram os pictos? 
+O que era o Granma? 
+O que é "Margarita e o Mestre"? 
+O que é Nauru? 
+O que é Roque Santeiro? 
+O que é a Mona Lisa? 
+O que é a cachupa? 
+O que é a Marselhesa? 
+O que é kabuki? 
+O que é o comunismo gulash? 
+O que é o cirílico? 
+O que é o efeito de estufa? 
+O que é o fauvismo? 
+O que é o xelim? 
+O que é um mujique? 
+O que é um ornitorrinco? 
+O que é um sátrapa? 
+Que sabe sobre o aikido? 
+Quem foi <START:PESSOA_INDIVIDUAL>Amílcar Cabral<END>? 
+Quem foi <START:PESSOA_INDIVIDUAL>Qin Shi Huang<END>? 
+Que país foi abalado por um terramoto <START:TEMPO_TEMPO_CALEND>em Agosto de 94<END>? 
+O que é que foi anexado após a <START:ACONTECIMENTO_EFEMERIDE>Guerra dos Seis Dias<END>? 
+Em que cidade é que fica o Roque Santeiro? 
+Em que estado fica <START:LOCAL_HUMANO>Porto Alegre<END>? 
+Onde fica Beslan? 
+Onde fica a Grande Hanish? 
+Onde fica o Banat? 
+Onde ganharam os <START:PESSOA_GRUPOMEMBRO>Abba<END> o <START:ACONTECIMENTO_ORGANIZADO>Festival da Eurovisão<END>? 
+Onde naufragou o <START:COISA_OBJECTO>Marika-7<END>? 
+Onde é que fica a represa <START:LOCAL_FISICO>Ataturk<END>? 
+Qual a capital do <START:LOCAL_HUMANO>Estado Livre de Orange<END>? 
+Qual é a cidade santa xiita? 
+Que país tomou a <START:LOCAL_HUMANO>Grande Hanish<END>? 
+Onde foi apunhalado <START:PESSOA_INDIVIDUAL>Naguib Mahfouz<END>? 
+Em quanto é que foi multado <START:PESSOA_INDIVIDUAL>John Fashanu<END>? 
+Em que lugar ficou <START:PESSOA_INDIVIDUAL>Paulo de Carvalho<END> no <START:ACONTECIMENTO_ORGANIZADO>Festival da Eurovisão<END>? 
+Qual é a duração do filme "<START:OBRA_REPRODUZIDA>Heimat<END>"? 
+Qual é a área do <START:LOCAL_FISICO>Oceano Pacífico<END>? 
+Qual é o recorde mundial do salto em altura? 
+Quanta cerveja bebe um brasileiro <START:TEMPO_DURACAO>anualmente<END>? 
+Quanto mede <START:PESSOA_INDIVIDUAL>Sergei Yuran<END>? 
+Quanto pesa <START:PESSOA_INDIVIDUAL>Romário<END>? 
+Quantos estados tem o <START:LOCAL_HUMANO>Brasil<END>? 
+Quantos é que eram os <START:PESSOA_GRUPOMEMBRO>Beatles<END>? 
+Que percentagem da população do <START:LOCAL_HUMANO>Québec<END> fala francês? 
+Que população tem <START:LOCAL_HUMANO>Amiens<END>? 
+A que dinastia pertencia <START:PESSOA_INDIVIDUAL>Gengis Khan<END>? 
+Como se chama a companhia ferroviária francesa? 
+A quem foi conquistada <START:LOCAL_HUMANO>Lisboa<END> <START:TEMPO_TEMPO_CALEND>em 1147<END>? 
+Contra que clube jogou o <START:PESSOA_GRUPOMEMBRO>Marítimo<END> <START:TEMPO_TEMPO_CALEND>a 2 de Abril de 1995<END>? 
+De que equipa é treinador <START:PESSOA_INDIVIDUAL>Johann Cruyff<END>? 
+De que selecção é <START:PESSOA_INDIVIDUAL>Ravelli<END> é o guarda-redes? 
+Quem foram os adversários do <START:PESSOA_GRUPOMEMBRO>Boavista<END> na  <START:ACONTECIMENTO_ORGANIZADO>Taça UEFA<END> <START:TEMPO_TEMPO_CALEND>de 1994<END>? 
+Diga um jornal norueguês. 
+Onde trabalha <START:PESSOA_INDIVIDUAL>José Rodrigues Filho<END>? 
+Que povo foi convertido Ã  ortodoxia durante a Idade Média? 
+Que hospital fica em <START:LOCAL_HUMANO>Matosinhos<END>? 
+<START:PESSOA_INDIVIDUAL>Ravelli<END> é o goleiro de que seleção? 
+Qual o actual nome do <START:LOCAL_HUMANO>Ceilão<END>? 
+Que competição se realizou pela primeira vez <START:TEMPO_TEMPO_CALEND>em 1896<END>? 
+Qual foi o resultado do  <START:PESSOA_GRUPOMEMBRO>Itália<END>-<START:PESSOA_GRUPOMEMBRO>Nigéria<END> no  <START:ACONTECIMENTO_ORGANIZADO>Campeonato do Mundo<END> <START:TEMPO_TEMPO_CALEND>de 1994<END>? 
+Em que desporto é <START:ACONTECIMENTO_ORGANIZADO>Torneio das Cinco Nações<END>? 
+Em que língua está escrito o <START:OBRA_REPRODUZIDA>Alcorão<END>? 
+Em que telenovela aparece o prefeito <START:PESSOA_INDIVIDUAL>Odorico<END>? 
+Diga um livro de <START:PESSOA_INDIVIDUAL>Júlio Verne<END>. 
+Que edifício foi erigido <START:TEMPO_TEMPO_CALEND>no século 12<END>? 
+Que guerra durou <START:TEMPO_TEMPO_CALEND>de 1865 a 1870<END>? 
+Para que instrumento são os concertos de <START:PESSOA_INDIVIDUAL>Chopin<END>? 
+Qual a língua mais falada no <START:LOCAL_HUMANO>Québec<END>? 
+Qual a nacionalidade de <START:PESSOA_INDIVIDUAL>Geoffrey Oryema<END>? 
+Qual a religião oficial da <START:LOCAL_HUMANO>Tailândia<END>? 
+Qual é o planeta vermelho? 
+Que corpo celeste é <START:COISA_OBJECTO>Toutatis<END>? 
+Que ensina <START:PESSOA_INDIVIDUAL>Vital do Rego<END>? 
+Quem venceu o open da <START:LOCAL_HUMANO>Austrália<END> <START:TEMPO_TEMPO_CALEND>em 1995<END>? 
+De quem é "<START:OBRA_REPRODUZIDA>O Capital<END>"? 
+Diga um jogador francês do <START:PESSOA_GRUPOMEMBRO>Manchester United<END>. 
+Quem salvou judeus durante a <START:ACONTECIMENTO_EFEMERIDE>Segunda Guerra Mundial<END>? 
+Diga um escritor chinês. 
+Diga um  Herói da <START:LOCAL_HUMANO>União Soviética<END>. 
+Mencione um membro da <START:ORGANIZACAO_INSTITUICAO>Academia Francesa<END>. 
+Quem foi <START:PESSOA_CARGO>presidente da Suíça<END>  <START:TEMPO_TEMPO_CALEND>no ano de 1995<END>? 
+Quem criou <START:COISA_OBJECTO>Spirou<END>? 
+Quem escreveu "<START:OBRA_REPRODUZIDA>A Capital<END>"? 
+Quem escreveu "<START:OBRA_REPRODUZIDA>O Idiota<END>"? 
+Quem é "<START:PESSOA_INDIVIDUAL>Toninho Malvadeza<END>"? 
+Quem é o sogro de <START:PESSOA_INDIVIDUAL>Mohammad Khalifa<END>? 
+Quem é que escreveu "<START:OBRA_REPRODUZIDA>Os Persas<END>"? 
+Desde quando é <START:ORGANIZACAO_ADMINISTRACAO>Portugal<END> uma república? 
+Quando houve uma erupção do <START:LOCAL_FISICO>Vesúvio<END>? 
+Quando reinou <START:PESSOA_INDIVIDUAL>Isabel I<END>? 
+Quando teve lugar a primeira edição da <START:ACONTECIMENTO_ORGANIZADO>Taça Davis<END>? 
+Quando viveu <START:PESSOA_INDIVIDUAL>Franz Liszt<END>? 
+Quando é que <START:PESSOA_INDIVIDUAL>Cleópatra<END> se suicidou? 
+Quando é que a <START:ORGANIZACAO_ADMINISTRACAO>URSS<END> invadiu a <START:LOCAL_HUMANO>Manchúria<END>?
+
+--DOCSTART--
+    
+ <START:ACONTECIMENTO_ORGANIZADO>Tour<END> : Procura-se candidato        
+ <START:PESSOA_INDIVIDUAL>PAULINHO<END> EM PROVA DESFALCADA DE VEDETAS        
+ Pelo segundo ano consecutivo e <START:TEMPO_TEMPO_CALEND>após a era<END> de <START:PESSOA_INDIVIDUAL>Lance Armstrong<END> , o <START:PESSOA_GRUPOIND>Tour<END> está desfalcado de grandes candidatos à vitória. Sem a presença do norte-americano, do alemão <START:PESSOA_INDIVIDUAL>Jan Ullrich<END> e do italiano <START:PESSOA_INDIVIDUAL>Ivan Basso<END> , e até de outro transalpino, <START:PESSOA_INDIVIDUAL>Alessandro Petacchi<END> , a « <START:ACONTECIMENTO_ORGANIZADO>Grand Boucle<END> » inicia-se <START:TEMPO_TEMPO_CALEND>amanhã<END> em <START:LOCAL_HUMANO>Londres<END> sem grandes expectativas. Procura-se candidato, é este o ponto fulcral da prova, que também não terá o dorsal n.º 1 .        
+ Ainda está por definir quem será declarado vencedor <START:TEMPO_TEMPO_CALEND>de 2006<END> , depois do caso de doping de <START:PESSOA_INDIVIDUAL>Floyd Landis<END> . Daí a organização ter decidido suspender os dorsais entre o 1  e o 1  , começando o <START:ACONTECIMENTO_ORGANIZADO>Tour<END> no 11 .        
+ Face então às ausências de vulto acima referidas, todas devido a ligações ao doping -- à excepção naturalmente de <START:PESSOA_INDIVIDUAL>Armstrong<END> , que se retirou após a sétima vitória <START:TEMPO_TEMPO_CALEND>em 2005<END> --, três ou quatro nomes surgem ainda assim mais destacados na corrida pela vitória.        
+ São eles o cazaque <START:PESSOA_INDIVIDUAL>Alexandre Vinokourov<END> ( <START:PESSOA_GRUPOMEMBRO>Astana<END> ), os espanhóis <START:PESSOA_INDIVIDUAL>Alberto Contador<END> ( <START:PESSOA_GRUPOMEMBRO>Discovery<END> ) e <START:PESSOA_INDIVIDUAL>Alejandro Valverde<END> ( <START:PESSOA_GRUPOMEMBRO>Caisse<END> ), e o norte-americano <START:PESSOA_INDIVIDUAL>Levy Leipheimer<END> ( <START:PESSOA_GRUPOMEMBRO>Discovery<END> ). Nós, portugueses, teremos em atenção a estreia de <START:PESSOA_INDIVIDUAL>Sérgio Paulinho<END> .        
+Cinco mil polícias    
+ <START:VALOR_QUANTIDADE>Cerca de 5 mil<END> polícias foram destacados para estarem de serviço em <START:LOCAL_HUMANO>Londres<END> por ocasião da passagem do <START:PESSOA_GRUPOIND>Tour<END> por <START:LOCAL_HUMANO>Inglaterra<END> . A segurança foi reforçada depois dos atentados terroristas verificados <START:TEMPO_TEMPO_CALEND>a semana passada<END> na capital inglesa e em <START:LOCAL_HUMANO>Glasgow<END> . E, para além do <START:ACONTECIMENTO_ORGANIZADO>Tour<END> , há ainda o  <START:ACONTECIMENTO_ORGANIZADO>Torneio de Ténis<END> de <START:LOCAL_HUMANO>Wimbledon<END> , e o  <START:ACONTECIMENTO_ORGANIZADO>GP de F1<END> de <START:LOCAL_HUMANO>Silverstone<END> .      
+
+--DOCSTART--
+
+<START:PESSOA_GRUPOMEMBRO>Team Suzuki Cepsa<END> - Notícias
+<START:TEMPO_TEMPO_CALEND>27 Março de 2005<END>
+<START:PESSOA_INDIVIDUAL>Luís Correia<END> domina concorrência em <START:ACONTECIMENTO_EVENTO>Casais S.Quintino<END>
+<START:PESSOA_INDIVIDUAL>Luís Correia<END> em <START:COISA_CLASSE>Suzuki RMZ 250<END> voltou a demonstrar o seu excelente momento de forma ao dominar por completo a classe <START:COISA_CLASSE>125cc<END> na 2ª jornada do <START:ACONTECIMENTO_ORGANIZADO>Campeonato Nacional de Motocross<END>, que se realizou <START:TEMPO_TEMPO_CALEND>este domingo<END> em <START:LOCAL_HUMANO>Casais de S.Quintino<END>.
+Numa pista em bom estado, apesar da ameaça de chuva que pairou na região <START:TEMPO_TEMPO_CALEND>durante o domingo de Páscoa<END>, foram muitos os espectadores que resolveram ver o espectáculo do <START:COISA_CLASSE>Motocross<END>.
+E o piloto a dar mais espectáculo foi <START:PESSOA_INDIVIDUAL>Luís Correia<END> que deu um recital de condução aos seus mais directos adversários, averbando uma vitória que não deixa margens para dúvidas. Para o piloto do <START:PESSOA_GRUPOMEMBRO>Team Suzuki Cepsa<END>, <START:TEMPO_GENERICO>o dia<END> até começou muito bem com a conquista do <START:VALOR_CLASSIFICACAO>1º<END> lugar na grelha de partida. Na partida não conseguiu chegar à primeira curva na liderança mas após algumas voltas, cedo instalou-se no comando do numeroso pelotão, distanciando-se <START:TEMPO_TEMPO_CALEND>a partir desse momento<END> dos seus perseguidores. Com esta vitória cimentou a liderança na classificação actual do <START:ACONTECIMENTO_ORGANIZADO>Campeonato Nacional de Motocross<END>, classe <START:COISA_CLASSE>125<END>.
+Os seus companheiros de equipa tiveram prestações diferentes, tendo <START:PESSOA_INDIVIDUAL>Ricardo Pereira<END> alcançado o <START:VALOR_CLASSIFICACAO>6º <END> lugar e <START:PESSOA_INDIVIDUAL>Hugo Basaula<END> o <START:VALOR_CLASSIFICACAO>15º<END> lugar. Para o mais jovem membro do <START:PESSOA_GRUPOMEMBRO>Team Suzuki Cepsa<END>, <START:PESSOA_INDIVIDUAL>Hugo Basaula<END>, esta manga começou muito bem, pois o piloto fez uma partida fenomenal e assumiu a <START:VALOR_CLASSIFICACAO>3ª<END> posição no pelotão. Mas uma queda que sofreu num salto, fez com que tivesse que recuperar da última posição e já com muito tempo de atraso para os seus adversários. Após uma recuperação endiabrada conseguiu então a <START:VALOR_CLASSIFICACAO>15º<END> posição final.
+<START:PESSOA_INDIVIDUAL>Ricardo Pereira<END> esteve mais uma vez muito regular e rápido terminando no <START:VALOR_CLASSIFICACAO>6º<END> lugar com a <START:COISA_CLASSE>Suzuki RMZ 250<END>.
+Na classe maior, <START:PESSOA_INDIVIDUAL>Ricardo Pazos<END>, partiu determinado a melhorar a sua prestação relativamente à Águeda, e com uma condução mais adaptada à <START:COISA_CLASSE>Suzuki RMZ 450<END>, alcançou o <START:VALOR_CLASSIFICACAO>3º<END> lugar, muito perto de <START:PESSOA_INDIVIDUAL>Paulo Gonçalves<END> que secundou <START:PESSOA_INDIVIDUAL>Hugo Santos<END> no  Podium .
+<START:TEMPO_TEMPO_CALEND>No final da tarde<END> realizou-se a manga do <START:COISA_CLASSE>Absoluto<END>, e mais uma vez <START:PESSOA_INDIVIDUAL>Luís Correia<END> demonstrou porque é o piloto mais rápido a correr em <START:LOCAL_HUMANO>Portugal<END> com máquinas da classe <START:COISA_CLASSE>125<END>. Alcançou o <START:VALOR_CLASSIFICACAO>3º<END> lugar em termos de <START:COISA_CLASSE>Absoluto<END> e foi o melhor piloto da classe <START:COISA_CLASSE>125<END>. Para <START:PESSOA_INDIVIDUAL>Ricardo Pazos<END> esta manga ficou marcada por uma queda espectacular que sofreu logo na volta inicial e quando tentava assumir a liderança, numa descida em que os pilotos alcançam velocidades muito elevadas. Apesar do grande aparato da queda, <START:PESSOA_INDIVIDUAL>Ricardo Pazos<END> pode prosseguir em prova, pois os seus equipamentos protegeram-no de lesões graves, nomeadamente o capacete <START:COISA_CLASSE>CMS<END>, botas <START:COISA_CLASSE>Oxtar<END> e equipamento <START:COISA_CLASSE>Shift<END>.
+Apesar de ter quase uma volta de atraso para os seus adversários, não baixou os braços e realizou uma grande recuperação, alcançando o <START:VALOR_CLASSIFICACAO>12º<END> lugar.
+Para o publico presente a luta travada entre <START:PESSOA_INDIVIDUAL>Hugo Basaula<END> e <START:PESSOA_INDIVIDUAL>Ricardo Pereira<END> foi empolgante, pois os pilotos trocavam de posições em todo o percurso da pista. No final seria <START:PESSOA_INDIVIDUAL>Ricardo Pereira<END> a levar a melhor sobre o colega de equipa, alcançando o <START:VALOR_CLASSIFICACAO>11º<END> lugar e <START:PESSOA_INDIVIDUAL>Hugo Basaula<END> o <START:VALOR_CLASSIFICACAO>17º<END> lugar. Esta prova também contava para o <START:ACONTECIMENTO_ORGANIZADO>Troféu Suzuki Cepsa Cetelem Motojornal<END>, e o lugar mais alto do Podium  voltou a ser ocupado por <START:PESSOA_INDIVIDUAL>Ricardo Pereira<END>, que assim permanece invicto deste o início desta iniciativa <START:TEMPO_TEMPO_CALEND>em 2004<END>.
+
+--DOCSTART--
+    
+ <START:COISA_CLASSE>Sistema de Posicionamento Global<END>        
+ O <START:COISA_CLASSE>Sistema de Posicionamento Global<END> , vulgarmente conhecido por <START:ABSTRACCAO_NOME>GPS<END> (do acrónimo do inglês <START:ABSTRACCAO_NOME>Global Positioning System<END> ), é um sistema de posicionamento por satélite americano, <START:TEMPO_FREQUENCIA>por vezes<END> incorrectamente designado de sistema de navegação, utilizado para determinação da posição de um receptor na superfície da <START:LOCAL_FISICO>Terra<END> ou em órbita. Existem atualmente dois sistemas efetivos de posicionamento por satélite; o <START:COISA_CLASSE>GPS<END> americano e o <START:COISA_CLASSE>Glonass<END> russo; também existem mais dois sistemas em implantação; o <START:COISA_CLASSE>Galileo<END> europeu e o <START:COISA_CLASSE>Compass<END> chinês.        
+ O sistema <START:COISA_CLASSE>GPS<END> foi criado e é controlado pelo    <START:ORGANIZACAO_ADMINISTRACAO>Departamento de Defesa<END>   dos   <START:LOCAL_HUMANO>Estados Unidos da América<END>  , <START:ORGANIZACAO_ADMINISTRACAO>DoD<END> , e pode ser utilizado por qualquer pessoa, gratuitamente, necessitando apenas de um receptor que capte o sinal emitido pelos satélites. O <START:ORGANIZACAO_ADMINISTRACAO>DoD<END> fornece dois tipos de serviços <START:COISA_CLASSE>GPS<END> : <START:COISA_CLASSE>Standard<END> e <START:COISA_CLASSE>Precision<END> . Contrariamente ao que inicialmente acontecia, actualmente os dois serviços estão disponíveis em regime aberto em qualquer parte do mundo. O sistema está dividido em três partes: espacial, de controlo e utilizador. O segmento espacial é composto pela constelação de satélites. O segmento de controlo é formado pelas estações terrestres dispersas pelo mundo ao longo da <START:LOCAL_FISICO>Zona Equatorial<END> , responsáveis pela monitorização das órbitas dos satélites, sincronização dos relógios atómicos de bordo dos satélites e actualização dos dados de almanaque que os satélites transmitem. O segmento do utilizador consiste num receptor que capta os sinais emitidos pelos satélites. Um receptor <START:COISA_CLASSE>GPS<END> ( <START:COISA_CLASSE>GPSR<END> ) descodifica as transmissões do sinal de código e fase de múltiplos satélites e calcula a sua posição com base nas distâncias a estes. A posição é dada por latitude, longitude e altitude, coordenadas geodésicas referentes ao sistema <START:COISA_CLASSE>WGS84<END> .      
+
+--DOCSTART--
+
+<START:PESSOA_INDIVIDUAL>Fernão de Magalhães<END>
+<START:PESSOA_INDIVIDUAL>Fernão de Magalhães<END>, <START:TEMPO_FREQUENCIA>algumas vezes<END> referenciado como <START:ABSTRACCAO_NOME>Fernando de Magalhães<END>, (<START:TEMPO_TEMPO_CALEND>primavera de 1480 --- 27 de abril de 1521<END>) foi um navegador português que, ao serviço do <START:PESSOA_CARGO>rei de Espanha<END> , comandou a expedição marítima que efectuou a primeira viagem de circum-navegação ao globo. Foi o primeiro a dobrar estreito <START:TEMPO_TEMPO_CALEND>hoje<END> conhecido pelo seu nome (o <START:ABSTRACCAO_NOME>Estreito de Magalhães<END>) e o primeiro europeu a navegar no <START:LOCAL_FISICO>Oceano Pacífico<END>. <START:PESSOA_INDIVIDUAL>Fernão de Magalhães<END> morre nas <START:LOCAL_HUMANO>Filipinas<END> no curso daquela expedição, posteriormente chefiada por <START:PESSOA_INDIVIDUAL>Juan Sebastián Elcano<END> <START:TEMPO_TEMPO_CALEND>1522<END>.
+Alista-se com <START:VALOR_QUANTIDADE>25 anos<END> na armada que foi à <START:LOCAL_HUMANO>Índia<END>, comandada por <START:PESSOA_INDIVIDUAL>Francisco de Almeida<END>, embora o seu nome não figure nas crónicas; sabe-se no entanto que ali permaneceu <START:TEMPO_DURACAO>oito anos<END>, que esteve em <START:LOCAL_HUMANO>Goa<END>, <START:LOCAL_HUMANO>Cochim<END>, <START:LOCAL_HUMANO>Quíloa<END>, que acompanhou <START:PESSOA_INDIVIDUAL>Diogo Lopes de Sequeira<END> a <START:LOCAL_HUMANO>Malaca<END>, viagem que acabou em naufrágio. No <START:LOCAL_HUMANO>Oriente<END>, <START:PESSOA_INDIVIDUAL>Magalhães<END> estabeleceu estreitas relações de amizade com <START:PESSOA_INDIVIDUAL>Francisco Serrão<END>, que veio a ser feitor nas <START:LOCAL_HUMANO>Molucas<END>; dele teria tido informações quanto à situação dos lugares produtores de especiarias.
+Tendo-se distinguido na defesa de <START:LOCAL_HUMANO>Azamor<END>, em que acompanhara o <START:PESSOA_CARGO>duque de Bragança<END>, pediu a <START:PESSOA_INDIVIDUAL>D. Manuel<END> uma recompensa para seus feitos; mas os boatos que corriam sobre a maneira pouco escrupulosa como dividira as presas de uma incursão tinham chegado aos ouvidos do <START:PESSOA_CARGO>Rei<END>. Este, apesar das suas justificações, e não o considerando culpado, não lhe concedeu as mercês pedidas.
+<START:TEMPO_TEMPO_CALEND>Em 1517<END> foi a <START:LOCAL_HUMANO>Sevilha<END> com <START:PESSOA_INDIVIDUAL>Rui Faleiro<END>, tendo encontrado no feitor da <START:LOCAL_HUMANO>Casa de la Contratación<END> da cidade um adepto do projecto que entretanto concebera: dar a <START:ORGANIZACAO_ADMINISTRACAO>Espanha<END> a possibilidade de atingir as <START:LOCAL_FISICO>Molucas<END> pelo <START:LOCAL_HUMANO>Ocidente<END>, por mares não reservados aos portugueses no <START:OBRA_PLANO>Tratado de Tordesilhas<END> e, além disso, segundo <START:PESSOA_INDIVIDUAL>Faleiro<END>, provar que as ilhas das especiarias se situavam no hemisfério castelhano. Com a influência do <START:PESSOA_CARGO>bispo de Burgos<END>  conseguiram a aprovação do projecto por parte de <START:PESSOA_INDIVIDUAL>Carlos V<END>, e começaram os morosos preparativos para a viagem, cheios de incidentes; depois da ruptura com <START:PESSOA_INDIVIDUAL>Rui Faleiro<END>, <START:PESSOA_INDIVIDUAL>Magalhães<END> continuou a aparelhagem dos cinco navios que, com <START:VALOR_QUANTIDADE>256<END> homens de tripulação, partiram de <START:LOCAL_HUMANO>Sanlúcar de Barrameda<END> <START:TEMPO_TEMPO_CALEND>em 20 de Setembro de 1519<END>. A esquadra tinha cinco navios e era tripulada por <START:VALOR_QUANTIDADE>250<END> homens. 
+
+  --DOCSTART--
+
+<START:TEMPO_TEMPO_CALEND>2008<END>: novas entradas em bolsa após recuperação confiança
+A recuperação da confiança nos mercados de capitais deverá estimular a entrada de novas empresas em bolsa, quer através de privatizações, como <START:ORGANIZACAO_EMPRESA>ANA<END>, <START:ORGANIZACAO_EMPRESA>TAP<END> e <START:ORGANIZACAO_EMPRESA>Aquapor<END>, quer através de capital privado, segundo gestores de activos contactados pela <START:PESSOA_GRUPOMEMBRO>Lusa<END>.
+O <START:ORGANIZACAO_EMPRESA>Santander Gestão de Activos<END> considera que "<START:TEMPO_GENERICO>o início de 2008<END> não deverá ter muitas novidades em termos de novas entradas em bolsa, face ao aumento de aversão ao risco verificado <START:TEMPO_TEMPO_CALEND>nas últimas semanas<END> e a redução de liquidez verificada nos mercados financeiros».
+No entanto, salienta, «à medida que os níveis de confiança forem recuperando é de esperar novas entradas de empresas na bolsa portuguesa».
+O <START:ORGANIZACAO_EMPRESA>Santander Gestão de Activos<END> aponta para que as novas listagens <START:TEMPO_TEMPO_CALEND>no próximo ano<END> na <START:ORGANIZACAO_EMPRESA>Euronext Lisboa<END> aconteçam quer através de privatizações, dando como exemplos os casos da <START:ORGANIZACAO_EMPRESA>ANA<END> e da <START:ORGANIZACAO_EMPRESA>TAP<END>, quer através de sociedades de capital privado como o grupo <START:ORGANIZACAO_EMPRESA>Visabeira<END>.
+Opinião idêntica tem o gestor do <START:ORGANIZACAO_EMPRESA>Banif Gestão de Activos<END>, <START:PESSOA_INDIVIDUAL>Pedro Castro<END>, para quem a expectativa é que se estreiem na bolsa portuguesa, além da <START:ORGANIZACAO_EMPRESA>ANA<END> e da <START:ORGANIZACAO_EMPRESA>TAP<END>, também a <START:ORGANIZACAO_EMPRESA>Aquapor<END>, a <START:ORGANIZACAO_EMPRESA>Sonae Capital<END> e a <START:ORGANIZACAO_EMPRESA>Neo<END>.
+ <START:TEMPO_TEMPO_CALEND>No ano<END> que agora termina houve duas entradas na bolsa portuguesa, concretamente da <START:ORGANIZACAO_EMPRESA>REN<END> (através da privatização de <START:VALOR_QUANTIDADE>24%<END> do capital) e da <START:ORGANIZACAO_EMPRESA>Martifer<END>. 
 
   --DOCSTART--
     
@@ -29,6 +403,34 @@
  « <START:OBRA_REPRODUZIDA>Call Girl<END> » é o sétimo filme de <START:PESSOA_INDIVIDUAL>António-Pedro Vasconcelos<END> , <START:VALOR_QUANTIDADE>68 anos<END> , e o último de produção nacional a estrear <START:TEMPO_TEMPO_CALEND>este ano<END> nas salas de cinema.      
 
 --DOCSTART--
+
+Telemoveis.com TV
+Escolher outra notícia
+Telemóveis vão ter domínio na <START:LOCAL_VIRTUAL>Net<END>
+<START:TEMPO_TEMPO_CALEND>2005-07-13<END>
+A decisão vem na sequência de vários pedidos de um grupo de operadores móveis e fabricantes de telemóveis, que criaram uma joint-venture» para estimular o aparecimento de sites destinados exclusivamente a estes equipamentos. E o <START:ORGANIZACAO_INSTITUICAO>ICANN<END> assincou já o acordo nesse sentido com a <START:ORGANIZACAO_EMPRESA>mTLD Top Level Domain<END>, que congrega a <START:ORGANIZACAO_INSTITUICAO>GSM Association<END>, a <START:ORGANIZACAO_EMPRESA>Microsoft<END>, fabricantes como a <START:ORGANIZACAO_EMPRESA>Nokia<END>, a <START:ORGANIZACAO_EMPRESA>Samsung<END> e a <START:ORGANIZACAO_EMPRESA>Ericsson<END> e operadores como a <START:ORGANIZACAO_EMPRESA>Vodafone<END>, a <START:ORGANIZACAO_EMPRESA>Telefónica Móviles<END>, a <START:ORGANIZACAO_EMPRESA>Hutchison 3<END> e a <START:ORGANIZACAO_EMPRESA>T-Mobile<END>.
+O objectivo desta iniciativa é fazer aumentar a utilização da  Internet  no telemóvel, funcionalidade ainda pouco utilizada, devido à escassez de sites e conteúdos adaptados aos equipamentos.
+Em princípio, o sufixo .mobi deverá ser integrado automaticamente nos endereços logo que o sistema detecte que o acesso está a ser efectuado via telemóvel.
+
+--DOCSTART--
+    
+ <START:PESSOA_INDIVIDUAL>HEIDEGGER<END> e o 4-4-2: Foi, <START:TEMPO_TEMPO_CALEND>ontem<END> , apresentado o livro « <START:OBRA_REPRODUZIDA>Liderança - As Lições de José Mourinho<END> » de <START:PESSOA_INDIVIDUAL>Luís Lourenço<END> , baseado na sua tese de mestrado. Segundo o autor, <START:PESSOA_INDIVIDUAL>José Mourinho<END> "é diferente por partir de um novo paradigma de pensamento, preconizado por <START:PESSOA_INDIVIDUAL>Heidegger<END> ou <START:PESSOA_INDIVIDUAL>Morin<END> , por exemplo, e o operacionalizar. Trata-se de um novo olhar para o <START:ABSTRACCAO_IDEIA>Todo<END> , que põe de parte a divisão e análise das partes e o pensamento cartesiano <START:TEMPO_TEMPO_CALEND>de há quatro séculos<END> ". Cada vez que leio isto (e faço-o <START:TEMPO_FREQUENCIA>várias vezes ao dia<END> , na esperança de o vir a compreender), gosto de imaginar a seguinte conversa entre dois adeptos, à saída de <START:LOCAL_HUMANO>Stanford Bridge<END> :        
+ - Eh pá, o <START:PESSOA_GRUPOMEMBRO>Chelsea<END> não merecia ter empatado este jogo.        
+ - Pois não. Mas a primeira parte foi tão má que parecia que o <START:PESSOA_INDIVIDUAL>Mourinho<END> não tinha lido « <START:OBRA_REPRODUZIDA>O Ser e o Tempo<END> ».        
+ - Quantas vezes é que o <START:PESSOA_INDIVIDUAL>Heidegger<END> avisou que o 4-4-2 só resulta se o trinco compensar a subida dos laterais?        
+- Exacto. Meu amigo, se é para ver a nossa equipa voltar ao pensamento cartesiano, não contes mais comigo para vir ao estádio.    
+ - Calma. Também tens que perceber que estava nevoeiro. Se calhar, por isso é que, durante a primeira parte, o <START:PESSOA_INDIVIDUAL>Mourinho<END> não conseguiu ver o <START:ABSTRACCAO_IDEIA>Todo<END> .      
+
+  --DOCSTART--
+    
+A hora da verdade    
+ 1. <START:TEMPO_TEMPO_CALEND>Hoje à noite<END> o <START:PESSOA_GRUPOMEMBRO>Benfica<END> tem um teste elucidativo sobre o seu verdadeiro valor. Teve-o também <START:TEMPO_TEMPO_CALEND>antes<END> contra o <START:PESSOA_GRUPOMEMBRO>Manchester United<END> , onde passou com distinção, é facto, mas o <START:PESSOA_GRUPOMEMBRO>Manchester<END> <START:TEMPO_TEMPO_CALEND>desta época<END> e, sobretudo, o <START:TEMPO_TEMPO_CALEND>de Dezembro passado<END> , é uma pálida imitação dos «red devils» de um passado recente , que tudo atemorizavam. O <START:PESSOA_GRUPOMEMBRO>Liverpool<END> , para além de campeão europeu em título, é melhor equipa e mais calculista. Contra ele, o <START:PESSOA_GRUPOMEMBRO>Benfica<END> tem de jogar o seu máximo e então se verá se o seu máximo está ou não ao mais alto nível europeu. Ao iniciar com uma derrota inapelável este terrível ciclo <START:TEMPO_DURACAO>de nove dias<END> em que tudo se pode sonhar e tudo se pode perder, o  <START:PESSOA_GRUPOMEMBRO>Benfica<END> de   <START:PESSOA_INDIVIDUAL>Ronald Koeman<END> parece ter lançado a descrença entre os seus --- adeptos e jornalistas. De repente, a tão louvada equipa <START:TEMPO_TEMPO_CALEND>de há três semanas atrás<END> parece já não inspirar confiança a ninguém e o seu treinador virou um saco de pancada ao alcance de todas as frustrações. Acusa-se <START:PESSOA_INDIVIDUAL>Koeman<END> de mudar constantemente a equipa, como se ele fosse responsável pelas lesões e castigos ou pela chegada de uma mini-enxurrada de reforços <START:TEMPO_TEMPO_CALEND>em Dezembro<END> , anunciados pela <START:ORGANIZACAO_INSTITUICAO>Direcção<END> como o suplemento que faltava para a conquista da Liga dos Campeões e que ele, logicamente, tinha de experimentar e utilizar. E esquecendo-se até de que foi uma dessas inesperadas «revoluções» na formação da equipa que conduziu à também inesperada vitória contra o <START:PESSOA_GRUPOMEMBRO>Manchester<END> . Até se acusa <START:PESSOA_INDIVIDUAL>Koeman<END> de já ter experimentado quatro guarda-redes, como se fosse ele o culpado pelas lesões de <START:PESSOA_INDIVIDUAL>Quim<END> e de <START:PESSOA_INDIVIDUAL>Moreira<END> , pela manifesta impreparação de <START:PESSOA_INDIVIDUAL>Nereu<END> , ou pela «épica» contratação de <START:PESSOA_INDIVIDUAL>Moretto<END> , delirantemente saudada pela massa associativa e afins. Embora não me motive muito perceber o que se passa em casa alheia, a mim parece-me que, mais prosaicamente, a questão das esperanças traídas no <START:ORGANIZACAO_INSTITUICAO>Benfica<END> tem sobretudo a ver com a ilusão criada sobre o valor real da equipa. Tudo começou na época passada, com um <START:ACONTECIMENTO_ORGANIZADO>Campeonato<END> e uma <START:ACONTECIMENTO_ORGANIZADO>Taça<END> ganhos de forma que foi tudo menos convincente mas que, por temor ou reverência, ninguém se atreveu a questionar. Por isso, quando <START:PESSOA_INDIVIDUAL>Luís Filipe Vieira<END> disse que esta era uma equipa de campeões, toda a gente fingiu que sim, e, quando, reforços acrescentados, ele passou a dizer que esta era uma equipa capaz de chegar à final e talvez ganhar a <START:ACONTECIMENTO_ORGANIZADO>Champions<END> , continuaram todos a fingir que acreditavam. Depois, houve a vitória sobre o <START:PESSOA_GRUPOMEMBRO>Manchester<END> e a série de sete triunfos consecutivos na <START:ACONTECIMENTO_ORGANIZADO>Liga<END>  portuguesa e foi ver o <START:PESSOA_INDIVIDUAL>José Veiga<END> , de peito feito, a anunciar a inevitável revalidação do título e a <START:ACONTECIMENTO_ORGANIZADO>Europa<END> ao virar da esquina. Mas ninguém se deteve a pensar quantos, desses sete jogos, foram ganhos sem dúvidas de arbitragem e através de exibições convincentes, porque é um crime de lesa-majestade questionar o mérito dos triunfos benfiquistas. E assim se criou a verdade oficial de que estava aí um grande <START:PESSOA_GRUPOMEMBRO>Benfica<END> , que nada nem ninguém conseguiriam parar. Agora, três súbitas derrotas depois, cai-se no extremo oposto. E na pior altura, quando a equipa mais precisava da confiança dos seus. Mas, se <START:TEMPO_TEMPO_CALEND>entre hoje e domingo<END> , tudo correr mal para os benfiquistas, é certo e sabido que quem semeou os ventos de ilusão não colherá as tempestades de desilusão. Isso está guardado para um bode expiatório mais conveniente.        
+ 2. O <START:PESSOA_GRUPOMEMBRO>Benfica<END> jogava em <START:LOCAL_HUMANO>Guimarães<END> sob o peso de ter três jogadores ameaçados de não poderem defrontar o <START:PESSOA_GRUPOMEMBRO>FC Porto<END> caso vissem um cartão amarelo. <START:PESSOA_INDIVIDUAL>Lucílio Baptista<END> foi a escolha adequada para a ocasião (mas digo desde já que nenhum daqueles três mereceu um amarelo). Mas, no resto, <START:PESSOA_INDIVIDUAL>Lucílio<END> não deixou os seus predicados por mãos alheias: num jogo sem dureza nem indisciplina, com faltas distribuídas por igual por ambas as equipas, <START:PESSOA_INDIVIDUAL>Lucílio Batista<END> conseguiu marcar o dobro de faltas ao <START:PESSOA_GRUPOMEMBRO>Vitória<END> , deixando inúmeras por assinalar contra o <START:PESSOA_GRUPOMEMBRO>Benfica<END> , e mostrar sete cartões amarelos a jogadores do <START:ORGANIZACAO_INSTITUICAO>Guimarães<END> contra apenas um aos benfiquistas.        
+ 3. E, a propósito do « <START:OBRA_PLANO>Apito Dourado<END> », essa mega investigação judicial, que parece ter o condão de vir a arrastar-se <START:TEMPO_DURACAO>durante anos<END> , tornando alguns eternamente suspeitos (ou até mesmo já condenados, a quem isso convém) e outros estranhamente imunes às suspeitas, aguardei com alguma curiosidade o despacho de pronúncia, no que se refere ao <START:PESSOA_CARGO>presidente do FC Porto<END>  . Mas, afinal e como aqui antecipei desde o início, a montanha pariu um rato, ou pior ainda, pariu a insustentável continuação das suspeitas por confirmar. <START:TEMPO_DURACAO>Mais de um ano<END> de investigações decorrido, depois daquele imenso aparato policial-mediático para ouvir o «suspeitíssimo» <START:PESSOA_INDIVIDUAL>Pinto da Costa<END> , depois de dezenas ou centenas de milhares de contos gastos aos contribuintes, depois de não sei quantas prorrogações de prazo a favor do <START:ORGANIZACAO_ADMINISTRACAO>Ministério Público<END> , depois do reforço extraordinário dos meios de investigação, a «task force » judicial de <START:LOCAL_HUMANO>Gondomar<END> conclui apenas em extrair certidões do processo para que outros continuem a investigar <START:PESSOA_INDIVIDUAL>Pinto da Costa<END> . E, quanto a factos novos, indícios novos, provas recolhidas, nada. A suspeita «gravíssima» mantém-se rigorosamente a mesma <START:TEMPO_TEMPO_CALEND>de há um ano atrás<END> : <START:TEMPO_TEMPO_CALEND>em 2004<END> , o    <START:PESSOA_GRUPOMEMBRO>FC Porto<END>   de   <START:PESSOA_INDIVIDUAL>José Mourinho<END>  , já virtual campeão nacional, com alguns onze pontos de avanço sobre o segundo classificado, o <START:PESSOA_GRUPOMEMBRO>Benfica<END> , <START:TEMPO_DURACAO>a semanas<END> de se tornar campeão europeu, terá subornado, com recurso a «meninas» o árbitro do encontro no <START:LOCAL_HUMANO>Dragão<END> contra o <START:PESSOA_GRUPOMEMBRO>E. Amadora<END> , em vias de despromoção, como forma de garantir a vitória no jogo --- parece que, de outra maneira, não conseguiriam ganhar. E é nisto que se gasta o tempo e o dinheiro dos contribuintes: não fazendo justiça, mas mantendo eternas as suspeitas que a tantos convém. Mas também a verdade é que, à luz do que está em causa---e é apenas isto--- só acredita, ou finge acreditar, quem quer.        
+ 4. E, pé ante pé, o <START:PESSOA_GRUPOMEMBRO>Sporting<END> está a cinco pontos do <START:PESSOA_GRUPOMEMBRO>FC Porto<END> e poderá ficar a dois se, <START:TEMPO_TEMPO_CALEND>domingo<END> na <START:LOCAL_HUMANO>Luz<END> , a equipa de <START:PESSOA_INDIVIDUAL>Adriaanse<END> falhar mais uma vez num jogo decisivo. Dou-me conta, já <START:TEMPO_TEMPO_CALEND>há um tempo<END> , que muito pouco ou quase nada tenho escrito sobre o <START:PESSOA_GRUPOMEMBRO>Sporting<END> esta época. A razão é simples e vai parecer escandalosa aos olhos dos indefectíveis sportinguistas, mas acarreto as consequências de porventura vir a ter de engolir o que vou escrever: não vejo que o <START:PESSOA_GRUPOMEMBRO>Sporting<END> tenha futebol para ser campeão nacional, esta época. Estão em segundo lugar, já só a cinco pontos e ainda vão receber o <START:PESSOA_GRUPOMEMBRO>FC Porto<END> em <START:LOCAL_HUMANO>Alvalade<END> ? Pois, é facto. Mas, mesmo assim, não me convencem. Ainda <START:TEMPO_TEMPO_CALEND>esta semana<END> o que vi, contra o <START:PESSOA_GRUPOMEMBRO>Paços de Ferreira<END> e em <START:LOCAL_HUMANO>Alvalade<END> , foi uma equipa que chegou ao golo num penalty duvidoso e caído dos céus, que dele viveu toda a segunda parte, sem criar uma só oportunidade de golo e que, já próximo do final, marcou o segundo golo numa jogada precedida de falta e ainda um terceiro <START:TEMPO_TEMPO_CALEND>depois da hora<END>. Um <START:VALOR_CLASSIFICACAO>3-0<END> absolutamente enganador, num jogo que não mereceu sequer ganhar. Como disse, é possível que ainda tenha de engolir esta opinião. Mas, se isso acontecer, é porque o <START:PESSOA_GRUPOMEMBRO>FC Porto<END> entregou o ouro ao bandido.        
+ © Miguel Sousa Tavares -    Jornal "A Bola"    - 21.02.2006      
+
+  --DOCSTART--
     
  <START:ABSTRACCAO_DISCIPLINA>Educação Ambiental<END>        
  Este espaço se destina a divulgar os principais <START:OBRA_PLANO>Programas<END> , <START:OBRA_PLANO>Projetos<END> e <START:OBRA_PLANO>Ações<END> desenvolvidos pela <START:ORGANIZACAO_ADMINISTRACAO>Coordenação-Geral de Educação Ambiental<END> que tem como eixos centrais: <START:OBRA_PLANO>Fortalecimento da Política Nacional de Educação Ambiental<END> - Lei 9795/99 ; <START:OBRA_PLANO>Formação Continuada na Educação Básica<END> ; Fomento a projetos de Educação Ambiental  ; <START:OBRA_PLANO>Educação Ambiental no Ensino Superior<END> .Estas ações, em sua maior parte, estão em consonância com as ações procedidas no âmbito da <START:ORGANIZACAO_ADMINISTRACAO>Diretoria de Educação Ambiental<END> - <START:ORGANIZACAO_ADMINISTRACAO>DEA<END> , do <START:ORGANIZACAO_ADMINISTRACAO>Ministério do Meio Ambiente<END> ; guardadas suas competências e atribuições específicas.        
@@ -56,67 +458,10 @@ Orientações Curriculares
     <START:OBRA_PLANO>Programa Institucional de Gestão Ambiental<END>   do   <START:ORGANIZACAO_ADMINISTRACAO>MEC<END>  que visa a melhor gestão dos recursos naturais e a diminuição dos impactos ambientais gerados pelas suas atividades.      
 
   --DOCSTART--
-    
- <START:ACONTECIMENTO_ORGANIZADO>Tour<END> : Procura-se candidato        
- <START:PESSOA_INDIVIDUAL>PAULINHO<END> EM PROVA DESFALCADA DE VEDETAS        
- Pelo segundo ano consecutivo e <START:TEMPO_TEMPO_CALEND>após a era<END> de <START:PESSOA_INDIVIDUAL>Lance Armstrong<END> , o <START:PESSOA_GRUPOIND>Tour<END> está desfalcado de grandes candidatos à vitória. Sem a presença do norte-americano, do alemão <START:PESSOA_INDIVIDUAL>Jan Ullrich<END> e do italiano <START:PESSOA_INDIVIDUAL>Ivan Basso<END> , e até de outro transalpino, <START:PESSOA_INDIVIDUAL>Alessandro Petacchi<END> , a « <START:ACONTECIMENTO_ORGANIZADO>Grand Boucle<END> » inicia-se <START:TEMPO_TEMPO_CALEND>amanhã<END> em <START:LOCAL_HUMANO>Londres<END> sem grandes expectativas. Procura-se candidato, é este o ponto fulcral da prova, que também não terá o dorsal n.º 1 .        
- Ainda está por definir quem será declarado vencedor <START:TEMPO_TEMPO_CALEND>de 2006<END> , depois do caso de doping de <START:PESSOA_INDIVIDUAL>Floyd Landis<END> . Daí a organização ter decidido suspender os dorsais entre o 1  e o 1  , começando o <START:ACONTECIMENTO_ORGANIZADO>Tour<END> no 11 .        
- Face então às ausências de vulto acima referidas, todas devido a ligações ao doping -- à excepção naturalmente de <START:PESSOA_INDIVIDUAL>Armstrong<END> , que se retirou após a sétima vitória <START:TEMPO_TEMPO_CALEND>em 2005<END> --, três ou quatro nomes surgem ainda assim mais destacados na corrida pela vitória.        
- São eles o cazaque <START:PESSOA_INDIVIDUAL>Alexandre Vinokourov<END> ( <START:PESSOA_GRUPOMEMBRO>Astana<END> ), os espanhóis <START:PESSOA_INDIVIDUAL>Alberto Contador<END> ( <START:PESSOA_GRUPOMEMBRO>Discovery<END> ) e <START:PESSOA_INDIVIDUAL>Alejandro Valverde<END> ( <START:PESSOA_GRUPOMEMBRO>Caisse<END> ), e o norte-americano <START:PESSOA_INDIVIDUAL>Levy Leipheimer<END> ( <START:PESSOA_GRUPOMEMBRO>Discovery<END> ). Nós, portugueses, teremos em atenção a estreia de <START:PESSOA_INDIVIDUAL>Sérgio Paulinho<END> .        
-Cinco mil polícias    
- <START:VALOR_QUANTIDADE>Cerca de 5 mil<END> polícias foram destacados para estarem de serviço em <START:LOCAL_HUMANO>Londres<END> por ocasião da passagem do <START:PESSOA_GRUPOIND>Tour<END> por <START:LOCAL_HUMANO>Inglaterra<END> . A segurança foi reforçada depois dos atentados terroristas verificados <START:TEMPO_TEMPO_CALEND>a semana passada<END> na capital inglesa e em <START:LOCAL_HUMANO>Glasgow<END> . E, para além do <START:ACONTECIMENTO_ORGANIZADO>Tour<END> , há ainda o  <START:ACONTECIMENTO_ORGANIZADO>Torneio de Ténis<END> de <START:LOCAL_HUMANO>Wimbledon<END> , e o  <START:ACONTECIMENTO_ORGANIZADO>GP de F1<END> de <START:LOCAL_HUMANO>Silverstone<END> .      
 
---DOCSTART--
-    
- FAZER A FESTA, LANÇAR OS FOGUETES E APANHAR AS CANAS: Ao que parece, <START:PESSOA_INDIVIDUAL>Paulo Pinto Mascarenhas<END> tem a convicção firme de que certa personagem que interpretei está a falar com ele. A generalidade dos malucos ouve a voz de <START:PESSOA_INDIVIDUAL>Jesus Cristo<END> ; <START:PESSOA_INDIVIDUAL>PPM<END> ouve a minha. Enfim, cada um tem a <START:PESSOA_INDIVIDUAL>Alexandra Solnado<END> que merece  e, mesmo sendo ateu, parece-me mais do que justo que eu tenha pior sorte que o <START:PESSOA_INDIVIDUAL>Messias<END> .        
- Talvez seja bom explicar o que se passa. O povo português tem tido, até agora, a decência de não delegar em <START:PESSOA_INDIVIDUAL>PPM<END> qualquer espécie de poder. Mas a verdade é que o povo português não tem sido tão sensato no que respeita a outras pessoas. Eu sei que esta notícia vai cair como uma bomba no <START:LOCAL_VIRTUAL>31 da Armada<END> , mas há gente um pouco mais poderosa do que o <START:PESSOA_INDIVIDUAL>PPM<END> . É uma coisa muito ligeira, mas tem, de facto, um bocadinho mais de poder. E essa gente, quando se sente atingida, ou quando sente que os amigos foram atingidos (mesmo que seja por uma rábula humorística), pressiona, corta relações com a estação de televisão em que a rábula foi emitida, manda recados com ameaças, faz saber que ficará à espera de uma oportunidade para nos fazer, digamos, coisas bonitas (sempre que posso, uso expressões de <START:PESSOA_INDIVIDUAL>Artur Jorge<END> ). É isso que tem acontecido desde que o <START:OBRA_REPRODUZIDA>Diz Que É Uma Espécie de Magazine<END> começou e foi o que aconteceu agora, de forma bastante mais intensa, na sequência do sketch sobre <START:PESSOA_INDIVIDUAL>Marcelo Rebelo de Sousa<END> . <START:TEMPO_TEMPO_CALEND>Em tempos<END> , o <START:PESSOA_INDIVIDUAL>Herman<END> disse-me que o pequeno poder (e, <START:TEMPO_FREQUENCIA>às vezes<END> , não tão pequeno como isso) sabe encontrar maneiras de pressionar no sentido de fazer censura sem sujar as mãos, de ameaçar sem poder ser denunciado, de intimidar sem aparecer. <START:TEMPO_TEMPO_CALEND>Na semana passada<END> percebi isso melhor do que gostaria, e dei-lhe razão.        
- Decidimos fazer uma rábula sobre esta espécie dissimulada de censura. <START:TEMPO_TEMPO_CALEND>Ontem<END> , uma jornalista do <START:ORGANIZACAO_EMPRESA>DN<END> perguntou-me se tínhamos sido pressionados pela <START:ORGANIZACAO_EMPRESA>RTP<END> e pelo <START:ORGANIZACAO_INSTITUICAO>Provedor do Espectador<END> . Respondi que não, e não menti. Da <START:ORGANIZACAO_EMPRESA>RTP<END> e do <START:ORGANIZACAO_INSTITUICAO>Provedor do Espectador<END> , não veio qualquer espécie de pressão. Quem sobra? No entender do <START:PESSOA_INDIVIDUAL>PPM<END> , sobra ele e um post que escreveu no <START:LOCAL_VIRTUAL>31 da Armada<END> . Fizemos uma rábula para um milhão e meio de espectadores por causa de um post do <START:PESSOA_INDIVIDUAL>PPM<END> no <START:LOCAL_VIRTUAL>31 da Armada<END> . Mandei uma mensagem ao <START:PESSOA_INDIVIDUAL>Herman<END> a dar-lhe razão por causa de um post do <START:PESSOA_INDIVIDUAL>PPM<END> no <START:LOCAL_VIRTUAL>31 da Armada<END> . E dei-lhe razão porque, como é óbvio, foi para isso que ele me advertiu. «Põe-te com brincadeiras e vais ver que, <START:TEMPO_TEMPO_CALEND>um dia destes<END> , o <START:PESSOA_INDIVIDUAL>PPM<END> faz um post sobre ti no <START:LOCAL_VIRTUAL>31 da Armada<END> », foram as palavras exactas dele. «Tinha razão, <START:PESSOA_INDIVIDUAL>Herman<END> », disse-lhe eu agora.        
- Há, no meio disto tudo, um pormenor que pode intrigar o leitor. Se eu já interpretei tantas personagens apalermadas e de discurso incoerente, porque é que o <START:PESSOA_INDIVIDUAL>PPM<END> só se sentiu retratado agora? Boa pergunta, leitor. Vagamente insultuosa, mas boa. Eu respondo: por duas razões. Primeiro, porque quando eu disse que a <START:ORGANIZACAO_EMPRESA>RTP<END> e o <START:ORGANIZACAO_INSTITUICAO>Provedor<END> não nos tinham pressionado, a jornalista tirou conclusões que não são as minhas. Segundo, porque a crítica do <START:PESSOA_INDIVIDUAL>PPM<END> segue, digamos, a mesma matriz ideológica que o pequeno poder (e, <START:TEMPO_FREQUENCIA>às vezes<END> , não tão pequeno como isso) perfilha. Aliás, a crítica do <START:PESSOA_INDIVIDUAL>PPM<END> não é nova, nem é só dele. Já tinha sido usada para pedir a nossa imparcialidade em relação a <START:PESSOA_INDIVIDUAL>Salazar<END> e <START:PESSOA_INDIVIDUAL>Cunhal<END> . Ou em relação a <START:PESSOA_INDIVIDUAL>Pinto da Costa<END> e <START:PESSOA_INDIVIDUAL>Luís Filipe Vieira<END> . Ou em relação à <START:OBRA_REPRODUZIDA>Floribella<END> e à <START:OBRA_REPRODUZIDA>Doce Fugitiva<END> . Mas dizem-me que é intelectualmente desonesto falar nisto.        
- Parece que o que é intelectualmente honesto é dizer que um programa humorístico de sátira social e política deve ser imparcial (argumento espantoso). Ou dizer que criticar o <START:PESSOA_INDIVIDUAL>prof. Marcelo<END> é fazer campanha pelo <START:ABSTRACCAO_DISCIPLINA>Sim<END> . O próprio <START:PESSOA_INDIVIDUAL>prof. Marcelo<END> diz que foi criticado por muitos defensores do <START:ABSTRACCAO_DISCIPLINA>Não<END> o que só pode significar que, pelos vistos, há gente do <START:ABSTRACCAO_DISCIPLINA>Não<END> a fazer campanha pelo <START:ABSTRACCAO_DISCIPLINA>Sim<END> .        
- <START:PESSOA_INDIVIDUAL>PPM<END> , referindo-se ao sketch sobre o <START:PESSOA_INDIVIDUAL>prof. Marcelo<END> , diz que, «em plena campanha eleitoral» quisemos ´ridicularizar os argumentos de um dos lados em confronto no referendo». Primeiro, o <START:PESSOA_INDIVIDUAL>prof. Marcelo<END> não representa o <START:ABSTRACCAO_DISCIPLINA>Não<END> . Ele mesmo, aliás, afirma que há vários <START:ABSTRACCAO_DISCIPLINA>Nãos<END> . Segundo, a nossa rábula sobre o <START:PESSOA_INDIVIDUAL>prof. Marcelo<END> foi transmitida <START:TEMPO_TEMPO_CALEND>no domingo, dia 28 de Janeiro<END> . A campanha começou <START:TEMPO_TEMPO_CALEND>na terça-feira, dia 30<END> . Dizer que fizemos o sketch «em plena campanha eleitoral» é, portanto, uma... Bom, parece-me que não há maneira delicada de o dizer: é mentira.        
- Não posso deixar de fazer referência às últimas palavras de <START:PESSOA_INDIVIDUAL>PPM<END> , que me parecem interessantes: « <START:PESSOA_INDIVIDUAL>Ricardo Araújo Pereira<END> pode dizer que não me conhece de lado nenhum, como disse ao <START:PESSOA_MEMBRO>24 Horas<END> . Pode, mas estará a faltar à verdade se o repetir em relação ao <START:PESSOA_INDIVIDUAL>Rodrigo Moita de Deus<END> .» Quero agradecer, penhorado, que <START:PESSOA_INDIVIDUAL>PPM<END> me autorize a dizer o que eu disse. Já é mais do que costuma fazer, e registo a evolução democrática. Agradeço ainda mais que me ponha de sobreaviso em relação à veracidade do que eu não disse mas, por uma razão que <START:TEMPO_TEMPO_CALEND>neste momento<END> me escapa, poderei vir a dizer.        
- Uma nota final: estou muito habituado às críticas do <START:PESSOA_INDIVIDUAL>PPM<END> , que têm, aliás, sempre o mesmo sentido. Normalmente, comento-as aqui mesmo. Na televisão e na imprensa, costumo satirizar gente que a generalidade do público conhece, e que diz coisas ridículas. Enquanto o <START:PESSOA_INDIVIDUAL>PPM<END> continuar a preencher apenas um destes requisitos, pela minha parte também continuarei a responder-lhe apenas aqui no blog. Por isso, e para evitar confusões futuras, gostava de sublinhar o seguinte: se, <START:TEMPO_GENERICO>um dia<END>, eu interpretar uma personagem megalómana, moralista e que mente para fazer valer os seus argumentos, o mais provável é que eu não esteja a satirizar o <START:PESSOA_INDIVIDUAL>PPM<END> . Há mais <START:COISA_CLASSE>Marias<END> na <START:LOCAL_FISICO>Terra<END> . <START:PESSOA_INDIVIDUAL>RAP<END>      
-
-  --DOCSTART--
-    
-Multibanco    
- <START:COISA_CLASSE>Multibanco<END> é uma marca registada propriedade da empresa <START:ORGANIZACAO_EMPRESA>SIBS<END> . O termo é utilizado comumente para designar as caixas automáticas (as máquinas que permitem a realização de operações bancárias em regime de auto-serviço), sendo mesmo utilizados em relação a caixas automáticas de sistema outros que o controlado pela <START:ORGANIZACAO_EMPRESA>SIBS<END> . Neste contexto, também se utiliza o termo <START:ABSTRACCAO_NOME>ATM<END> , do inglês <START:ABSTRACCAO_NOME>Automatic Teller Machine<END> .        
- Enquanto <START:LOCAL_HUMANO>Portugal<END> foi um dos últimos países da <START:LOCAL_HUMANO>Europa<END> ocidental a instalá-las, o equipamento usado representou o que havia de mais avançado, baseado nas experiências de outros países, muitos dos quais gastam agora imenso dinheiro para substituir e actualizar máquinas obsoletas.        
- O número de caixas  <START:COISA_CLASSE>Multibanco<END> mais do que triplicou em <START:LOCAL_HUMANO>Portugal<END> <START:TEMPO_TEMPO_CALEND>na última década<END> , revela um estudo da <START:ORGANIZACAO_EMPRESA>Marktest<END> . <START:TEMPO_TEMPO_CALEND>Desde 1995<END> , triplicou também o valor mensal médio de levantamentos per capita, revelam os dados fornecidos pela <START:ORGANIZACAO_EMPRESA>SIBS<END> e incluídos na pesquisa « <START:OBRA_PLANO>Os Concelhos Portugueses -- 1995/2005<END>  ».        
- Em <START:LOCAL_HUMANO>Portugal<END> , os multibancos têm tido muito sucesso, o que levou ao aparecimento de novos serviços não bancários, como a venda de bilhetes ou o pagamento de serviços.        
- <START:TEMPO_TEMPO_CALEND>Neste momento<END> a <START:COISA_CLASSE>Rede Multibanco<END> é uma das mais sofisticadas redes interbancárias do mundo.        
-Também é o nome de um cartão de débito.  
-
---DOCSTART--
-    
-TECNOLOGIA E TRADIÇÃO TRIBAL A SERVIÇO DA NATUREZA    
-<START:PESSOA_INDIVIDUAL>Deck Cowboy<END> (deckcowboy@riseup.net)    
-<START:LOCAL_HUMANO>NORDHOEK<END>, <START:LOCAL_HUMANO>África do Sul<END> - Com o olhar fixo na tela de seu laptop, <START:PESSOA_INDIVIDUAL>Louis Liebenberg<END> compara dois mapas da mesma região. Enquanto um deles está densamente preenchido por pontos amarelos, o outro está bem mais vazio.    
-As marcas indicam avistamentos de gorilas das planícies registradas por rastreadores tribais antes e depois de um surto do vírus ebola no santuário de <START:LOCAL_HUMANO>Lossi<END>, na <START:LOCAL_HUMANO>República Federativa do Congo<END>. Usando o <START:COISA_CLASSE>CyberTracker<END>, um software com o qual os ecologistas podem registrar suas observações em campo usando computadores portáteis conectados a aparelhos de posicionamento global (<START:COISA_CLASSE>GPS<END>), os rastreadores puderam reunir dados que comprovam a degradação da população local da espécie. Inicialmente céticos, os cientistas <START:TEMPO_TEMPO_CALEND>mais tarde<END> confirmaram suas constatações de que o vírus estava matando os gorilas e outros animais, e publicaram um artigo numa edição recente da revista <START:LOCAL_VIRTUAL>Science<END>.    
-"Este é um exemplo incrível de como a coleta regular de dados pode nos ajudar", disse <START:PESSOA_INDIVIDUAL>Liebenberg<END>. Para ele, fundador sul-africano da <START:ORGANIZACAO_INSTITUICAO>CyberTracker Conservation<END>, as constatações não apenas ilustram a capacidade do dispositivo de melhorar o monitoramento e a interpretação de ecossistemas, mas também comprovam que rastreadores analfabetos podem recolher informações com tanta eficiência quanto cientistas com Ph.D.    
-O <START:COISA_CLASSE>CyberTracker<END> é apenas mais uma das modernas tecnologias atualmente à disposição dos ecologistas, que cada vez mais recorrem a ferramentas como análises de <START:COISA_SUBSTANCIA>DNA<END> e imagens de satélite para obter uma maior compreensão da natureza. <START:PESSOA_INDIVIDUAL>Liebenberg<END> teve a idéia de criar o sistema <START:COISA_CLASSE>CyberTracker<END> enquanto acompanhava caçadores bosquímanos no deserto do <START:LOCAL_FISICO>Kalahari<END>.    
-Fascinado desde pequeno pela arte tribal de seguir rastros, <START:PESSOA_INDIVIDUAL>Liebenberg<END> desenvolveu a teoria de que as atividades ancestrais de caça e coleta representam nada menos do que a própria origem da ciência. Rastrear um animal, argumenta o pesquisador, exige um processo de observação e confrontação de hipóteses muito semelhante ao método científico.    
-O que <START:TEMPO_GENERICO>um dia<END> foi necessário à sobrevivência, no entanto, é <START:TEMPO_GENERICO>hoje<END> uma prática em extinção. Atualmente, <START:PESSOA_INDIVIDUAL>Liebenberg<END> afirma conhecer apenas seis caçadores tribais que usam suas habilidades para subsistência. A maioria dos jovens das tribos da região <START:TEMPO_GENERICO>hoje<END> freqüentam a escola - ao contrário de seus pais e avós, que eram analfabetos - mas raramente chegam a aprender as técnicas e o conhecimento de mundo necessários para caçar como as gerações anteriores.    
-Se fosse possível encontrar um meio de colocar o conhecimento dos bosquímanos a serviço da preservação ambiental, tanto a natureza quanto as comunidades desse povo poderiam se beneficiar. <START:TEMPO_TEMPO_CALEND>Em 1996<END>, <START:PESSOA_INDIVIDUAL>Liebenberg<END> e o cientista da computação <START:PESSOA_INDIVIDUAL>Lindsey Steventon<END> lançaram o primeiro modelo do <START:COISA_CLASSE>CyberTracker<END>, com o objetivo de transformar o rastreamento tradicional numa profissão moderna. <START:TEMPO_TEMPO_CALEND>No mesmo ano<END>, os rastreadores <START:PESSOA_INDIVIDUAL>Karel Benadie<END> e <START:PESSOA_INDIVIDUAL>James Minye<END> usaram o <START:COISA_CLASSE>CyberTracker<END> para estudar o rinoceronte negro, uma espécie ameaçada de extinção, no <START:LOCAL_HUMANO>Parque Nacional de Karoo<END> na <START:LOCAL_HUMANO>África do Sul<END>. Eles recolheram dados sobre os padrões de alimentação dos animais e sua vulnerabilidade à caça clandestina. <START:TEMPO_TEMPO_CALEND>Em 1999<END>, <START:PESSOA_INDIVIDUAL>Liebenberg<END>, <START:PESSOA_INDIVIDUAL>Steventon<END> e os dois rastreadores, que não possuem educação formal, publicaram um artigo na revista acadêmica <START:LOCAL_VIRTUAL>Pachyderm<END>. "Ao incluir os rastreadores em nossas atividades de monitoramento ambiental, estamos expandindo eficientemente a própria ciência", disse <START:PESSOA_INDIVIDUAL>Liebenberg<END>.    
-Mas não são apenas os rastreadores tribais que usam o <START:COISA_CLASSE>CyberTracker<END>. Estudantes e observadores de aves também aproveitam as vantagens do sistema. Ele já foi usado até por equipes de cientistas em expedições no <START:LOCAL_FISICO>Ártico<END>, no monitoramento de lobos no estado norte-americano de <START:LOCAL_HUMANO>Idaho<END>, da poluição dos rios na <START:LOCAL_HUMANO>Tanzânia<END> e do raríssimo rinoceronte de <START:LOCAL_HUMANO>Sumatra<END>, em <START:LOCAL_HUMANO>Bornéu<END>. O software pode ser personalizado, e é oferecido gratuitamente na <START:LOCAL_VIRTUAL>Web<END>. <START:VALOR_QUANTIDADE>Cerca de 400<END> projetos em <START:VALOR_QUANTIDADE>30<END> países estão usando o sistema, afirma <START:PESSOA_INDIVIDUAL>Liebenberg<END>.    
-O software consiste em uma série de camadas contendo menus baseados em figuras nos quais os pesquisadores registram suas observações. Eles selecionam ícones para representar as plantas e animais que observam, e para descrever seu comportamento e suas características. O <START:COISA_CLASSE>GPS<END> registra o local e a hora de cada observação. Rastreadores experientes normalmente podem identificar um único indivíduo de determinada espécie, ou pelo menos saber seu sexo, idade e estado de saúde, apenas observando suas pegadas.    
-Com cada rastreador registrando <START:VALOR_QUANTIDADE>até 300<END> observações <START:TEMPO_FREQUENCIA>por dia<END>, o dispositivo permite a coleta de quantidades imensas de informação, que pode ser analisada em mapas e bancos de dados quase imediatamente. "É aí que novos padrões vêm à tona: correlações entre espécies diferentes, características da paisagem e outros fatores que não poderiam ser descobertos de outra maneira", afirma <START:PESSOA_INDIVIDUAL>Jason Knight<END>, instrutor da <START:ORGANIZACAO_INSTITUICAO>Wilderness Awareness School<END> em <START:LOCAL_HUMANO>Duvall<END>, <START:LOCAL_HUMANO>Washington<END>.    
-No entanto, <START:PESSOA_INDIVIDUAL>Christina Eisenberg<END>, uma bióloga que estuda os lobos e trabalha para o <START:ORGANIZACAO_INSTITUICAO>Serviço Americano de Vida Selvagem e Aquática<END> conta que parou de usar o sistema porque ele travava inesperadamente. "Perdi os dados <START:TEMPO_DURACAO>de um dia inteiro<END> de trabalho, depois de me embrenhar milhas e milhas sobre terreno acidentado mato adentro", lembra. "Não foi nada agradável".    
-Vários projetos usando o <START:COISA_CLASSE>CyberTracker<END> em áreas de preservação da <START:LOCAL_HUMANO>África do Sul<END> também estão interrompidos, em parte devido ao preconceito contra rastreadores analfabetos e a falta de entusiasmo por parte dos administradores, diz <START:PESSOA_INDIVIDUAL>Liebenberg<END>. Mesmo assim, ele pretende desenvolver o <START:COISA_OBJECTO>CyberTracker<END>, transformando-o num sistema para monitorar mudanças ambientais e compartilhar informações pelo mundo todo. "No momento, faltam cientistas para reunir informação em campo", disse. "Se pudermos contar com a ajuda das pessoas que vivem nesses lugares, poderemos, teoricamente, monitorar todo o ecossistema global.    
-Fonte: Centro de Mídia Independente (www.midiaindependente.org).    
-Link : Cybertracker (www.cybertracker.co.za).  
-
-  --DOCSTART--
-    
-     <START:OBRA_PLANO>Tratado de Lisboa<END> ( <START:TEMPO_TEMPO_CALEND>2007<END> )        
- O <START:OBRA_PLANO>Tratado de Lisboa<END>  ou <START:OBRA_PLANO>Tratado de Reforma<END> , é o acordo ratificado pelo  <START:ORGANIZACAO_ADMINISTRACAO>Conselho<END> da <START:ORGANIZACAO_ADMINISTRACAO>União Europeia<END>  em <START:LOCAL_HUMANO>Lisboa<END> , <START:TEMPO_TEMPO_CALEND>a 19 de Outubro de 2007<END> , e que substitui a   <START:OBRA_PLANO>Constituição<END>   europeia <START:TEMPO_TEMPO_CALEND>de 2004<END> .[1]        
- O <START:OBRA_PLANO>Tratado de Lisboa<END>  confere à <START:ORGANIZACAO_ADMINISTRACAO>União Europeia<END> , personalidade jurídica própria para assinar acordos internacionais a nível comunitário. O termo « <START:ABSTRACCAO_NOME>Comunidade<END> » será substituído por « <START:ABSTRACCAO_NOME>União<END> », nomeia o  <START:PESSOA_CARGO>Alto Representante para a Política Exterior e de Segurança Comum<END> da <START:ORGANIZACAO_ADMINISTRACAO>União Europeia<END> e estabelece a aplicação formal da dupla maioria <START:TEMPO_TEMPO_CALEND>a partir de 2014<END> .        
-História    
- A emenda proposta pela <START:PESSOA_GRUPOCARGO>Presidência<END> alemã do  <START:ORGANIZACAO_ADMINISTRACAO>Conselho<END> da <START:ORGANIZACAO_ADMINISTRACAO>União Europeia<END>  ( <START:TEMPO_TEMPO_CALEND>2007<END> ) <START:TEMPO_TEMPO_CALEND>a 19 de Maio de 2007<END> incluiu a "essência da <START:OBRA_PLANO>Constituição<END> ". A proposta foi apresentada após as reuniões de trabalho entre a presidência e os delegados dos <START:VALOR_QUANTIDADE>27<END> estados membros <START:TEMPO_TEMPO_CALEND>durante o primeiro semestre de 2007<END> . Decidiu-se abandonar o formato do  ' Tratado constitucional '  e, em alternativa, dar impulso a um tratado clássico que introduza emendas nos dois tratados actualmente em vigor, o <START:OBRA_PLANO>Tratado da União Europeia<END> e o <START:OBRA_PLANO>Tratado da Comunidade Europeia<END> , que passaria a chamar-se  Tratado sobre o funcionamento da União  .        
- <START:ORGANIZACAO_ADMINISTRACAO>Portugal<END> , que assumiu a presidência da <START:ORGANIZACAO_ADMINISTRACAO>UE<END> <START:TEMPO_TEMPO_CALEND>durante o segundo semestre de 2007<END> , lançou uma conferência intergovernamental ( <START:ACONTECIMENTO_ORGANIZADO>CIG<END> ) <START:TEMPO_TEMPO_CALEND>nos dias 23<END> e <START:TEMPO_TEMPO_CALEND>24 de Julho<END> , para acabar a redação do texto, coincidindo com a reunião de <START:PESSOA_GRUPOCARGO>ministros dos Negócios Estrangeiros<END> . O novo <START:OBRA_PLANO>Tratado<END> foi apresentado na cimeira <START:TEMPO_TEMPO_CALEND>de 18 de Outubro<END> , em <START:LOCAL_HUMANO>Lisboa<END> , tendo sido assinado pelos representantes dos vários governos <START:TEMPO_TEMPO_CALEND>no dia 13 de Dezembro de 2007<END> , no <START:LOCAL_HUMANO>Mosteiro dos Jerónimos<END> . Dar-se-á agora início ao processo de ratificação com o objectivo de que o texto entre em vigor <START:TEMPO_TEMPO_CALEND>em 2009<END> .      
-
---DOCSTART--
-    
- <START:COISA_CLASSE>Sistema de Posicionamento Global<END>        
- O <START:COISA_CLASSE>Sistema de Posicionamento Global<END> , vulgarmente conhecido por <START:ABSTRACCAO_NOME>GPS<END> (do acrónimo do inglês <START:ABSTRACCAO_NOME>Global Positioning System<END> ), é um sistema de posicionamento por satélite americano, <START:TEMPO_FREQUENCIA>por vezes<END> incorrectamente designado de sistema de navegação, utilizado para determinação da posição de um receptor na superfície da <START:LOCAL_FISICO>Terra<END> ou em órbita. Existem atualmente dois sistemas efetivos de posicionamento por satélite; o <START:COISA_CLASSE>GPS<END> americano e o <START:COISA_CLASSE>Glonass<END> russo; também existem mais dois sistemas em implantação; o <START:COISA_CLASSE>Galileo<END> europeu e o <START:COISA_CLASSE>Compass<END> chinês.        
- O sistema <START:COISA_CLASSE>GPS<END> foi criado e é controlado pelo    <START:ORGANIZACAO_ADMINISTRACAO>Departamento de Defesa<END>   dos   <START:LOCAL_HUMANO>Estados Unidos da América<END>  , <START:ORGANIZACAO_ADMINISTRACAO>DoD<END> , e pode ser utilizado por qualquer pessoa, gratuitamente, necessitando apenas de um receptor que capte o sinal emitido pelos satélites. O <START:ORGANIZACAO_ADMINISTRACAO>DoD<END> fornece dois tipos de serviços <START:COISA_CLASSE>GPS<END> : <START:COISA_CLASSE>Standard<END> e <START:COISA_CLASSE>Precision<END> . Contrariamente ao que inicialmente acontecia, actualmente os dois serviços estão disponíveis em regime aberto em qualquer parte do mundo. O sistema está dividido em três partes: espacial, de controlo e utilizador. O segmento espacial é composto pela constelação de satélites. O segmento de controlo é formado pelas estações terrestres dispersas pelo mundo ao longo da <START:LOCAL_FISICO>Zona Equatorial<END> , responsáveis pela monitorização das órbitas dos satélites, sincronização dos relógios atómicos de bordo dos satélites e actualização dos dados de almanaque que os satélites transmitem. O segmento do utilizador consiste num receptor que capta os sinais emitidos pelos satélites. Um receptor <START:COISA_CLASSE>GPS<END> ( <START:COISA_CLASSE>GPSR<END> ) descodifica as transmissões do sinal de código e fase de múltiplos satélites e calcula a sua posição com base nas distâncias a estes. A posição é dada por latitude, longitude e altitude, coordenadas geodésicas referentes ao sistema <START:COISA_CLASSE>WGS84<END> .      
+<START:ACONTECIMENTO_ORGANIZADO>US Open<END>: <START:PESSOA_INDIVIDUAL>Federer<END> campeão
+PELO QUARTO ANO CONSECUTIVO  
+<START:PESSOA_INDIVIDUAL>Roger Federer<END> conquistou <START:TEMPO_TEMPO_CALEND>este domingo<END> pela quarta vez consecutiva o <START:ACONTECIMENTO_ORGANIZADO>US Open<END>, ao bater na final o sérvio <START:PESSOA_INDIVIDUAL>Novak Djokovic<END> por <START:VALOR_CLASSIFICACAO>7-6(4)<END>, <START:VALOR_CLASSIFICACAO>7-6(2)<END> e <START:VALOR_CLASSIFICACAO>6-4<END>.
+Com este triunfo, o suíço contabiliza <START:VALOR_QUANTIDADE>12<END> vitórias em torneios do <START:ACONTECIMENTO_ORGANIZADO>Grand Slam<END>, aproximando-se do recorde de <START:VALOR_QUANTIDADE>14<END>, que pertence a <START:PESSOA_INDIVIDUAL>Pete Sampras<END>.
+A final demorou <START:TEMPO_DURACAO>2.26 horas<END> e o líder mundial fez <START:VALOR_QUANTIDADE>11<END> ases contra apenas <START:VALOR_QUANTIDADE>5<END> do sérvio. Ao helvético apenas lhe falta o título no  <START:ACONTECIMENTO_ORGANIZADO>Open<END> de <START:LOCAL_HUMANO>França<END>, em <START:LOCAL_HUMANO>Roland Garros<END>.
+Entretanto, a francesa <START:PESSOA_INDIVIDUAL>Nathalie Dechy<END> conquistou o seu segundo título consecutivo em pares femininos. <START:PESSOA_INDIVIDUAL>Dechy<END> e a russa <START:PESSOA_INDIVIDUAL>Dinara Safina<END> bateram <START:PESSOA_INDIVIDUAL>Chan Yung-jan<END> e <START:PESSOA_INDIVIDUAL>Chuang Chia-jung<END> (<START:LOCAL_HUMANO>Taiwan<END>), por <START:VALOR_CLASSIFICACAO>6-4<END> e <START:VALOR_CLASSIFICACAO>6-2<END>.

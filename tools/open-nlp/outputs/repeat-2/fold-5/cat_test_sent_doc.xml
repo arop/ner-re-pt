@@ -1,50 +1,233 @@
 --DOCSTART--
- <START:PESSOA> Ronaldo <END> volta a treinar com bola no <START:PESSOA> Milan <END>        
- <START:PESSOA> Fenômeno <END> não participava de um coletivo <START:TEMPO> desde novembro <END> .
-Jogador se recupera de lesão        
- Das agências de notícias <START:LOCAL> Dubai <END> , <START:LOCAL> Emirados Árabes <END>        
- Depois de ser cotado para vestir a camisa do <START:ORGANIZACAO> Flamengo <END> , o <START:PESSOA> Fenômeno <END> parece, se não satisfeito, pelo menos conformado em retornar ao grupo do <START:ORGANIZACAO> Milan <END> .
-Após longo período se recuperando de uma lesão, <START:PESSOA> Ronaldo <END> calçou as chuteiras e voltou a treinar com bola, o que não fazia <START:TEMPO> desde novembro <END> .
-O atacante segue em recuperação.
-<START:TEMPO> Nesta sexta-feira <END> , participou da maior parte das atividades, em <START:LOCAL> Dubai <END> , nos <START:LOCAL> Emirados Árabes <END> .
-O técnico dividiu o elenco em dois times com <START:VALOR> 11 <END> jogadores atuando na metade do gramado do estádio <START:LOCAL> Al Maktoum <END> .
-Em seguida, quando começou a movimentação com bola, <START:PESSOA> Ronaldo <END> seguiu correndo.
-Aí quem se destacou - negativamente, de acordo com o jornal italiano " La Gazzetta dello Sport  " - foi o goleiro <START:PESSOA> Dida <END> .
-O brasileiro voltou a não passar segurança e no treino em campo reduzido seu time foi derrotado por <START:VALOR> 6 a 0 <END> .
-Três dos gols que levou eram defensáveis, segundo o jornal italiano.
-<START:PESSOA> Alessandro Nesta <END> saiu em defesa do companheiro.
-- Poderíamos ter vencido o <START:PESSOA> Inter <END> ( <START:VALOR> 2 a 1 <END> , o segundo gol em falha de <START:PESSOA> Dida <END> ).
-Não podemos ficar pressionando o <START:PESSOA> Dida <END> .
-Estaremos ao seu lado e considero que ele está se portando de maneira positiva na concentração - explica.
+<START:TEMPO> 2008 <END> : preços de bens e serviços sobem acima da inflação
+Os preços de diversos bens e serviços vão aumentar, <START:TEMPO> no próximo ano <END> , acima da inflação de <START:VALOR> 2,1% <END> prevista pelo <START:ORGANIZACAO> Governo <END> <START:TEMPO> para 2008 <END> , com destaque para o pão, com os industriais do sector a estimarem uma evolução de dois dígitos.
+A electricidade vai aumentar, de acordo com a proposta da <START:ORGANIZACAO> Entidade Reguladora dos Serviços Energéticos <END> ( <START:ORGANIZACAO> ERSE <END> ), aprovada pelo <START:ORGANIZACAO> Conselho Tarifário <END> , <START:VALOR> 2,9% <END> , em média, em <START:LOCAL> Portugal Continental <END> , <START:VALOR> 2,6% <END> nos <START:LOCAL> Açores <END> e <START:VALOR> 4,9% <END> na <START:LOCAL> Madeira <END> .
+A maioria dos consumidores domésticos podem assim esperar uma subida da factura mensal de <START:VALOR> 1,08 euros <END> <START:TEMPO> no próximo ano <END> , mas os clientes industriais sofrerão um aumento médio de <START:VALOR> 3,0% <END> , com maior peso para os de muita alta tensão ( <START:OUTRO> MAT <END> ) e alta tensão ( <START:OUTRO> AT <END> ) que terão uma subida de <START:VALOR> 3,9% <END> .
+Os clientes de média tensão ( <START:OUTRO> MT <END> ) terão um aumento de <START:VALOR> 2,7% <END> , enquanto os de baixa tensão especial ( <START:OUTRO> BTE <END> ), normalmente pequenas empresas, terão um aumento de <START:VALOR> 2,5% <END> .
+Um dos casos em que a subida dos preços mais ultrapassa o valor da inflação prevista pelo <START:ORGANIZACAO> Governo <END> é o do pão, que deverá aumentar <START:VALOR> 10 a 15% <END> <START:TEMPO> em Janeiro <END> ou <START:TEMPO> Fevereiro <END> , segundo contas feitas pela direcção da  <START:ORGANIZACAO> Associação dos Industriais de Panificação, Pastelaria e Similares <END> do <START:LOCAL> Norte <END> ( <START:ORGANIZACAO> AIPAN <END> ).
+Em declarações à agência <START:ORGANIZACAO> Lusa <END> , <START:PESSOA> António Fontes <END> , da <START:ORGANIZACAO> AIPAN <END> , disse que o preço do pão terá de aumentar para fazer face à subida de <START:VALOR> 92% <END> registada <START:TEMPO> ao longo de 2007 <END> no preço da matéria-prima de base (farinha).
+Desde o último aumento do preço do pão, <START:TEMPO> em Janeiro de 2004 <END> , o preço da farinha mais do que duplicou, o das leveduras subiu <START:VALOR> 40% <END> , o da energia <START:VALOR> 25% <END> , o do gás <START:VALOR> 32% <END> , o do gasóleo <START:VALOR> 70% <END> e os custos com pessoal <START:VALOR> 14% <END> , explicou.
+O preço do arroz, cujo consumo per capita em <START:LOCAL> Portugal <END> é o mais alto da <START:LOCAL> Europa <END> , deverá igualmente aumentar, apesar de os industriais não conseguirem ainda prever o valor real a pagar pelos consumidores.
+A <START:ORGANIZACAO> Associação Nacional dos Industriais de Arroz <END> ( <START:ORGANIZACAO> ANIA <END> ) explicou que um conjunto de factores a nível do mercado internacional - aumento do preço das matérias-primas com parte da produção a ser desviada para o fabrico de biocombustíveis - provocou em <START:LOCAL> Portugal <END> um acréscimo do valor por tonelada de <START:VALOR> 200 a 230 euros <END> <START:TEMPO> em 2006 <END> para <START:VALOR> 280 a 290 euros <END> <START:TEMPO> este ano <END> .
+Nos transportes públicos, a subida é, em média, de <START:VALOR> 3,9% <END> , e nas portagens das auto-estradas será de <START:VALOR> 2,6% <END> , também, em média, seguindo o estipulado na lei, que obriga as concessionárias a apresentar " <START:TEMPO> até 15 de Novembro <END> as propostas de aumentos de portagens, tendo como por base a última inflação homóloga conhecida.
+Nem todas as portagens sofrerão alterações, uma vez que os contratos de concessão determinam que os aumentos sejam arredondados em múltiplos de <START:VALOR> 5 cêntimos <END> .
+O tabaco também vai pesar mais na carteira: o <START:ORGANIZACAO> Governo <END> decidiu <START:TEMPO> em 2005 <END> que o <START:OUTRO> Imposto sobre o Tabaco <END> teria um aumento médio anual de <START:VALOR> 15% <END> <START:TEMPO> até 2009 <END> e, <START:TEMPO> a partir de Janeiro de 2008 <END> , um maço das marcas mais comercializadas poderá mesmo aumentar, em média, <START:VALOR> 30 cêntimos <END> .
+Sem contas fechadas, os <START:ORGANIZACAO> CTT <END> adiantam que «os preços dos serviços de correios não vão aumentar já <START:TEMPO> em Janeiro <END> » e, na água, o <START:ORGANIZACAO> Instituto Regulador das Águas e Resíduos <END> ( <START:ORGANIZACAO> IRAR <END> ) diz que o procedimento <START:TEMPO> para 2008 <END> está actualmente em curso, prevendo-se a sua conclusão <START:TEMPO> em Janeiro <END> .
+Quanto às empresas concessionárias dos sistemas municipais, as tarifas são definidas <START:TEMPO> no momento <END> do estabelecimento da concessão e actualizadas de acordo com as regras constantes do respectivo contrato com aprovação pelo município.
+Mas nem tudo são más notícias, tendo em conta que o <START:OUTRO> Salário Mínimo Nacional <END> vai aumentar, <START:TEMPO> a partir do dia 1 de Janeiro <END> , <START:VALOR> 5,7% <END> , para <START:VALOR> 426 euros <END> .
+O valor fixado insere-se no acordo tripartido assinado <START:TEMPO> no ano passado <END> e que prevê uma evolução significativa do salário mínimo, de modo a atingir os <START:VALOR> 450 euros <END> <START:TEMPO> em 2009 <END> e os <START:VALOR> 500 euros <END> <START:TEMPO> em 2011 <END> .
+O " <START:OUTRO> Indexante de Apoios Sociais <END> ( <START:OUTRO> IAS <END> ), o referencial de actualização e cálculo das prestações sociais, deverá situar-se nos <START:VALOR> 407,4 euros <END> , o que traduz um crescimento de <START:VALOR> 2,4% <END> ,  <START:TEMPO> a partir de Janeiro do próximo ano <END> , segundo as contas feitas pela agência <START:ORGANIZACAO> Lusa <END> .
+Em relação à actualização das pensões atribuídas pelo sistema de  <START:ORGANIZACAO> Segurança Social <END> , as pensões de valor igual ou inferior a <START:VALOR> 1,5 IAS <END> ( <START:VALOR> 611,10 euros <END> ) são actualizadas em <START:VALOR> 2,7% <END> , as pensões <START:VALOR> entre 1,5 IAS e 6 IAS <END> tem uma actualização de <START:VALOR> 2,17% <END> e as pensões de valor superior a <START:VALOR> 6 IAS <END> tem um aumento de <START:VALOR> 1,88% <END> .
+Estes valores foram calculados com base na lei 53-B/2006, <START:TEMPO> de 29 de Dezembro <END> , que cria o indexante dos apoios sociais e novas regras de actualização das pensões e outras prestações sociais do sistema de <START:ORGANIZACAO> Segurança Social <END> .
 --DOCSTART--
     
- Preço do barril de crude chegou ao nível histórico de <START:VALOR> 100 dólares <END>        
- <START:TEMPO> 03.01.2008 <END> - <START:TEMPO> 08h46 <END>        
- Por <START:PESSOA> Lurdes Ferreira <END>        
- <START:TEMPO> Às 17h30 <END> <START:TEMPO> de ontem <END> em <START:LOCAL> Lisboa <END> , a vaga especulativa do mercado do petróleo convergiu com as previsões <START:TEMPO> dos últimos meses <END> que davam como certa a chegada do preço do crude aos <START:VALOR> 100 dólares <END> .
-As projecções tornaram-se realidade, <START:TEMPO> ao fim de um ano <END> em que o preço desta matéria subiu <START:VALOR> 58 por cento <END> e que foi também o maior aumento anual <START:TEMPO> da última década <END> .
-O recorde histórico verificou-se na bolsa mercantil de <START:LOCAL> Nova Iorque <END> , com a transacção do crude de tipo leve, de referência para o mercado dos <START:LOCAL> EUA <END> , com entrega <START:TEMPO> para Fevereiro <END> , a pular mais de três dólares numa só sessão e a bater na marca histórica dos <START:VALOR> 100 dólares <END> .
-Baixou pouco depois para os <START:VALOR> 99,17 dólares <END> .
-Em <START:LOCAL> Londres <END> , o    <START:COISA> Brent do Mar do Norte <END>    , também com entrega <START:TEMPO> para Fevereiro <END> , subiu igualmente mais de três dólares e passou pela primeira vez o patamar dos <START:VALOR> 97 dólares <END> .
-O novo máximo histórico ficou em <START:VALOR> 97,74 dólares <END> .
-A onda de violência na <START:LOCAL> Nigéria <END> e a instabilidade no <START:LOCAL> Paquistão <END> são apontadas como o curto-circuito que faltava ao conjunto de pressões acumuladas sobre os preços do crude <START:TEMPO> nos últimos anos <END> .
-Umas são estruturais: dificuldade da oferta responder a uma crescente procura, com dois países a liderarem a pressão consumista ( <START:PESSOA> China <END> , que já é o segundo maior consumidor do mundo, e a <START:PESSOA> Índia <END> ); escassez do sistema de refinação aliada à resistência do cartel dos países exportadores, a <START:ORGANIZACAO> OPEP <END> , em aumentar significativamente a sua produção.
-Outras são conjunturais: temperaturas frias do pico <START:TEMPO> do Inverno <END> ; e a descida das reservas dos <START:LOCAL> EUA <END> , o maior mercado consumidor do mundo.
-Outras são técnicas e com impacto que promete durar: depreciações do dólar face ao euro, quando esta matéria-prima é cotada na moeda norte-americana e as reservas dos países produtores também são em dólares, ao mesmo tempo que reforça o poder de compra dos investidores munidos de outras divisas.
-"Vamos aqui ficar [no patamar dos <START:VALOR> 100 dólares <END> ], enquanto houver um desequilíbrio entre a oferta e a procura", afirmou à <START:PESSOA> France Presse <END> o analista do mercado de capitais da <START:ORGANIZACAO> BMO <END> , <START:PESSOA> Bart Melek <END> .
-Para este desequilíbrio contribui agora a nova vaga de violência da <START:LOCAL> Nigéria <END> , país que <START:TEMPO> nos últimos anos <END> já perdeu <START:VALOR> 25 por cento <END> da sua produção, sendo o primeiro produtor africano, oitavo mundial e quinto fornecedor dos <START:LOCAL> EUA <END> .
-Para os analistas, o risco de ruptura de fornecimento neste país, com a morte de <START:VALOR> 12 <END> pessoas <START:TEMPO> na passagem de ano <END> , é agora superior ao que foi <START:TEMPO> nos últimos meses <END> .
-E contribui também a situação geopolítica no <START:LOCAL> Paquistão <END> , <START:TEMPO> uma semana depois <END> do assassinado de <START:PESSOA> Benazir Bhuto <END> - não sendo um produtor importante, situa-se numa região estratégica para a produção de petróleo.
-A situação destes dois países "provocou o regresso de muito capital especulativo ao mercado", segundo o <START:PESSOA> presidente da Ritterbusch &amp; Associates <END>  , <START:PESSOA> Jim Ritterbusch <END> , citado pela <START:LOCAL> Reuters <END> .
-Mas estes não são os únicos dois países em turbulência geopolítica.
-É também o <START:LOCAL> Quénia <END> , "ao lado da <START:LOCAL> Nigéria <END> , que se incendeia", diz <START:PESSOA> Moncef Kaabi <END> , da <START:ORGANIZACAO> Natixis <END> , é também a <START:LOCAL> Turquia <END> , com as operações contra os separatistas curdos no <START:LOCAL> Norte <END> , justificando que mercados como o do petróleo "traduzem a inquietação e a incerteza dos investidores".
-Por outro lado, os <START:ORGANIZACAO> EUA <END> deverão anunciar ainda <START:TEMPO> hoje <END> a situação dos seus stocks de crude, mas os dados disponíveis antecipam o anúncio de uma nova quebra, <START:TEMPO> pela sétima semana consecutiva <END> , desta vez em <START:VALOR> 1,8 milhões <END> de barris, face ao aumento da actividade das refinarias, de acordo com um inquérito da  Reuters  .
-O preço actual do petróleo ficou agora mais próximo do pico de <START:VALOR> 100 dólares <END> <START:TEMPO> de 1980 <END> provocado pela guerra entre o <START:ORGANIZACAO> Irão <END> e o <START:ORGANIZACAO> Iraque <END> , dois países-membros da <START:ORGANIZACAO> OPEP <END> .
-O preço de então ajustado à inflação representa <START:TEMPO> hoje <END> <START:VALOR> 101,7 dólares <END> .
-A convicção dominante no mercado, a avaliar pelos analistas contactados pela <START:PESSOA> Reuters <END> , é a de que o preço desta matéria-prima continuará provavelmente a subir <START:TEMPO> nos próximos cinco anos <END> , a não ser que o crescimento económico abrande e abrande também a procura de combustível.
-A pressão para a subida de preços que se verifica <START:TEMPO> desde 2002 <END> continua a ter condições para manter o ritmo: algumas regiões fora da <START:ORGANIZACAO> OPEP <END> , nomeadamente o mar do  <START:LOCAL> Norte <END> , têm a sua produção em declínio, a <START:ORGANIZACAO> China <END> mantém um intenso ritmo de procura de combustível e o sistema de refinação continua a enfrentar uma escassez de capacidade para os produtos de grande qualidade.
-Para analistas como <START:PESSOA> Kris Voorspools <END> , da <START:ORGANIZACAO> Fortis <END> , em <START:LOCAL> Bruxelas <END> , o "preço do petróleo pode continuar a subir", por se estar perante o "simples fundamento da oferta e da procura".
-Mas há quem defenda, embora em minoria, que os preços elevados podem levar a uma recessão global, uma opinião expressa por <START:PESSOA> Nauman Barakat <END> ,    <START:PESSOA> vice-presidente da Macquarie Futures <END>    dos <START:LOCAL> EUA <END> .
+<START:ABSTRACCAO> Doença de Chagas <END>    
+1.
+NOÇÕES GERAIS.
+Histórico <START:PESSOA> Carlos Chagas <END> : A <START:ABSTRACCAO> doença de Chagas <END> ou tripanosomíase americana foi descoberta pelo médico sanitarista <START:PESSOA> Carlos Justiniano Ribeiro das Chagas <END> - <START:PESSOA> Carlos Chagas <END> - <START:TEMPO> em 1909 <END> .
+Este brasileiro descobriu a doença e descreveu praticamente todos os seus aspectos.
+Quando <START:PESSOA> Carlos Chagas <END> realizava uma campanha contra a malária que atingia operários na construção de um trecho da  <START:LOCAL> Estrada de Ferro Central <END> do <START:LOCAL> Brasil <END> , ao norte de <START:LOCAL> Minas Gerais <END> , ao fazer exames de uma menina doente, encontrou tripanosomos em seu sangue.
+Ao examinar posteriormente as fezes de insetos existentes na região e o sangue de animais mamíferos, constatou também a presença dos mesmos parasitas.
+Desta forma, <START:PESSOA> Carlos Chagas <END> pode descrever o agente causador, o transmissor e o modo de transmissão da doença, como também comprovar a existência de vertebrados que são reservatórios silvestres e domésticos do parasita, esclarecendo assim os aspectos básicos da epidemiologia da doença.
+Definição da doença: A <START:ABSTRACCAO> doença de Chagas <END> é uma infecção transmissível causada por um parasita que circula no sangue e ataca o coração, bem como órgãos do aparelho digestivo (esôfago e intestino).
+Sua transmissão exige a participação de um vetor, o triatomíneo conhecido pelo nome de barbeiro, fincão, chupança entre outras dependendo da região.
+É uma doença do continente americano (sul dos <START:LOCAL> Estados Unidos <END> até a <START:LOCAL> Argentina <END> ).
+Transmissores: São artrópodes da classe <START:COISA> Insecta <END> , ordem <START:COISA> Hemiptera <END> , família <START:COISA> Reduviidae <END> e subfamília <START:COISA> Triatominae <END> .
+Sugam sangue (hematofágos) em todas as fases de seu ciclo evolutivo.
+Vivem em média <START:TEMPO> entre um a dois anos <END> , com evolução de ovo, ninfa e adulto, com grande capacidade de reprodução e, dependendo da espécie, com intensa resistência ao jejum.
+Ecologia e distribuição.
+Os triatomíneos têm ampla distribuição geográfica no <START:LOCAL> Novo Mundo <END> , desde os <START:LOCAL> Estados Unidos <END> até o sul do <START:LOCAL> Chile <END> e <START:LOCAL> Argentina <END> , existindo espécies que são tipicamente silvestres; e das <START:VALOR> 118 <END> espécies conhecidas, <START:VALOR> 105 <END> são do <START:LOCAL> Novo Mundo <END> .
+Todas as espécies são vetoras em potencial para o <START:COISA> Trypanosoma cruzi <END> , mas seis têm importância epidemiológica na <START:LOCAL> América do Sul <END> : <START:COISA> Triatoma infestans <END> , <START:COISA> T. brasiliensis <END> , <START:COISA> T. dimidiata <END> , <START:COISA> T. sordida <END> , <START:COISA> P. megistus <END> e <START:COISA> Rhodnius prolixus <END> .
+A espécie vetora mais importante, devido ao seu hábito quase que estritamente doméstico e também com a mais extensa área de distribuição, é o <START:COISA> T. infestans <END> , encontrado na <START:LOCAL> Argentina <END> , <START:LOCAL> Bolívia <END> , <START:LOCAL> Brasil <END> , <START:LOCAL> Chile <END> , <START:LOCAL> Paraguai <END> , <START:LOCAL> Peru <END> e <START:LOCAL> Uruguai <END> .
+Em algumas localidades do sul do <START:LOCAL> Brasil <END> ( <START:LOCAL> Rio Grande do Sul <END> ), sul do <START:LOCAL> Peru <END> , <START:LOCAL> Bolívia <END> e algumas localidades do noroeste da <START:LOCAL> Argentina <END> , <START:COISA> T. infestans <END> também tem hábito peridoméstico, ocupando galinheiros, currais etc.
+As colônias em ecótopos artificias têm tendência a se concentrarem nas partes mais altas da parede.
+Neste gênero, <START:COISA> Triatoma <END> , um exemplo típico é dado pelo <START:COISA> T. arthurneivai <END> que, habita fendas de pedras e está associado a lagartos e roedores.
+É encontrado no <START:LOCAL> Brasil <END> nos estados da <START:LOCAL> Bahia <END> , <START:LOCAL> Minas Gerais <END> e <START:LOCAL> São Paulo <END> .
+No estado de <START:LOCAL> São Paulo <END> , Rodrigues et al.
+( <START:TEMPO> 1992 <END> ) encontraram adultos da referida espécie em ecótopos artificiais e com infecção natural pelo <START:COISA> T. cruzi <END> .
+Ainda no <START:LOCAL> Brasil <END> , no estado do <START:LOCAL> Rio Grande do Sul <END> , no <START:LOCAL> Uruguai <END> e no norte da <START:LOCAL> Argentina <END> encontra-se outra espécie <START:COISA> T. rubrovaria <END> , tipicamente silvestre que convive com roedores em ambientes pedregosos.
+Apresenta alto índice de infecção natural e invade os domicílios principalmente <START:TEMPO> no verão <END> .
+Na <START:LOCAL> Argentina <END> temos mais duas espécies deste grupo que são <START:COISA> T. eratyrusiformis <END> e <START:COISA> T. patagonica <END> : criam-se em lugares pedregosos e alimentam-se de pequenos roedores, mas atacam o homem e os animais domésticos <START:TEMPO> à noite <END> .
+<START:COISA> T. brasiliensis <END> com altas taxas de infecção pelo <START:COISA> T. cruzi <END> é o vetor mais importante no nordeste do <START:LOCAL> Brasil <END> , e pode ser encontrado com alguma freqüência em domicílios.
+Tem hábitos silvestres e peridomiciliares, onde está associado com abrigo de cabras, galinheiros e ecótopos rochosos; no peridomicílio e domicílio tem as aves como principal fonte alimentar, seguidas por humanos.
+A segunda espécie vetora é <START:COISA> P. megistus <END> , sendo domiciliada em algumas regiões, peridomiciliar e silvestre em outras.
+Também tem vasta distribuição geográfica, distribui-se desde as <START:LOCAL> Guianas <END> até a <START:LOCAL> Argentina <END> .
+É a espécie responsável pelos focos mais intensos da endemia chagásica em <START:LOCAL> Minas Gerais <END> e <START:LOCAL> Bahia <END> ( <START:LOCAL> Brasil <END> ).
+Tem hábito silvestre no centro do <START:LOCAL> Brasil <END> e leste do <START:LOCAL> Paraguai <END> e está associado a <START:COISA> Didelpbideos <END> , motivo pelo qual os índices de infecção para <START:COISA> T. cruzi <END> são elevados.
+Invadem <START:TEMPO> ocasionalmente <END> domicílios e peridomicílios onde se colonizam com facilidade.
+<START:COISA> P. geniculatus <END> , espécie silvestre que também invade <START:TEMPO> ocasionalmente <END> ecótopos artificiais e tem ampla distribuição geográfica, esta associada a animais com hábitos terrestres (buracos), como é o caso dos tatus.
+Pode-se citar ainda o <START:COISA> P. diasi <END> com distribuição na <START:LOCAL> Bolívia <END> e <START:LOCAL> Brasil <END> nos estados de <START:LOCAL> Goiás <END> , <START:LOCAL> Minas Gerais <END> , <START:LOCAL> São Paulo <END> e <START:LOCAL> Bahia <END> , ocorrendo neste último estado na região da caatinga.
+<START:COISA> P lutzi <END> no nordeste brasileiro e <START:COISA> P. tupynambai <END> no <START:LOCAL> Rio Grande do Sul <END> e <START:LOCAL> Uruguai <END> são espécies que <START:TEMPO> nos últimos anos <END> têm sido encontradas <START:TEMPO> com freqüência <END> nas habitações humanas.
+<START:COISA> T. sordida <END> geralmente é encontrada em ecótopos silvestres e no peridomicílio, invade com freqüência o domicílio, mas é considerada espécie secundária.
+Tem distribuição no <START:LOCAL> Brasil Central <END> (cerrado), partes do <START:LOCAL> Paraguai <END> .
+noroeste da <START:LOCAL> Argentina <END> , <START:LOCAL> Uruguai <END> e <START:LOCAL> Bolívia <END> .
+Tem sido encontrada com baixa taxa de infecção natural, a qual está associada a roedores.
+<START:COISA> T. dimidiata <END> freqüenta o domicílio e é encontrada em diversas tocas silvestres, tais como rocas, grutas ocupadas por morcegos e ocos de arvores, sendo um importante vetor da <START:LOCAL> América Central <END> , <START:LOCAL> México <END> , <START:LOCAL> Colômbia <END> , <START:LOCAL> Equador <END> e norte do <START:LOCAL> Peru <END> .
+Outro gênero que pertence a este grupo, cujos adultos invadem ecótopos artificiais, são algumas espécies de <START:COISA> Rhodnius <END> , principalmente <START:COISA> R. domesticus <END> , que é encontrado na região litorânea do <START:LOCAL> Brasil <END> , <START:COISA> R. pictipes <END> nas regiões norte e centro-oeste do <START:LOCAL> Brasil <END> e o <START:COISA> R. brethesi <END> , com distribuição no norte do <START:LOCAL> Brasil <END> e <START:LOCAL> Venezuela <END> , tem hábitos silvestres e habita palmeiras de piaçaba ( <START:COISA> Leopoldinia piassaba <END> ), ataca o homem com avidez e, <START:TEMPO> nos últimos anos <END> , tem invadido <START:TEMPO> com freqüência <END> ecótopos artificiais.
+<START:COISA> R. prolixus <END> é a espécie vetora mais importante da <START:LOCAL> Colômbia <END> e <START:LOCAL> Venezuela <END> , onde tem hábito doméstico, sendo responsável pela transmissão natural da <START:ABSTRACCAO> Doença de Chagas <END> .
+Também é importante em algumas partes da <START:LOCAL> América Central <END> , particularmente em <START:LOCAL> El Salvador <END> , <START:LOCAL> Guatemala <END> e <START:LOCAL> Honduras <END> .
+No ambiente domiciliar, <START:COISA> R. prolixus <END> alimenta-se principalmente de sangue humano e de aves, embora utilize também, como fonte alimentar, cães e gatos.
+No ambiente silvestre, faz uso de marsupiais e roedores como fonte de alimento.
+<START:COISA> R. pallescens <END> é importante vetora no <START:LOCAL> Panamá <END> , invade casas <START:TEMPO> com freqüência <END> formando colônias e é encontrada também no peridomicílio e em ambientes silvestres em palmeiras.
+As populações domésticas na área central do <START:LOCAL> Panamá <END> têm como fonte alimentar o homem ( <START:VALOR> 59% <END> ), seguido por marsupiais e aves domésticas.
+No <START:LOCAL> Velho Mundo <END> , são <START:VALOR> 13 <END> as espécies descritas, necessitando de esclarecimentos epidemiológicos.
+Não se encontrou nenhuma infectada pelo <START:COISA> T. cruzi <END> .
+A espécie mais conhecida dentre estas é <START:COISA> Triatoma rubrofasciata <END> , que é cosmopolita e encontrada em regiões portuárias.
+--DOCSTART--
+
+<START:TEMPO> Em Dezembro <END> em <START:LOCAL> Lisboa <END>
+<START:PESSOA> Sócrates <END> : cimeira " <START:ORGANIZACAO> União Europeia <END> - <START:ORGANIZACAO> África <END> não deve ser uma cimeira «sobre <START:PESSOA> Mugabe <END> » 
+A cimeira  <START:ORGANIZACAO> União Europeia <END> - <START:ORGANIZACAO> África <END> , prevista <START:TEMPO> para 8 <END> e <START:TEMPO> 9 de Dezembro <END> em <START:LOCAL> Lisboa <END> , não deve ser uma cimeira sobre o  <START:PESSOA> Presidente <END> do <START:LOCAL> Zimbabwe <END> , <START:PESSOA> Robert Mugabe <END> , defendeu <START:TEMPO> hoje <END> <START:PESSOA> José Sócrates <END> , primeiro-ministro português e presidente em exercício da <START:LOCAL> União Europeia <END> ( <START:LOCAL> UE <END> ).
+«O que queremos é que esta cimeira entre a <START:ORGANIZACAO> União Europeia <END> e <START:ORGANIZACAO> África <END> , uma cimeira histórica muito importante, se concentre nos documentos que vão ser aprovados e não sobre o <START:PESSOA> Presidente Robert Mugabe <END> », declarou <START:PESSOA> Sócrates <END> em <START:LOCAL> Singapura <END> , à margem da cimeira entre a <START:ORGANIZACAO> UE <END> e os países do <START:LOCAL> Sudeste <END> asiático, segundo a   Lusa .
+O <START:ORGANIZACAO> Zimbabwe <END> foi convidado para participar na cimeira, apesar da oposição do <START:ORGANIZACAO> Reino Unido <END> que ameaçou boicotar a reunião se <START:PESSOA> Mugabe <END> estiver presente.
+«Esta é uma cimeira que não se realiza <START:TEMPO> há sete anos <END> , uma cimeira sobre os direitos do <START:PESSOA> Homem <END> , sobre as alterações climáticas, sobre as migrações, sobre os problemas da <START:LOCAL> União Europeia <END> e da <START:LOCAL> União Africana <END> », salientou <START:PESSOA> Sócrates <END> .
+«O objectivo é restaurar o diálogo político alargado com a <START:ORGANIZACAO> África <END> e fazer não apenas uma estratégia da <START:ORGANIZACAO> Europa <END> para a <START:ORGANIZACAO> África <END> mas uma estratégia conjunta, pela primeira vez na história», lembrou.
+«Gostaria que esta cimeira não fosse apenas sobre um país ou sobre um dirigente», insistiu.
+--DOCSTART--
+    
+ <START:PESSOA> George Steiner <END> - holocausto ou holocaustos?
+<START:PESSOA> George Steiner <END> esteve recentemente em <START:LOCAL> Portugal <END> e de acordo com notícia no <START:LOCAL> Ciência Hoje <END> o ensaísta vem proferir um discurso que a <START:PESSOA> Europa <END> é uma civilização decadente e que aparecerão outros locais do planeta como a <START:LOCAL> China <END> e a <START:LOCAL> Índia <END> ?.
+Esta afirmação levantou-me uma série de inquitações:        
+ Ora a <START:ORGANIZACAO> Índia <END> e a <START:ORGANIZACAO> China <END> já têm o seu espaço, as suas incongruências e cometendo os piores atentados ecológicos de sempre enquanto <START:TEMPO> hoje <END> há uma <START:ORGANIZACAO> Europa <END> que tem feito da sustentabilidade um exemplo a este planeta...exigir mais é possível, concerteza.
+Mas <START:PESSOA> George Steiner <END> ( <START:PESSOA> G.S. <END> ), proferiu uma outra barbaridade ainda mais grave uma civilização que mata os seus judeus não recupera ...Não visitou o memorial em <START:LOCAL> Berlim <END> , concerteza...ou tão aplaudido sábio terá esquecido de <START:PESSOA> Aristides Sousa Mendes <END> ou de <START:PESSOA> Oskar Schindler <END> ?
+Por mim <START:PESSOA> G.S. <END> que fique pela <START:LOCAL> América <END> e ataque outros holocaustos que não criticou: <START:ACONTECIMENTO> Guantanamo <END> , o muro internacional no <START:LOCAL> México <END> , que ataque a administração   <START:ORGANIZACAO> Bush <END> que ainda não assinou o <START:OBRA> Protocolo de Quioto <END> , que ataque um país que mantem a pena de morte, que ataque um país onde é constitucional o uso de armas...e lembrar-lhe que há muitos holocaustos no mundo...        
+ <START:PESSOA> G.S. <END> , enquanto aufere uns bons milhões de dólares e estará num gabinete provavelmente nada ecológico, com ar condicionado, podia sair um pouco da sua aura de eterna vítima de anti-semitismo e demonstar mais solidariedade com estas irracionalidades no <START:LOCAL> Mundo <END> <START:TEMPO> de hoje <END> como <START:ACONTECIMENTO> Angola <END> e que são também holocautos tão ou mais graves que <START:ACONTECIMENTO> Kosovo <END> e/ou <START:ACONTECIMENTO> Israel-Palestina <END> : <START:ACONTECIMENTO> Darfur <END> , <START:ACONTECIMENTO> Birmânia <END> , <START:ACONTECIMENTO> Congo <END> , <START:ACONTECIMENTO> Ruanda <END> , <START:ACONTECIMENTO> Singapura <END> , <START:ACONTECIMENTO> Indonésia <END> , <START:ACONTECIMENTO> Tibete <END> , povos da <START:LOCAL> Amazónia <END> , <START:PESSOA> Curdos <END> e Nações sem Estado.
+--DOCSTART--
+    
+<START:ACONTECIMENTO> CCB 15 ANOS <END> | UM PRESENTE AOS ESPECTADORES        
+ Com um grande concerto realizado ao ar livre, na <START:LOCAL> Praça do Museu <END> , <START:TEMPO> no dia 21 de Março de 1993 <END> , o <START:ORGANIZACAO> CCB <END> iniciava, <START:TEMPO> há quinze anos <END> , a sua actividade como centro de produção e apresentação de espectáculos e exposições  o maior de <START:LOCAL> Portugal <END> .
+O <START:LOCAL> Grande Auditório <END> viria a ser inaugurado <START:TEMPO> seis meses depois <END> , <START:TEMPO> a 22 de Setembro <END> , com um recital da soprano catalã <START:PESSOA> Montserrat Caballé <END> , enquanto o <START:LOCAL> Pequeno Auditório <END> abrira as suas portas <START:TEMPO> em Junho <END> com um espectáculo do violoncelista <START:PESSOA> Anner Bylsma <END> .
+Neste arco temporal  <START:TEMPO> de 15 anos <END>  , o <START:ORGANIZACAO> CCB <END> apresentou ao público de <START:LOCAL> Lisboa <END> artistas tão diversos como <START:PESSOA> Sviatoslav Richter <END> e <START:PESSOA> Cecilia Bartoli <END> , <START:PESSOA> Pina Bausch <END> et <START:PESSOA> Pippo Delbono <END> , <START:PESSOA> Peter Brook <END> e <START:PESSOA> Jordi Savall <END> , <START:PESSOA> Philip Glass <END> et <START:PESSOA> Keith Jarrett <END> , a <START:PESSOA> Royal Shakespeare Company <END> e o <START:PESSOA> Piccolo Teatro di Milano <END> , <START:PESSOA> Robert Lepage <END> e a companhia <START:PESSOA> Cheek by Jowl <END> , a companhia de ópera do <START:ORGANIZACAO> Teatro Mariinski <END> de <START:LOCAL> S. Petersburgo <END> e <START:PESSOA> The Wooster Group <END> .
+Aqui se estrearam os <START:PESSOA> The Gift <END> , aqui actuaram <START:PESSOA> Maria João Pires <END> e <START:PESSOA> Bernardo Sassetti <END> , aqui se apresentaram os <START:PESSOA> Madredeus <END> e <START:PESSOA> GNR <END> , <START:PESSOA> Sérgio Godinho <END> e <START:PESSOA> Luís Represas <END> , <START:PESSOA> Jorge Palma <END> e <START:PESSOA> Mariza <END> .
+Os visitantes do <START:LOCAL> CCB <END> puderam ver <START:TEMPO> nestes anos <END> exposições de <START:PESSOA> Roy Lichtenstein <END> e <START:PESSOA> Frida Kahlo <END> , de <START:PESSOA> Robert Rauschenberg <END> e de <START:PESSOA> Paula Rêgo <END> , de <START:PESSOA> Antoni Tàpies <END> e de <START:PESSOA> Helena Almeida <END> , de <START:PESSOA> Júlio Pomar <END> e de <START:PESSOA> Sabine Hornig <END> , de <START:PESSOA> Candida Höfer <END> e de <START:PESSOA> Sebastião Salgado <END> , de <START:PESSOA> Aleksander Rodchenko <END> e de <START:PESSOA> Louise Bourgeois <END> .
+<START:TEMPO> Durante estes anos <END> de viragem <START:TEMPO> do século <END> , o <START:LOCAL> CCB <END> acolheu alguns dos maiores espectáculos apresentados em <START:LOCAL> Lisboa <END> , tornando-se um dos equipamentos culturais de referência do país e um parceiro crescentemente procurado por insituições culturais internacionais.
+O balanço <START:TEMPO> desta década e meia <END> de actividade praticamente ininterrupta (o <START:LOCAL> Centro <END> só fecha <START:TEMPO> no Dia de Natal <END> ) mede-se pela frequência diária de centenas de pessoas, que habitam os espaços de estudo e lazer do <START:LOCAL> CCB <END> , além dos muitos milhares que ferquentam as suas actividades.
+<START:TEMPO> Em 2006 <END> , <START:VALOR> 150.000 <END> pessoas assistiram a espectáculos, <START:VALOR> 200.000 <END> visitaram as exposições, <START:VALOR> 90.000 <END> frequentaram reuniões e congressos, <START:VALOR> 20.000 <END> crianças participaram em actividades de pedagogia e animação.
+É por isso que as comemorações dos <START:VALOR> 15 anos <END> de actividade do <START:ORGANIZACAO> CCB <END> , que decorrerão <START:TEMPO> ao longo do ano de 2008 <END> , vão ser especialmente orientadas para o público que fez do <START:LOCAL> CCB <END> um equipamento indipensável na vida cultural da cidade.
+Não editaremos álbuns auto-congratulatórios nem promoveremos grandes jantares de celebração; não lançaremos fogo de artifício nem nos envolveremos em extravagâncias de programação que estariam para lá da nossa dimensão e recursos.
+Investiremos tudo o que está ao nosso alcance para tornar a programação de espectáculos <START:TEMPO> de 2008 <END> mais acessível aos frequentadores do <START:ORGANIZACAO> CCB <END> .
+Assim, um conjunto de espectáculos programados para o <START:LOCAL> Grande Auditório <END> foi escolhido para integrar a série   <START:ACONTECIMENTO> CCB 15 Anos <END> , em que o leque de preços se situa em média <START:VALOR> 30% <END> abaixo dos preços normalmente praticados para espectáculos semelhantes, mantendo-se além disso os descontos habituais.
+Mais: nos casos em que isso seja tecnicamente possível, os lugares de <START:LOCAL> Galeria <END> (em pé, <START:TEMPO> por vezes <END> com visibilidade reduzida) serão postos à venda ao preço único de <START:VALOR> 5 EUR <END> (estes naturalmente sem desconto), permitindo que toda a gente tenha acesso aos espectáculos de maior atractividade para o público.
+As comemorações terão assim início já <START:TEMPO> em Dezembro <END> , com a apresentação da    <START:OBRA> Oratória de Natal <END>   de   <START:PESSOA> J. S. Bach <END>    pela <START:PESSOA> Akademie für Alte Musik <END> e o <START:PESSOA> RIAS Kammerchor <END> de <START:LOCAL> Berlim <END> , para a qual o preço dos bilhetes varia entre os <START:VALOR> 5 <END> ( <START:LOCAL> Galerias <END> ) e os <START:VALOR> 25 EUR <END> ( <START:LOCAL> 1ª Plateia <END> ); <START:TEMPO> em Janeiro <END> , a ópera visual <START:OBRA> Operação Orfeu <END> , apresentada pela companhia dinamarquesa <START:PESSOA> Hotel ProForma <END> , será também um espectáculo <START:ACONTECIMENTO> CCB 15 Anos <END> (bilhetes <START:VALOR> entre 15 e 20 EUR <END> ):     <START:ACONTECIMENTO> CCB 15 Anos <END> será também o ciclo de piano <START:ACONTECIMENTO> Beethoven 2008 <END> (cinco recitais com o preço único de <START:VALOR> 15 EUR <END> por concerto).
+E <START:TEMPO> em Fevereiro <END> haverá três espectáculos integrados nas comemorações : o concerto do quinteto de <START:PESSOA> Enrico Rava <END> , um dos maiores trompetistas de jazz da actualidade, oferecerá preços <START:VALOR> entre os 5 e os 20 EUR <END> ; as duas récitas da coreografia de <START:PESSOA> William Forsythe <END> <START:OBRA> Impressing the Czar <END> , pelo <START:PESSOA> Ballet Real da Flandres <END> , terão bilhetes <START:VALOR> entre 5 e 30 EUR <END> ; e a <START:ACONTECIMENTO> Carta Branca a Jorge Palma <END> , <START:TEMPO> no último dia do mês <END> , propõe entradas <START:VALOR> entre 5 e 20 EUR <END> .
+Mas a festa vai continuar <START:TEMPO> ao longo do ano de 2008 <END> .
+Cada edição do <START:OBRA> Programa de Actividades <END> assinalará com o selo <START:ACONTECIMENTO> CCB 15 Anos <END> os espectáculos integrados nesta oferta especial.
+E contamos com todos, nesta comemoração de uma data que deve ser pretexto para uma renovação da nossa ligação com o público que connosco habita, <START:TEMPO> todos os dias <END> , <START:TEMPO> de há 15 anos para cá <END>  , o  <START:LOCAL> Centro Cultural <END> de <START:LOCAL> Belém <END> .
+--DOCSTART--
+    
+ <START:OBRA> Mosteiro de Santa Cruz <END>        
+História    
+ A  <START:LOCAL> Igreja de Santa Cruz <END> de <START:LOCAL> Coimbra <END> foi fundada <START:TEMPO> em 1131 <END> por <START:PESSOA> D. Telo <END> ( <START:PESSOA> São Teotónio <END> ) e <START:VALOR> 11 <END> outros religiosos, que adotaram a regra dos <START:ABSTRACCAO> Cónegos Regrantes de Santo Agostinho <END>  .
+A nova <START:ORGANIZACAO> Igreja <END> recebeu muitos privilégios papais e doações dos primeiros <START:PESSOA> reis de Portugal <END>  , tornando-se a mais importante casa monástica do reino.
+Sua escola foi uma das melhores instituições de ensino do <START:OUTRO> Portugal <END> medieval , tendo uma grande biblioteca (agora na    <START:LOCAL> Biblioteca Pública Municipal <END> do   <START:LOCAL> Porto <END>  ) e um activo scriptorium.
+<START:TEMPO> Nos tempos <END> de <START:PESSOA> D. Afonso Henriques <END> , primeiro monarca português, o scriptorium de <START:ORGANIZACAO> Santa Cruz <END> foi usado como máquina de consolidação do poder real.
+A importância da <START:ORGANIZACAO> Igreja <END> é evidenciada pelo fato de que <START:PESSOA> D. Afonso Henriques <END> e seu sucessor, <START:PESSOA> D. Sancho I <END> , foram sepultados lá.
+Na <START:OUTRO> Idade Média <END> , o mais famoso estudante da <START:ORGANIZACAO> Igreja de Santa Cruz <END> foi <START:PESSOA> Fernando Martins de Bulhões <END> , o futuro  <START:PESSOA> Santo António <END> de <START:LOCAL> Lisboa <END> (ou  <START:PESSOA> Santo António <END> de <START:LOCAL> Pádua <END> ).
+<START:TEMPO> Em 1220 <END> , o religioso assiste à chegada à <START:LOCAL> Igreja <END> dos restos mortais de cinco frades franciscanos martirizados no <START:LOCAL> Marrocos <END> (os  <START:PESSOA> Mártires <END> do <START:LOCAL> Marrocos <END> ), e decide fazer-se missionário e partir de <START:LOCAL> Portugal <END> .
+<START:TEMPO> No início do século XVI <END> , o <START:PESSOA> rei D. Manuel I <END> ordena uma grande reforma, reconstruindo e redecorando a igreja e o mosteiro.
+<START:TEMPO> Nessa época <END> são transladados os restos de <START:PESSOA> Afonso Henriques <END> e <START:PESSOA> Sancho I <END> dos seus sarcófagos originais para novos túmulos decorados em estilo manuelino.
+<START:TEMPO> Entre 1530 e 1577 <END> funcionou uma imprensa no claustro.
+É possível que o poeta <START:PESSOA> Luís de Camões <END> tenha estudado em <START:ORGANIZACAO> Santa Cruz <END> , uma vez que um parente seu ( <START:PESSOA> D. Bento de Camões <END> ) era prior do mosteiro na época , e há evidências em sua poesia de uma estadia em <START:LOCAL> Coimbra <END> .
+--DOCSTART--
+    
+ A desforra de <START:ORGANIZACAO> Granada <END>        
+ <START:ORGANIZACAO> Granada <END> não enfrentou os <START:PESSOA> Reis Católicos <END> por razões de fé ou de religião.
+Pelo contrário, na corte de <START:PESSOA> Boabdil <END> conviviam muçulmanos, cristãos e judeus, e dessa convivência se fez a que era então, talvez, a mais brilhante civilização do seu tempo, no domínio da arquitectura, da física, da medicina, da matemática, da astrologia.
+Mas <START:LOCAL> Granada <END> foi sitiada e conquistada por isso mesmo e também pelo território e pela beleza demasiadamente humana do <START:LOCAL> Alhambra <END> .
+Quando <START:ORGANIZACAO> Granada <END> caiu e a reconquista cristã se impôs então a toda a <START:LOCAL> Península <END> , os dois reinos católicos, <START:PESSOA> Portugal <END> e <START:PESSOA> Espanha <END> , partiram à conquista do mundo e tornaram-se  <START:OUTRO> Impérios <END>  marítimos; do <START:LOCAL> Novo Mundo <END> e <START:LOCAL> África <END> ao extremo da <START:LOCAL> Ásia <END> .
+Inversamente, quando os vencidos de <START:ACONTECIMENTO> Granada <END> se retiraram para lá do <START:LOCAL> Estreito <END> , de onde tinham vindo <START:TEMPO> séculos antes <END> , nunca mais a civilização árabe e muçulmana recuperou sombra sequer do seu antigo esplendor e liderança.
+Por isso é que <START:TEMPO> o ano de 1492 <END> (também o da descoberta da <START:LOCAL> América <END> , por <START:PESSOA> Colombo <END> ) é um marco da história universal e um símbolo de derrota e descalabro que nunca mais foi esquecido e ultrapassado pelos crentes muçulmanos.
+Por mais inverosímil que nos possa parecer, <START:TEMPO> mais de cinco séculos passados <END>     e <START:TEMPO> quase quarenta anos depois <END>  do homem ter ido à lua, estamos perante uma nova guerra religiosa global, que é também uma guerra de civilizações.
+Quem disser que ela não existe, ou é ignorante ou diplomata --- em qualquer dos casos, perigoso <START:TEMPO> para os tempos <END> que correm.
+Estamos perante uma espécie de <START:ABSTRACCAO> Cruzadas <END> ao contrário, que o <START:ORGANIZACAO> Islão <END> lançou contra os «não crentes» --- sejam judeus, cristãos ou ateus.
+As <START:ACONTECIMENTO> Twin Towers <END> , o metro de   <START:LOCAL> Londres <END> , a estação de   <START:LOCAL> Atocha <END>   em   <START:LOCAL> Madrid <END> ou a histeria lançada contra os cartonistas dinamarqueses e contra a <START:ORGANIZACAO> Dinamarca <END> , são formas modernas de cruzadas travadas em nome de <START:PESSOA> Alá <END> (o <START:PESSOA> Misericordioso <END> ...) contra os valores em que nós, no <START:LOCAL> Ocidente <END> , acreditamos.
+<START:TEMPO> Cinco séculos passados <END> , o <START:ABSTRACCAO> Islão <END> tira a sua desforra de <START:ACONTECIMENTO> Granada <END> , através das suas duas únicas e demolidoras armas: o petróleo e o terror.
+Sim, eu sei: não é --- julga-se --- todo o <START:PESSOA> Islão <END> .
+Mas é o que conta, o que lidera os crentes, o que se escuta na rua e nos jornais, o que doutrina os terroristas, o que prepara a arma nuclear.
+Em todo o mundo muçulmano houve apenas um jornal, na <START:LOCAL> Jordânia <END> , que ousou escrever que pior que as caricaturas «blasfemas» para o <START:ABSTRACCAO> Islão <END> eram os terroristas blasfemos.
+Mas <START:TEMPO> no dia seguinte <END> o jornal pediu desculpas pelo que escrevera e o director foi despedido.
+É verdade também que a rua é incendiada a mando da <START:ORGANIZACAO> Síria <END> , do <START:ORGANIZACAO> Irão <END> ou da <START:ORGANIZACAO> Al-Qaeda <END> , e que há sempre uns palestinianos desocupados para dispararem rajadas de metralhadora para o ar com cara feroz e multidões em estado de histeria induzida, para queimar <START:LOCAL> Embaixadas <END> e bandeiras e ameaçar de morte todos os ocidentais a vista.
+É possível até que o grosso dos muçulmanos não pense assim, que não acredite numa leitura literal e medieval do <START:OBRA> Corão <END> e que não se reveja na intolerância nem no terror em nome de <START:PESSOA> Deus <END> que o clero radical ensina nas escolas corânicas e prega nas mesquitas.
+Mas, se assim é, não os escutamos porque eles têm medo: o terror começa dentro dos seus próprios países e sociedades.
+O medo é a outra face de uma moeda chamada liberdade.
+Onde não há liberdade, há medo; onde há medo, não há liberdade.
+É justamente isso que <START:TEMPO> hoje <END> nos distingue do <START:ABSTRACCAO> Islão <END> : nós temos a liberdade, eles têm o medo como sistema endémico de vida e como arma de arremesso contra «os infiéis».
+[...]    
+ E é pelo medo, também, que eles esperam ganhar esta batalha contra o <START:ORGANIZACAO> Ocidente <END> , destruindo o nosso amor à liberdade.
+Esperam que, aos poucos, sejamos obrigados a chegar ao ponto crucial em que a escolha terá de ser entre a vida ou o nosso modo de vida --- a liberdade, a democracia, a tolerância.
+Sem que isso possa representar qualquer desculpa para os autores materiais, as escutas telefónicas indiscriminadas, as prisões preventivas sem advogado, os interrogatórios secretos em prisões clandestinas, as leis de excepção, a tortura e <START:ACONTECIMENTO> Guantanamo <END> , tudo isso, tem a autoria moral dos radicais islâmicos e obedece a um plano concertado de implosão das democracias.
+É preciso ser muito forte, e preciso perceber, como <START:TEMPO> em 1939 <END> , que a liberdade é o mais absoluto dos nossos bens e o maior valor da nossa cultura e modo de vida, para ser capaz de lhes resistir.
+Mas é essencial resistir, porque a alternativa é o regresso à <START:OUTRO> Idade Media <END> e a barbárie.
+É por isso que o gesto dos <START:ORGANIZACAO> Comuns <END> , rejeitando a legislação de segurança interna proposta por <START:PESSOA> Tony Blair <END> , porque ela violava direitos e princípios em que se funda a democracia inglesa, é, apesar das consequências daí resultantes, o sinal de uma grande nação que não se rende nem ajoelha.
+Infelizmente, não foi o nosso caso.
+Pela mão do <START:PESSOA> ministro Freitas do Amaral <END> , e sem necessidade alguma, <START:ORGANIZACAO> Portugal <END> foi enxovalhado, coberto de vergonha e de cobardia, por um dos mais tristes textos políticos que já alguém escreveu.
+Devo dizer que não me espanta por ai além: a nossa «diplomacia» não tem feito mais nada  <START:TEMPO> nos últimos 25 anos <END>  que não rastejar perante os poderosos, em cada cena e em cada tempo: <START:ORGANIZACAO> Angola <END> , <START:ORGANIZACAO> Indonésia <END> (com a notável excepção de <START:PESSOA> Guterres <END> e <START:PESSOA> Sampaio <END> ), <START:ORGANIZACAO> Estados Unidos <END> e, agora, perante os países islâmicos.
+[...]        
+ <START:PESSOA> Miguel Sousa Tavares <END> -     Jornal "Expresso"    - 11.02.2006       
+
+  --DOCSTART--
+    
+<START:PESSOA> Coletivo <END> dinamarquês acusa <START:ORGANIZACAO> Fundação Bienal <END> de censura    
+<START:TEMPO> 16 de Outubro de 2006 <END>    
+Apresentada na  <START:ACONTECIMENTO> Bienal <END> de <START:LOCAL> Veneza <END> <START:TEMPO> em 2003 <END> , a obra " <START:OBRA> Guaraná Power <END> ", do coletivo dinamarquês <START:PESSOA> Superflex <END> , foi selecionada pela curadoria da  <START:ACONTECIMENTO> 27ª Bienal <END> de <START:LOCAL> São Paulo <END> mas teve sua exibição vetada pela <START:ORGANIZACAO> Fundação <END> realizadora da mostra.
+Tônico de sabor concentrado e propriedades energéticas, de grande sucesso na <START:LOCAL> Europa <END> , o <START:COISA> Guaraná Power <END> tem como função primeira a crítica ao monopólio do mercado e a suas conseqüências nas comunidades agricultoras.
+A partir de um estudo econômico da cidade de <START:LOCAL> Maués <END> , no <START:LOCAL> Amazonas <END> , detectou-se o impacto econômico da redução do preço das sementes de guaraná por parte das grandes indústrias.
+"Estabelecemos o valor de <START:VALOR> R$ 15 <END> para o quilo de sementes, enquanto as indústrias pagam <START:VALOR> R$ 7 <END> ", afirmou <START:PESSOA> Bjornstjerne Christiansen <END> , membro do <START:PESSOA> Superflex <END> , em entrevista à <START:PESSOA> Folha de São Paulo <END> .
+O projeto conta com o apoio da  <START:ORGANIZACAO> Secretaria de Desenvolvimento Sustentável <END> do <START:ORGANIZACAO> Governo <END> do <START:LOCAL> Estado do Amazonas <END> .
+Impedidos de apresentar a obra - e tendo suas páginas do catálogo da mostra cobertas por tarjas pretas -, os dinamarqueses distribuíram o <START:COISA> Guaraná Power <END> , sem rótulo, em vernissages na <START:LOCAL> Galeria Vermelho <END>  e <START:LOCAL> Instituto Tomie Ohtake <END> , além de pontos espalhados pela capital paulista.
+O coletivo <START:PESSOA> Superflex <END> já recebeu elogios do <START:PESSOA> Ministro da Cultura Gilberto Gil <END> <START:TEMPO> em junho deste ano <END> , ao apresentar no <START:LOCAL> Brasil <END> o projeto <START:OBRA> Free Beer <END> ("cerveja livre"), cerveja cuja fórmula é licenciada em <START:ABSTRACCAO> Creative Commons <END> e permite que qualquer pessoa interessada possa fabricá-la ou aprimorá-la.
+Na entrevista coletiva dos organizadores da <START:ACONTECIMENTO> Bienal <END> , o <START:PESSOA> presidente da Fundação Bienal <END> , <START:PESSOA> Manuel Francisco Pires da Costa <END> , optou por, além de responsabilizar a assessoria jurídica, emitir sua opinião pessoal acerca da obra polêmica: "Eu jamais interferi no mérito das obras selecionadas.
+Aliás, a acho de muito mau gosto e, se não julguei, estou julgando agora.
+Foi o departamento jurídico da <START:ORGANIZACAO> Bienal <END> quem informou que essa obra não estava de acordo com as regras da legislação brasileira".
+"O que eles sempre nos disseram é que isso [a referência à marca do guaraná <START:COISA> Antarctica <END> ] poderia ser um problema, mas o presidente nunca nos deu respostas claras.
+Nossas obras sempre envolvem negociação, mas com ele tivemos as portas fechadas.
+Se eles olhassem como ficou a lata [diferente da criação original], não haveria problema legal", afirmou <START:PESSOA> Jakob Fenger <END> , um dos membros do coletivo, em entrevista para a <START:ORGANIZACAO> Folha de São Paulo <END> , em matéria que informa ainda: "Por meio de sua assessoria, a <START:ORGANIZACAO> AmBev <END> [fabricante do guaraná <START:COISA> Antarctica <END> ] declarou não ver problema na obra.
+Diz não ter tido nenhum contato com o grupo".
+O <START:PESSOA> Superflex <END> ainda distribuiu à imprensa, <START:TEMPO> no dia <END> da coletiva, o documento " <START:OBRA> A obra de arte que os brasileiros não terão permissão de ver na Bienal <END> " .
+Nele, afirma-se que o " <START:PESSOA> presidente da Fundação Bienal <END>  censurou um trabalho com reconhecimento internacional para o público brasileiro", que, segundo o texto divulgado, teria sido recusado "por não ser considerada uma 'atividade artística'".
+A polêmica gerada pela <START:ORGANIZACAO> Fundação Bienal <END> fortaleceu a ação política do coletivo dinamarquês, tendo a censura gerado uma reação oposta à desejada.
+Foi grande o interesse público pelo modelo econômico e social do projeto <START:OBRA> Guaraná Power <END> -- baseado no colaborativismo do software livre -- e positiva a repercussão do tema, exatamente onde interessa: no país fornecedor da matéria-prima de uma das bebidas estrangeiras mais famosas no exterior.
+--DOCSTART--
+    
+ História protege <START:PESSOA> Briosa <END>        
+ CONIMBRICENSES VENCEU NA <START:LOCAL> FIGUEIRA DA FOZ <END> NAS DUAS ÚLTIMAS ÉPOCAS        
+ <START:ORGANIZACAO> Naval <END> e <START:ORGANIZACAO> Académica <END> não podem deixar <START:TEMPO> amanhã <END> de olhar para a tradição.
+É que a <START:PESSOA> Briosa <END> venceu sempre na <START:LOCAL> Figueira da Foz <END> ( <START:TEMPO> 2005/06 <END> : <START:VALOR> 1-0 <END> e <START:TEMPO> 2006/07 <END> : <START:VALOR> 1-0 <END> ) mas, por outro lado, a <START:PESSOA> Naval <END> também costuma brilhar em <START:LOCAL> Coimbra <END> -- <START:TEMPO> 2005/06 <END> : <START:VALOR> 2-2 <END> e <START:TEMPO> 2006/07 <END> : <START:VALOR> 2-1 <END> ) e, <START:TEMPO> neste momento <END> , até está mais bem posicionada na <START:ACONTECIMENTO> Liga <END> .
+<START:TEMPO> No ano passado <END> , <START:PESSOA> Joeano <END> marcou o golo do triunfo na <START:LOCAL> Figueira da Foz <END> , mas <START:PESSOA> Domingos <END> desvaloriza tudo isso.
+«A história nem sempre se repete e não há jogos iguais.
+Aliás, a <START:PESSOA> Naval <END> fez uma boa recuperação e vamos encontrar um adversário forte.» Para facilitar os índices de motivação, o técnico pede, na <START:LOCAL> Figueira da Foz <END> , «mais adeptos da <START:PESSOA> Académica <END> do que da <START:PESSOA> Naval <END> ».
+--DOCSTART--
+
+Tabaco: <START:ORGANIZACAO> Associação <END> lamenta exemplo de <START:PESSOA> presidente da ASAE <END> 
+O <START:PESSOA> presidente da Confederação Portuguesa para a Prevenção do Tabagismo <END>  ( <START:ORGANIZACAO> CPPT <END> ) considerou <START:TEMPO> hoje <END> «um exemplo lamentável» o facto de o <START:PESSOA> presidente da Confederação Portuguesa para a Prevenção do Tabagismo <END>  ter sido fotografado a fumar num casino depois da entrada em vigor da lei do <START:OBRA> Tabaco <END> .
+<START:PESSOA> António Nunes <END> , <START:PESSOA> presidente da Autoridade de Segurança Alimentar e Económica <END>  ( <START:ORGANIZACAO> ASAE <END> ), uma das entidades que irá fiscalizar a aplicação da lei que proibe o fumo em espaços fechados de utilização pública, foi fotografado pelo <START:PESSOA> Diário de Notícias <END> ( <START:PESSOA> DN <END> ) a fumar uma cigarrilha no  <START:LOCAL> Casino <END> do <START:LOCAL> Estoril <END> <START:TEMPO> às 02.30 da manhã <END> <START:TEMPO> do dia 01 de Janeiro <END> .
+Em explicações ao <START:ORGANIZACAO> DN <END> , <START:PESSOA> António Nunes <END> considerou que a nova lei «não proíbe expressamente o tabaco nos casinos e nas salas de jogos», justificando com a existência de um conflito de interesses com a lei do jogo, que contudo, não faz qualquer referência ao consumo de tabaco.
+No entanto, um parecer da <START:ORGANIZACAO> Direcção Geral de Saúde <END> a que a <START:ORGANIZACAO> Lusa <END> teve acesso <START:TEMPO> sexta-feira <END> indica que os casinos e salas de jogo «sendo locais fechados não podem deixar de se incluir no âmbito da aplicação a lei», além de estarem abrangidos na lei por «serem locais de trabalho».
+«Trata-se de uma daquelas situações inoportunas e um exemplo lamentável que nos mostra que estamos em face de uma dependência grave», disse à <START:ORGANIZACAO> Lusa <END> o <START:PESSOA> presidente da Confederação Portuguesa para a Prevenção do Tabagismo <END> , <START:PESSOA> Luís Rebelo <END> .
+<START:PESSOA> Luís Rebelo <END> desvalorizou contudo o impacto desta situação na aplicação da nova lei e atribuiu a atitude de <START:PESSOA> António Nunes <END> a «um automatismo» inconsciente.
+Sobre as dúvidas manifestadas pelo máximo responsável da <START:ORGANIZACAO> ASAE <END> relativamente ao âmbito de aplicação da nova lei, <START:PESSOA> Luís Rebelo <END> considerou que a legislação «é clara» quanto à proibição de fumar nos casinos e salas de jogos.
+«Não pode haver dúvidas quanto à aplicação da lei sobretudo ao nível das entidades responsáveis pela sua fiscalização», disse.
+Sobre <START:TEMPO> os primeiros dias <END> da vigência da proibição de fumar em espaços de uso colectivo fechados, <START:PESSOA> Luís Rebelo <END> considerou que a lei está a ter «uma óptima» aplicação com «a generalidade dos fumadores a compreender a proibição».
+A lei do <START:OBRA> Tabaco <END> , que proíbe o fumo nos serviços da administração pública, restaurantes, bares, discotecas ou centros comerciais, entrou em vigor <START:TEMPO> às 00:00 <END> <START:TEMPO> do dia 01 de Janeiro <END> .
+A <START:ORGANIZACAO> Lusa <END> tentou contactar o <START:PESSOA> porta-voz da ASAE <END>  para obter esclarecimentos adicionais mas tal foi impossível <START:TEMPO> até ao momento <END> .
+--DOCSTART--
+    
+  <START:ORGANIZACAO> Associação Académica <END> de <START:LOCAL> Coimbra <END>        
+ A  <START:ORGANIZACAO> Associação Académica <END> de <START:LOCAL> Coimbra <END> ( <START:ORGANIZACAO> AAC <END> ), fundada <START:TEMPO> a 3 de Novembro de 1887 <END> , é a mais antiga associação de estudantes de <START:LOCAL> Portugal <END> .
+Representa os <START:VALOR> cerca de 20 000 <END> estudantes da  <START:ORGANIZACAO> Universidade <END> de <START:LOCAL> Coimbra <END> , que são automaticamente considerados seus sócios quando se encontrem inscritos nesta universidade.
+A <START:ORGANIZACAO> AAC <END> alberga uma série de secções culturais e desportivas.
+Entre as secções culturais pontificam, o <START:ORGANIZACAO> Centro de Estudos Cinematográficos <END> ( <START:ORGANIZACAO> CEC <END> ) que realiza <START:TEMPO> anualmente <END> o    Festival "   <START:ACONTECIMENTO> Caminhos do Cinema Português <END>   "  , a <START:ORGANIZACAO> Rádio Universidade de Coimbra <END> ( <START:ORGANIZACAO> RUC <END> ), a <START:ORGANIZACAO> Secção de Jornalismo <END> (que edita o jornal universitário " <START:COISA> A Cabra <END> "), a secção de fado, o  Grupo de folclore e etnografia  ( <START:PESSOA> GEFAC <END> ) e os grupos de teatro ( <START:PESSOA> TEUC <END> e <START:PESSOA> CITAC <END> ).
+As secções desportivas abrangem um vasto leque de desportos, tais como o futebol, andebol, basquetebol, rugby, conoagem, natação, voleibol, ténis, artes marciais e xadrez, entre outros.
+A " <START:PESSOA> Académica <END> " é assim o "clube" mais eclético do pais, uma vez que "pratica" o maior número de modalidades.
+Também referido como " <START:ABSTRACCAO> Académica <END> ", o clube de futebol profissional mais conhecido de <START:LOCAL> Coimbra <END> , de seu verdadeiro nome <START:ABSTRACCAO> Associação Académica de Coimbra - Organismo Autónomo de Futebol <END> ( <START:ABSTRACCAO> AAC-OAF <END> ), é considerado o herdeiro da secção de futebol da <START:ORGANIZACAO> AAC <END> (que se mantém na pratica amadora), mas é <START:TEMPO> hoje <END> um clube independente, cuja ligação com a <START:ORGANIZACAO> AAC <END> é cada vez mais ténue.
+A <START:ORGANIZACAO> AAC <END> é dirigida pela <START:ORGANIZACAO> Direcção Geral <END> ( <START:ORGANIZACAO> DG <END> ), composta por estudantes, e eleita <START:TEMPO> anualmente <END> <START:TEMPO> entre Novembro e Dezembro <END> em eleições abertas a todos os sócios, tanto estudantes como os sócios seccionistas.
+À <START:ORGANIZACAO> DG <END> compete a administração da <START:ORGANIZACAO> AAC <END> bem como a representação política dos estudantes.
+Em termos políticos, é ainda de referir a importância das <START:ACONTECIMENTO> Assembleias Magnas <END> , assembleias sobretudo de discussão da política da <START:ORGANIZACAO> Academia <END> , abertas a todos os sócios, cujas decisões têm de ser obrigatoriamente cumpridas, independentemente da opinião da <START:ORGANIZACAO> DG <END> .
+Este poder decisório da <START:ORGANIZACAO> Assembleia Magna <END> torna-a no palco de discussões acesas, sobretudo entre os estudantes politizados.
+No passado recente, tem havido no mínimo <START:VALOR> 5-6 <END> <START:ACONTECIMENTO> Assembleias Magnas <END> <START:TEMPO> por ano <END> , com participação oscilante, mas um mínimo de <START:VALOR> cerca de 200 <END> sócios.
+Infelizmente, a falta de interesse generalizado por estas questões na nossa sociedade, particularmente nas faixas etárias mais jovens, faz-se reflectir na fraca participação das <START:ACONTECIMENTO> Assembleias Magnas <END> [carece de fontes?].
+No entanto, a <START:ORGANIZACAO> AAC <END> continua a lutar para pautar a política educativa do <START:ABSTRACCAO> Ensino Superior <END> em <START:LOCAL> Portugal <END> [carece de fontes?].
+O actual edifício da <START:ORGANIZACAO> AAC <END> foi inaugurado <START:TEMPO> em 1961 <END> e alberga praticamente todas as secções da <START:ORGANIZACAO> AAC <END> , estando integrado num quarteirão que inclui ainda uma sala de espectáculos ( <START:LOCAL> Teatro Académico de Gil Vicente <END> ) e um complexo de cantinas.
 --DOCSTART--
     
  Juventude em <START:LOCAL> Durban <END>        
@@ -129,299 +312,34 @@ Junto com ele veio a maga alemã <START:PESSOA> Miss Jaeger <END> , que passou a 
 O encontro não foi muito amigável, dados os graves desequilíbrios psíquico e espiritual que <START:PESSOA> Crowley <END> sofria e --- apesar disso --- ensinava.
 --DOCSTART--
 
-Bibliografia de <START:PESSOA> Censurados <END>
-Os <START:PESSOA> Censurados <END> nasceram em <START:LOCAL> Lisboa <END> " <START:TEMPO> no ano de 1988 <END> , pelo antigo vocalista da banda <START:PESSOA> Ku de Judas <END> , <START:PESSOA> João Ribas <END> , juntando-se-lhe <START:PESSOA> Orlando Cohen <END> , o ex-membro dos <START:PESSOA> Peste &amp; Sida <END> , <START:PESSOA> Samuel Palitos <END> e ainda <START:PESSOA> Fred Valsassina <END> .
-Os <START:PESSOA> Censurados <END> começaram por tocar ao vivo.
-Muito.
-As letras, em português, eram simples e directas, refrões fortes que traduziam o sentimento da juventude <START:TEMPO> da era Cavaquista <END> .
-O primeiro registo em vinil, na compilação " <START:OBRA> Feedback <END> " incluiu os temas " <START:OBRA> Senhores Politicos <END> ", <START:OBRA> Não Vales Nada <END> " e " <START:OBRA> Está a andar de Mota <END> " (um instrumental).
-" <START:OBRA> Tu ò Bófia <END> ", " <START:OBRA> Não Vales Nada <END> ", " <START:OBRA> Angústia <END> ", " <START:OBRA> Senhores Politicos <END> " eram temas fortíssimos que foram passando de cassete em cassete e eram entoados em coro nos concertos muito antes do lançamento do álbum " <START:OBRA> Censurados <END> " <START:TEMPO> 1990 <END> .
-Este disco é um album histórico que foi aclamado pela mais importante fanzine dedicada ao <START:ABSTRACCAO> Punk <END> e <START:ABSTRACCAO> Hardore <END> "na altura, a <START:COISA> Maximum Rockn'Roll <END> ( <START:LOCAL> EUA <END> ) apesar das letras em português, o que mostra a qualidade das composições e sobretudo das prestações dos músicos.
-<START:TEMPO> Em 1991 <END> editam o <START:VALOR> 2º <END>  album " <START:OBRA> Confusão <END> " e passam <START:TEMPO> os anos seguintes <END> na estrada.
-<START:TEMPO> Em 1993 <END> sai o " <START:OBRA> Sopa <END> " com o single de mesmo nome e uma participação de <START:PESSOA> Jorge Palma <END> na música " <START:OBRA> Estou agarrado a ti <END> ".
-<START:TEMPO> O ano de 1994 <END> é <START:TEMPO> o ano <END> da despedida, mas <START:TEMPO> antes <END> participam no tributo a <START:PESSOA> Zeca Afonso <END> , " <START:OBRA> Filhos da Madrugada <END> " com a reedição do tema " <START:OBRA> O que faz falta <END> ".
-<START:TEMPO> Em 1998 <END> a editora " <START:ORGANIZACAO> El Tatu <END> " de <START:PESSOA> Tim <END> reedita os albuns " <START:OBRA> Censurados <END> " e " <START:OBRA> Sopa <END> ".
-<START:TEMPO> Em 1999 <END> os <START:PESSOA> Censurados <END> reaparecem, para rejubilo dos fãns, participando no tributo de <START:PESSOA> Xutos &amp; Pontapés <END> , " <START:OBRA> XX Anos XX Bandas <END> ".
-Participaram na tourné de promoção desse disco com os <START:PESSOA> Xutos <END> , mas ao contrário do que se esperava os <START:PESSOA> Censurados <END> ficaram por aí, não voltando nunca mais.
-<START:TEMPO> Em 2006 <END> é lançado a biografia da banda, " <START:OBRA> Censurados Até Morrer <END> ", escrita por <START:PESSOA> Augusto Figueira <END> e <START:PESSOA> Renato Conteiro <END> .
---DOCSTART--
-    
-<START:PESSOA> Coletivo <END> dinamarquês acusa <START:ORGANIZACAO> Fundação Bienal <END> de censura    
-<START:TEMPO> 16 de Outubro de 2006 <END>    
-Apresentada na  <START:ACONTECIMENTO> Bienal <END> de <START:LOCAL> Veneza <END> <START:TEMPO> em 2003 <END> , a obra " <START:OBRA> Guaraná Power <END> ", do coletivo dinamarquês <START:PESSOA> Superflex <END> , foi selecionada pela curadoria da  <START:ACONTECIMENTO> 27ª Bienal <END> de <START:LOCAL> São Paulo <END> mas teve sua exibição vetada pela <START:ORGANIZACAO> Fundação <END> realizadora da mostra.
-Tônico de sabor concentrado e propriedades energéticas, de grande sucesso na <START:LOCAL> Europa <END> , o <START:COISA> Guaraná Power <END> tem como função primeira a crítica ao monopólio do mercado e a suas conseqüências nas comunidades agricultoras.
-A partir de um estudo econômico da cidade de <START:LOCAL> Maués <END> , no <START:LOCAL> Amazonas <END> , detectou-se o impacto econômico da redução do preço das sementes de guaraná por parte das grandes indústrias.
-"Estabelecemos o valor de <START:VALOR> R$ 15 <END> para o quilo de sementes, enquanto as indústrias pagam <START:VALOR> R$ 7 <END> ", afirmou <START:PESSOA> Bjornstjerne Christiansen <END> , membro do <START:PESSOA> Superflex <END> , em entrevista à <START:PESSOA> Folha de São Paulo <END> .
-O projeto conta com o apoio da  <START:ORGANIZACAO> Secretaria de Desenvolvimento Sustentável <END> do <START:ORGANIZACAO> Governo <END> do <START:LOCAL> Estado do Amazonas <END> .
-Impedidos de apresentar a obra - e tendo suas páginas do catálogo da mostra cobertas por tarjas pretas -, os dinamarqueses distribuíram o <START:COISA> Guaraná Power <END> , sem rótulo, em vernissages na <START:LOCAL> Galeria Vermelho <END>  e <START:LOCAL> Instituto Tomie Ohtake <END> , além de pontos espalhados pela capital paulista.
-O coletivo <START:PESSOA> Superflex <END> já recebeu elogios do <START:PESSOA> Ministro da Cultura Gilberto Gil <END> <START:TEMPO> em junho deste ano <END> , ao apresentar no <START:LOCAL> Brasil <END> o projeto <START:OBRA> Free Beer <END> ("cerveja livre"), cerveja cuja fórmula é licenciada em <START:ABSTRACCAO> Creative Commons <END> e permite que qualquer pessoa interessada possa fabricá-la ou aprimorá-la.
-Na entrevista coletiva dos organizadores da <START:ACONTECIMENTO> Bienal <END> , o <START:PESSOA> presidente da Fundação Bienal <END> , <START:PESSOA> Manuel Francisco Pires da Costa <END> , optou por, além de responsabilizar a assessoria jurídica, emitir sua opinião pessoal acerca da obra polêmica: "Eu jamais interferi no mérito das obras selecionadas.
-Aliás, a acho de muito mau gosto e, se não julguei, estou julgando agora.
-Foi o departamento jurídico da <START:ORGANIZACAO> Bienal <END> quem informou que essa obra não estava de acordo com as regras da legislação brasileira".
-"O que eles sempre nos disseram é que isso [a referência à marca do guaraná <START:COISA> Antarctica <END> ] poderia ser um problema, mas o presidente nunca nos deu respostas claras.
-Nossas obras sempre envolvem negociação, mas com ele tivemos as portas fechadas.
-Se eles olhassem como ficou a lata [diferente da criação original], não haveria problema legal", afirmou <START:PESSOA> Jakob Fenger <END> , um dos membros do coletivo, em entrevista para a <START:ORGANIZACAO> Folha de São Paulo <END> , em matéria que informa ainda: "Por meio de sua assessoria, a <START:ORGANIZACAO> AmBev <END> [fabricante do guaraná <START:COISA> Antarctica <END> ] declarou não ver problema na obra.
-Diz não ter tido nenhum contato com o grupo".
-O <START:PESSOA> Superflex <END> ainda distribuiu à imprensa, <START:TEMPO> no dia <END> da coletiva, o documento " <START:OBRA> A obra de arte que os brasileiros não terão permissão de ver na Bienal <END> " .
-Nele, afirma-se que o " <START:PESSOA> presidente da Fundação Bienal <END>  censurou um trabalho com reconhecimento internacional para o público brasileiro", que, segundo o texto divulgado, teria sido recusado "por não ser considerada uma 'atividade artística'".
-A polêmica gerada pela <START:ORGANIZACAO> Fundação Bienal <END> fortaleceu a ação política do coletivo dinamarquês, tendo a censura gerado uma reação oposta à desejada.
-Foi grande o interesse público pelo modelo econômico e social do projeto <START:OBRA> Guaraná Power <END> -- baseado no colaborativismo do software livre -- e positiva a repercussão do tema, exatamente onde interessa: no país fornecedor da matéria-prima de uma das bebidas estrangeiras mais famosas no exterior.
---DOCSTART--
-    
- « PolivalênciaVacas - Para o <START:ORGANIZACAO> BCE <END> somos vacas!!
-Para o <START:ORGANIZACAO> Banco Central Europeu <END> somos gado!!
-Os politicos comprados por <START:ORGANIZACAO> Bruxelas <END> gerem as manadas nacionais.
-Se somos mais caros do que produzimos, mais vale abater.
-Esta é a politica de saude deste admiravel mundo novo.
-- -    
- Fui <START:TEMPO> ontem <END> ( <START:TEMPO> terça <END> ) às urgencias pediátricas de cascais com a minmha filhiha de <START:VALOR> 4 anos <END> e ...        
- "Vai ter que voltar, porque só funciona <START:TEMPO> das 08h00 às 09h00 <END> "        
-Desculpem??
-Que M... é esta??!
-Que grande M... é esta??!
-Este é o país real, mas a situação é surreal.
-Não aconteceu com um amigo, conhecido, ou familiar.
-Aconteceu COMIGO!!
-Em primeira mão.
-Que é que eles querem?
-Vamos reagir eficaz e eficientemente.
-1º - Assinar a petição contra o desmembramento, só possivel pela cegueira provocada pela rentabilidade que enche os bolsos de alguns e lixa todos, dos cuidados INDISPENSAVEIS de saude em <START:LOCAL> Portugal <END> .
-Petição contra esta abominavel realidade    
- 2º - Arranjar uma petição de cidadãos a exigir a extinção do <START:ORGANIZACAO> BCE <END> .
-Quero lá saber se é impossível, retrógrado, ou excessivo.
-Eles que se cuidem.
-Tem que ser possível domesticá-los, e se não for, exterminá-los.
-Que se vão encher para outro planeta.
-Quem paga os ordenados exorbitantes que eles ganham?
-Nós!!
-Para quê!??
-Só que não somos gado.
-Somos cidadão e temos que nos saber fazer respeitar.
-Portanto, toca a fazer esta petição, para os por em sentido e sentirem cagufa no rabinho!
---DOCSTART--
-
-Questões <START:TEMPO> Frequentemente <END> Perguntadas - Frequently Asked Questions (FAQ)
-<START:ORGANIZACAO> Instituto Brasileiro de Advocacia Pública <END>
-Questões <START:TEMPO> frequentemente <END> perguntadas (FAQ)
-(Atenção: página em construção, atualizada <START:TEMPO> até 28 de abril de 2000 <END> .
-Algumas respostas ainda não foram redigidas.
-Participe desta construção, enviando outras perguntas que ache pertinentes, via e-mail - ibap@ibap.org ).
-1 - APOSENTADOS/AS
-2 - ESTAGIÁRIOS/AS
-3 - ADVOGADOS/AS PÚBLICOS/AS EM ATIVIDADE
-4 - ESTRUTURA ORGANIZACIONAL DO <START:ORGANIZACAO> IBAP <END>
-5 - ATIVIDADES DO <START:ORGANIZACAO> IBAP <END> VIA  <START:OUTRO> INTERNET <END>
-6 - PUBLICAÇÕES DO <START:ORGANIZACAO> IBAP <END>
-7 - EVENTOS REALIZADOS/APOIADOS PELO <START:ORGANIZACAO> IBAP <END>
-8 - <START:ORGANIZACAO> IBAP <END> EM AÇÃO: NOSSAS LUTAS E CAMPANHAS
-1 - APOSENTADOS/AS
-1.1.
-Já estou aposentado/a.
-Posso associar-me ao <START:ORGANIZACAO> IBAP <END> ?
-Sim, desde que tenha se aposentado na condição de  <START:PESSOA> Advogado/a Público/a <END> .
-1.2.
-Posso continuar associado/a mesmo quando me aposentar?
-Sim.
-O associado não perde essa condição no caso de aposentaria (art.
-4, inc. IV, do <START:OBRA> Estatuto Social <END> ).
-Lembramos que diversos associados, inclusive integrantes de nossa diretoria, encontram-se aposentados.
-1.3.
-Associados aposentados pagam mensalidades?
-Sim.
-A situação do associado aposentado não difere em nada da situação do associado em exercício.
-Pode ele candidatar-se a cargo de diretor, participar de todos os eventos, escrever nas publicações do <START:ORGANIZACAO> IBAP <END> , participar da <START:OUTRO> Lista de Debates da Internet <END> , enfim, exercer plenamente os seus direitos associativos.
-Eventualmente, se o associado aposentado estiver enfrentando dificuldades financeiras, poderá requerer a isenção temporária do pagamento de mensalidades à  <START:ORGANIZACAO> Coordenadoria Financeira <END> do <START:ORGANIZACAO> IBAP <END> .
-2 - ESTAGIÁRIOS/AS
-2.1.
-Estagiário/a de <START:ABSTRACCAO> Direito <END> pode associar-se?
-Sim.
-O art.
-3, inciso II, letra "b", do  <START:OBRA> Estatuto Social <END> do <START:ORGANIZACAO> IBAP <END> , estabelece que os acadêmicos de <START:ABSTRACCAO> Direito <END> em estágio nos órgãos de <START:ABSTRACCAO> Advocacia Pública <END> , enquanto perdurar tal situação, podem integrar o <START:ORGANIZACAO> IBAP <END> , na qualidade de associados estagiários.
-2.2.
-Estagiários/as pagam mensalidades?
-Não.
-Não obstante inexista a previsão de isenção no  <START:OBRA> Estatuto Social <END> do <START:ORGANIZACAO> IBAP <END> , a  <START:ORGANIZACAO> Coordenadoria Geral <END> do <START:ORGANIZACAO> IBAP <END> , acolhendo a parecer de sua <START:ORGANIZACAO> Coordenadoria Financeira <END> , tem adotado <START:TEMPO> desde agosto de 1996 <END> o entendimento de que os acadêmicos de <START:ABSTRACCAO> Direito <END> não devem pagar mensalidades, visto que não podem votar ou se candidatar a cargo de membro da <START:ORGANIZACAO> Coordenadoria Geral <END> ou do <START:ORGANIZACAO> Conselho Assessor <END> (art.
-11 do <START:OBRA> Estatuto Social <END> ).
-2.3.
-Existem estagiários a serviço do próprio <START:ORGANIZACAO> IBAP <END> ?
-Atualmente, não ( <START:TEMPO> abril/2000 <END> ).
-Todavia, nada impede a alteração deste quadro, na hipótese do crescimento da atuação do <START:ORGANIZACAO> IBAP <END> em juízo justificar a contratação de um corpo de estagiários.
-3 - ADVOGADOS/AS PÚBLICOS/AS EM ATIVIDADE
-3.1.
-Qual é o conceito de " <START:ABSTRACCAO> Advogado Público <END> " adotado pelo <START:ORGANIZACAO> IBAP <END> ?
-São <START:PESSOA> Advogados Públicos <END> , para efeito de inscrição nos quadros do <START:ORGANIZACAO> IBAP <END> os integrantes da <START:ORGANIZACAO> Advocacia-Geral da União <END> , da <START:ORGANIZACAO> Procuradoria da Fazenda Nacional <END> , da <START:ORGANIZACAO> Defensoria Pública <END> e das  <START:ORGANIZACAO> Procuradorias <END> e <START:ORGANIZACAO> Consultorias Jurídicas <END>  dos <START:ORGANIZACAO> Estados <END> , do <START:ORGANIZACAO> Distrito Federal <END> , dos <START:ORGANIZACAO> Municípios <END> e das respectivas entidades da administração indireta (autarquias, sociedades de economia mista e empresas públicas) e fundacional (Art.
-3°, § 1°, da <START:OBRA> Lei Federal 8.906 <END> , de <START:TEMPO> 4 de julho de 1994 <END> - <START:OBRA> Estatuto da Advocacia <END> e a  <START:ORGANIZACAO> Ordem dos Advogados <END> do <START:LOCAL> Brasil <END> ).
-3.2.
-Qual é o valor das mensalidades?
-<START:TEMPO> Desde o dia 1° de junho de 1999 <END> o valor da mensalidade é de <START:VALOR> R$ 20,00 <END> (vinte reais).
-Nos débitos automáticos e boletos é acrescido o valor de <START:VALOR> R$ 2,00 <END> (dois reais), relativo a taxa bancária.
-4 - ESTRUTURA ORGANIZACIONAL DO <START:ORGANIZACAO> IBAP <END>
-4.1.
-Onde é a sede do <START:ORGANIZACAO> IBAP <END> ?
-A sede do <START:ORGANIZACAO> Instituto Brasileiro de Advocacia Pública <END> é na <START:LOCAL> Avenida da Liberdade <END> , 21 - 10° Andar - Salas 1008 a 1012 - <START:LOCAL> Bairro da Liberdade <END> - CEP 01503-000 - <START:LOCAL> São Paulo <END> / <START:LOCAL> SP <END> .
-4.2.
-Os <START:PESSOA> diretores do IBAP <END>  têm afastamento da carreira para o exercício de seu mandato?
-Não.
-Todos os <START:PESSOA> diretores do IBAP <END>  exercem as suas atividades estatutárias sem prejuízo de suas funções como <START:PESSOA> Advogados Públicos <END> .
-4.3.
-Quem é o <START:PESSOA> presidente do IBAP <END> ?
-A  <START:PESSOA> Diretoria <END> do <START:ORGANIZACAO> IBAP <END> tem estrutura colegiada.
-A <START:PESSOA> Diretoria Nacional <END> é formada por oito coordenadores gerais e um conselho assessor formado por seis associados eleitos em <START:ACONTECIMENTO> Assembléia Geral <END> .
-4.4.
-Qual é a destinação da verba obtida com o pagamento das mensalidades?
-Os associados regulares do <START:ORGANIZACAO> IBAP <END> contribuem <START:TEMPO> mensalmente <END> com o pagamento de taxa de <START:VALOR> R$22,00 <END> (vinte e dois reais).
-Desse total, <START:VALOR> R$2,00 <END> (dois reais) constituem taxa bancária pelo serviço de confecção de boletos ou de débito automático em conta.
-A verba destina-se ao pagamento de locação da sede social do <START:ORGANIZACAO> IBAP <END> , salários de dois funcionários, despesas com telefone, hospedagem de home-page, acesso a provedor de <START:OUTRO> Internet <END> , impressão de livros, revistas e boletins, organização de congressos e outras despesas diretamente relacionadas com os objetivos estatutários.
-4.5.
-Onde se acha registrado o  <START:OBRA> Estatuto Social <END> do <START:ORGANIZACAO> IBAP <END> ?
-O  <START:OBRA> Estatuto Social <END> do <START:ORGANIZACAO> IBAP <END> está registrado no Estatuto Social do IBAP.
-4.6.
-Como posso obter cópia do  <START:OBRA> Estatuto Social <END> do <START:ORGANIZACAO> IBAP <END> ?
-A íntegra do  <START:OBRA> Estatuto Social <END> do <START:ORGANIZACAO> IBAP <END> encontra-se disponível nesta home-page: http://www.ibap.org/estatuto.htm
-5 - ATIVIDADES DO <START:ORGANIZACAO> IBAP <END> VIA INTERNET
-5.1.
-Preciso estar conectado/a à Internet   para participar do <START:ORGANIZACAO> IBAP <END> ?
-Não obstante seja intensa a atividade do <START:ORGANIZACAO> IBAP <END> desenvolvida no âmbito da Internet   (home-page, conferência eletrônica e lista de debates), <START:VALOR> aproximadamente 50% <END> dos associados não tem acesso a essa facilidade.
-Não há absolutamente nenhuma necessidade de conectar-se à  Internet   para participar das atividades desenvolvidas pelo <START:ORGANIZACAO> IBAP <END> .
-5.2.
-O que é a  <START:COISA> Lista de Debates <END> do <START:ORGANIZACAO> IBAP <END> ?
-Listas de debates funcionam como um jornal onde todos podem ler e escrever sobre determinado assunto.
-Os associados inscritos na lista de debates podem enviar através de um único e-mail qualquer mensagem a centenas de outros associados também inscritos na mesma lista.
-Eventualmente, o associado poderá participar da lista apenas como leitor.
-5.3.
-Como faço para participar da  <START:COISA> Lista de Debates <END> do <START:ORGANIZACAO> IBAP <END> ?
-As informações básicas para acesso às listas encontram-se em nossa home-page: http://www.ibap.org/listas/insc_listas.htm
-6 - PUBLICAÇÕES DO <START:ORGANIZACAO> IBAP <END>
-6.1.
-Quais são as publicações editadas pelo <START:ORGANIZACAO> IBAP <END> ?
-O <START:ORGANIZACAO> IBAP <END> já editou três volumes da <START:COISA> Série Advocacia Pública e Sociedade <END> : " <START:OBRA> Direitos da Pessoa Portadora de Deficiência <END> ", " <START:OBRA> Primeiro Congresso Brasileiro de Advocacia Pública <END> " e " <START:OBRA> Temas de Direito Ambiental e Urbanístico <END> ", todos pela <START:ORGANIZACAO> Editora Max Limonad <END> e distribuídos gratuitamente aos associados regulares.
-<START:TEMPO> No mês de maio de 2000 <END> estará sendo lançado o livro " <START:OBRA> Temas de Direito Constitucional - Estudos em Homenagem ao Advogado Público André Franco Montoro <END> ", pela <START:ORGANIZACAO> Editora Esplanada <END> , também com distribuição gratuita para associados regulares.
-Além de livros, o <START:ORGANIZACAO> IBAP <END> também publica <START:TEMPO> trimestralmente <END> a <START:OBRA> Revista Advocacia Pública <END> que, <START:TEMPO> no mês de abril de 2000 <END> já se encontrava em sua nona edição.
-<START:TEMPO> A partir de maio de 2000 <END> estará sendo lançada a <START:OBRA> Revista de Direitos Difusos <END> , com <START:VALOR> mais de 100 <END> páginas e periodicidade bimestral, distribuída também gratuitamente aos associados regulares.
-O <START:ORGANIZACAO> IBAP <END> também publicou a <START:OBRA> Série Advocacia Pública em Debate <END> , consiscia Internet.
-6.2.
-Como faço para publicar meu artigo numa edição do <START:ORGANIZACAO> IBAP <END> ?
-Todas as colaborações de associados são submetidas a exame prévio da <START:PESSOA> Comissão Editorial <END> .
-Os associados poderão remeter sua colaboração, em arquivo word, via e-mail (ibap@ibap.org) ou diretamente, na sede do <START:ORGANIZACAO> IBAP <END> , em disquete.
-7 - EVENTOS REALIZADOS/APOIADOS PELO <START:ORGANIZACAO> IBAP <END>
-7.1.
-Que eventos já realizou o <START:ORGANIZACAO> IBAP <END> <START:TEMPO> até hoje <END> ?
-Estamos arquivando em nossa home-page todos os eventos já realizados.
-Neste endereço, você poderá conhecer alguns deles: <START:ACONTECIMENTO> Cursos <END> , <START:ACONTECIMENTO> Seminários <END> e <START:ACONTECIMENTO> Coongressos <END> já realizados
-7.2.
-Quais eventos planeja o <START:ORGANIZACAO> IBAP <END> realizar?
-Estamos inserindo em nossa home-page a programação dos próximos eventos.
-Aqui, você poderá obter algumas informações: <START:ACONTECIMENTO> Próximos Cursos <END> , Semiinários  e <START:ACONTECIMENTO> Congressos <END>
-7.3.
-O <START:ORGANIZACAO> IBAP <END> realiza eventos fora do <START:LOCAL> Estado de São Paulo <END> ?
-Os eventos promovidos pelo <START:ORGANIZACAO> IBAP <END> são realizados em todo o território nacional e não apenas na cidade onde se localiza sua sede social.
-O <START:ACONTECIMENTO> I Congresso Brasileiro de Advocacia Pública <END> foi promovido <START:TEMPO> em 1997 <END> na cidade de <START:LOCAL> Campos do Jordão <END> / <START:LOCAL> SP <END> .
-O <START:ACONTECIMENTO> II Congresso <END> foi promovido <START:TEMPO> em 1998 <END> em <START:LOCAL> São Lourenço <END> / <START:LOCAL> MG <END> .
-O <START:ACONTECIMENTO> III Congresso <END> foi promovido <START:TEMPO> em junho de 1999 <END> em <START:LOCAL> Salvador <END> / <START:LOCAL> BA <END> .
-O <START:ACONTECIMENTO> IV Congresso Brasileiro de Advocacia Pública <END> será realizado <START:TEMPO> em 2000 <END> , em <START:LOCAL> Teresópolis <END> , no <START:LOCAL> Estado do Rio de Janeiro <END> .
-As atividades desenvolvidas nos diversos <START:LOCAL> Estados Federados <END> são organizadas pelos <START:PESSOA> Coordenadores Regionais <END> .
-8 - <START:ORGANIZACAO> IBAP <END> EM AÇÃO: NOSSAS LUTAS E CAMPANHAS
-8.1.
-O <START:ORGANIZACAO> IBAP <END> é vinculado a algum partido político?
-R: Não.
-O <START:ORGANIZACAO> IBAP <END> não tem vinculação partidária alguma.
-Não há, porém, que se confundir apartidarismo político com neutralidade política.
-Para a implementação dos princípios fundamentais e objetivos estatutários, o <START:ORGANIZACAO> IBAP <END> sempre haverá de manifestar-se publicamente em prol de um modelo de sociedade no qual prevaleça a valorização do ser humano e o repúdio a todas as formas de opressão ou aviltamento da dignidade humana; na defesa da manutenção da ordem constitucional dentro de um <START:ABSTRACCAO> Estado Democrático de Direito <END> cuja ordem social tenha como base o primado do trabalho e como objetivo o bem estar e a justiça sociais; na defesa intransigente dos princípios da moralidade, da impessoalidade, da publicidade, da indisponibilidade do interesse público e da legalidade no âmbito da <START:ORGANIZACAO> Administração Pública <END> .
-O <START:ORGANIZACAO> IBAP <END> atua concretamente, através de propostas ou denúncias, na defesa da consolidação democrática do <START:ORGANIZACAO> Brasil <END> e na defesa das prerrogativas do <START:ABSTRACCAO> Advogado Público <END> .
-8.2.
-O <START:ORGANIZACAO> IBAP <END> é associado a alguma entidade internacional?
-R: Não, a despeito de atuar em harmonia com as diretrizes de determinadas <START:ORGANIZACAO> Organizações Internacionais <END> , como a <START:ORGANIZACAO> Anistia Internacional <END> , o <START:ORGANIZACAO> IBAP <END> não mantém nenhum vínculo com entidades internacionais.
-8.3.
-O que o <START:ORGANIZACAO> IBAP <END> fez e faz pela institucionalização dos órgãos de <START:ABSTRACCAO> Advocacia Pública <END> ?
-R: A luta pela institucionalização dos órgãos de <START:ABSTRACCAO> Advocacia Pública <END> constitui uma das principais bandeiras do <START:ORGANIZACAO> Instituto Brasileiro de Advocacia Pública <END> e está, na realidade, presente em praticamente todas as manifestações públicas do <START:ORGANIZACAO> Instituto Brasileiro de Advocacia Pública <END> .
-O editorial do  Boletim Advocacia Pública n.
-1, intitulado " <START:ABSTRACCAO> Institucionalização dos Órgãos de Advocacia Pública <END> ", oferece as diretrizes básicas de nossa linha de atuação.
-Esse tema abriu o primeiro evento cultural realizado pelo <START:ORGANIZACAO> IBAP <END> , o <START:ACONTECIMENTO> Primeiro Seminário Estadual "Advocacia Pública e Sociedade" <END> , realizado em <START:LOCAL> São Paulo <END> / <START:LOCAL> SP <END> , <START:TEMPO> no ano de 1995 <END> .
-<START:TEMPO> No dia 25 de outubro de 1995 <END> , no <START:LOCAL> Auditório Pedroso Horta <END> , da  <START:LOCAL> Câmara Municipal <END> de <START:LOCAL> São Paulo <END> ,  <START:VALOR> aproximadamente 150 <END> operadores do <START:ABSTRACCAO> Direito <END> assistiram as palestras de <START:PESSOA> Cláudia Aparecida de Souza Trindade <END> ( <START:ORGANIZACAO> Procuradoria da Fazenda Nacional <END> ), <START:PESSOA> Márcio Cammarosano <END> ( <START:ORGANIZACAO> Procuradoria <END> do <START:LOCAL> Município de Santo André <END> ), <START:PESSOA> Paulo Francisco Von Bruck Lacerda <END> (Procuradoria Geral do do Estado de São Paulo ) e <START:PESSOA> Walkure Lopes Ribeiro da Silva <END> ( <START:PESSOA> Professora <END> da <START:ORGANIZACAO> Faculdade de Direito <END> da <START:ORGANIZACAO> USP <END> .
-O evento encontra-se disponível em fita cassete para os associados regulares do <START:ORGANIZACAO> IBAP <END> .
-A palestra da <START:PESSOA> Professora Walkure Lopes Ribeiro da Silva <END> encontra-se transcrita no volume 4 dos cadernos " <START:OBRA> Advocacia Pública em Debate <END> ", também disponíveis para associados regulares.
-<START:TEMPO> Em 1997 <END> , por ocasião do <START:ACONTECIMENTO> Primeiro Congresso Brasileiro de Advocacia Pública <END> , realizado em <START:LOCAL> Campos do Jordão <END> / <START:LOCAL> SP <END> , a abertura do evento também privilegiou o debate sobre esse tema, ocasião em que <START:PESSOA> Guilherme José Purvin de Figueiredo <END> ( <START:ORGANIZACAO> PGE/SP <END> ) expôs sobre o tema " <START:ABSTRACCAO> Advocacia Pública: Tendências e Desafios <END> " e o <START:PESSOA> Deputado Estadual José Eduardo Ferreira Neto <END> , sobre o tema " <START:ABSTRACCAO> Independência das Procuradorias dos Estados e Municípios frente ao Poder Público <END> ".
-No âmbito judicial, o <START:ORGANIZACAO> IBAP <END> requereu o seu ingresso na qualidade de assistente, em ação civil pública ajuizada pelo <START:ORGANIZACAO> Ministério Público Federal <END> , na  <START:LOCAL> Justiça Federal <END> de <START:LOCAL> São Paulo <END> , na defesa das prerrogativas do <START:PESSOA> Procurador da Fazenda Nacional <END> .
-8.4.
-O <START:ORGANIZACAO> IBAP <END> na luta pela cidadania plena para a <START:ABSTRACCAO> Pessoa Portadora de Deficiência <END> .
-Além de publicar o livro " <START:OBRA> Direitos da Pessoa Portadora de Deficiência <END> " e promover o Seminário " <START:ACONTECIMENTO> Ordem Constitucional e os Direitos da Pessoa Portadora de Deficiência <END> ", o <START:ORGANIZACAO> IBAP <END> mantém uma página exclusivamente dedicada ao tema, onde se encontram veiculados cursos, publicações, links e legislação.
-8.5.
-O <START:ORGANIZACAO> IBAP <END> na luta pela defesa do <START:OUTRO> Meio Ambiente <END>
-8.6.
-O <START:ORGANIZACAO> IBAP <END> e a Questão de Gênero (Mulher)
-8.7.
-O <START:ORGANIZACAO> IBAP <END> na luta pela erradicação do trabalho infantil
+Autor Mensagem
+joseep
+<START:LOCAL> Site Admin <END> 
+Registo: <START:TEMPO> 12 Apr 2005 <END>
+Mensagens: <START:VALOR> 4 <END>
+Local/Origem: <START:LOCAL> Lisboa <END> ( <START:LOCAL> Portugal <END> )
+Colocada: <START:TEMPO> Quarta-feira Maio 04, 2005 <END> <START:TEMPO> 23:36 <END> Assunto: Como efectuar um Registo (tem vantagens)
+Gostaria muito, que os <START:PESSOA> Acólitos <END> , se registassem no forum, de modo a ser algo organizado, principalmente os da <START:ORGANIZACAO> AAPSE <END> e é muito simples, querem ver.
+1º-Vão ao cabeçalho, onde estão várias teclas, uma delas REGISTAR-SE, e seleccionam.
+2º- Aceitam o contrato,
+3º Preenchem o que acharem necessário e SUBMETEM (NAO ESQUECER USERNAME, PASS e vosso e-mail).
+4º Vão ao vosso e-mail, que colocaram no registo, e vão ver que receberam um novo mail, abrem e carregam no link para concluir o registo (PASSO MUITO IMPORTANTE, dúvidas contactem-me)
+5º - Quando acederem ao forum da próxima vez vão a ENTRAR (em cima) e digitam o vosso USERNAME e PASS.
+Qualquer dúvida contactem!
+_________________
+Um abraço,
+<START:PESSOA> José Eduardo Pires <END>
+ <START:ORGANIZACAO> Ass. de Acólitos <END> da <START:ORGANIZACAO> Paróquia de Santo Eugénio <END> 
 
 --DOCSTART--
     
- « <START:OBRA> Call girl <END> » estreia <START:TEMPO> hoje <END> em <START:VALOR> 40 <END> salas de cinema        
- O filme « <START:OBRA> Call girl <END> », de <START:PESSOA> António-Pedro Vasconcelos <END> , estreia <START:TEMPO> hoje <END> em quarenta salas de cinema, mostrando uma intriga policial que envolve uma mulher fatal e um autarca escrupuloso que se deixa corromper.
-<START:PESSOA> Soraia Chaves <END> veste a pele de mulher fatal e no papel do autarca corrompido está <START:PESSOA> Nicolau Breyner <END> , aos quais se juntam dois inspectores de polícia, os actores <START:PESSOA> Ivo Canelas <END> e <START:PESSOA> José Raposo <END> , e aquele que alicia à corrupção, interpretado por <START:PESSOA> Joaquim de Almeida <END> .
-« <START:OBRA> Call girl <END> » podia ser uma variação moderna de <START:OBRA> Anjo Azul <END> , de <START:PESSOA> Josef von Sternberg <END> , disse o realizador à agência <START:PESSOA> Lusa <END> , acompanhando «o percurso da decadência, da perdição», do autarca alentejano <START:TEMPO> até ao momento <END> em que aceita dinheiro em troca de um favor.
-«Neste caso a personagem é corrompida, no outro  [ Anjo azul  ]  perde toda a dignidade e reputação», compara <START:PESSOA> António-Pedro Vasconcelos <END> , até porque é um tema «recorrente na literatura e na ficção ocidental».
-« <START:OBRA> Call girl <END> », cujo argumento o realizador escreveu <START:TEMPO> ao longo de dois anos <END> em parceria com <START:PESSOA> Tiago Santos <END> , é uma história sobre o poder do dinheiro e da sedução, sobre a corrupção no meio político e a prostituição de luxo.
-A fotografia é de <START:PESSOA> José António Loureiro <END> , a produção de <START:PESSOA> Tino Navarro <END> e do elenco fazem ainda parte <START:PESSOA> Virgílio Castelo <END> , <START:PESSOA> Custódia Gallego <END> , <START:PESSOA> Sofia Grilo <END> ou <START:PESSOA> José Eduardo <END> .
-« <START:OBRA> Call Girl <END> » é uma co-produção luso-brasileira da <START:ORGANIZACAO> MGN Filmes <END> e da <START:ORGANIZACAO> Lagoa Cultural <END> , e conta ainda com a participação financeira dos institutos do cinema de <START:LOCAL> Portugal <END> e do <START:LOCAL> Brasil <END> e da estação de televisão <START:ORGANIZACAO> TVI <END> .
-« <START:OBRA> Call Girl <END> » é o sétimo filme de <START:PESSOA> António-Pedro Vasconcelos <END> , <START:VALOR> 68 anos <END> , e o último de produção nacional a estrear <START:TEMPO> este ano <END> nas salas de cinema.
---DOCSTART--
-    
-Fatores Demográficos e Econômicos Subjacentes    
- A revolta histórica produz normalmente uma nova forma de pensamento quanto à forma de organização da sociedade.
-Assim foi com a <START:ABSTRACCAO> Reforma Protestante <END> .
-No seguimento do colapso de instituições monásticas e do escolasticismo nos finais da <START:OUTRO> Idade Média <END> na <START:LOCAL> Europa <END> , acentuado pela " Cativeiro Babilónica da igreja " no papado de <START:ACONTECIMENTO> Avignon <END> , o <START:ACONTECIMENTO> Grande Cisma <END> e o fracasso da conciliação, assistimos <START:TEMPO> no século XVI <END> ao fermentar de um enorme debate sobre a reforma da religião e dos posteriores valores religiosos fundamentais.
-Este debate passou completamente ao lado de <START:PESSOA> Portugal <END> , demasiado distante do foco onde surgiram estes pensamentos.
-A imprensa, inventada na <START:LOCAL> Alemanha <END> por <START:PESSOA> John Gutenberg <END> , foi importante na divulgação destas ideias.
-As   <START:OBRA> 95 Teses <END>  de <START:PESSOA> Martinho Lutero <END> foram imediatamente impressas e divulgadas por todas as regiões de língua alemã, o que contribuiu para a crescente popularidade de <START:PESSOA> Martinho Lutero <END> .
-Não menos relevante foi a influência da pressão social exercida pela <START:ABSTRACCAO> Contra-Reforma <END> , na qual os <START:PESSOA> Jesuítas <END> tiveram um papel de liderança.
-A <START:ORGANIZACAO> Inquisição <END> e a censura exercida pela <START:ORGANIZACAO> Igreja Católica <END> foram igualmente determinantes para evitar que as ideias reformadoras encontrassem divulgação em <START:LOCAL> Portugal <END> , <START:LOCAL> Espanha <END> ou <START:LOCAL> Itália <END> , países católicos.
-Historiadores assumem geralmente que a incapacidade de reformar (grande número de interesses legítimos, falta de coordenação na coligação dos reformadores) poderia levar a uma grande revolta ou revolução, uma vez que o sistema deverá ser gradualmente ajustado ou então desintegrar-se.
-O fracasso da conciliação levou à <START:ACONTECIMENTO> Reforma Protestante <END> do ocidente europeu.
-Estes movimentos reformistas frustrados variam desde o nominalismo, a moderna devoção, ao humanismo, e ocorrem em conjunção com o crescente desagrado perante a riqueza e o poder da elite clerical, sensibilizando a população para a corrupção moral e financeira da <START:ORGANIZACAO> Igreja <END> .
-A Reforma Religiosa e Política na <START:LOCAL> Inglaterra <END>        
- <START:PESSOA> Henrique VIII <END> O curso da <START:ACONTECIMENTO> Reforma <END> foi diferente na <START:LOCAL> Inglaterra <END> .
-Tinha havido desde há muito uma forte corrente anti-clerical, tendo a <START:PESSOA> Inglaterra <END> já tido o movimento <START:ABSTRACCAO> Lollard <END> , que inspirou os <START:PESSOA> Hussitas <END> na <START:LOCAL> Boémia <END> .
-Mas <START:TEMPO> em cerca de 1520 <END> , no entanto, os <START:PESSOA> Lollards <END> não eram já uma força activa, ou pelo menos um movimento de massas.
-O carácter diferente da <START:ABSTRACCAO> Reforma Inglesa <END> deve-se ao facto de ter sido promovida inicialmente pelas necessidades políticas de <START:PESSOA> Henrique VIII <END> .
-Sendo este casado com  <START:PESSOA> Catarina <END> de <START:LOCAL> Aragão <END> e estando apaixonado por <START:PESSOA> Ana Bolena <END> , <START:PESSOA> Henrique <END> solicita ao <START:PESSOA> Papa Clemente VII <END> a anulação do casamento.
-Perante a recusa do <START:PESSOA> Papado <END> , <START:PESSOA> Henrique <END> faz-se proclamar, <START:TEMPO> em 1531 <END> , protector da <START:ORGANIZACAO> Igreja <END> inglesa .
-O " <START:OBRA> Ato de Supremacia <END> ", votado no <START:ORGANIZACAO> Parlamento <END> <START:TEMPO> em Novembro de 1534 <END> , colocou <START:PESSOA> Henrique <END> e os seus sucessores na liderança da <START:ORGANIZACAO> Igreja <END> : os súbditos deveriam submeter-se ou então seriam excomungados e perseguidos.
-Apesar de uma certa deriva em direcção ao luteranismo, <START:PESSOA> Henrique <END> reafirma a ortodoxia católica através da " <START:OBRA> Confissão dos Seis Artigos <END> " ( <START:TEMPO> 1539 <END> ).
-<START:TEMPO> Entre 1540 e 1553 <END> , sob <START:PESSOA> Thomas Cromwell <END> , a política conhecida como a dissolução dos mosteiros foi posta em prática.
-A veneração de santos, locais de peregrinação foram atacados.
-Enormes extensões de terras e propriedades da <START:ORGANIZACAO> Igreja <END> passaram para as mãos da coroa e posteriormente da nobreza e das classes altas.
-Os direitos adquiridos foram uma força poderosa de apoio às dissoluções.
-Houve muitos opositores da  <START:ABSTRACCAO> Reforma <END> de <START:PESSOA> Henrique <END> , tais como <START:PESSOA> Thomas More <END> e o <START:PESSOA> Bispo John Fischer <END> , que foram executados pela sua oposição.
-Mas também existiu um partido crescente de <START:PESSOA> Protestantes <END> genuínos que estavam inspirados pelas doutrinas então correntes no continente.
-Quando <START:PESSOA> Henrique <END> foi sucedido pelo seu filho <START:PESSOA> Eduardo VI <END> <START:TEMPO> em 1547 <END> , os protestantes viram-se em ascendente no governo.
-Uma reforma mais radical foi imposta, com a destruição de imagens e o fecho de capelas, para além de ter sido revogada a " <START:OBRA> Confissão dos Seis Artigos <END> ".
-<START:TEMPO> Em 1552 <END> , é redigido o novo " <START:OBRA> Livro de Orações <END> " e promulgada a " <START:OBRA> Confissão de Fé em Quarenta e Dois Artigos <END> ", que aproximava doutrinalmente a  <START:ABSTRACCAO> Igreja <END> de <START:LOCAL> Inglaterra <END> do calvinismo.
-Seguiu-se uma breve reacção católica durante o reinado de <START:PESSOA> Maria I <END> ( <START:TEMPO> 1553-1558 <END> ).
-De início moderada na sua política religiosa, <START:PESSOA> Maria <END> procura a reconciliação com <START:ORGANIZACAO> Roma <END> , consagrada <START:TEMPO> em 1554 <END> , quando o <START:ORGANIZACAO> Parlamento <END> vota o regresso à obediência papal.
-Porém, as perseguições violentas que move aos não católicos e o seu casamento com <START:PESSOA> Filipe II <END> de <START:LOCAL> Espanha <END> | Filipe II de Espanha , provocam um forte descontentamento na população.
-Um consenso começou a surgir durante o reinado de <START:PESSOA> Isabel I <END> .
-<START:TEMPO> Em 1559 <END> , <START:PESSOA> Isabel <END> retorna à religião do pai, com o restabelecimento do " <START:OBRA> Ato de Supremacia <END> " e do " <START:OBRA> Livro de Orações <END> " de <START:PESSOA> Eduardo VI <END> .
-Através da " <START:OBRA> Confissão dos Trinta e Nove Artigos <END> " ( <START:TEMPO> 1563 <END> ), <START:PESSOA> Isabel <END> alcança um compromisso entre o protestantismo e o catolicismo: embora o dogma se aproxime do calvinismo, só admitindo como sacramento o baptismo e a eucaristia, é mantida a hierarquia episcopal e o fausto das cerimónias religiosas.
-O sucesso da <START:ACONTECIMENTO> Contra-Reforma <END> no continente e o crescimento de um partido puritano dedicado a estender a <START:ABSTRACCAO> Reforma Protestante <END> polarizou a <START:TEMPO> era Elizabetana <END> , apesar da <START:LOCAL> Inglaterra <END> não ter tido <START:TEMPO> até 1640 <END> lutas religiosas comparáveis às dos seus vizinhos.
-Na verdade a <START:ABSTRACCAO> Reforma <END> na <START:LOCAL> Inglaterra <END> procurou preservar o máximo da <START:ABSTRACCAO> Tradição Católica <END> (episcopado, liturgia e sacramentos).
-A  <START:ORGANIZACAO> Igreja <END> da <START:LOCAL> Inglaterra <END> sempre se viu como a "eclesia anglicanae", ou seja, "A <START:ORGANIZACAO> Igreja <END> cristã na <START:LOCAL> Inglaterra <END> " e não derivação da  <START:ORGANIZACAO> Igreja <END> de <START:LOCAL> Roma <END> ou do movimento reformista <START:TEMPO> do século XVI <END> .
-Como consequência disso sempre existiu dois grandes "partidos" ou "facções": a <START:ABSTRACCAO> Igreja Alta <END> ( <START:ABSTRACCAO> High Church <END> ) e <START:ABSTRACCAO> Igreja Baixa <END> ( <START:ABSTRACCAO> Low Church <END> ), que refletem a controvérsia histórica sobre as formas de culto e de expressão.
-A <START:ABSTRACCAO> Reforma Anglicana <END> buscou ser a "via média" entre os extremos romanos e puritanos.
-Assim aceitam os dois sacramentos do <START:ABSTRACCAO> Evangelho <END> : o <START:ABSTRACCAO> Santo Batismo <END> , através do qual a pessoa é feita membro da <START:ORGANIZACAO> Igreja de Cristo <END> , sendo que tal graça é complementada na <START:ABSTRACCAO> Confirmação <END> , e na <START:ABSTRACCAO> Santa Comunhão <END> , que une o cristão ao sacrifício de <START:PESSOA> Cristo Jesus <END> que os alimenta com seu corpo e sangue.
-Para os anglicanos estes dois sacramentos foram instituídos pelo próprio <START:PESSOA> Senhor Jesus Cristo <END> .
-Os demais ritos sacramentais da <START:ORGANIZACAO> Igreja <END> também são aceitos, apesar de não terem sido instituídos por <START:PESSOA> Cristo <END> , mas são reconhecidos por serem, em parte, estados de vida aprovados nas <START:OBRA> Escrituras <END> : a <START:ABSTRACCAO> Confirmação <END> , <START:ABSTRACCAO> Penitência <END> , <START:ABSTRACCAO> Ordens <END> , <START:ABSTRACCAO> Matrimônio <END> e a Unção dos enfermos .
-Embora tenham se afastado de muitas das prática devocionais medievais com relação aos santos e a <START:PESSOA> Virgem Maria <END> mantiveram um calendário específico para sua comemoração na <START:ORGANIZACAO> Igreja <END> , em especial as antigas festas marianas diretamente associadas aos méritos de seu Filho <START:PESSOA> Jesus Cristo <END> ( <START:ACONTECIMENTO> Anunciação <END> , <START:ACONTECIMENTO> Natividade <END> etc).
---DOCSTART--
-    
- <START:PESSOA> HEIDEGGER <END> e o 4-4-2: Foi, <START:TEMPO> ontem <END> , apresentado o livro « <START:OBRA> Liderança - As Lições de José Mourinho <END> » de <START:PESSOA> Luís Lourenço <END> , baseado na sua tese de mestrado.
-Segundo o autor, <START:PESSOA> José Mourinho <END> "é diferente por partir de um novo paradigma de pensamento, preconizado por <START:PESSOA> Heidegger <END> ou <START:PESSOA> Morin <END> , por exemplo, e o operacionalizar.
-Trata-se de um novo olhar para o <START:ABSTRACCAO> Todo <END> , que põe de parte a divisão e análise das partes e o pensamento cartesiano <START:TEMPO> de há quatro séculos <END> ".
-Cada vez que leio isto (e faço-o <START:TEMPO> várias vezes ao dia <END> , na esperança de o vir a compreender), gosto de imaginar a seguinte conversa entre dois adeptos, à saída de <START:LOCAL> Stanford Bridge <END> :        
- - Eh pá, o <START:PESSOA> Chelsea <END> não merecia ter empatado este jogo.
-- Pois não.
-Mas a primeira parte foi tão má que parecia que o <START:PESSOA> Mourinho <END> não tinha lido « <START:OBRA> O Ser e o Tempo <END> ».
-- Quantas vezes é que o <START:PESSOA> Heidegger <END> avisou que o 4-4-2 só resulta se o trinco compensar a subida dos laterais?
-- Exacto.
-Meu amigo, se é para ver a nossa equipa voltar ao pensamento cartesiano, não contes mais comigo para vir ao estádio.
-- Calma.
-Também tens que perceber que estava nevoeiro.
-Se calhar, por isso é que, durante a primeira parte, o <START:PESSOA> Mourinho <END> não conseguiu ver o <START:ABSTRACCAO> Todo <END> .
+Multibanco    
+ <START:COISA> Multibanco <END> é uma marca registada propriedade da empresa <START:ORGANIZACAO> SIBS <END> .
+O termo é utilizado comumente para designar as caixas automáticas (as máquinas que permitem a realização de operações bancárias em regime de auto-serviço), sendo mesmo utilizados em relação a caixas automáticas de sistema outros que o controlado pela <START:ORGANIZACAO> SIBS <END> .
+Neste contexto, também se utiliza o termo <START:ABSTRACCAO> ATM <END> , do inglês <START:ABSTRACCAO> Automatic Teller Machine <END> .
+Enquanto <START:LOCAL> Portugal <END> foi um dos últimos países da <START:LOCAL> Europa <END> ocidental a instalá-las, o equipamento usado representou o que havia de mais avançado, baseado nas experiências de outros países, muitos dos quais gastam agora imenso dinheiro para substituir e actualizar máquinas obsoletas.
+O número de caixas  <START:COISA> Multibanco <END> mais do que triplicou em <START:LOCAL> Portugal <END> <START:TEMPO> na última década <END> , revela um estudo da <START:ORGANIZACAO> Marktest <END> .
+<START:TEMPO> Desde 1995 <END> , triplicou também o valor mensal médio de levantamentos per capita, revelam os dados fornecidos pela <START:ORGANIZACAO> SIBS <END> e incluídos na pesquisa « <START:OBRA> Os Concelhos Portugueses -- 1995/2005 <END>  ».
+Em <START:LOCAL> Portugal <END> , os multibancos têm tido muito sucesso, o que levou ao aparecimento de novos serviços não bancários, como a venda de bilhetes ou o pagamento de serviços.
+<START:TEMPO> Neste momento <END> a <START:COISA> Rede Multibanco <END> é uma das mais sofisticadas redes interbancárias do mundo.
+Também é o nome de um cartão de débito.

@@ -15,7 +15,7 @@ def simplify_tag(t):
 tsents = floresta.tagged_sents()
 tsents = [[(w.lower(),simplify_tag(t)) for (w,t) in sent] for sent in tsents if sent]
 
-train = tsents[100:]
+train = tsents
 #test = tsents[:100]
 
 tagger0 = nltk.DefaultTagger('n')

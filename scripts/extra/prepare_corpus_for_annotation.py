@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+# -*- coding: utf8 -*-
+#
+# prepare_corpus_for_annotation.py
+# José Devezas <joseluisdevezas@gmail.com>
 
 import sys, os
 import csv, string

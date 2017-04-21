@@ -1,47 +1,235 @@
 --DOCSTART--
- Biografia de <START:PESSOA_GRUPOMEMBRO> Dead Fish <END>        
- <START:PESSOA_GRUPOMEMBRO> Dead Fish <END> é uma banda de <START:ABSTRACCAO_DISCIPLINA> Hardcore <END> de <START:LOCAL_HUMANO> Vitória <END> , cidade do estado do <START:LOCAL_HUMANO> Espírito Santo <END> , <START:LOCAL_HUMANO> Brasil <END> .
-História    
- Tudo começou <START:TEMPO_TEMPO_CALEND> em 1991 <END> com um grupo de amigos que andavam de Skate em <START:LOCAL_HUMANO> Vitória <END> .
-Mesmo sem saber tocar instrumento algum, resolveram montar uma banda e tocar músicas para andar de skate, principalmente <START:ABSTRACCAO_DISCIPLINA> Hardcore <END> .
-<START:TEMPO_TEMPO_CALEND> Em 1995 <END> lançam a demo-tape " <START:OBRA_REPRODUZIDA> Re-Progresso <END> " e <START:TEMPO_TEMPO_CALEND> três anos depois <END> , seu primeiro <START:COISA_CLASSE> CD Full-Lenght <END>  , chamado " <START:ABSTRACCAO_NOME> Sirva-se <END> " pelo selo capixaba <START:ORGANIZACAO_EMPRESA> Lona Records <END> .
-Após o " <START:OBRA_REPRODUZIDA> Sirva-se <END> ", lançaram " <START:OBRA_REPRODUZIDA> Sonho Médio <END> " <START:TEMPO_TEMPO_CALEND> em 1999 <END> e " <START:OBRA_REPRODUZIDA> Afasia <END> " <START:TEMPO_TEMPO_CALEND> em 2001 <END> .
-<START:PESSOA_INDIVIDUAL> Giuliano <END> , até então guitarrista, resolveu deixar a banda, <START:TEMPO_TEMPO_CALEND> em 2002 <END> lançam o <START:OBRA_REPRODUZIDA> Projeto Peixe Morto <END> e <START:TEMPO_TEMPO_CALEND> no mesmo ano <END> também lançam o <START:OBRA_REPRODUZIDA> EP 2002 <END> , mas que foi gravado <START:TEMPO_TEMPO_CALEND> em 2000 <END> .
-Alguns guitarristas de bandas amigas do <START:PESSOA_GRUPOMEMBRO> Dead Fish <END> foram chamados para quebrar um galho, entre eles: <START:PESSOA_INDIVIDUAL> Alexandre "Capilé" <END>     ( <START:PESSOA_GRUPOMEMBRO> Sugar Kane <END> ), <START:PESSOA_INDIVIDUAL> Philippe Fargnoli <END> ( <START:PESSOA_GRUPOMEMBRO> Reffer <END> ) e <START:PESSOA_INDIVIDUAL> Tiago "Hóspede" <END>     ( <START:PESSOA_GRUPOMEMBRO> Aditive <END> ).
-<START:TEMPO_TEMPO_CALEND> Em 2003 <END> gravaram um    <START:COISA_CLASSE> CD Ao Vivo <END>    no <START:LOCAL_HUMANO> Hangar 110 <END> em <START:LOCAL_HUMANO> São Paulo <END> .
-<START:PESSOA_INDIVIDUAL> Murilo <END> , o outro guitarrista do <START:PESSOA_GRUPOMEMBRO> Dead Fish <END> , deixa a banda que ameaça acabar.
-<START:TEMPO_TEMPO_CALEND> No fim do mesmo ano <END> , eles recebem uma proposta de uma gravadora, a <START:ORGANIZACAO_EMPRESA> Deckdisc <END> .
-A banda aceita a proposta, chama <START:PESSOA_INDIVIDUAL> Philippe <END> e <START:PESSOA_INDIVIDUAL> Hóspede <END> para assumir as guitarras e entram em estúdio para gravar o quarto disco de inéditas, o " <START:OBRA_REPRODUZIDA> Zero e Um <END> ".
-<START:TEMPO_TEMPO_CALEND> Em 2004 <END> , o <START:PESSOA_GRUPOMEMBRO> Dead Fish <END> ganha projeção nacional ao receber o prêmio Video Music Brasil de artista revelação, lançando seu primeiro DVD , o " <START:OBRA_REPRODUZIDA> MTV Apresenta: Dead Fish <END> ".
-<START:TEMPO_TEMPO_CALEND> Em 2006 <END> , lançam mais um disco pela mesma gravadora, chamado " <START:ABSTRACCAO_NOME> Um Homem Só <END> " e tem relançadas sua primeiras demo-tapes pelo selo <START:COISA_CLASSE> Laja Records <END> , sob o título de " <START:ABSTRACCAO_NOME> Dead Fish - Demo Tapes <END> ". "
-<START:OBRA_REPRODUZIDA> Demo Tapes <END> " ainda conta com diversos vídeos da banda, além de flyers e cartazes de shows do início da carreira.
+Como se chama o vocalista do grupo <START:PESSOA_GRUPOMEMBRO> U2 <END> ?
+Com que idade morreu <START:PESSOA_INDIVIDUAL> Elvis Presley <END> ?
+Onde está a <START:OBRA_ARTE> Estátua da Liberdade <END> ?
+Em que cidade italiana fica o <START:OBRA_ARTE> Coliseu <END> ?
+Em que cidade fica a <START:LOCAL_HUMANO> Praça Navona <END> ?
+Onde é que foi construída em <START:LOCAL_HUMANO> Itália <END> a <START:OBRA_ARTE> Villa Medici <END> ?
+Que companhia britânica foi absorvida pela <START:ORGANIZACAO_EMPRESA> BMW <END> <START:TEMPO_TEMPO_CALEND> em 1994 <END> ?
+Quantos milhões de libras pagou a <START:ORGANIZACAO_EMPRESA> BMW <END> pela <START:ORGANIZACAO_EMPRESA> Rover <END> ?
+Em que país foi construída a primeira fábrica da <START:ORGANIZACAO_EMPRESA> BMW <END> no estrangeiro?
+Quem foi eleito como primeiro presidente negro da <START:LOCAL_HUMANO> África do Sul <END> ?
+Como se chamava o vocalista dos <START:PESSOA_GRUPOMEMBRO> Nirvana <END> ?
+Que <START:PESSOA_CARGO> presidente dos Estados Unidos <END>  é que <START:PESSOA_INDIVIDUAL> Francisco Durán <END> tentou matar?
+Que filho de um <START:PESSOA_CARGO> ex-presidente dos EUA <END>  foi eleito <START:PESSOA_CARGO> governador do Texas <END>  <START:TEMPO_TEMPO_CALEND> em 1994 <END> ?
+Para quantos Óscares foi nomeado " <START:OBRA_REPRODUZIDA> A Lista de Schindler <END> "?
+Quem recebeu o Óscar de Melhor Actor por « <START:OBRA_REPRODUZIDA> Forrest Gump <END> »?
+Como se chamava o autor de « <START:OBRA_REPRODUZIDA> Romeu e Julieta <END> "?
+Quantos pisos tem o <START:LOCAL_HUMANO> Empire State Building <END> ?
+Como se chama o <START:PESSOA_CARGO> patrão da Microsoft <END> ?
+Em que ano foi assassinado <START:PESSOA_INDIVIDUAL> John F. Kennedy <END> ?
+Com que actriz era casado <START:PESSOA_INDIVIDUAL> Arthur Miller <END> ?
+Que político era <START:PESSOA_CARGO> chanceler da Alemanha <END>  antes de  <START:PESSOA_INDIVIDUAL> Helmut Kohl <END> ?
+Em que ano caiu o  <START:LOCAL_HUMANO> Muro <END> de <START:LOCAL_HUMANO> Berlim <END>  ?
+Qual a altura do <START:LOCAL_FISICO> Evereste <END> ?
+Em que cidade francesa fica o <START:LOCAL_HUMANO> Moulin Rouge <END> ?
+Quando é que nasceu <START:PESSOA_INDIVIDUAL> Franz Kafka <END> ?
+Quando é que foi construída a <START:OBRA_ARTE> Esfinge <END> ?
+Quem escreveu o romance não-publicado " <START:OBRA_REPRODUZIDA> Cruz sem Amor <END> "?
+Em que cidade bávara fica a sede da <START:ORGANIZACAO_EMPRESA> Adidas AG <END> ?
+O que é o Titanic?
+Quem é o desenhador de <START:OBRA_REPRODUZIDA> Astérix e Obélix <END> ?
+Quem é <START:PESSOA_INDIVIDUAL> Albert Einstein <END> ?
+Quem é o <START:PESSOA_INDIVIDUAL> Godfather of Soul <END> ?
+Quem é o marido da <START:PESSOA_INDIVIDUAL> rainha Isabel II <END> ?
+Quem é o chefe de estado da <START:LOCAL_HUMANO> Austrália <END> ?
+Qual o verdadeiro nome de <START:PESSOA_INDIVIDUAL> Romy Schneider <END> ?
+Quando é que nasceu <START:PESSOA_INDIVIDUAL> Aldous Huxley <END> ?
+Como se chama o pai de <START:PESSOA_INDIVIDUAL> Steffi Graf <END> ?
+Contra quem é que ela não jogou nas meias-finais de <START:ACONTECIMENTO_ORGANIZADO> Roland Garros <END> <START:TEMPO_TEMPO_CALEND> em 1994 <END> ?
+Quando é que <START:PESSOA_INDIVIDUAL> Goethe <END> fundou a <START:ORGANIZACAO_INSTITUICAO> Sociedade das Sextas <END> ?
+Em que ano assistiu ele à coroação do <START:PESSOA_INDIVIDUAL> Imperador José II <END> ?
+Em que ano nasceu ele?
+Em que cidade é que ele morreu?
+Quando foi criado o Prémio Schiller?
+Que filme ganhou o Óscar <START:TEMPO_TEMPO_CALEND> em 1992 <END> na categoria de Melhor Filme?
+Quem foi o realizador de « <START:OBRA_REPRODUZIDA> E tudo o vento levou <END> »?
+Em que ano recebeu ele o Óscar por « <START:OBRA_REPRODUZIDA> E tudo o vento levou <END> »?
+Como se chamava a autora de " <START:OBRA_REPRODUZIDA> E tudo o vento levou <END> "?
+O que significa a sigla <START:ABSTRACCAO_NOME> IRA <END> ?
+Qual o significado da sigla <START:ABSTRACCAO_NOME> NSUK <END> ?
+De que grupo era vocalista <START:PESSOA_INDIVIDUAL> Freddy Mercury <END> ?
+Em que ano morreu ele?
+Quem foi o inventor da <START:COISA_CLASSE> Coca Cola <END> ?
+Quando foi criada a <START:COISA_CLASSE> Coca Cola <END> ?
+Quem abriu o  <START:ACONTECIMENTO_EVENTO> Baile <END> da <START:PESSOA_GRUPOMEMBRO> Opera de Viena <END> ?
+Quantos estados membros tinha a <START:ORGANIZACAO_ADMINISTRACAO> UE <END> <START:TEMPO_TEMPO_CALEND> em 1994 <END> ?
+Em que cidade teve lugar a cimeira da <START:ORGANIZACAO_ADMINISTRACAO> UE <END> que começou <START:TEMPO_TEMPO_CALEND> a 26 de Junho de 1995 <END> ?
+Quantos estados membros tinha a <START:LOCAL_HUMANO> UE <END> <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
+Que estados europeus aderiram à <START:ORGANIZACAO_ADMINISTRACAO> UE <END> <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
+<START:PESSOA_INDIVIDUAL> Rudy Giuliani <END> era o presidente da câmara de que cidade americana?
+Quando é que terá lugar a estreia de « <START:OBRA_REPRODUZIDA> O Fantasma da Ópera <END> » de <START:PESSOA_INDIVIDUAL> Andrew Lloyd Webber <END> em <START:LOCAL_HUMANO> Basileia <END> ?
+Que musical dele foi interpretado pelo coro ecuménico juvenil de <START:LOCAL_HUMANO> Friedrichsdorf <END> <START:TEMPO_TEMPO_CALEND> de 1994 <END> ?
+Quanto dinheiro pagou ele por uma pintura de <START:PESSOA_INDIVIDUAL> Picasso <END> num leilão?
+Que musical de <START:PESSOA_INDIVIDUAL> Andrew Llyod Webber <END> foi interpretado em <START:LOCAL_HUMANO> Essen <END> <START:TEMPO_TEMPO_CALEND> em 1996 <END> ?
+Em que ano nasceu <START:PESSOA_INDIVIDUAL> Christian von Holst <END> em <START:LOCAL_HUMANO> Gdansk <END> ?
+Quem é <START:PESSOA_INDIVIDUAL> Werner Herzog <END> ?
+Em que cidade fica o <START:LOCAL_HUMANO> Passeio da Fama <END> ?
+Em quantos países foram transmitidas as  <START:ACONTECIMENTO_ORGANIZADO> Olimpíadas <END> de <START:LOCAL_HUMANO> Albertville <END> ?
+Qual era a alcunha de <START:PESSOA_INDIVIDUAL> Al Capone <END> ?
+Quem era ele?
+Quando é que ele foi alvejado?
+Que idade tinha ele quando levou a sua família para <START:LOCAL_HUMANO> Chicago <END> ?
+Desde quando é que a <START:LOCAL_HUMANO> Suíça <END> é membro da <START:ORGANIZACAO_ADMINISTRACAO> UNESCO <END> ?
+Quem era a presidente do comité suíço da <START:ORGANIZACAO_ADMINISTRACAO> UNESCO <END> <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
+Quantos estados-membros tinha a organização <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
+O prémio UNESCO da <START:ABSTRACCAO_DISCIPLINA> Paz <END> é de quantos dólares?
+Quem era o presidente do júri do  <START:ACONTECIMENTO_ORGANIZADO> 47º Festival Cinematográfico <END> de <START:LOCAL_HUMANO> Cannes <END> ?
+Que filme recebeu a Palma de Ouro no  <START:ACONTECIMENTO_ORGANIZADO> 47º Festival <END> de <START:LOCAL_HUMANO> Cannes <END> ?
+Quantos filmes competiam pela Palma de Ouro do  <START:ACONTECIMENTO_ORGANIZADO> 47º Festival <END> de <START:LOCAL_HUMANO> Cannes <END> ?
+Quem recebeu o prémio de melhor actriz no  <START:ACONTECIMENTO_ORGANIZADO> 47º Festival <END> de <START:LOCAL_HUMANO> Cannes <END> ?
+Quantos golos é que o <START:PESSOA_INDIVIDUAL> Pelé <END> marcou na sua carreira?
+Em que três categorias é que <START:PESSOA_INDIVIDUAL> Whitney Houston <END> ganhou o prémio Single por " <START:OBRA_REPRODUZIDA> I will always love you <END> "?
+O que é o Grammy?
+Que autor foi o primeiro árabe galardoado com o Nobel da Literatura?
+O que são os " <START:ACONTECIMENTO_EVENTO> Estudos sobre a Histeria <END> "?
+Quem foi o fundador da psicoanálise?
+De que cidade é <START:PESSOA_INDIVIDUAL> Friedensreich Hundertwasser <END> ?
+Quando é que acabou a <START:ACONTECIMENTO_EFEMERIDE> Guerra do Vietname <END> ?
+Quantos soldados é que os <START:ORGANIZACAO_ADMINISTRACAO> EUA <END> tinham estacionados no <START:LOCAL_HUMANO> Vietname <END> durante a <START:ACONTECIMENTO_EFEMERIDE> Guerra <END> <START:TEMPO_TEMPO_CALEND> nos anos 60 <END> ?
+Quantas pessoas morreram na <START:ACONTECIMENTO_EFEMERIDE> Guerra do Vietname <END> ?
+Quem era <START:PESSOA_CARGO> presidente dos EUA <END>  quando a guerra chegou ao fim?
+O que era Napola?
+O que é Madame Tussaud?
+O que é a Mona Lisa?
+Quanto dinheiro ganhou « <START:OBRA_REPRODUZIDA> Parque Jurássico <END> » de <START:PESSOA_INDIVIDUAL> Steven Spielberg <END> ?
+Quem escreveu " <START:OBRA_REPRODUZIDA> Mein Kampf <END> "?
+Quem é <START:PESSOA_INDIVIDUAL> Helmut Newton <END> ?
+Quando é que os japoneses atacaram <START:LOCAL_HUMANO> Pearl Harbor <END> ?
+Quantos americanos morreram no ataque a <START:LOCAL_HUMANO> Pearl Harbor <END> <START:TEMPO_TEMPO_CALEND> a 7 de dezembro de 1941 <END> ?
+Que grupo ganhou o <START:ACONTECIMENTO_ORGANIZADO> Festival da Eurovisão <END> em <START:LOCAL_HUMANO> Brighton <END> <START:TEMPO_TEMPO_CALEND> em 1974 <END> ?
+Quando é que teve lugar o primeiro <START:ACONTECIMENTO_ORGANIZADO> Festival da Eurovisão <END> ?
+Onde é que teve lugar o primeiro <START:ACONTECIMENTO_ORGANIZADO> Festival da Eurovisão <END> ?
+Qual o significado da sigla <START:ABSTRACCAO_NOME> UNICEF <END> ?
+Quando é que foi criada a <START:ORGANIZACAO_ADMINISTRACAO> UNICEF <END> ?
+Onde é que é a sede da <START:ORGANIZACAO_ADMINISTRACAO> UNICEF <END> ?
+De que banda rock é vocalista <START:PESSOA_INDIVIDUAL> Anthony Kiedis <END> ?
+O que é <START:ABSTRACCAO_DISCIPLINA> Stadium Arcadium <END> ?
+Diga três albuns da banda.
+Quando é que teve lugar a primeira <START:ACONTECIMENTO_ORGANIZADO> Love Parade <END> ?
+Quando é que <START:PESSOA_INDIVIDUAL> Audrey Hepburn <END> e <START:PESSOA_INDIVIDUAL> Mel Ferrer <END> se casaram?
+Onde é que mora <START:TEMPO_GENERICO> hoje <END> o filho de <START:PESSOA_INDIVIDUAL> Audrey Hepburn <END> ?
+De que organização é que ela foi nomeada embaixadora extraordinária?
+Quem é que falou <START:TEMPO_TEMPO_CALEND> em Setembro de 1939 <END> no <START:ACONTECIMENTO_ORGANIZADO> 17º Congresso Internacional do PEN-clube <END> sobre o problema da liberdade?
+Diga três filmes de <START:PESSOA_INDIVIDUAL> Martin Scorsese <END> .
+Em que universidade é que ele estudou <START:ABSTRACCAO_DISCIPLINA> Cinematografia <END> <START:TEMPO_TEMPO_CALEND> em 1960 <END> ?
+Para quantos Óscares é que ele já foi nomeado?
+Quem é o autor da obra « <START:OBRA_REPRODUZIDA> A Última Tentação de Cristo <END> »?
+Quando é que foi fundada a  <START:ORGANIZACAO_INSTITUICAO> Universidade <END> de <START:LOCAL_HUMANO> Santiago de Compostela <END> ?
+De que região espanhola é que <START:LOCAL_HUMANO> Santiago <END> é capital?
+Que organização nomeou <START:LOCAL_HUMANO> Santiago de Compsotela <END> Património Mundial <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
+O que é a «Rota da Prata»?
+Onde fica <START:LOCAL_HUMANO> Hiroxima <END> ?
+Diga os oito bairros de <START:LOCAL_HUMANO> Hiroxima <END> .
+Qual a área total de <START:LOCAL_HUMANO> Hiroxima <END> ?
+O que é a <START:ACONTECIMENTO_EVENTO> CeBIT <END> ?
+Quantos exibidores tinha a <START:LOCAL_HUMANO> CeBIT <END> <START:TEMPO_TEMPO_CALEND> em 2005 <END> ?
+Quem realizou o filme « <START:OBRA_REPRODUZIDA> Morte em Veneza <END> »?
+Onde é que tem lugar a <START:ACONTECIMENTO_ORGANIZADO> Semana Verde <END> ?
+Quem era <START:PESSOA_INDIVIDUAL> Herbert Erhardt <END> ?
+Quando foi construído o estádio do <START:LOCAL_HUMANO> Malmö <END> ?
+Onde é que teve lugar o  <START:ACONTECIMENTO_ORGANIZADO> Campeonato do Mundo de Futebol <END> <START:TEMPO_TEMPO_CALEND> de 1970 <END> ?
+Quando é que teve lugar a primeira <START:ACONTECIMENTO_ORGANIZADO> Oktoberfest <END> ?
+Quantas pessoas morreram no atentado na <START:ACONTECIMENTO_ORGANIZADO> Oktoberfest <END> ?
+Quem é <START:PESSOA_INDIVIDUAL> Henning Mankell <END> ?
+Como se chama o inspector da polícia no seu livro « <START:OBRA_REPRODUZIDA> Assassino sem rosto <END> »?
+Diga duas afiliadas da <START:ORGANIZACAO_EMPRESA> Volvo <END> .
+Quando foi criada a <START:ORGANIZACAO_EMPRESA> Volvo Car Corporation <END> ?
+Quem foram os fundadores da <START:ORGANIZACAO_EMPRESA> Volvo <END> ?
+Qual é a área do <START:LOCAL_HUMANO> Pentâgono <END> ?
+Quantos lados têm o <START:LOCAL_HUMANO> Pentâgono <END> ?
+Que significa a sigla <START:ABSTRACCAO_NOME> RAF <END> ?
+Quem era <START:PESSOA_INDIVIDUAL> Rolf Heissler <END> ?
+Diga três membros da RAF.
+Onde fica a <START:LOCAL_HUMANO> Galeria dos Ofícios <END> ?
+O que é a <START:LOCAL_HUMANO> Galeria dos Ofícios <END> ?
+Qual é a altura do <START:LOCAL_FISICO> Monte Branco <END> ?
+Quando é que o <START:LOCAL_FISICO> Monte Branco <END> foi escalado pela primeira vez?
+De que consiste o <START:COISA_OBJECTO> Monte Branco <END> ?
+Qual o comprimento da alameda principal do <START:LOCAL_HUMANO> Prater <END> ?
+O que e o "Wurstelprater"?
+Onde fica o <START:LOCAL_HUMANO> Calafati <END> ?
+Quando foi publicada a <START:OBRA_PLANO> API Web <END> do <START:ORGANIZACAO_EMPRESA> Google <END>  
+Qual é o objectivo do <START:OBRA_PLANO> Protocolo de Quioto <END> ?
+Diga três estados signatários do <START:OBRA_PLANO> Protocolo <END> .
+Quantos estados aderiram ao <START:OBRA_PLANO> Protocolo de Quioto <END> ?
+Quem é o líder da organização <START:ORGANIZACAO_INSTITUICAO> Pro Familia <END> ?
+Quantos membros têm a organização?
+Qual é o pico mais alto de <START:LOCAL_FISICO> África <END> ?
+Quando é que foi criado o <START:LOCAL_OUTRO> Parque Nacional do Kilimanjaro <END> ?
+De que material é feito o <START:COISA_OBJECTO> Kilimanjaro <END> ?
+A que partido pertence <START:PESSOA_INDIVIDUAL> Angela Merkel <END> ?
+Como se chama o irmão dela?
+Quem disse  "Die multikulturelle Gegelllschaft ist gescheitert" ?
+.
+O que é uma Okiya?
+O que são hanamachi?
+Em que cidades japonesas ainda existem?
+Quanto custou a construção da <START:OBRA_ARTE> Torre Eiffel <END> ?
+Quem é <START:PESSOA_INDIVIDUAL> Samuel Hahnemann <END> ?
+Em homeopatia, como se que chama o processo de diluição?
+Em quantos livros está dividido « <START:OBRA_REPRODUZIDA> O Senhor dos Anéis <END> »?
+Onde fica o <START:OBRA_ARTE> Alhambra <END> ?
+Onde fica a sede da <START:ORGANIZACAO_EMPRESA> Warner Bros. <END> ?
+Com que companhia se fundiu a <START:ORGANIZACAO_EMPRESA> Warner Bros. <END> <START:TEMPO_TEMPO_CALEND> em 2000 <END> ?
+Que profissão praticou <START:PESSOA_INDIVIDUAL> Gerhard Schröder <END> e 1978 a 1990?
+Em que encontro ele foi representado por <START:PESSOA_INDIVIDUAL> Chirac <END> ?
+Como se chama a quarta mulher dele?
+Qual a profundidade do <START:LOCAL_FISICO> Grand Canyon <END> ?
+Como se chamam as três cataratas do <START:LOCAL_FISICO> Canyon <END> ?
+Que marca fez <START:PESSOA_INDIVIDUAL> Benetton <END> famoso?
+Onde fica o Carlton Center?
+O que é Putuo?
+Quando foi fundada a <START:ORGANIZACAO_EMPRESA> SEAT <END> ?
+A que companhia alemã pertence <START:TEMPO_GENERICO> hoje <END> a <START:ORGANIZACAO_EMPRESA> SEAT <END> ?
+Em que concerto participaram os <START:PESSOA_GRUPOMEMBRO> Coldplay <END> <START:TEMPO_TEMPO_CALEND> a 2 de Julho de 2005 <END> ?
+Que idade tinha <START:PESSOA_INDIVIDUAL> Cate Blanchett <END> quando lhe morreu o pai?
+Qual foi o primeiro filme dela?
+De que país é <START:PESSOA_INDIVIDUAL> Peter Jackson <END> ?
+O que significa viquingue?
+O que é o Santo Ofício?
+Até quando existiu a <START:ORGANIZACAO_INSTITUICAO> Inquisição <END> em <START:LOCAL_HUMANO> França <END> ?
+Como se chamava a mãe de <START:PESSOA_INDIVIDUAL> Nero <END> ?
+<START:PESSOA_INDIVIDUAL> Isabel Allende <END> é parente de que antigo <START:PESSOA_CARGO> presidente do Chile <END> ?
+Onde ficam as universidades de <START:ORGANIZACAO_INSTITUICAO> Yale <END> e <START:ORGANIZACAO_INSTITUICAO> Harvard <END> ?
+Qual é o maior estado da <START:LOCAL_HUMANO> Nova Inglaterra <END> ?
+Porque é que foi construída a <START:OBRA_ARTE> Coluna da Vitória <END> em <START:LOCAL_HUMANO> Berlim <END> ?
+Como se chama a escultura de bronze que existe na <START:LOCAL_HUMANO> Coluna da Vitória <END> ?
+Quando é que morreu <START:PESSOA_INDIVIDUAL> Alfred Hitchcock <END> ?
+Para onde é que ele emigrou <START:TEMPO_TEMPO_CALEND> em 1939 <END> ?
+Como é que se chamava o seu primeiro filme americano?
+Quem organiza o  <START:ACONTECIMENTO_ORGANIZADO> Carnaval <END> do <START:LOCAL_HUMANO> Rio <END> ?
+Qual é o comprimento da arena do <START:LOCAL_HUMANO> Sambódromo <END> ?
+--DOCSTART--
+
+<START:PESSOA_INDIVIDUAL> Amadeo de Souza-Cardoso <END>
+Vida
+A sua familia era rica e influenciou-o a ingressar no curso de <START:ABSTRACCAO_DISCIPLINA> Direito <END> na  <START:ORGANIZACAO_INSTITUICAO> Universidade <END> de <START:LOCAL_HUMANO> Coimbra <END> .
+Depressa desistiu do curso e mudou-se para o curso de <START:ABSTRACCAO_DISCIPLINA> Arquitectura <END> na  <START:ORGANIZACAO_INSTITUICAO> Academia de Belas Artes <END> de <START:LOCAL_HUMANO> Lisboa <END> <START:TEMPO_TEMPO_CALEND> em 1905 <END> .
+O curso nao satisfaz o seu genio criativo, por isso parte para <START:LOCAL_HUMANO> Paris <END> <START:TEMPO_TEMPO_CALEND> em 1906 <END> instalando-se em <START:LOCAL_HUMANO> Montparnasse <END> com a intençao de continuar a estudar.
+As suas primeiras experiências artisticas conhecidas foram desenhos e caricaturas, <START:TEMPO_TEMPO_CALEND> depois <END> dedicou-se à pintura.
+Poder-se-á dizer que foi um pintor impressionista, expressionista, cubista, futurista mas sempre recusou qualquer rotulo.
+Apesar das multiplas influencias procurava a originalidade e a criatividade na sua obra.
+<START:TEMPO_TEMPO_CALEND> Em 1908 <END> instala-se no número catorze da <START:LOCAL_HUMANO> Cité de Falguière <END> .
+Frequentou ateliers preparatórios para <START:ORGANIZACAO_INSTITUICAO> Academia de Beaux-Arts <END> e a <START:ORGANIZACAO_INSTITUICAO> Academia Viti <END> do pintor catalão <START:PESSOA_INDIVIDUAL> Anglada Camarasa <END> mas, apesar disso, nao chega a ser admitido.
+<START:TEMPO_TEMPO_CALEND> Em 1910 <END> esteve <START:TEMPO_DURACAO> alguns meses <END> em <START:LOCAL_HUMANO> Bruxelas <END> e <START:TEMPO_TEMPO_CALEND> em 1911 <END> expôs trabalhos no <START:LOCAL_HUMANO> Salon des Indépendants <END> , em <START:LOCAL_HUMANO> Paris <END> , aproximando-se progressivamente das vanguardas e de artistas como <START:PESSOA_INDIVIDUAL> Amedeo Modigliani <END> , <START:PESSOA_INDIVIDUAL> Constantin Brancusi <END> , <START:PESSOA_INDIVIDUAL> Alexander Archipenko <END> , <START:PESSOA_INDIVIDUAL> Juan Gris <END> e <START:PESSOA_INDIVIDUAL> Robert Delaunay <END> .
+<START:TEMPO_TEMPO_CALEND> Em 1912 <END> publicou um álbum com vinte desenhos e, em seguida, copiou o conto de <START:PESSOA_INDIVIDUAL> Gustave Flaubert <END> , " <START:OBRA_REPRODUZIDA> La Légende de Saint Julien l'Hospitalier <END> ", trabalhos ignorados pelos apreciadores de arte.
+Depois de participar <START:TEMPO_TEMPO_CALEND> em 1913 <END> numa exposição com oito trabalhos nos <START:LOCAL_HUMANO> Estados Unidos da América <END> , no <START:ACONTECIMENTO_EVENTO> Armory Show <END> , voltou a <START:LOCAL_HUMANO> Portugal <END> , onde teve a ousadia de realizar duas exposições, respectivamente em <START:LOCAL_HUMANO> Porto <END> e em <START:LOCAL_HUMANO> Lisboa <END> .
+<START:TEMPO_TEMPO_CALEND> Nesse ano <END> participou ainda no <START:ACONTECIMENTO_ORGANIZADO> Herbstsalon <END> da <START:LOCAL_HUMANO> Galeria Der Sturm <END> , em <START:LOCAL_HUMANO> Berlim <END> .
+<START:TEMPO_TEMPO_CALEND> Em 1914 <END> encontrou-se em <START:LOCAL_HUMANO> Barcelona <END> com <START:PESSOA_INDIVIDUAL> Antoni Gaudí <END> , e parte para <START:LOCAL_HUMANO> Madrid <END> onde é surpreendido pelo início da <START:ACONTECIMENTO_EFEMERIDE> I Guerra Mundial <END> .
+Regressou então a <START:LOCAL_HUMANO> Portugal <END> , onde iniciou meteórica carreira na experimentação de novas formas de expressão, tendo pintado com grande constância ao ponto de, <START:TEMPO_TEMPO_CALEND> em 1916 <END> , expor no <START:LOCAL_HUMANO> Porto <END> <START:VALOR_QUANTIDADE> 114 <END> obras com o título " <START:ABSTRACCAO_NOME> Abstraccionismo <END> ", que serão também expostas em <START:LOCAL_HUMANO> Lisboa <END> , num e noutro caso com novidade e algum escândalo.
+O cubismo em expansão por toda a <START:LOCAL_HUMANO> Europa <END> foram influências marcantes no seu cubismo analítico.
+<START:PESSOA_INDIVIDUAL> Amadeo de Souza-Cardoso <END> explora o expressionismo e nos seus últimos trabalhos experimenta novas formas e técnicas, como as colagens e outras formas de expressão plástica.
+<START:TEMPO_TEMPO_CALEND> Em 25 de Outubro de 1918 <END> , aos <START:VALOR_QUANTIDADE> 31 anos <END> de idade, morre prematuramente em <START:LOCAL_HUMANO> Espinho <END> , vítima da "pneumónica" que grassava em <START:LOCAL_HUMANO> Portugal <END> .
 --DOCSTART--
     
- Lápis-lazúli , conhecido também como lápis, é uma rocha metamórfica de cor azul utilizada como gema ou como rocha ornamental utilizada <START:TEMPO_TEMPO_CALEND> desde antes de 7000 a.C. <END> em <START:LOCAL_HUMANO> Mehrgarh <END> na <START:LOCAL_HUMANO> Índia <END> , situado <START:TEMPO_GENERICO> nos dias de hoje <END> no <START:LOCAL_HUMANO> Paquistão <END> .
-A sua azul-escura e opaca, fez com que esta gema fosse altamente apreciada pelos faraós egípcios, como pode ser visto por seu uso proeminente em muitos dos tesouros recuperados dos túmulos faraônicos.
-É ainda extremamente popular <START:TEMPO_GENERICO> hoje <END> .
-Trata-se de uma rocha e não de um mineral porque é composto de vários minerais.
-A primeira parte do nome, lápis, em latim significa pedra.
-A segunda parte, lazúli, é a forma genitiva no latim, lazulum, que veio do árabe (al)- lazward, que veio do persa lazhward, que veio do sânscrito <START:ABSTRACCAO_NOME> Raja Warta <END> significando anel, vida do rei.
-Lazúli era originalmente um nome, mas logo veio a significar azul por causa de sua associação com a pedra.
-A palavra em inglês azure, do azul espanhol e português, e o azzurro italiano são cognatos.
-História    
- No    antigo   <START:LOCAL_HUMANO> Egito <END> o lápis-lazúli era a pedra favorita para amuletos e ornamentos; foi usado também pelos assírios e pelos babilônicos nos selos cilíndricos (locais onde se gravavam pinturas contando a historia do povo).
-As escavações egípcias que datam <START:TEMPO_TEMPO_CALEND> de 3000 a.C. <END> continham milhares de artigos como jóia, muitos feitos de lápis.
-Os lápis pulverizados foram usados por senhoras egípcias como uma sombra cosmética para o olho.
-Como inscrito no capítulo 140 do <START:OBRA_REPRODUZIDA> Livro dos Mortos <END> egípcio, o lápis lazúli, na forma de um olho ajustado no ouro, foi considerado um amuleto de grande poder.
-<START:TEMPO_FREQUENCIA> No último dia do mês <END> , oferecia-se este olho simbólico, porque se acreditava que, <START:TEMPO_TEMPO_CALEND> nesse dia <END> , um ser supremo colocou tal imagem em sua cabeça.
-Os antigos túmulos reais sumérios de <START:LOCAL_HUMANO> Ur <END> , situados perto do rio <START:LOCAL_FISICO> Eufrates <END> no baixo <START:LOCAL_HUMANO> Iraque <END> , continham <START:VALOR_QUANTIDADE> mais de 6000 <END> estatuetas belamente executadas, de lápis-lazúli, de pássaros, cervos, e roedores bem como pratos, grânulos, e selos de cilindro.
-Estes artefatos vieram indubitavelmente do material minado em <START:LOCAL_HUMANO> Badakhshan <END> no norte do <START:LOCAL_HUMANO> Afeganistão <END> .
-Curiosidades    
- É a pedra oficial do anel de formatura dos psicologos, assim considerada <START:TEMPO_TEMPO_CALEND> a partir de 31 de março de 2006 <END> , pela resolução Nº 002/2006, do <START:ORGANIZACAO_INSTITUICAO> Conselho Federal de Psicologia <END> brasileiro.
---DOCSTART--
-    
-  <START:OBRA_ARTE> Palácio Nacional <END> de <START:LOCAL_HUMANO> Mafra <END>        
-Convento    
- <START:TEMPO_TEMPO_CALEND> Em 1715 <END> , foi fundado o  <START:ORGANIZACAO_INSTITUICAO> Convento de Nossa Senhora e Santo António <END> de <START:LOCAL_HUMANO> Mafra <END> , que pertencia à província eclesiástica da <START:LOCAL_HUMANO> Arrábida <END> .
-Teve origem numa comunidade do <START:ORGANIZACAO_INSTITUICAO> Hospício do Espírito Santo <END> .
-<START:TEMPO_TEMPO_CALEND> Em 1730 <END> , sagrada a <START:OBRA_ARTE> Igreja de Nossa Senhora e Santo António <END> , junto de <START:LOCAL_HUMANO> Mafra <END> , foi para lá transferida a sobredita comunidade.
-<START:TEMPO_TEMPO_CALEND> Entre 1771 e 1791 <END> , por breve de <START:PESSOA_INDIVIDUAL> Clemente XIV <END> , <START:TEMPO_TEMPO_CALEND> de 4 de julho de 1770 <END> , a requerimento do <START:PESSOA_CARGO> Marquês de Pombal <END> , foi ocupado pelos   <START:PESSOA_GRUPOMEMBRO> Cónegos Regulares de Santo Agostinho <END>   da    <START:ORGANIZACAO_INSTITUICAO> Congregação <END> de <START:LOCAL_HUMANO> Santa Cruz <END> de <START:LOCAL_HUMANO> Coimbra <END>  ; os    <START:PESSOA_GRUPOMEMBRO> Franciscanos <END>   da   <START:ORGANIZACAO_INSTITUICAO> Província da Arrábida <END> saíram do  <START:LOCAL_HUMANO> Convento <END> de <START:LOCAL_HUMANO> Mafra <END> , <START:TEMPO_TEMPO_CALEND> em Maio de 1771 <END> .
-<START:TEMPO_TEMPO_CALEND> Em 1791 <END> , os <START:PESSOA_GRUPOMEMBRO> Cónegos Regulares de Santo Agostinho <END> saíram do edifício de <START:LOCAL_HUMANO> Mafra <END> .
-<START:TEMPO_TEMPO_CALEND> Em 1834 <END> , no âmbito da " <START:OBRA_PLANO> Reforma geral eclesiástica <END> " empreendida pelo ministro e <START:PESSOA_CARGO> secretário de Estado <END> , <START:PESSOA_INDIVIDUAL> Joaquim António de Aguiar <END> , executada pela <START:ORGANIZACAO_INSTITUICAO> Comissão da Reforma Geral do Clero <END> ( <START:TEMPO_TEMPO_CALEND> 1833-1837 <END> ), pelo   <START:OBRA_PLANO> Decreto de 28 de Maio <END> , promulgado <START:TEMPO_TEMPO_CALEND> a 30 desse mês <END> , foram extintos todos os conventos, mosteiros, colégios, hospícios e casas de religiosos de todas as ordens religiosas, ficando as de religiosas, sujeitas aos respectivos bispos, até à morte da última freira, data do encerramento definitivo.
+Multibanco    
+ <START:COISA_CLASSE> Multibanco <END> é uma marca registada propriedade da empresa <START:ORGANIZACAO_EMPRESA> SIBS <END> .
+O termo é utilizado comumente para designar as caixas automáticas (as máquinas que permitem a realização de operações bancárias em regime de auto-serviço), sendo mesmo utilizados em relação a caixas automáticas de sistema outros que o controlado pela <START:ORGANIZACAO_EMPRESA> SIBS <END> .
+Neste contexto, também se utiliza o termo <START:ABSTRACCAO_NOME> ATM <END> , do inglês <START:ABSTRACCAO_NOME> Automatic Teller Machine <END> .
+Enquanto <START:LOCAL_HUMANO> Portugal <END> foi um dos últimos países da <START:LOCAL_HUMANO> Europa <END> ocidental a instalá-las, o equipamento usado representou o que havia de mais avançado, baseado nas experiências de outros países, muitos dos quais gastam agora imenso dinheiro para substituir e actualizar máquinas obsoletas.
+O número de caixas  <START:COISA_CLASSE> Multibanco <END> mais do que triplicou em <START:LOCAL_HUMANO> Portugal <END> <START:TEMPO_TEMPO_CALEND> na última década <END> , revela um estudo da <START:ORGANIZACAO_EMPRESA> Marktest <END> .
+<START:TEMPO_TEMPO_CALEND> Desde 1995 <END> , triplicou também o valor mensal médio de levantamentos per capita, revelam os dados fornecidos pela <START:ORGANIZACAO_EMPRESA> SIBS <END> e incluídos na pesquisa « <START:OBRA_PLANO> Os Concelhos Portugueses -- 1995/2005 <END>  ».
+Em <START:LOCAL_HUMANO> Portugal <END> , os multibancos têm tido muito sucesso, o que levou ao aparecimento de novos serviços não bancários, como a venda de bilhetes ou o pagamento de serviços.
+<START:TEMPO_TEMPO_CALEND> Neste momento <END> a <START:COISA_CLASSE> Rede Multibanco <END> é uma das mais sofisticadas redes interbancárias do mundo.
+Também é o nome de um cartão de débito.

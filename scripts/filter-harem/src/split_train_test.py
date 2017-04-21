@@ -19,8 +19,10 @@ dataset = tree.xpath("//DOC")
 shuffle(dataset)
 
 # split into 10 folds
-n_folds = int(len(dataset)/9)
-folds = [dataset[i:i + 10] for i in xrange(0, len(dataset), n_folds)]
+fold_size = int(len(dataset)/9)
+folds = [dataset[i:(i + fold_size)] for i in xrange(0, len(dataset), fold_size)]
+#folds = [dataset[i:i + 10] for i in xrange(0, len(dataset), fold_size)]
+#dataset[i:(i + fold_size)]
 
 for i in range(len(folds)):
 	out_tree_str = "<?xml version='1.0' encoding='ISO-8859-1'?>\n"

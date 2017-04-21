@@ -1,4 +1,8 @@
 #!/bin/bash
+# -*- coding: utf8 -*-
+#
+# brat_build_test.sh
+# José Devezas <joseluisdevezas@gmail.com>
 
 if [ $# -lt 2 ]
 then

@@ -4,7 +4,7 @@ HAREM=../../../scripts/filter-harem
 
 for r in {0..3}
 do
-	printf "\n***** repeat "$i" *****\n"
+	printf "\n***** repeat "$r" *****\n"
 	for i in {0..9}
 	do
 		FOLDER=outputs/repeat-$r/fold-$i

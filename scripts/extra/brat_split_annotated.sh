@@ -1,4 +1,8 @@
 #!/bin/bash
+# -*- coding: utf8 -*-
+#
+# brat_split_annotated.sh
+# José Devezas <joseluisdevezas@gmail.com>
 
 if [ $# -lt 3 ]
 then
