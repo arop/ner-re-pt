@@ -1,22 +1,17 @@
-processed 10285 tokens with 301 phrases; found: 98 phrases; correct: 73.
-accuracy:  95.45%; precision:  74.49%; recall:  24.25%; FB1:  36.59
+processed 8254 tokens with 282 phrases; found: 74 phrases; correct: 66.
+accuracy:  94.48%; precision:  89.19%; recall:  23.40%; FB1:  37.08
 LOCAL_FISICO_AGUAMASSA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 LOCAL_FISICO_ILHA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-LOCAL_FISICO_REGIAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-LOCAL_FISICO_RELEVO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-LOCAL_HUMANO_CONSTRUCAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
-LOCAL_HUMANO_DIVISAO: precision:  50.00%; recall:  15.56%; FB1:  23.73  14
-LOCAL_HUMANO_PAIS: precision:  83.33%; recall:   9.80%; FB1:  17.54  6
+LOCAL_HUMANO_CONSTRUCAO: precision:  50.00%; recall:   8.33%; FB1:  14.29  2
+LOCAL_HUMANO_DIVISAO: precision:  71.43%; recall:  15.87%; FB1:  25.97  14
+LOCAL_HUMANO_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_HUMANO_PAIS: precision:  90.91%; recall:  25.00%; FB1:  39.22  11
 LOCAL_HUMANO_REGIAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
- LOCAL_HUMANO_RUA: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ LOCAL_HUMANO_RUA: precision: 100.00%; recall:  28.57%; FB1:  44.44  2
+LOCAL_VIRTUAL_COMSOCIAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 LOCAL_VIRTUAL_SITIO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-OBRA_ARTE_CONSTRUCAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-  OBRA_ARTE_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-OBRA_REPRODUZIDA_FILME: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-OBRA_REPRODUZIDA_LIVRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
-OBRA_REPRODUZIDA_MUSICA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+OBRA_REPRODUZIDA_LIVRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 OBRA_REPRODUZIDA_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-ORGANIZACAO_ADMINISTRACAO_SUB: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-ORGANIZACAO_INSTITUICAO_SUB: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-TEMPO_TEMPO_CALEND_DATA: precision:  83.10%; recall:  54.63%; FB1:  65.92  71
-TEMPO_TEMPO_CALEND_INTERVALO: precision:  66.67%; recall:  15.38%; FB1:  25.00  3
+TEMPO_TEMPO_CALEND_DATA: precision:  95.45%; recall:  38.53%; FB1:  54.90  44
+TEMPO_TEMPO_CALEND_HORA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+TEMPO_TEMPO_CALEND_INTERVALO: precision: 100.00%; recall:  16.67%; FB1:  28.57  1

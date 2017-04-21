@@ -1,7 +1,12 @@
-processed 1413 tokens with 35 phrases; found: 9 phrases; correct: 7.
-accuracy:  96.32%; precision:  77.78%; recall:  20.00%; FB1:  31.82
+processed 968 tokens with 20 phrases; found: 4 phrases; correct: 3.
+accuracy:  95.97%; precision:  75.00%; recall:  15.00%; FB1:  25.00
 LOCAL_HUMANO_CONSTRUCAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-LOCAL_HUMANO_DIVISAO: precision:  66.67%; recall:  12.50%; FB1:  21.05  3
-LOCAL_HUMANO_PAIS: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-LOCAL_HUMANO_REGIAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
-TEMPO_TEMPO_CALEND_DATA: precision: 100.00%; recall:  38.46%; FB1:  55.56  5
+LOCAL_HUMANO_DIVISAO: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+LOCAL_HUMANO_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_HUMANO_PAIS: precision: 100.00%; recall:  66.67%; FB1:  80.00  2
+LOCAL_VIRTUAL_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_VIRTUAL_SITIO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+OBRA_REPRODUZIDA_MUSICA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+TEMPO_TEMPO_CALEND_DATA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+TEMPO_TEMPO_CALEND_HORA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+TEMPO_TEMPO_CALEND_INTERVALO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
