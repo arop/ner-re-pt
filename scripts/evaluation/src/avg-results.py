@@ -83,8 +83,8 @@ for result in results:
 			name = result[cat+1][0][1]
 			#cats[name][0] = result[cat+1][0][1] # get category name
 			cats[name][0].append(result[cat+1][1][1]) # get p
-			cats[name][1].append(result[cat+1][2][1]) # get p
-			cats[name][2].append(result[cat+1][3][1]) # get p
+			cats[name][1].append(result[cat+1][2][1]) # get r
+			cats[name][2].append(result[cat+1][3][1]) # get fb1
 		except IndexError:
 			#print "One fold (" + str(i) + ") does not have all categories!"
 			continue #already dealt with
@@ -94,17 +94,34 @@ avg_g_p = get_avg(g_p)
 avg_g_r = get_avg(g_r)
 avg_g_fb1 = get_avg(g_fb1)
 
+if (avg_g_p + avg_g_r) == 0.0:
+	avg_g_m_fb1 = 0.0
+else:	
+	avg_g_m_fb1 = 2 * (avg_g_p * avg_g_r) / (avg_g_p + avg_g_r)
+
+
 to_file = ""
 
 to_file += "precision: {:04.2f}".format(avg_g_p) 
 to_file += "\trecall: {:04.2f}".format(avg_g_r) 
 to_file += "\tFB1: {:04.2f}".format(avg_g_fb1) 
+to_file += "\tM_FB1: {:04.2f}".format(avg_g_m_fb1)
 to_file += "\taccuracy: {:04.2f}".format(avg_g_acc) + '\n'
 
 for cat in cats:
-	to_file += "precision: {:05.2f}".format(get_avg(cats[cat][0])) 
-	to_file += "\trecall: {:05.2f}".format(get_avg(cats[cat][1])) 
-	to_file += "\tFB1: {:05.2f}".format(get_avg(cats[cat][2])) 
+	precision = get_avg(cats[cat][0])
+	recall = get_avg(cats[cat][1])
+	fb1 = get_avg(cats[cat][2])
+
+	if (precision + recall) == 0.0:
+		m_fb1 = 0.0
+	else:
+		m_fb1 = 2 * (precision * recall) / (precision + recall)
+
+	to_file += "precision: {:05.2f}".format(precision) 
+	to_file += "\trecall: {:05.2f}".format(recall) 
+	to_file += "\tFB1: {:05.2f}".format(fb1) 
+	to_file += "\tMFB1: {:05.2f}".format(m_fb1) 
 	to_file += '\t' + cat + '\n'
 
 f = open('../results/' + tool + '/repeat-' + repeat + '/avg/' + level + '-avg.txt', 'w')
