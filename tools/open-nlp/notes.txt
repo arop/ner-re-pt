@@ -1,23 +1,3 @@
-The data must be converted to the OpenNLP name finder training format. Which is one sentence per line. The sentence must be tokenized and contain spans which mark the entities. Documents are separated by empty lines which trigger the reset of the adaptive feature generators. A training file can contain multiple types. If the training file contains multiple types the created model will also be able to detect these multiple types. For now its recommended to only train single type models, since multi type support is stil experimental.
-
-Sample sentence of the data:
-
-<START:person> Pierre Vinken <END> , 61 years old , will join the board as a nonexecutive director Nov. 29 .
-Mr . <START:person> Vinken <END> is chairman of Elsevier N.V. , the Dutch publishing group .
-
-The training data should contain at least 15000 sentences to create a model which performs well. 
-
-
------------------------------------------------------------------------
-DEPRECATED
-1- Using python script, transform EM tags in START and END tags
-2- Remove all \n from input file
-3- Perform sentence detector using openNLP SentenceDetector:
-	opennlp SentenceDetector pt-sent.bin < input.txt > output.txt
-NOTE: output file has UTF-8 encoding!
-4- Remove manually all <DOC..>
------------------------------------------------------------------------
-
 https://opennlp.apache.org/documentation/manual/opennlp.html#tools.namefind.recognition.cmdline
 
 bin/opennlp TokenNameFinderTrainer
@@ -40,3 +20,15 @@ join faulty sentences (sentences with <END> tag with no match)
 
 ----------------------------
 tags have to have a space before and after!!!!!
+
+----------------------------
+
+train time each avg:
+cat: 23s
+types: 53s
+subtypes: 46s
+filtered: 17s
+
+train all: 90min - 1h30
+test all: 2min
+results to conll: 6min
