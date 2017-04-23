@@ -1,10 +1,17 @@
-processed 1357 tokens with 35 phrases; found: 15 phrases; correct: 0.
-accuracy:  94.10%; precision:   0.00%; recall:   0.00%; FB1:   0.00
-LOCAL_FISICO_PLANETA: precision:   0.00%; recall:   0.00%; FB1:   0.00  8
+processed 889 tokens with 20 phrases; found: 47 phrases; correct: 0.
+accuracy:  91.23%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+LOCAL_FISICO_REGIAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
 LOCAL_HUMANO_CONSTRUCAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 LOCAL_HUMANO_DIVISAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_HUMANO_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 LOCAL_HUMANO_PAIS: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-LOCAL_VIRTUAL_COMSOCIAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
-LOCAL_VIRTUAL_OBRA: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
-OBRA_REPRODUZIDA_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+LOCAL_VIRTUAL_OBRA: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+LOCAL_VIRTUAL_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_VIRTUAL_SITIO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+OBRA_ARTE_EDIFICIO: precision:   0.00%; recall:   0.00%; FB1:   0.00  10
+OBRA_REPRODUZIDA_MUSICA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+OBRA_REPRODUZIDA_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  19
+OBRA_REPRODUZIDA_PROGRAMA: precision:   0.00%; recall:   0.00%; FB1:   0.00  6
+ORGANIZACAO_EMPRESA_SUB: precision:   0.00%; recall:   0.00%; FB1:   0.00  7
 TEMPO_TEMPO_CALEND_DATA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+TEMPO_TEMPO_CALEND_HORA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0

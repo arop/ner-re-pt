@@ -1,28 +1,37 @@
-processed 4642 tokens with 437 phrases; found: 59 phrases; correct: 1.
-accuracy:  80.65%; precision:   1.69%; recall:   0.23%; FB1:   0.40
+processed 9614 tokens with 744 phrases; found: 124 phrases; correct: 13.
+accuracy:  85.29%; precision:  10.48%; recall:   1.75%; FB1:   3.00
 ABSTRACCAO_DISCIPLINA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 ABSTRACCAO_ESTADO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
  ABSTRACCAO_IDEIA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
   ABSTRACCAO_NOME: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ACONTECIMENTO_EFEMERIDE: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ACONTECIMENTO_EVENTO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 ACONTECIMENTO_ORGANIZADO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
      COISA_CLASSE: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-COISA_MEMBROCLASSE: precision:   0.00%; recall:   0.00%; FB1:   0.00  21
- COISA_SUBSTANCIA: precision:   0.00%; recall:   0.00%; FB1:   0.00  26
+COISA_MEMBROCLASSE: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    COISA_OBJECTO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ COISA_SUBSTANCIA: precision:   0.00%; recall:   0.00%; FB1:   0.00  35
      LOCAL_FISICO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-     LOCAL_HUMANO: precision: 100.00%; recall:   0.86%; FB1:   1.71  1
+     LOCAL_HUMANO: precision:  92.86%; recall:  10.57%; FB1:  18.98  14
+      LOCAL_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
     LOCAL_VIRTUAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        OBRA_ARTE: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
        OBRA_PLANO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
  OBRA_REPRODUZIDA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 ORGANIZACAO_ADMINISTRACAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 ORGANIZACAO_EMPRESA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 ORGANIZACAO_INSTITUICAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
      PESSOA_CARGO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+PESSOA_GRUPOCARGO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
   PESSOA_GRUPOIND: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 PESSOA_GRUPOMEMBRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-PESSOA_INDIVIDUAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
-    PESSOA_MEMBRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+PESSOA_INDIVIDUAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  7
+    PESSOA_MEMBRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  39
+      PESSOA_POVO: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
     TEMPO_DURACAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
  TEMPO_FREQUENCIA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
    TEMPO_GENERICO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-TEMPO_TEMPO_CALEND: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
- VALOR_QUANTIDADE: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+TEMPO_TEMPO_CALEND: precision:   0.00%; recall:   0.00%; FB1:   0.00  24
+VALOR_CLASSIFICACAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      VALOR_MOEDA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ VALOR_QUANTIDADE: precision:   0.00%; recall:   0.00%; FB1:   0.00  0

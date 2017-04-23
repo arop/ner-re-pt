@@ -1,13 +1,19 @@
-processed 7188 tokens with 108 phrases; found: 235 phrases; correct: 26.
-accuracy:  91.39%; precision:  11.06%; recall:  24.07%; FB1:  15.16
-LOCAL_HUMANO_CONSTRUCAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
-LOCAL_HUMANO_DIVISAO: precision:  14.89%; recall:  29.17%; FB1:  19.72  47
-LOCAL_HUMANO_PAIS: precision:   9.46%; recall:  29.17%; FB1:  14.29  74
+processed 6297 tokens with 169 phrases; found: 168 phrases; correct: 26.
+accuracy:  91.09%; precision:  15.48%; recall:  15.38%; FB1:  15.43
+LOCAL_FISICO_AGUAMASSA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_FISICO_REGIAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_HUMANO_CONSTRUCAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_HUMANO_DIVISAO: precision:  18.00%; recall:  23.08%; FB1:  20.22  50
+LOCAL_HUMANO_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_HUMANO_PAIS: precision:   8.70%; recall:  18.18%; FB1:  11.76  23
+LOCAL_HUMANO_REGIAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
  LOCAL_HUMANO_RUA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_VIRTUAL_COMSOCIAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 LOCAL_VIRTUAL_SITIO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-  OBRA_ARTE_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 OBRA_REPRODUZIDA_FILME: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
-OBRA_REPRODUZIDA_LIVRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-TEMPO_TEMPO_CALEND_DATA: precision:  10.91%; recall:  27.91%; FB1:  15.69  110
+OBRA_REPRODUZIDA_LIVRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+OBRA_REPRODUZIDA_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ORGANIZACAO_EMPRESA_SUB: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+TEMPO_TEMPO_CALEND_DATA: precision:  16.48%; recall:  25.86%; FB1:  20.13  91
 TEMPO_TEMPO_CALEND_HORA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 TEMPO_TEMPO_CALEND_INTERVALO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0

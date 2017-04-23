@@ -1,12 +1,17 @@
-processed 2946 tokens with 50 phrases; found: 67 phrases; correct: 6.
-accuracy:  92.80%; precision:   8.96%; recall:  12.00%; FB1:  10.26
+processed 2668 tokens with 122 phrases; found: 123 phrases; correct: 32.
+accuracy:  87.67%; precision:  26.02%; recall:  26.23%; FB1:  26.12
+LOCAL_FISICO_AGUACURSO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_FISICO_AGUAMASSA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_FISICO_REGIAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 LOCAL_HUMANO_CONSTRUCAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-LOCAL_HUMANO_DIVISAO: precision:   7.69%; recall:   7.14%; FB1:   7.41  13
+LOCAL_HUMANO_DIVISAO: precision:  18.18%; recall:  27.27%; FB1:  21.82  33
 LOCAL_HUMANO_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-LOCAL_HUMANO_PAIS: precision:  12.00%; recall:  23.08%; FB1:  15.79  25
+LOCAL_HUMANO_PAIS: precision:   7.41%; recall:  20.00%; FB1:  10.81  27
 LOCAL_HUMANO_REGIAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
- LOCAL_HUMANO_RUA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-LOCAL_VIRTUAL_SITIO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+OBRA_ARTE_PINTURA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+OBRA_REPRODUZIDA_FILME: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 OBRA_REPRODUZIDA_LIVRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-TEMPO_TEMPO_CALEND_DATA: precision:   6.90%; recall:  15.38%; FB1:   9.52  29
+OBRA_REPRODUZIDA_MUSICA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+TEMPO_TEMPO_CALEND_DATA: precision:  38.10%; recall:  60.00%; FB1:  46.60  63
+TEMPO_TEMPO_CALEND_HORA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 TEMPO_TEMPO_CALEND_INTERVALO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0

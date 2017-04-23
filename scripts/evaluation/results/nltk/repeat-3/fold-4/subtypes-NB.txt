@@ -1,18 +1,20 @@
-processed 6703 tokens with 211 phrases; found: 191 phrases; correct: 30.
-accuracy:  89.86%; precision:  15.71%; recall:  14.22%; FB1:  14.93
-LOCAL_FISICO_RELEVO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-LOCAL_HUMANO_CONSTRUCAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
-LOCAL_HUMANO_DIVISAO: precision:  15.94%; recall:  31.43%; FB1:  21.15  69
-LOCAL_HUMANO_PAIS: precision:  21.43%; recall:   9.68%; FB1:  13.33  14
+processed 8384 tokens with 206 phrases; found: 203 phrases; correct: 45.
+accuracy:  92.13%; precision:  22.17%; recall:  21.84%; FB1:  22.00
+LOCAL_FISICO_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_FISICO_REGIAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_HUMANO_CONSTRUCAO: precision:  50.00%; recall:   8.33%; FB1:  14.29  2
+LOCAL_HUMANO_DIVISAO: precision:  25.00%; recall:  29.79%; FB1:  27.18  56
+LOCAL_HUMANO_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_HUMANO_PAIS: precision:  19.23%; recall:  25.00%; FB1:  21.74  26
 LOCAL_HUMANO_REGIAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
  LOCAL_HUMANO_RUA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_VIRTUAL_COMSOCIAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_VIRTUAL_OBRA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 LOCAL_VIRTUAL_SITIO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-OBRA_ARTE_CONSTRUCAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-  OBRA_ARTE_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-OBRA_REPRODUZIDA_LIVRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
-OBRA_REPRODUZIDA_MUSICA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+OBRA_REPRODUZIDA_FILME: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+OBRA_REPRODUZIDA_LIVRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 OBRA_REPRODUZIDA_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-ORGANIZACAO_INSTITUICAO_SUB: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-TEMPO_TEMPO_CALEND_DATA: precision:  15.09%; recall:  26.23%; FB1:  19.16  106
+OBRA_REPRODUZIDA_TEATRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+TEMPO_TEMPO_CALEND_DATA: precision:  21.19%; recall:  26.88%; FB1:  23.70  118
 TEMPO_TEMPO_CALEND_HORA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
 TEMPO_TEMPO_CALEND_INTERVALO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0

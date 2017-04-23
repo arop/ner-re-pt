@@ -1,8 +1,8 @@
-processed 5456 tokens with 283 phrases; found: 284 phrases; correct: 76.
-accuracy:  92.65%; precision:  26.76%; recall:  26.86%; FB1:  26.81
-    ACONTECIMENTO: precision:   0.00%; recall:   0.00%; FB1:   0.00  12
-            LOCAL: precision:  46.77%; recall:  46.77%; FB1:  46.77  62
-      ORGANIZACAO: precision:  30.77%; recall:  24.24%; FB1:  27.12  26
-           PESSOA: precision:  25.97%; recall:  22.73%; FB1:  24.24  77
-            TEMPO: precision:  17.20%; recall:  26.23%; FB1:  20.78  93
-            VALOR: precision:  21.43%; recall:  13.04%; FB1:  16.22  14
+processed 9160 tokens with 681 phrases; found: 917 phrases; correct: 208.
+accuracy:  86.44%; precision:  22.68%; recall:  30.54%; FB1:  26.03
+    ACONTECIMENTO: precision:  29.63%; recall:  40.00%; FB1:  34.04  27
+            LOCAL: precision:  46.89%; recall:  40.89%; FB1:  43.68  177
+      ORGANIZACAO: precision:  15.28%; recall:   9.40%; FB1:  11.64  72
+           PESSOA: precision:  17.54%; recall:  17.54%; FB1:  17.54  114
+            TEMPO: precision:  15.91%; recall:  49.33%; FB1:  24.07  465
+            VALOR: precision:  19.35%; recall:  15.58%; FB1:  17.27  62

@@ -1,7 +1,7 @@
-processed 1030 tokens with 73 phrases; found: 1 phrases; correct: 0.
-accuracy:  88.06%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+processed 1699 tokens with 130 phrases; found: 3 phrases; correct: 1.
+accuracy:  84.70%; precision:  33.33%; recall:   0.77%; FB1:   1.50
     ACONTECIMENTO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-            LOCAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            LOCAL: precision:  50.00%; recall:   2.38%; FB1:   4.55  2
       ORGANIZACAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
            PESSOA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
             TEMPO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1

@@ -1,19 +1,29 @@
-processed 5923 tokens with 104 phrases; found: 118 phrases; correct: 28.
-accuracy:  96.40%; precision:  23.73%; recall:  26.92%; FB1:  25.23
+processed 11761 tokens with 348 phrases; found: 586 phrases; correct: 137.
+accuracy:  93.52%; precision:  23.38%; recall:  39.37%; FB1:  29.34
 LOCAL_FISICO_AGUACURSO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-LOCAL_FISICO_PLANETA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-LOCAL_HUMANO_CONSTRUCAO: precision: 100.00%; recall:  50.00%; FB1:  66.67  4
-LOCAL_HUMANO_DIVISAO: precision:  21.05%; recall:  26.67%; FB1:  23.53  19
-LOCAL_HUMANO_PAIS: precision:  58.82%; recall:  62.50%; FB1:  60.61  17
-LOCAL_HUMANO_REGIAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  7
- LOCAL_HUMANO_RUA: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
-LOCAL_VIRTUAL_COMSOCIAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-LOCAL_VIRTUAL_SITIO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
-OBRA_REPRODUZIDA_FILME: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
-OBRA_REPRODUZIDA_LIVRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
-OBRA_REPRODUZIDA_MUSICA: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
-OBRA_REPRODUZIDA_PROGRAMA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_FISICO_AGUAMASSA: precision:   0.00%; recall:   0.00%; FB1:   0.00  48
+LOCAL_FISICO_ILHA: precision:  50.00%; recall:  50.00%; FB1:  50.00  2
+LOCAL_FISICO_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+LOCAL_FISICO_PLANETA: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+LOCAL_FISICO_REGIAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_FISICO_RELEVO: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+LOCAL_HUMANO_CONSTRUCAO: precision:  18.18%; recall:  28.57%; FB1:  22.22  22
+LOCAL_HUMANO_DIVISAO: precision:  48.33%; recall:  30.21%; FB1:  37.18  60
+LOCAL_HUMANO_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+LOCAL_HUMANO_PAIS: precision:  83.64%; recall:  65.71%; FB1:  73.60  55
+LOCAL_HUMANO_REGIAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  118
+ LOCAL_HUMANO_RUA: precision:  10.00%; recall:  11.11%; FB1:  10.53  10
+LOCAL_VIRTUAL_COMSOCIAL: precision:  25.00%; recall: 100.00%; FB1:  40.00  4
+LOCAL_VIRTUAL_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_VIRTUAL_SITIO: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+OBRA_ARTE_EDIFICIO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+OBRA_REPRODUZIDA_FILME: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+OBRA_REPRODUZIDA_LIVRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  6
+OBRA_REPRODUZIDA_MUSICA: precision:   0.00%; recall:   0.00%; FB1:   0.00  13
+OBRA_REPRODUZIDA_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+OBRA_REPRODUZIDA_PROGRAMA: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+ORGANIZACAO_ADMINISTRACAO_SUB: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
 ORGANIZACAO_INSTITUICAO_SUB: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
-TEMPO_TEMPO_CALEND_DATA: precision:  18.87%; recall:  26.32%; FB1:  21.98  53
-TEMPO_TEMPO_CALEND_HORA: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
-TEMPO_TEMPO_CALEND_INTERVALO: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+TEMPO_TEMPO_CALEND_DATA: precision:  26.83%; recall:  47.83%; FB1:  34.38  205
+TEMPO_TEMPO_CALEND_HORA: precision:   0.00%; recall:   0.00%; FB1:   0.00  12
+TEMPO_TEMPO_CALEND_INTERVALO: precision:   0.00%; recall:   0.00%; FB1:   0.00  15
