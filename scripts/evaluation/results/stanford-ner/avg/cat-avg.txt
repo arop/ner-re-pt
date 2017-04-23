@@ -1,11 +1,11 @@
-precision: 55.67	recall: 51.05	FB1: 53.22	accuracy: 91.21
-precision: 38.59	recall: 16.64	FB1: 20.80	ACONTECIMENTO
-precision: 37.28	recall: 10.51	FB1: 15.16	COISA
-precision: 44.69	recall: 42.36	FB1: 42.62	ORGANIZACAO
-precision: 77.21	recall: 60.47	FB1: 67.44	TEMPO
-precision: 32.36	recall: 28.95	FB1: 27.85	OBRA
-precision: 59.11	recall: 43.96	FB1: 49.90	VALOR
-precision: 11.46	recall: 01.34	FB1: 02.33	OUTRO
-precision: 55.25	recall: 69.60	FB1: 61.11	PESSOA
-precision: 56.09	recall: 60.34	FB1: 57.55	LOCAL
-precision: 22.55	recall: 07.22	FB1: 09.64	ABSTRACCAO
+precision: 58.84	recall: 53.60	FB1: 56.09	AVG_M_FB1: 56.10	T_M_FB1: 56.10	accuracy: 91.62
+precision: 42.79	recall: 22.09	FB1: 27.61	AVG_M_FB1: 29.05	T_M_FB1: 29.14	ACONTECIMENTO
+precision: 46.55	recall: 10.90	FB1: 16.77	AVG_M_FB1: 17.61	T_M_FB1: 17.67	COISA
+precision: 48.80	recall: 47.14	FB1: 47.69	AVG_M_FB1: 47.96	T_M_FB1: 47.96	ORGANIZACAO
+precision: 79.33	recall: 64.28	FB1: 70.79	AVG_M_FB1: 71.01	T_M_FB1: 71.01	TEMPO
+precision: 37.13	recall: 29.40	FB1: 32.00	AVG_M_FB1: 32.81	T_M_FB1: 32.81	OBRA
+precision: 63.19	recall: 50.23	FB1: 55.48	AVG_M_FB1: 55.98	T_M_FB1: 55.97	VALOR
+precision: 23.33	recall: 04.31	FB1: 06.79	AVG_M_FB1: 07.22	T_M_FB1: 07.28	OUTRO
+precision: 57.04	recall: 69.20	FB1: 62.12	AVG_M_FB1: 62.53	T_M_FB1: 62.53	PESSOA
+precision: 59.60	recall: 64.05	FB1: 61.35	AVG_M_FB1: 61.74	T_M_FB1: 61.74	LOCAL
+precision: 29.35	recall: 08.30	FB1: 12.40	AVG_M_FB1: 12.92	T_M_FB1: 12.95	ABSTRACCAO
