@@ -35,4 +35,5 @@ print(avg_time_types) #318.95s - 5min19
 print(avg_time_subtypes) #320.5s - 5min20
 print(avg_time_filtered) #174.725 - 2min55
 
-print(sum(times_cat+times_types+times_subtypes+times_filtered)) #40460s - 11h14
+print('total: ',sum(times_cat+times_types+times_subtypes+times_filtered)) #40460s - 11h14
+print('total without filtered: ',sum(times_cat+times_types+times_subtypes)) #33471s - 9h18

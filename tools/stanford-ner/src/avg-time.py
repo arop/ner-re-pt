@@ -16,4 +16,5 @@ avg_time_filtered = float(sum(times_filtered)) / max(len(times_filtered),1)
 print(avg_time_cat) #700.40s
 print(avg_time_filtered) #309.30s
 
-print(sum(times_cat+times_filtered)) #40381.7s - 11.21713889h - 11h13min
+print('total: ', sum(times_cat+times_filtered)) #40381.7s - 11.21713889h - 11h13min
+print('total without filtered: ', sum(times_cat)) #28009.6s - 7h47m

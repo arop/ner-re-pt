@@ -69,4 +69,12 @@ print(avg_time_types_dt) #353.7s - 5min54
 print(avg_time_subtypes_dt) #352.4s - 5min52 
 print(avg_time_filtered_dt) #358.325s - 5min58
 
-print(sum(times_cat+times_types+times_subtypes+times_filtered)) #88188s - 24h30
+print('total:', sum(times_cat+times_types+times_subtypes+times_filtered)) #88188s - 24h30
+
+print('total without filtered:', sum(times_cat+times_types+times_subtypes))
+
+print('total nb without filtered:', sum(times_cat_nb+times_types_nb+times_subtypes_nb))
+
+print('total me without filtered:', sum(times_cat_me+times_types_me+times_subtypes_me))
+
+print('total dt without filtered:', sum(times_cat_dt+times_types_dt+times_subtypes_dt))
