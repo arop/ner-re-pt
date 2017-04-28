@@ -1,15 +1,4 @@
-https://opennlp.apache.org/documentation/manual/opennlp.html#tools.namefind.recognition.cmdline
-
-bin/opennlp TokenNameFinderTrainer
-Usage: opennlp TokenNameFinderTrainer -lang language -encoding charset [-iterations num] [-cutoff num] [-type type] -data trainingData -model model
--lang language     specifies the language which is being processed.
--encoding charset  specifies the encoding which should be used for reading and writing text.
--iterations num    specified the number of training iterations
--cutoff num        specifies the min number of times a feature must be seen
--type The type of the token name finder model
-
 $bin/opennlp TokenNameFinderTrainer -encoding UTF-8 -lang en -data en-ner-person.train -model en-ner-person.bin
-
 
 ----------------------
 Used NLTK for sentence segmentation
