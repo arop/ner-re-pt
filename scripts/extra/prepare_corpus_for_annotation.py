@@ -3,6 +3,8 @@
 #
 # prepare_corpus_for_annotation.py
 # José Devezas <joseluisdevezas@gmail.com>
+#
+# edited - André Pires <andre.r.o.pires@gmail.com>
 
 import sys, os
 import csv, string
@@ -31,13 +33,19 @@ with open(corpus_filename, 'r') as csv_file:
         except:
             print("===> langdetect error, skipping %s" % row['id'])
 
-        basename = os.path.join(brat_data_dirname, row['id'])
+        basename = os.path.join(brat_data_dirname, row['id'].split('-')[0])
+
+        if not os.path.exists(basename):
+        	os.makedirs(basename)
+
+        basename = os.path.join(brat_data_dirname, row['id'].split('-')[0], row['id'])
+
         open('%s.ann' % basename, 'w').close()
 
         with open('%s.txt' % basename, 'w') as f:
             f.write("%s\n" % row['title'])
             f.write("%s\n" % row['subtitle'])
-            f.write(html_to_text(row['content']))
+            f.write(html_to_text(row['content']).encode('UTF-8'))
 
         count += 1
         if count >= limit: break
