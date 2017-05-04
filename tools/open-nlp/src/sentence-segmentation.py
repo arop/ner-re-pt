@@ -1,7 +1,7 @@
 import nltk
 import sys
 
-if(len(sys.argv) > 1):
+if(len(sys.argv) > 2):
   filein = sys.argv[1]
   fileout = sys.argv[2]
 else:
@@ -21,6 +21,6 @@ for s in sentences:
 	to_file += s + '\n'
 
 # output to file
-f = open('outputs/' + fileout, 'w')
+f = open(fileout, 'w')
 f.write(to_file.encode('ISO-8859-1'))
 f.close()

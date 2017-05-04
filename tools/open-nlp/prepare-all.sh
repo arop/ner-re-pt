@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # All repeats - 7min
-time ./sentence-segmentation.sh
-time ./join-faulty-sentences.sh
-time ./clean-docs.sh
-time ./output-no-tags.sh
+cd run-scripts && time ./sentence-segmentation.sh; cd -
+cd run-scripts && time ./join-faulty-sentences.sh; cd -
+cd run-scripts && time ./clean-docs.sh; cd -
+cd run-scripts && time ./output-no-tags.sh; cd -
