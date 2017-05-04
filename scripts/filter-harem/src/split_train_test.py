@@ -2,10 +2,8 @@ from lxml import etree
 import sys
 from random import shuffle
 #129 documents
-#90 train
-#39 test
 
-if(len(sys.argv) > 1):
+if(len(sys.argv) > 3):
   harem_filename = sys.argv[1]
   output_name = sys.argv[2]
   repeat = sys.argv[3]
@@ -21,8 +19,6 @@ shuffle(dataset)
 # split into 10 folds
 fold_size = int(len(dataset)/9)
 folds = [dataset[i:(i + fold_size)] for i in xrange(0, len(dataset), fold_size)]
-#folds = [dataset[i:i + 10] for i in xrange(0, len(dataset), fold_size)]
-#dataset[i:(i + fold_size)]
 
 for i in range(len(folds)):
 	out_tree_str = "<?xml version='1.0' encoding='ISO-8859-1'?>\n"
