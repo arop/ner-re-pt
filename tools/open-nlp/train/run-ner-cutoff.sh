@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# 2min for 1..3 repeats
+printf "\n** performing ner cutoff **\n"
 for r in {0..3}
 do
 	printf "\n** repeat "$r" **\n"

@@ -1,5 +1,6 @@
 #!/bin/bash
 
+printf "\n** training iterations **\n"
 for r in {0..3}
 do
 	printf "\n** repeat "$r" **\n"
