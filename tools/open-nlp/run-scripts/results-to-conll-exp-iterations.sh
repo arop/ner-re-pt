@@ -2,7 +2,7 @@
 
 # script to loop through iterations values
 
-SCRIPT="src/tokenize_from_opennlp_format.py"
+SCRIPT="../src/tokenize_from_opennlp_format.py"
 for r in {0..3}
 do
 	printf "\n** repeat "$r" **\n"
@@ -16,7 +16,7 @@ do
 		
 		TRAIN=../train/results/repeat-$r/experiences/iterations/$i
 		OUTR=../outputs/repeat-$r/ner-results/experiences/iterations/$i
-		OUT=../outputs/repeat-$r/experiences/joined
+		OUT=../outputs/repeat-$r/joined
 		printf "\n** iterations value: "$i" **\n"
 		
 		python $SCRIPT $TRAIN"/out-cat.txt" $OUTR"/out-cat.txt" "UTF-8"

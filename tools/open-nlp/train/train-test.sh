@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# time ./run-train.sh
-# time ./run-ner.sh
+time ./run-train.sh
+time ./run-ner.sh
 
 time ./run-train-cutoff.sh
 time ./run-ner-cutoff.sh

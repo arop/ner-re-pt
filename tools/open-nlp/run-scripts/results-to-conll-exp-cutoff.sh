@@ -2,7 +2,7 @@
 
 # script to loop through cutoff values
 
-SCRIPT="src/tokenize_from_opennlp_format.py"
+SCRIPT="../src/tokenize_from_opennlp_format.py"
 for r in {0..3}
 do
 	printf "\n** repeat "$r" **\n"
@@ -11,7 +11,7 @@ do
 	do
 		TRAIN=../train/results/repeat-$r/experiences/cutoff/$i
 		OUTR=../outputs/repeat-$r/ner-results/experiences/cutoff/$i
-		OUT=../outputs/repeat-$r/experiences/joined
+		OUT=../outputs/repeat-$r/joined
 		printf "\n** cutoff value: "$i" **\n"
 		
 		python $SCRIPT $TRAIN"/out-cat.txt" $OUTR"/out-cat.txt" "UTF-8"
