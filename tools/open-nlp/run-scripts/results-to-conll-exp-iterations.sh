@@ -9,11 +9,6 @@ do
 	
 	for i in {70..130..10}
 	do
-		if [[ $i == 100 ]]; then
-			#skip default
-			continue
-		fi
-		
 		TRAIN=../train/results/repeat-$r/experiences/iterations/$i
 		OUTR=../outputs/repeat-$r/ner-results/experiences/iterations/$i
 		OUT=../outputs/repeat-$r/joined

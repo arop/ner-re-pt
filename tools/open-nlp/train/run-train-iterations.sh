@@ -6,10 +6,6 @@ do
 	printf "\n** repeat "$r" **\n"
 	for i in {70..130..10}
 	do
-		if [[ $i == 100 ]]; then
-			#skip default
-			continue
-		fi
 		FOLDER=../outputs/repeat-$r/joined
 		MODEL=models/repeat-$r/experiences/iterations/$i
 		PARAMS=params/iterations/$i.txt
