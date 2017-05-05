@@ -1,0 +1,11 @@
+precision: 56.30	recall: 44.85	FB1: 49.89	M_FB1: 49.93	accuracy: 90.15
+precision: 58.79	recall: 28.24	FB1: 38.03	MFB1: 38.15	ACONTECIMENTO
+precision: 66.98	recall: 16.07	FB1: 24.86	MFB1: 25.93	COISA
+precision: 58.82	recall: 38.59	FB1: 46.30	MFB1: 46.61	ORGANIZACAO
+precision: 74.08	recall: 51.06	FB1: 60.33	MFB1: 60.45	TEMPO
+precision: 50.52	recall: 17.25	FB1: 24.77	MFB1: 25.72	OBRA
+precision: 58.37	recall: 32.73	FB1: 41.15	MFB1: 41.94	VALOR
+precision: 18.62	recall: 07.90	FB1: 10.59	MFB1: 11.09	OUTRO
+precision: 54.22	recall: 63.74	FB1: 58.59	MFB1: 58.60	PESSOA
+precision: 49.43	recall: 55.14	FB1: 52.06	MFB1: 52.13	LOCAL
+precision: 47.40	recall: 07.86	FB1: 13.43	MFB1: 13.48	ABSTRACCAO
