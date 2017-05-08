@@ -17,6 +17,6 @@ for v in values:
 	for i,line in enumerate(one):
 		if not line.split()[0] == two[i].split()[0]:
 			print "ERROR: " + line.split()[0] + " vs. " + two[i].split()[0] + " | line: " + str(i)
-			print "Fold: " + fold + " | Level: " + level
+			print "Value: " + v + " | Level: " + level
 			break
 		i += 1
