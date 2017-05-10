@@ -21,7 +21,7 @@ do
 		../join-output-golden.sh $TOOL/out-filtered.txt $TOOL/out-filtered-gold.txt | ../conlleval > $OUT_RES/filtered.txt
 	done
 
-	for i in {70..130..10}
+	for i in {70..130..10} 150 170 200
 	do
 		TOOL=../../../tools/open-nlp/outputs/repeat-$r/ner-results/experiences/iterations/$i
 		OUT_RES=../results/open-nlp/repeat-$r/experiences/iterations/$i
@@ -36,7 +36,7 @@ do
 	python ../src/avg-results-experiences.py open-nlp filtered cutoff $i
 done
 
-for i in {70..130..10}
+for i in {70..130..10} 150 170 200
 do
 	python ../src/avg-results-experiences.py open-nlp filtered iterations $i
 done

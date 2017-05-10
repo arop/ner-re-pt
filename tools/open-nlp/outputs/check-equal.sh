@@ -15,6 +15,6 @@ do
 
 		printf "\n** experiences **\n"
 		python check-equal-exp.py $level $r cutoff 0 5 10
-		python check-equal-exp.py $level $r iterations 70 80 90 100 110 120 130
+		python check-equal-exp.py $level $r iterations 70 80 90 100 110 120 130 150 170 200
 	done
 done
