@@ -1,0 +1,22 @@
+processed 20567 tokens with 472 phrases; found: 288 phrases; correct: 181.
+accuracy:  96.27%; precision:  62.85%; recall:  38.35%; FB1:  47.63
+LOCAL_FISICO_AGUACURSO: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+LOCAL_FISICO_AGUAMASSA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_FISICO_REGIAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_HUMANO_CONSTRUCAO: precision:  57.14%; recall:  12.12%; FB1:  20.00  7
+LOCAL_HUMANO_DIVISAO: precision:  62.32%; recall:  40.57%; FB1:  49.14  69
+LOCAL_HUMANO_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_HUMANO_PAIS: precision:  44.62%; recall:  55.77%; FB1:  49.57  65
+LOCAL_HUMANO_REGIAO: precision:  25.00%; recall:  11.11%; FB1:  15.38  4
+ LOCAL_HUMANO_RUA: precision: 100.00%; recall:  11.11%; FB1:  20.00  1
+LOCAL_VIRTUAL_COMSOCIAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+LOCAL_VIRTUAL_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_VIRTUAL_SITIO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+OBRA_ARTE_PINTURA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+OBRA_REPRODUZIDA_FILME: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+OBRA_REPRODUZIDA_LIVRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+OBRA_REPRODUZIDA_MUSICA: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+ORGANIZACAO_INSTITUICAO_SUB: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+TEMPO_TEMPO_CALEND_DATA: precision:  73.13%; recall:  53.55%; FB1:  61.83  134
+TEMPO_TEMPO_CALEND_HORA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+TEMPO_TEMPO_CALEND_INTERVALO: precision: 100.00%; recall:  40.00%; FB1:  57.14  4

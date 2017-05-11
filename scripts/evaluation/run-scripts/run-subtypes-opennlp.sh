@@ -14,7 +14,7 @@ do
 	python ../src/avg-results.py open-nlp subtypes $r
 
 	# experiences
-	for i in 0 5 10
+	for i in 0 {3..7} 10
 	do
 		TOOL=../../../tools/open-nlp/outputs/repeat-$r/ner-results/experiences/cutoff/$i
 		OUT_RES=../results/open-nlp/repeat-$r/experiences/cutoff/$i
@@ -31,7 +31,7 @@ done
 
 python ../src/avg-results-all.py open-nlp subtypes
 
-for i in 0 5 10
+for i in 0 {3..7} 10
 do
 	python ../src/avg-results-experiences.py open-nlp subtypes cutoff $i
 done

@@ -4,7 +4,7 @@ printf "\n** performing ner cutoff **\n"
 for r in {0..3}
 do
 	printf "\n** repeat "$r" **\n"
-	for i in 0 5 10
+	for i in 0 {3..7} 10
 	do
 		FOLDER=../outputs/repeat-$r/joined
 		MODEL=models/repeat-$r/experiences/cutoff/$i

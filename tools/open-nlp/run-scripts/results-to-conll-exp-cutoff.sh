@@ -7,7 +7,7 @@ for r in {0..3}
 do
 	printf "\n** repeat "$r" **\n"
 	
-	for i in 0 5 10
+	for i in 0 {3..7} 10
 	do
 		TRAIN=../train/results/repeat-$r/experiences/cutoff/$i
 		OUTR=../outputs/repeat-$r/ner-results/experiences/cutoff/$i
