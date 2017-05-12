@@ -4,7 +4,7 @@ printf "\n** training iterations **\n"
 for r in {0..3}
 do
 	printf "\n** repeat "$r" **\n"
-	for i in {70..130..10} 150 170 200
+	for i in {70..130..10} 125 135 150 170 200
 	do
 		FOLDER=../outputs/repeat-$r/joined
 		MODEL=models/repeat-$r/experiences/iterations/$i

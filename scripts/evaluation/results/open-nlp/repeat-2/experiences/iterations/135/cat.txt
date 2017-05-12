@@ -1,0 +1,12 @@
+processed 17446 tokens with 1477 phrases; found: 1352 phrases; correct: 740.
+accuracy:  92.30%; precision:  54.73%; recall:  50.10%; FB1:  52.32
+       ABSTRACCAO: precision:  32.26%; recall:  10.53%; FB1:  15.87  31
+    ACONTECIMENTO: precision:  70.73%; recall:  37.66%; FB1:  49.15  41
+            COISA: precision:  31.25%; recall:  11.49%; FB1:  16.81  32
+            LOCAL: precision:  48.48%; recall:  62.11%; FB1:  54.45  328
+             OBRA: precision:  34.15%; recall:  29.79%; FB1:  31.82  41
+      ORGANIZACAO: precision:  64.29%; recall:  42.86%; FB1:  51.43  140
+            OUTRO: precision:  42.86%; recall:  25.00%; FB1:  31.58  7
+           PESSOA: precision:  53.73%; recall:  63.16%; FB1:  58.06  469
+            TEMPO: precision:  68.90%; recall:  59.50%; FB1:  63.86  209
+            VALOR: precision:  53.70%; recall:  55.77%; FB1:  54.72  54
