@@ -2,7 +2,7 @@ import nltk
 import sys
 import pickle
 
-if len(sys.argv) > 1:
+if len(sys.argv) > 3:
 	model = sys.argv[1]
 	test_file = sys.argv[2]
 	fileout = sys.argv[3]

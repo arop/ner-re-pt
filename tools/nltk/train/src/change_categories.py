@@ -10,7 +10,7 @@ else:
   print "Usage: python " + sys.argv[0] + " <level>\n"
   sys.exit()
 
-file = 'nltk_trainer/__init__.py'
+file = '../nltk_trainer/__init__.py'
 
 f = open(file,'r')
 file_str = f.read()

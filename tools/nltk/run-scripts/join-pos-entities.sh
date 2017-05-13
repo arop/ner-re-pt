@@ -17,4 +17,12 @@ do
 		python $SCRIPT $FOLDER'/pos-subtypes-docs-train.txt' $FOLDER'/t-subtypes-train-doc.txt' $FOLDER'/out-conll-subtypes.txt'
 		python $SCRIPT $FOLDER'/pos-filtered-docs-train.txt' $FOLDER'/t-filtered-train-doc.txt' $FOLDER'/out-conll-filtered.txt'
 	done
+
+	printf "\n** experiences **\n"
+	FOLDER=../outputs/repeat-$r/joined
+
+	python $SCRIPT $FOLDER'/pos-cat-docs-train.txt' $FOLDER'/t-cat-train-doc.txt' $FOLDER'/out-conll-cat.txt'
+	python $SCRIPT $FOLDER'/pos-types-docs-train.txt' $FOLDER'/t-types-train-doc.txt' $FOLDER'/out-conll-types.txt'
+	python $SCRIPT $FOLDER'/pos-subtypes-docs-train.txt' $FOLDER'/t-subtypes-train-doc.txt' $FOLDER'/out-conll-subtypes.txt'
+	python $SCRIPT $FOLDER'/pos-filtered-docs-train.txt' $FOLDER'/t-filtered-train-doc.txt' $FOLDER'/out-conll-filtered.txt'
 done

@@ -24,6 +24,7 @@ do
 	done
 
 	FOLDER=../outputs/repeat-$r/joined
+	printf "\n** experiences **\n"
 	python $SCRIPT $PATH_IN$FOLDER"/cat_train_doc.xml" $FOLDER"/cat_train_sent_doc.xml"
 	python $SCRIPT $PATH_IN$FOLDER"/cat_test_doc.xml" $FOLDER"/cat_test_sent_doc.xml"
 

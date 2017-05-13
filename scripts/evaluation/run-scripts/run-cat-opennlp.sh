@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# join output from stanford ner and test file
+# join output from opennlp and test file
 # evaluate results
 for r in {0..3}
 do
@@ -21,7 +21,7 @@ do
 		../join-output-golden.sh $TOOL/out-cat.txt $TOOL/out-cat-gold.txt | ../conlleval > $OUT_RES/cat.txt
 	done
 
-	for i in {70..130..10} 125 135 150 170 200
+	for i in {70..130..10} 125 135 {150..180..10} 200
 	do
 		TOOL=../../../tools/open-nlp/outputs/repeat-$r/ner-results/experiences/iterations/$i
 		OUT_RES=../results/open-nlp/repeat-$r/experiences/iterations/$i
@@ -36,7 +36,7 @@ do
 	python ../src/avg-results-experiences.py open-nlp cat cutoff $i
 done
 
-for i in {70..130..10} 125 135 150 170 200
+for i in {70..130..10} 125 135 {150..180..10} 200
 do
 	python ../src/avg-results-experiences.py open-nlp cat iterations $i
 done
