@@ -11,9 +11,9 @@ do
 		python check-equal.py "filtered" $i $r
 	done
 
-	# printf "\n** experiences **\n"
-	# python check-equal-exp.py "cat" $r "ME" "me_max_iter" {10..120..10}
-	# python check-equal-exp.py "types" $r "ME" "me_max_iter" {10..120..10}
-	# python check-equal-exp.py "subtypes" $r "ME" "me_max_iter" {10..120..10}
-	# python check-equal-exp.py "filtered" $r "ME" "me_max_iter" {10..120..10}
+	printf "\n** experiences **\n"
+	python check-equal-exp.py "cat" $r "ME" "me_max_iter" {10..120..10}
+	python check-equal-exp.py "types" $r "ME" "me_max_iter" {10..120..10}
+	python check-equal-exp.py "subtypes" $r "ME" "me_max_iter" {10..120..10}
+	python check-equal-exp.py "filtered" $r "ME" "me_max_iter" {10..120..10}
 done

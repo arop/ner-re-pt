@@ -11,8 +11,8 @@ else:
 	sys.exit()
 
 for v in values:
-	one = open('repeat-'+repeat+'/ner-results/experiences/'+param+'/'+v+'/out-'+level+'-'+classifier+'.txt','r').read().splitlines()
-	two = open('repeat-'+repeat+'/joined/out-'+level+'-gold.txt','r').read().splitlines()
+	one = open('repeat-'+repeat+'/ner-results/experiences/'+param+'/'+v+'/out-'+level+'-'+classifier+'.txt','r').read().decode('UTF-8').splitlines()
+	two = open('repeat-'+repeat+'/joined/out-'+level+'-gold.txt','r').read().decode('ISO-8859-1').splitlines()
 
 	i = 0
 	for i,line in enumerate(one):
