@@ -1,4 +1,7 @@
 #!/bin/bash
 
-time ./run-nltk-train-conll.sh # 4h
-time ./run-nltk-test.sh # 10min
+# time ./train-default.sh
+# time ./test-default.sh
+
+time ./train-me.sh
+time ./test-me.sh
