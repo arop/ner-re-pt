@@ -12,7 +12,7 @@ else:
 
 for v in values:
 	one = open('repeat-'+repeat+'/ner-results/experiences/'+param+'/'+v+'/out-'+level+'-'+classifier+'.txt','r').read().splitlines()
-	two = open('repeat-'+repeat+'/ner-results/experiences/'+param+'/'+v+'/out-'+level+'-gold.txt','r').read().splitlines()
+	two = open('repeat-'+repeat+'/joined/out-'+level+'-gold.txt','r').read().splitlines()
 
 	i = 0
 	for i,line in enumerate(one):

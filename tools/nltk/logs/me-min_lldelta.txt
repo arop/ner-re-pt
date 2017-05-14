@@ -1,0 +1,1468 @@
+
+** repeat 0 **
+
+** min_lldelta 0 **
+loading ../outputs/repeat-0/joined
+using chunked sentences from out-conll-cat-utf8.txt
+3178 chunks, training on 3178
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (63414 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-0/experiences/me_min_lldelta/0/cat_Maxent.pickle
+
+real	5m57.337s
+user	5m56.900s
+sys	0m1.132s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+loading ../outputs/repeat-0/joined
+using chunked sentences from out-conll-types-utf8.txt
+3250 chunks, training on 3250
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (64236 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-0/experiences/me_min_lldelta/0/types_Maxent.pickle
+
+real	4m30.240s
+user	4m29.788s
+sys	0m1.104s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-0/joined
+using chunked sentences from out-conll-subtypes-utf8.txt
+3072 chunks, training on 3072
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (60924 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-0/experiences/me_min_lldelta/0/subtypes_Maxent.pickle
+
+real	3m32.720s
+user	3m32.368s
+sys	0m1.036s
+loading ../outputs/repeat-0/joined
+using chunked sentences from out-conll-filtered-utf8.txt
+3026 chunks, training on 3026
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (60455 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-0/experiences/me_min_lldelta/0/filtered_Maxent.pickle
+
+real	3m42.482s
+user	3m42.168s
+sys	0m1.060s
+
+** min_lldelta 0.05 **
+loading ../outputs/repeat-0/joined
+using chunked sentences from out-conll-cat-utf8.txt
+3178 chunks, training on 3178
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (63414 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-0/experiences/me_min_lldelta/0.05/cat_Maxent.pickle
+
+real	1m30.190s
+user	1m30.016s
+sys	0m0.916s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+loading ../outputs/repeat-0/joined
+using chunked sentences from out-conll-types-utf8.txt
+3250 chunks, training on 3250
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (64236 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-0/experiences/me_min_lldelta/0.05/types_Maxent.pickle
+
+real	4m33.798s
+user	4m33.480s
+sys	0m1.040s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-0/joined
+using chunked sentences from out-conll-subtypes-utf8.txt
+3072 chunks, training on 3072
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (60924 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-0/experiences/me_min_lldelta/0.05/subtypes_Maxent.pickle
+
+real	3m27.781s
+user	3m27.512s
+sys	0m0.964s
+loading ../outputs/repeat-0/joined
+using chunked sentences from out-conll-filtered-utf8.txt
+3026 chunks, training on 3026
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (60455 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-0/experiences/me_min_lldelta/0.05/filtered_Maxent.pickle
+
+real	0m56.123s
+user	0m55.984s
+sys	0m0.836s
+
+** min_lldelta 0.1 **
+loading ../outputs/repeat-0/joined
+using chunked sentences from out-conll-cat-utf8.txt
+3178 chunks, training on 3178
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (63414 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-0/experiences/me_min_lldelta/0.1/cat_Maxent.pickle
+
+real	1m30.081s
+user	1m29.920s
+sys	0m0.892s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+loading ../outputs/repeat-0/joined
+using chunked sentences from out-conll-types-utf8.txt
+3250 chunks, training on 3250
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (64236 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-0/experiences/me_min_lldelta/0.1/types_Maxent.pickle
+
+real	4m30.662s
+user	4m30.112s
+sys	0m1.164s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-0/joined
+using chunked sentences from out-conll-subtypes-utf8.txt
+3072 chunks, training on 3072
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (60924 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-0/experiences/me_min_lldelta/0.1/subtypes_Maxent.pickle
+
+real	3m28.317s
+user	3m28.048s
+sys	0m1.016s
+loading ../outputs/repeat-0/joined
+using chunked sentences from out-conll-filtered-utf8.txt
+3026 chunks, training on 3026
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (60455 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-0/experiences/me_min_lldelta/0.1/filtered_Maxent.pickle
+
+real	0m56.415s
+user	0m56.272s
+sys	0m0.876s
+
+** min_lldelta 0.15 **
+loading ../outputs/repeat-0/joined
+using chunked sentences from out-conll-cat-utf8.txt
+3178 chunks, training on 3178
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (63414 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-0/experiences/me_min_lldelta/0.15/cat_Maxent.pickle
+
+real	1m31.567s
+user	1m31.412s
+sys	0m0.832s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+loading ../outputs/repeat-0/joined
+using chunked sentences from out-conll-types-utf8.txt
+3250 chunks, training on 3250
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (64236 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-0/experiences/me_min_lldelta/0.15/types_Maxent.pickle
+
+real	4m28.664s
+user	4m28.172s
+sys	0m1.128s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-0/joined
+using chunked sentences from out-conll-subtypes-utf8.txt
+3072 chunks, training on 3072
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (60924 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-0/experiences/me_min_lldelta/0.15/subtypes_Maxent.pickle
+
+real	3m32.050s
+user	3m31.732s
+sys	0m1.008s
+loading ../outputs/repeat-0/joined
+using chunked sentences from out-conll-filtered-utf8.txt
+3026 chunks, training on 3026
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (60455 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-0/experiences/me_min_lldelta/0.15/filtered_Maxent.pickle
+
+real	0m55.590s
+user	0m55.484s
+sys	0m0.956s
+
+** min_lldelta 0.2 **
+loading ../outputs/repeat-0/joined
+using chunked sentences from out-conll-cat-utf8.txt
+3178 chunks, training on 3178
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (63414 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-0/experiences/me_min_lldelta/0.2/cat_Maxent.pickle
+
+real	1m29.920s
+user	1m29.768s
+sys	0m0.880s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+loading ../outputs/repeat-0/joined
+using chunked sentences from out-conll-types-utf8.txt
+3250 chunks, training on 3250
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (64236 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-0/experiences/me_min_lldelta/0.2/types_Maxent.pickle
+
+real	4m27.862s
+user	4m27.396s
+sys	0m1.184s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-0/joined
+using chunked sentences from out-conll-subtypes-utf8.txt
+3072 chunks, training on 3072
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (60924 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-0/experiences/me_min_lldelta/0.2/subtypes_Maxent.pickle
+
+real	3m33.368s
+user	3m33.060s
+sys	0m1.008s
+loading ../outputs/repeat-0/joined
+using chunked sentences from out-conll-filtered-utf8.txt
+3026 chunks, training on 3026
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (60455 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-0/experiences/me_min_lldelta/0.2/filtered_Maxent.pickle
+
+real	0m57.123s
+user	0m57.024s
+sys	0m0.736s
+
+** repeat 1 **
+
+** min_lldelta 0 **
+loading ../outputs/repeat-1/joined
+using chunked sentences from out-conll-cat-utf8.txt
+3137 chunks, training on 3137
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (63902 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-1/experiences/me_min_lldelta/0/cat_Maxent.pickle
+
+real	6m6.513s
+user	6m6.080s
+sys	0m1.104s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-1/joined
+using chunked sentences from out-conll-types-utf8.txt
+3147 chunks, training on 3147
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (62225 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-1/experiences/me_min_lldelta/0/types_Maxent.pickle
+
+real	4m26.479s
+user	4m26.100s
+sys	0m1.108s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-1/joined
+using chunked sentences from out-conll-subtypes-utf8.txt
+3200 chunks, training on 3200
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (63885 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-1/experiences/me_min_lldelta/0/subtypes_Maxent.pickle
+
+real	3m40.336s
+user	3m40.076s
+sys	0m0.948s
+loading ../outputs/repeat-1/joined
+using chunked sentences from out-conll-filtered-utf8.txt
+3453 chunks, training on 3453
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (68721 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-1/experiences/me_min_lldelta/0/filtered_Maxent.pickle
+
+real	4m19.432s
+user	4m19.092s
+sys	0m1.076s
+
+** min_lldelta 0.05 **
+loading ../outputs/repeat-1/joined
+using chunked sentences from out-conll-cat-utf8.txt
+3137 chunks, training on 3137
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (63902 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-1/experiences/me_min_lldelta/0.05/cat_Maxent.pickle
+
+real	1m38.056s
+user	1m37.864s
+sys	0m0.936s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-1/joined
+using chunked sentences from out-conll-types-utf8.txt
+3147 chunks, training on 3147
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (62225 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-1/experiences/me_min_lldelta/0.05/types_Maxent.pickle
+
+real	4m21.655s
+user	4m21.344s
+sys	0m1.060s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-1/joined
+using chunked sentences from out-conll-subtypes-utf8.txt
+3200 chunks, training on 3200
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (63885 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-1/experiences/me_min_lldelta/0.05/subtypes_Maxent.pickle
+
+real	3m43.486s
+user	3m43.240s
+sys	0m1.040s
+loading ../outputs/repeat-1/joined
+using chunked sentences from out-conll-filtered-utf8.txt
+3453 chunks, training on 3453
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (68721 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-1/experiences/me_min_lldelta/0.05/filtered_Maxent.pickle
+
+real	1m4.305s
+user	1m4.168s
+sys	0m0.812s
+
+** min_lldelta 0.1 **
+loading ../outputs/repeat-1/joined
+using chunked sentences from out-conll-cat-utf8.txt
+3137 chunks, training on 3137
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (63902 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-1/experiences/me_min_lldelta/0.1/cat_Maxent.pickle
+
+real	1m40.212s
+user	1m40.024s
+sys	0m1.000s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-1/joined
+using chunked sentences from out-conll-types-utf8.txt
+3147 chunks, training on 3147
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (62225 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-1/experiences/me_min_lldelta/0.1/types_Maxent.pickle
+
+real	4m17.111s
+user	4m16.744s
+sys	0m1.028s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-1/joined
+using chunked sentences from out-conll-subtypes-utf8.txt
+3200 chunks, training on 3200
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (63885 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-1/experiences/me_min_lldelta/0.1/subtypes_Maxent.pickle
+
+real	3m41.596s
+user	3m41.312s
+sys	0m1.084s
+loading ../outputs/repeat-1/joined
+using chunked sentences from out-conll-filtered-utf8.txt
+3453 chunks, training on 3453
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (68721 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-1/experiences/me_min_lldelta/0.1/filtered_Maxent.pickle
+
+real	1m4.812s
+user	1m4.684s
+sys	0m0.844s
+
+** min_lldelta 0.15 **
+loading ../outputs/repeat-1/joined
+using chunked sentences from out-conll-cat-utf8.txt
+3137 chunks, training on 3137
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (63902 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-1/experiences/me_min_lldelta/0.15/cat_Maxent.pickle
+
+real	1m39.347s
+user	1m39.188s
+sys	0m0.852s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-1/joined
+using chunked sentences from out-conll-types-utf8.txt
+3147 chunks, training on 3147
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (62225 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-1/experiences/me_min_lldelta/0.15/types_Maxent.pickle
+
+real	4m25.080s
+user	4m24.732s
+sys	0m1.076s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-1/joined
+using chunked sentences from out-conll-subtypes-utf8.txt
+3200 chunks, training on 3200
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (63885 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-1/experiences/me_min_lldelta/0.15/subtypes_Maxent.pickle
+
+real	3m37.795s
+user	3m37.468s
+sys	0m0.980s
+loading ../outputs/repeat-1/joined
+using chunked sentences from out-conll-filtered-utf8.txt
+3453 chunks, training on 3453
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (68721 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-1/experiences/me_min_lldelta/0.15/filtered_Maxent.pickle
+
+real	1m5.421s
+user	1m5.304s
+sys	0m0.820s
+
+** min_lldelta 0.2 **
+loading ../outputs/repeat-1/joined
+using chunked sentences from out-conll-cat-utf8.txt
+3137 chunks, training on 3137
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (63902 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-1/experiences/me_min_lldelta/0.2/cat_Maxent.pickle
+
+real	1m37.032s
+user	1m36.892s
+sys	0m0.868s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-1/joined
+using chunked sentences from out-conll-types-utf8.txt
+3147 chunks, training on 3147
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (62225 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-1/experiences/me_min_lldelta/0.2/types_Maxent.pickle
+
+real	4m17.495s
+user	4m17.148s
+sys	0m1.052s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-1/joined
+using chunked sentences from out-conll-subtypes-utf8.txt
+3200 chunks, training on 3200
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (63885 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-1/experiences/me_min_lldelta/0.2/subtypes_Maxent.pickle
+
+real	3m32.039s
+user	3m31.784s
+sys	0m0.908s
+loading ../outputs/repeat-1/joined
+using chunked sentences from out-conll-filtered-utf8.txt
+3453 chunks, training on 3453
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (68721 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-1/experiences/me_min_lldelta/0.2/filtered_Maxent.pickle
+
+real	1m4.794s
+user	1m4.728s
+sys	0m0.764s
+
+** repeat 2 **
+
+** min_lldelta 0 **
+loading ../outputs/repeat-2/joined
+using chunked sentences from out-conll-cat-utf8.txt
+3272 chunks, training on 3272
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (67036 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-2/experiences/me_min_lldelta/0/cat_Maxent.pickle
+
+real	6m30.791s
+user	6m30.320s
+sys	0m1.152s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-2/joined
+using chunked sentences from out-conll-types-utf8.txt
+3167 chunks, training on 3167
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (66110 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-2/experiences/me_min_lldelta/0/types_Maxent.pickle
+
+real	4m33.189s
+user	4m32.652s
+sys	0m1.208s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-2/joined
+using chunked sentences from out-conll-subtypes-utf8.txt
+3140 chunks, training on 3140
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (64940 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-2/experiences/me_min_lldelta/0/subtypes_Maxent.pickle
+
+real	3m43.719s
+user	3m43.408s
+sys	0m1.040s
+loading ../outputs/repeat-2/joined
+using chunked sentences from out-conll-filtered-utf8.txt
+3389 chunks, training on 3389
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (63744 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-2/experiences/me_min_lldelta/0/filtered_Maxent.pickle
+
+real	3m57.443s
+user	3m57.020s
+sys	0m1.124s
+
+** min_lldelta 0.05 **
+loading ../outputs/repeat-2/joined
+using chunked sentences from out-conll-cat-utf8.txt
+3272 chunks, training on 3272
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (67036 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-2/experiences/me_min_lldelta/0.05/cat_Maxent.pickle
+
+real	1m39.881s
+user	1m39.684s
+sys	0m0.932s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-2/joined
+using chunked sentences from out-conll-types-utf8.txt
+3167 chunks, training on 3167
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (66110 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-2/experiences/me_min_lldelta/0.05/types_Maxent.pickle
+
+real	4m34.884s
+user	4m34.412s
+sys	0m1.164s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-2/joined
+using chunked sentences from out-conll-subtypes-utf8.txt
+3140 chunks, training on 3140
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (64940 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-2/experiences/me_min_lldelta/0.05/subtypes_Maxent.pickle
+
+real	3m50.340s
+user	3m49.852s
+sys	0m1.132s
+loading ../outputs/repeat-2/joined
+using chunked sentences from out-conll-filtered-utf8.txt
+3389 chunks, training on 3389
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (63744 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-2/experiences/me_min_lldelta/0.05/filtered_Maxent.pickle
+
+real	1m0.562s
+user	1m0.416s
+sys	0m0.876s
+
+** min_lldelta 0.1 **
+loading ../outputs/repeat-2/joined
+using chunked sentences from out-conll-cat-utf8.txt
+3272 chunks, training on 3272
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (67036 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-2/experiences/me_min_lldelta/0.1/cat_Maxent.pickle
+
+real	1m38.201s
+user	1m38.020s
+sys	0m0.896s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-2/joined
+using chunked sentences from out-conll-types-utf8.txt
+3167 chunks, training on 3167
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (66110 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-2/experiences/me_min_lldelta/0.1/types_Maxent.pickle
+
+real	4m31.666s
+user	4m31.120s
+sys	0m1.220s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-2/joined
+using chunked sentences from out-conll-subtypes-utf8.txt
+3140 chunks, training on 3140
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (64940 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-2/experiences/me_min_lldelta/0.1/subtypes_Maxent.pickle
+
+real	3m47.392s
+user	3m47.080s
+sys	0m1.036s
+loading ../outputs/repeat-2/joined
+using chunked sentences from out-conll-filtered-utf8.txt
+3389 chunks, training on 3389
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (63744 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-2/experiences/me_min_lldelta/0.1/filtered_Maxent.pickle
+
+real	0m59.895s
+user	0m59.796s
+sys	0m0.840s
+
+** min_lldelta 0.15 **
+loading ../outputs/repeat-2/joined
+using chunked sentences from out-conll-cat-utf8.txt
+3272 chunks, training on 3272
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (67036 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-2/experiences/me_min_lldelta/0.15/cat_Maxent.pickle
+
+real	1m41.214s
+user	1m41.140s
+sys	0m0.924s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-2/joined
+using chunked sentences from out-conll-types-utf8.txt
+3167 chunks, training on 3167
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (66110 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-2/experiences/me_min_lldelta/0.15/types_Maxent.pickle
+
+real	4m35.804s
+user	4m35.380s
+sys	0m1.168s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-2/joined
+using chunked sentences from out-conll-subtypes-utf8.txt
+3140 chunks, training on 3140
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (64940 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-2/experiences/me_min_lldelta/0.15/subtypes_Maxent.pickle
+
+real	3m47.577s
+user	3m47.220s
+sys	0m1.084s
+loading ../outputs/repeat-2/joined
+using chunked sentences from out-conll-filtered-utf8.txt
+3389 chunks, training on 3389
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (63744 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-2/experiences/me_min_lldelta/0.15/filtered_Maxent.pickle
+
+real	1m0.538s
+user	1m0.364s
+sys	0m0.876s
+
+** min_lldelta 0.2 **
+loading ../outputs/repeat-2/joined
+using chunked sentences from out-conll-cat-utf8.txt
+3272 chunks, training on 3272
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (67036 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-2/experiences/me_min_lldelta/0.2/cat_Maxent.pickle
+
+real	1m40.303s
+user	1m40.104s
+sys	0m0.880s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-2/joined
+using chunked sentences from out-conll-types-utf8.txt
+3167 chunks, training on 3167
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (66110 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-2/experiences/me_min_lldelta/0.2/types_Maxent.pickle
+
+real	4m30.251s
+user	4m29.672s
+sys	0m1.228s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-2/joined
+using chunked sentences from out-conll-subtypes-utf8.txt
+3140 chunks, training on 3140
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (64940 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-2/experiences/me_min_lldelta/0.2/subtypes_Maxent.pickle
+
+real	3m46.928s
+user	3m46.648s
+sys	0m1.024s
+loading ../outputs/repeat-2/joined
+using chunked sentences from out-conll-filtered-utf8.txt
+3389 chunks, training on 3389
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (63744 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-2/experiences/me_min_lldelta/0.2/filtered_Maxent.pickle
+
+real	1m0.052s
+user	0m59.988s
+sys	0m0.812s
+
+** repeat 3 **
+
+** min_lldelta 0 **
+loading ../outputs/repeat-3/joined
+using chunked sentences from out-conll-cat-utf8.txt
+3320 chunks, training on 3320
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (64000 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-3/experiences/me_min_lldelta/0/cat_Maxent.pickle
+
+real	6m12.148s
+user	6m11.676s
+sys	0m1.132s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1311: RuntimeWarning: overflow encountered in multiply
+  nf_exp_nf_delta = nftranspose * exp_nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-3/joined
+using chunked sentences from out-conll-types-utf8.txt
+2880 chunks, training on 2880
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (60143 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-3/experiences/me_min_lldelta/0/types_Maxent.pickle
+
+real	4m11.512s
+user	4m11.056s
+sys	0m1.116s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-3/joined
+using chunked sentences from out-conll-subtypes-utf8.txt
+3077 chunks, training on 3077
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (61208 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-3/experiences/me_min_lldelta/0/subtypes_Maxent.pickle
+
+real	3m23.184s
+user	3m22.916s
+sys	0m1.020s
+loading ../outputs/repeat-3/joined
+using chunked sentences from out-conll-filtered-utf8.txt
+2831 chunks, training on 2831
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (61579 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-3/experiences/me_min_lldelta/0/filtered_Maxent.pickle
+
+real	3m49.476s
+user	3m49.092s
+sys	0m1.036s
+
+** min_lldelta 0.05 **
+loading ../outputs/repeat-3/joined
+using chunked sentences from out-conll-cat-utf8.txt
+3320 chunks, training on 3320
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (64000 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-3/experiences/me_min_lldelta/0.05/cat_Maxent.pickle
+
+real	1m33.543s
+user	1m33.404s
+sys	0m0.840s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1311: RuntimeWarning: overflow encountered in multiply
+  nf_exp_nf_delta = nftranspose * exp_nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-3/joined
+using chunked sentences from out-conll-types-utf8.txt
+2880 chunks, training on 2880
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (60143 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-3/experiences/me_min_lldelta/0.05/types_Maxent.pickle
+
+real	4m17.480s
+user	4m17.156s
+sys	0m1.064s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-3/joined
+using chunked sentences from out-conll-subtypes-utf8.txt
+3077 chunks, training on 3077
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (61208 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-3/experiences/me_min_lldelta/0.05/subtypes_Maxent.pickle
+
+real	3m20.424s
+user	3m20.112s
+sys	0m1.072s
+loading ../outputs/repeat-3/joined
+using chunked sentences from out-conll-filtered-utf8.txt
+2831 chunks, training on 2831
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (61579 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-3/experiences/me_min_lldelta/0.05/filtered_Maxent.pickle
+
+real	0m56.568s
+user	0m56.452s
+sys	0m0.856s
+
+** min_lldelta 0.1 **
+loading ../outputs/repeat-3/joined
+using chunked sentences from out-conll-cat-utf8.txt
+3320 chunks, training on 3320
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (64000 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-3/experiences/me_min_lldelta/0.1/cat_Maxent.pickle
+
+real	1m35.626s
+user	1m35.432s
+sys	0m0.940s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1311: RuntimeWarning: overflow encountered in multiply
+  nf_exp_nf_delta = nftranspose * exp_nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-3/joined
+using chunked sentences from out-conll-types-utf8.txt
+2880 chunks, training on 2880
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (60143 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-3/experiences/me_min_lldelta/0.1/types_Maxent.pickle
+
+real	4m19.259s
+user	4m18.896s
+sys	0m1.096s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-3/joined
+using chunked sentences from out-conll-subtypes-utf8.txt
+3077 chunks, training on 3077
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (61208 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-3/experiences/me_min_lldelta/0.1/subtypes_Maxent.pickle
+
+real	3m21.370s
+user	3m21.144s
+sys	0m0.920s
+loading ../outputs/repeat-3/joined
+using chunked sentences from out-conll-filtered-utf8.txt
+2831 chunks, training on 2831
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (61579 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-3/experiences/me_min_lldelta/0.1/filtered_Maxent.pickle
+
+real	0m57.987s
+user	0m57.868s
+sys	0m0.784s
+
+** min_lldelta 0.15 **
+loading ../outputs/repeat-3/joined
+using chunked sentences from out-conll-cat-utf8.txt
+3320 chunks, training on 3320
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (64000 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-3/experiences/me_min_lldelta/0.15/cat_Maxent.pickle
+
+real	1m36.483s
+user	1m36.320s
+sys	0m0.872s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1311: RuntimeWarning: overflow encountered in multiply
+  nf_exp_nf_delta = nftranspose * exp_nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-3/joined
+using chunked sentences from out-conll-types-utf8.txt
+2880 chunks, training on 2880
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (60143 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-3/experiences/me_min_lldelta/0.15/types_Maxent.pickle
+
+real	4m6.436s
+user	4m6.036s
+sys	0m1.028s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-3/joined
+using chunked sentences from out-conll-subtypes-utf8.txt
+3077 chunks, training on 3077
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (61208 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-3/experiences/me_min_lldelta/0.15/subtypes_Maxent.pickle
+
+real	3m23.305s
+user	3m22.948s
+sys	0m1.012s
+loading ../outputs/repeat-3/joined
+using chunked sentences from out-conll-filtered-utf8.txt
+2831 chunks, training on 2831
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (61579 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-3/experiences/me_min_lldelta/0.15/filtered_Maxent.pickle
+
+real	0m56.304s
+user	0m56.116s
+sys	0m0.880s
+
+** min_lldelta 0.2 **
+loading ../outputs/repeat-3/joined
+using chunked sentences from out-conll-cat-utf8.txt
+3320 chunks, training on 3320
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (64000 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-3/experiences/me_min_lldelta/0.2/cat_Maxent.pickle
+
+real	1m33.196s
+user	1m32.976s
+sys	0m0.912s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1311: RuntimeWarning: overflow encountered in multiply
+  nf_exp_nf_delta = nftranspose * exp_nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-3/joined
+using chunked sentences from out-conll-types-utf8.txt
+2880 chunks, training on 2880
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (60143 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-3/experiences/me_min_lldelta/0.2/types_Maxent.pickle
+
+real	4m8.662s
+user	4m8.272s
+sys	0m1.044s
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1312: RuntimeWarning: invalid value encountered in multiply
+  sum1 = numpy.sum(exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1313: RuntimeWarning: invalid value encountered in multiply
+  sum2 = numpy.sum(nf_exp_nf_delta * A, axis=0)
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../outputs/repeat-3/joined
+using chunked sentences from out-conll-subtypes-utf8.txt
+3077 chunks, training on 3077
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (61208 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-3/experiences/me_min_lldelta/0.2/subtypes_Maxent.pickle
+
+real	3m25.375s
+user	3m25.112s
+sys	0m1.004s
+loading ../outputs/repeat-3/joined
+using chunked sentences from out-conll-filtered-utf8.txt
+2831 chunks, training on 2831
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (61579 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ./models/repeat-3/experiences/me_min_lldelta/0.2/filtered_Maxent.pickle
+
+real	0m57.517s
+user	0m57.368s
+sys	0m0.856s
+
+real	241m54.237s
+user	241m31.000s
+sys	1m19.652s
+
+** repeat 0 **
+
+** min_lldelta 0 **
+
+** min_lldelta 0.05 **
+
+** min_lldelta 0.1 **
+
+** min_lldelta 0.15 **
+
+** min_lldelta 0.2 **
+
+** repeat 1 **
+
+** min_lldelta 0 **
+
+** min_lldelta 0.05 **
+
+** min_lldelta 0.1 **
+
+** min_lldelta 0.15 **
+
+** min_lldelta 0.2 **
+
+** repeat 2 **
+
+** min_lldelta 0 **
+
+** min_lldelta 0.05 **
+
+** min_lldelta 0.1 **
+
+** min_lldelta 0.15 **
+
+** min_lldelta 0.2 **
+
+** repeat 3 **
+
+** min_lldelta 0 **
+
+** min_lldelta 0.05 **
+
+** min_lldelta 0.1 **
+
+** min_lldelta 0.15 **
+
+** min_lldelta 0.2 **
+
+real	12m41.685s
+user	12m42.884s
+sys	0m57.084s
+
+real	254m36.025s
+user	254m13.972s
+sys	2m16.744s

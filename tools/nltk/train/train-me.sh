@@ -10,17 +10,33 @@ for r in {0..3}
 do
 	printf "\n** repeat "$r" **\n"	
 
-	for i in {10..120..10}
+	# max_iter
+	# for i in {10..120..10}
+	# do
+	# 	printf "\n** iter value "$i" **\n"
+	# 	FOLDER=../outputs/repeat-$r/joined
+	# 	MODEL=./models/repeat-$r/experiences/me_max_iter/$i
+		
+	# 	for level in "${levels[@]}"
+	# 	do
+	# 		iconv -f ISO-8859-1 -t UTF-8 $FOLDER/out-conll-$level.txt > $FOLDER/out-conll-$level-utf8.txt
+	# 		python $CHANGE $level
+	# 		time python $TRAIN $FOLDER --fileids out-conll-$level-utf8.txt --filename $MODEL/$level"_Maxent.pickle" --reader $READER --classifier Maxent --max_iter $i --no-eval
+	# 	done
+	# done
+
+	# min_lldelta
+	for i in 0 0.05 0.1 0.15 0.2
 	do
-		printf "\n** iter value "$i" **\n"
+		printf "\n** min_lldelta "$i" **\n"
 		FOLDER=../outputs/repeat-$r/joined
-		MODEL=./models/repeat-$r/experiences/me_max_iter/$i
+		MODEL=./models/repeat-$r/experiences/me_min_lldelta/$i
 		
 		for level in "${levels[@]}"
 		do
 			iconv -f ISO-8859-1 -t UTF-8 $FOLDER/out-conll-$level.txt > $FOLDER/out-conll-$level-utf8.txt
 			python $CHANGE $level
-			time python $TRAIN $FOLDER --fileids out-conll-$level-utf8.txt --filename $MODEL/$level"_Maxent.pickle" --reader $READER --classifier Maxent --max_iter $i --no-eval
+			time python $TRAIN $FOLDER --fileids out-conll-$level-utf8.txt --filename $MODEL/$level"_Maxent.pickle" --reader $READER --classifier Maxent --min_lldelta $i --no-eval
 		done
 	done
 done
