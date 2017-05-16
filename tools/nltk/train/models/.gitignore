@@ -1,3 +1,7 @@
+# Ignore everything
 *
-*/
+# Don't ignore directories, so we can recurse into them
+!*/
+# Don't ignore .gitignore and *.gitkeep files
 !.gitignore
+!*.gitkeep
