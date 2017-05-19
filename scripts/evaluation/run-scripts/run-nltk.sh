@@ -33,9 +33,15 @@ do
 		# 	../join-output-golden.sh $TOOL/$FOLDER/out-$level-ME.txt $GOLD/out-$level-gold.txt | ../conlleval > $OUT_RES/$FOLDER/$level.txt
 		# done
 
+		# for i in 0 0.0000001 0.000001 0.00001 0.0001 0.001 0.01 0.05 0.1 0.15 0.2
+		# do
+		# 	FOLDER=me_min_lldelta/$i
+		# 	../join-output-golden.sh $TOOL/$FOLDER/out-$level-ME.txt $GOLD/out-$level-gold.txt | ../conlleval > $OUT_RES/$FOLDER/$level.txt
+		# done
+
 		for i in 0 0.0000001 0.000001 0.00001 0.0001 0.001 0.01 0.05 0.1 0.15 0.2
 		do
-			FOLDER=me_min_lldelta/$i
+			FOLDER=me_min_lldelta-iter-100/$i
 			../join-output-golden.sh $TOOL/$FOLDER/out-$level-ME.txt $GOLD/out-$level-gold.txt | ../conlleval > $OUT_RES/$FOLDER/$level.txt
 		done
 
@@ -70,9 +76,14 @@ do
 	# 	python ../src/avg-results-experiences.py nltk $level me_max_iter $v
 	# done
 
+	# for v in 0 0.0000001 0.000001 0.00001 0.0001 0.001 0.01 0.05 0.1 0.15 0.2
+	# do
+	# 	python ../src/avg-results-experiences.py nltk $level me_min_lldelta $v
+	# done
+
 	for v in 0 0.0000001 0.000001 0.00001 0.0001 0.001 0.01 0.05 0.1 0.15 0.2
 	do
-		python ../src/avg-results-experiences.py nltk $level me_min_lldelta $v
+		python ../src/avg-results-experiences.py nltk $level me_min_lldelta-iter-100 $v
 	done
 
 	# DecisionTree
