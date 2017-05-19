@@ -2,7 +2,7 @@ import re
 import sys
 from nltk.tokenize import word_tokenize
 
-if(len(sys.argv) > 1):
+if(len(sys.argv) > 3):
   filein = sys.argv[1]
   fileout = sys.argv[2]
   encoding = sys.argv[3]
@@ -10,7 +10,10 @@ else:
   print "Usage: python " + sys.argv[0] + " <input> <output>\n"
   sys.exit()
 
-file_str = open(filein, 'r').read().decode(encoding)
+if encoding == "sigarra":
+	file_str = open(filein, 'r').read().decode("UTF-8")
+else:
+	file_str = open(filein, 'r').read().decode(encoding)
 
 #tokenize file
 text_as_list = word_tokenize(file_str)
@@ -64,5 +67,8 @@ to_file = re.sub('``', '\'\'', to_file)
 
 # output to file
 f = open(fileout, 'w')
-f.write(to_file.encode('ISO-8859-1'))
+if encoding == "sigarra":
+	f.write(to_file.encode('UTF-8'))
+else:
+	f.write(to_file.encode(encoding))
 f.close()
