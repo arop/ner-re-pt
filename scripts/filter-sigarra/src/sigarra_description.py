@@ -1,6 +1,6 @@
 import os
 
-data_path = "../../brat/data/sigarra-corpus-csv"
+data_path = "../../../brat/data/sigarra-corpus-csv"
 
 #FLUP,FAUP,FEUP,FMUP,FCUP,FPCEUP,SPUP,FADEUP,ICBAS,FDUP,FBAUP,FEP,FCNAUP,FFUP,REITORIA,FMDUP,UP
 entity_tags = ["Pessoa","Organizacao","Localizacao","Curso","Data","Hora","Evento","UnidadeOrganica"]
