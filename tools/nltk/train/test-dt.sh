@@ -9,8 +9,8 @@ do
 	printf "\n** repeat "$r" **\n"
 
 	# support cutoff
-	# for i in {7..12}
-	for i in 3
+	# for i in 3 {7..12}
+	for i in {13..15}
 	do
 		printf "\n** support cutoff "$i" **\n"
 
@@ -43,17 +43,18 @@ do
 
 	# depth cutoff
 	# for i in {70..120..10}
-	# do
-	# 	printf "\n** depth cutoff "$i" **\n"
+	for i in {10..60..10}
+	do
+		printf "\n** depth cutoff "$i" **\n"
 
-	# 	for level in "${levels[@]}"
-	# 	do
-	# 		OUT=../outputs/repeat-$r/joined
-	# 		RESULTS=../outputs/repeat-$r/ner-results/experiences/dt_depth_cutoff/$i
-	# 		MODELS=models/repeat-$r/experiences/dt_depth_cutoff/$i
+		for level in "${levels[@]}"
+		do
+			OUT=../outputs/repeat-$r/joined
+			RESULTS=../outputs/repeat-$r/ner-results/experiences/dt_depth_cutoff/$i
+			MODELS=models/repeat-$r/experiences/dt_depth_cutoff/$i
 
-	# 		iconv -f ISO-8859-1 -t UTF-8 $OUT/pos-$level-docs-test.txt > $OUT/pos-$level-docs-test-utf8.txt
-	# 		python $TEST $MODELS/$level"_DecisionTree.pickle" $OUT/pos-$level-docs-test-utf8.txt $RESULTS/out-$level-DT.txt
-	# 	done
-	# done
+			iconv -f ISO-8859-1 -t UTF-8 $OUT/pos-$level-docs-test.txt > $OUT/pos-$level-docs-test-utf8.txt
+			python $TEST $MODELS/$level"_DecisionTree.pickle" $OUT/pos-$level-docs-test-utf8.txt $RESULTS/out-$level-DT.txt
+		done
+	done
 done

@@ -11,8 +11,8 @@ do
 	printf "\n** repeat "$r" **\n"	
 
 	# support cutoff
-	# for i in {7..12}
-	for i in 3
+	# for i in 3 {7..12}
+	for i in {13..15}
 	do
 		printf "\n** support cutoff value "$i" **\n"
 		FOLDER=../outputs/repeat-$r/joined
@@ -43,16 +43,17 @@ do
 
 	# depth cutoff
 	# for i in {70..120..10}
-	# do
-	# 	printf "\n** depth cutoff value "$i" **\n"
-	# 	FOLDER=../outputs/repeat-$r/joined
-	# 	MODEL=./models/repeat-$r/experiences/dt_depth_cutoff/$i
+	for i in {10..60..10}
+	do
+		printf "\n** depth cutoff value "$i" **\n"
+		FOLDER=../outputs/repeat-$r/joined
+		MODEL=./models/repeat-$r/experiences/dt_depth_cutoff/$i
 		
-	# 	for level in "${levels[@]}"
-	# 	do
-	# 		iconv -f ISO-8859-1 -t UTF-8 $FOLDER/out-conll-$level.txt > $FOLDER/out-conll-$level-utf8.txt
-	# 		python $CHANGE $level
-	# 		time python $TRAIN $FOLDER --fileids out-conll-$level-utf8.txt --filename $MODEL/$level"_DecisionTree.pickle" --reader $READER --classifier DecisionTree --depth_cutoff $i --no-eval
-	# 	done
-	# done
+		for level in "${levels[@]}"
+		do
+			iconv -f ISO-8859-1 -t UTF-8 $FOLDER/out-conll-$level.txt > $FOLDER/out-conll-$level-utf8.txt
+			python $CHANGE $level
+			time python $TRAIN $FOLDER --fileids out-conll-$level-utf8.txt --filename $MODEL/$level"_DecisionTree.pickle" --reader $READER --classifier DecisionTree --depth_cutoff $i --no-eval
+		done
+	done
 done

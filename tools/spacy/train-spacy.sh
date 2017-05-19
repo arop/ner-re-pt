@@ -18,7 +18,7 @@ do
 
 	# experiences
 	#for i in {10..60..10} 100
-	for i in 100
+	for i in {70..90..10} 110 120
 	do
 		printf '\n*** iterations: '$i' ***\n'
 		TRAIN=../../scripts/filter-harem/harem-to-standoff/outputs/repeat-$r/joined
