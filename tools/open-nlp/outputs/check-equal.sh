@@ -24,4 +24,5 @@ printf "\n** sigarra **\n"
 for r in {0..3}
 do
 	python check-equal-sigarra.py $r
+	python check-equal-sigarra.py $r default
 done

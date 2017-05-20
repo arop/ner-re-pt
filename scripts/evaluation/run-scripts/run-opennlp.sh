@@ -35,6 +35,7 @@ do
 		TOOL=../../../tools/open-nlp/outputs/repeat-$r/ner-results/sigarra
 		OUT_RES=../results/open-nlp/repeat-$r/sigarra
 		../join-output-golden.sh $TOOL/out-sigarra.txt $TOOL/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra.txt
+		../join-output-golden.sh $TOOL/out-sigarra-default.txt $TOOL/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra-default.txt
 	done
 
 	# python ../src/avg-results-all.py open-nlp $level
@@ -49,5 +50,5 @@ do
 	# 	python ../src/avg-results-experiences.py open-nlp $level iterations $i
 	# done
 
-	python ../src/avg-results-sigarra.py open-nlp
+	python ../src/avg-results-sigarra.py open-nlp default
 done

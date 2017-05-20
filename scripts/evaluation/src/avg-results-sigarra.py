@@ -1,12 +1,12 @@
 import sys
 
 if(len(sys.argv) > 1):
-  tool = sys.argv[1]
-  if(len(sys.argv) > 2):
-  	classifier = sys.argv[2]
+	tool = sys.argv[1]
+	if(len(sys.argv) > 2):
+		classifier = sys.argv[2]
 else:
-  print "Usage: python " + sys.argv[0] + " <tool> [classifier]\n"
-  sys.exit()
+	print "Usage: python " + sys.argv[0] + " <tool> [classifier]\n"
+	sys.exit()
 
 def get_avg(l):
 	if len(l) == 0:
