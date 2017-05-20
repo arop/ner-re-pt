@@ -42,8 +42,8 @@ do
 	# done
 
 	# depth cutoff
-	# for i in {10..120..10}
-	for i in 5
+	# for i in 5 {10..120..10}
+	for i in 2
 	do
 		printf "\n** depth cutoff "$i" **\n"
 

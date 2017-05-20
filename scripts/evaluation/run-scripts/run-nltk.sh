@@ -22,9 +22,9 @@ do
 		# python ../src/avg-results.py nltk $level-NB $r
 
 		# experiences
-		# TOOL=../../../tools/nltk/outputs/repeat-$r/ner-results/experiences
-		# GOLD=../../../tools/nltk/outputs/repeat-$r/joined
-		# OUT_RES=../results/nltk/repeat-$r/experiences
+		TOOL=../../../tools/nltk/outputs/repeat-$r/ner-results/experiences
+		GOLD=../../../tools/nltk/outputs/repeat-$r/joined
+		OUT_RES=../results/nltk/repeat-$r/experiences
 
 		# MaxEnt
 		# for i in {10..120..10}
@@ -59,18 +59,19 @@ do
 		# done
 
 		# for i in 5 {10..120..10}
-		# do
-		# 	FOLDER=dt_depth_cutoff/$i
-		# 	../join-output-golden.sh $TOOL/$FOLDER/out-$level-DT.txt $GOLD/out-$level-gold.txt | ../conlleval > $OUT_RES/$FOLDER/$level.txt
-		# done
+		for i in 2
+		do
+			FOLDER=dt_depth_cutoff/$i
+			../join-output-golden.sh $TOOL/$FOLDER/out-$level-DT.txt $GOLD/out-$level-gold.txt | ../conlleval > $OUT_RES/$FOLDER/$level.txt
+		done
 
 
 		# SIGARRA
-		TOOL=../../../tools/nltk/outputs/repeat-$r/ner-results/sigarra
-		GOLD=../../../tools/nltk/outputs/repeat-$r/sigarra
-		OUT_RES=../results/nltk/repeat-$r/sigarra
+		# TOOL=../../../tools/nltk/outputs/repeat-$r/ner-results/sigarra
+		# GOLD=../../../tools/nltk/outputs/repeat-$r/sigarra
+		# OUT_RES=../results/nltk/repeat-$r/sigarra
 
-		../join-output-golden.sh $TOOL/out-sigarra-NB.txt $GOLD/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra-NB.txt
+		# ../join-output-golden.sh $TOOL/out-sigarra-NB.txt $GOLD/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra-NB.txt
 
 	done
 
@@ -102,9 +103,10 @@ do
 	# done
 
 	# for v in 5 {10..120..10}
-	# do
-	# 	python ../src/avg-results-experiences.py nltk $level dt_depth_cutoff $v
-	# done
+	for v in 2
+	do
+		python ../src/avg-results-experiences.py nltk $level dt_depth_cutoff $v
+	done
 
 	# for v in 0.03 0.04 0.05 0.06 0.07 0.08 0.09 0.1 0.11 0.12 0.13
 	# do
@@ -112,5 +114,5 @@ do
 	# done
 
 	# SIGARRA
-	python ../src/avg-results-sigarra.py nltk NB
+	# python ../src/avg-results-sigarra.py nltk NB
 done

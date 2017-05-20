@@ -102,7 +102,7 @@ def load_corpus_reader(corpus, reader=None, fileids=None, sent_tokenizer=None, w
 		#############################
 		sigarra = ['Pessoa','Organizacao','Localizacao','Curso','Data','Hora','Evento','UnidadeOrganica']
 		########### HERE ############
-		kwargs['chunk_types'] = sigarra
+		kwargs['chunk_types'] = filtered
 
 		real_corpus = reader_cls(root, fileids, **kwargs)
 	
