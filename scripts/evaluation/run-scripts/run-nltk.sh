@@ -39,18 +39,18 @@ do
 		# 	../join-output-golden.sh $TOOL/$FOLDER/out-$level-ME.txt $GOLD/out-$level-gold.txt | ../conlleval > $OUT_RES/$FOLDER/$level.txt
 		# done
 
-		for i in 0 0.0000001 0.000001 0.00001 0.0001 0.001 0.01 0.05 0.1 0.15 0.2
-		do
-			FOLDER=me_min_lldelta-iter-100/$i
-			../join-output-golden.sh $TOOL/$FOLDER/out-$level-ME.txt $GOLD/out-$level-gold.txt | ../conlleval > $OUT_RES/$FOLDER/$level.txt
-		done
+		# for i in 0 0.0000001 0.000001 0.00001 0.0001 0.001 0.01 0.05 0.1 0.15 0.2
+		# do
+		# 	FOLDER=me_min_lldelta-iter-100/$i
+		# 	../join-output-golden.sh $TOOL/$FOLDER/out-$level-ME.txt $GOLD/out-$level-gold.txt | ../conlleval > $OUT_RES/$FOLDER/$level.txt
+		# done
 
 		# DecisionTree
-		# for i in 3 {7..12}
-		# do
-		# 	FOLDER=dt_support_cutoff/$i
-		# 	../join-output-golden.sh $TOOL/$FOLDER/out-$level-DT.txt $GOLD/out-$level-gold.txt | ../conlleval > $OUT_RES/$FOLDER/$level.txt
-		# done
+		for i in 3 {7..15}
+		do
+			FOLDER=dt_support_cutoff/$i
+			../join-output-golden.sh $TOOL/$FOLDER/out-$level-DT.txt $GOLD/out-$level-gold.txt | ../conlleval > $OUT_RES/$FOLDER/$level.txt
+		done
 
 		# for i in 0.03 0.04 0.05 0.06 0.07 0.08 0.09 0.1 0.11 0.12 0.13
 		# do
@@ -58,11 +58,11 @@ do
 		# 	../join-output-golden.sh $TOOL/$FOLDER/out-$level-DT.txt $GOLD/out-$level-gold.txt | ../conlleval > $OUT_RES/$FOLDER/$level.txt
 		# done
 
-		# for i in {70..120..10}
-		# do
-		# 	FOLDER=dt_depth_cutoff/$i
-		# 	../join-output-golden.sh $TOOL/$FOLDER/out-$level-DT.txt $GOLD/out-$level-gold.txt | ../conlleval > $OUT_RES/$FOLDER/$level.txt
-		# done
+		for i in {10..120..10}
+		do
+			FOLDER=dt_depth_cutoff/$i
+			../join-output-golden.sh $TOOL/$FOLDER/out-$level-DT.txt $GOLD/out-$level-gold.txt | ../conlleval > $OUT_RES/$FOLDER/$level.txt
+		done
 	done
 
 	# python ../src/avg-results-all.py nltk $level-DT
@@ -81,21 +81,21 @@ do
 	# 	python ../src/avg-results-experiences.py nltk $level me_min_lldelta $v
 	# done
 
-	for v in 0 0.0000001 0.000001 0.00001 0.0001 0.001 0.01 0.05 0.1 0.15 0.2
-	do
-		python ../src/avg-results-experiences.py nltk $level me_min_lldelta-iter-100 $v
-	done
+	# for v in 0 0.0000001 0.000001 0.00001 0.0001 0.001 0.01 0.05 0.1 0.15 0.2
+	# do
+	# 	python ../src/avg-results-experiences.py nltk $level me_min_lldelta-iter-100 $v
+	# done
 
 	# DecisionTree
-	# for v in 3 {7..12}
-	# do
-	# 	python ../src/avg-results-experiences.py nltk $level dt_support_cutoff $v
-	# done
+	for v in 3 {7..15}
+	do
+		python ../src/avg-results-experiences.py nltk $level dt_support_cutoff $v
+	done
 
-	# for v in {70..120..10}
-	# do
-	# 	python ../src/avg-results-experiences.py nltk $level dt_depth_cutoff $v
-	# done
+	for v in {10..120..10}
+	do
+		python ../src/avg-results-experiences.py nltk $level dt_depth_cutoff $v
+	done
 
 	# for v in 0.03 0.04 0.05 0.06 0.07 0.08 0.09 0.1 0.11 0.12 0.13
 	# do

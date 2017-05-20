@@ -1,0 +1,28 @@
+processed 20087 tokens with 472 phrases; found: 554 phrases; correct: 156.
+accuracy:  95.19%; precision:  28.16%; recall:  33.05%; FB1:  30.41
+LOCAL_FISICO_AGUACURSO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_FISICO_AGUAMASSA: precision:  50.00%; recall:  25.00%; FB1:  33.33  2
+LOCAL_FISICO_PLANETA: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+LOCAL_FISICO_REGIAO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_FISICO_RELEVO: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+LOCAL_HUMANO_CONSTRUCAO: precision:  19.23%; recall:  15.15%; FB1:  16.95  26
+LOCAL_HUMANO_DIVISAO: precision:  44.66%; recall:  43.40%; FB1:  44.02  103
+LOCAL_HUMANO_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+LOCAL_HUMANO_PAIS: precision:  40.23%; recall:  67.31%; FB1:  50.36  87
+LOCAL_HUMANO_REGIAO: precision:  15.38%; recall:  22.22%; FB1:  18.18  13
+ LOCAL_HUMANO_RUA: precision:  11.11%; recall:  11.11%; FB1:  11.11  9
+LOCAL_VIRTUAL_COMSOCIAL: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+LOCAL_VIRTUAL_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+LOCAL_VIRTUAL_SITIO: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+OBRA_ARTE_EDIFICIO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+OBRA_ARTE_PINTURA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+OBRA_REPRODUZIDA_FILME: precision:   0.00%; recall:   0.00%; FB1:   0.00  7
+OBRA_REPRODUZIDA_LIVRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  13
+OBRA_REPRODUZIDA_MUSICA: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+OBRA_REPRODUZIDA_OUTRO: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+OBRA_REPRODUZIDA_PROGRAMA: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+ORGANIZACAO_ADMINISTRACAO_SUB: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+ORGANIZACAO_INSTITUICAO_SUB: precision:  25.00%; recall:  16.67%; FB1:  20.00  4
+TEMPO_TEMPO_CALEND_DATA: precision:  27.08%; recall:  35.52%; FB1:  30.73  240
+TEMPO_TEMPO_CALEND_HORA: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+TEMPO_TEMPO_CALEND_INTERVALO: precision:   0.00%; recall:   0.00%; FB1:   0.00  13

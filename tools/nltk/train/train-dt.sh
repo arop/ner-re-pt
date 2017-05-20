@@ -11,8 +11,7 @@ do
 	printf "\n** repeat "$r" **\n"	
 
 	# support cutoff
-	# for i in 3 {7..12}
-	for i in {13..15}
+	for i in 3 {7..15}
 	do
 		printf "\n** support cutoff value "$i" **\n"
 		FOLDER=../outputs/repeat-$r/joined
@@ -42,8 +41,7 @@ do
 	# done
 
 	# depth cutoff
-	# for i in {70..120..10}
-	for i in {10..60..10}
+	for i in {10..120..10}
 	do
 		printf "\n** depth cutoff value "$i" **\n"
 		FOLDER=../outputs/repeat-$r/joined
