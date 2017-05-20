@@ -2,18 +2,19 @@ import re
 import sys
 from nltk.tokenize import word_tokenize
 
-if(len(sys.argv) > 2):
+if(len(sys.argv) > 3):
   filein = sys.argv[1]
   fileout = sys.argv[2]
+  encoding = sys.argv[3]
 else:
-  print "Usage: python " + sys.argv[0] + " <input> <output>\n"
+  print "Usage: python " + sys.argv[0] + " <input> <output> <encoding>\n"
   sys.exit()
 
 file = open(filein, 'r').read()
 file_str = "--SENTENCE--\n".join(file.splitlines())
 
 #tokenize file
-text_as_list = word_tokenize(file_str.decode('ISO-8859-1'))
+text_as_list = word_tokenize(file_str.decode(encoding))
 
 tokenized = ""
 for token in text_as_list:
@@ -64,5 +65,5 @@ for line in file_str.splitlines():
 
 # output to file
 f = open(fileout, 'w')
-f.write(to_file.encode('ISO-8859-1'))
+f.write(to_file.encode(encoding))
 f.close()

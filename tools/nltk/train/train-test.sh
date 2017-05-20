@@ -1,10 +1,13 @@
 #!/bin/bash
 
-# time ./train-default.sh
-# time ./test-default.sh
+# cd run-scripts && time ./train-default.sh; cd -
+# cd run-scripts && time ./test-default.sh; cd -
 
-# time ./train-me.sh
-# time ./test-me.sh
+# cd run-scripts && time ./train-me.sh; cd -
+# cd run-scripts && time ./test-me.sh; cd -
 
-time ./train-dt.sh
-time ./test-dt.sh
+# cd run-scripts && time ./train-dt.sh; cd -
+# cd run-scripts && time ./test-dt.sh; cd -
+
+cd run-scripts && time ./train-sigarra.sh; cd -
+cd run-scripts && time ./test-sigarra.sh; cd -

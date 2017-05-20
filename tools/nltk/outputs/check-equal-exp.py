@@ -1,6 +1,6 @@
 import sys
 
-if len(sys.argv) > 4:
+if len(sys.argv) > 5:
 	level = sys.argv[1]
 	repeat = sys.argv[2]
 	classifier = sys.argv[3]

@@ -2,15 +2,16 @@ import nltk
 import sys
 from pickle import load
 
-if(len(sys.argv) > 2):
+if(len(sys.argv) > 3):
   filein = sys.argv[1]
   fileout = sys.argv[2]
+  encoding = sys.argv[3]
 else:
-  print "Usage: python " + sys.argv[0] + " <input> <output>\n"
+  print "Usage: python " + sys.argv[0] + " <input> <output> <encoding>\n"
   sys.exit()
 
 #tokenize
-text_as_list = open(filein,'r').read().decode('ISO-8859-1').splitlines()
+text_as_list = open(filein,'r').read().decode(encoding).splitlines()
 
 #remove tags
 newdata = []
@@ -34,5 +35,5 @@ for (word,tag) in tagged:
 
 # output to file
 f = open(fileout, 'w')
-f.write(to_file.encode('ISO-8859-1'))
+f.write(to_file.encode(encoding))
 f.close()

@@ -3,8 +3,8 @@
 declare -a levels=("cat" "types" "subtypes" "filtered")
 
 READER=nltk.corpus.reader.conll.ConllChunkCorpusReader
-TRAIN=train_chunker.py
-CHANGE=src/change_categories.py
+TRAIN=../train_chunker.py
+CHANGE=../src/change_categories.py
 
 for r in {0..3}
 do
@@ -14,8 +14,8 @@ do
 	# for i in {10..120..10}
 	# do
 	# 	printf "\n** iter value "$i" **\n"
-	# 	FOLDER=../outputs/repeat-$r/joined
-	# 	MODEL=./models/repeat-$r/experiences/me_max_iter/$i
+	# 	FOLDER=../../outputs/repeat-$r/joined
+	# 	MODEL=../models/repeat-$r/experiences/me_max_iter/$i
 		
 	# 	for level in "${levels[@]}"
 	# 	do
@@ -29,8 +29,8 @@ do
 	# for i in 0 0.0000001 0.000001 0.00001 0.0001 0.001 0.01 0.05 0.1 0.15 0.2
 	# do
 	# 	printf "\n** min_lldelta "$i" **\n"
-	# 	FOLDER=../outputs/repeat-$r/joined
-	# 	MODEL=./models/repeat-$r/experiences/me_min_lldelta/$i
+	# 	FOLDER=../../outputs/repeat-$r/joined
+	# 	MODEL=../models/repeat-$r/experiences/me_min_lldelta/$i
 		
 	# 	for level in "${levels[@]}"
 	# 	do
@@ -45,8 +45,8 @@ do
 	for i in 0 0.0000001 0.000001 0.00001 0.0001 0.001 0.01 0.05 0.1 0.15 0.2
 	do
 		printf "\n** min_lldelta "$i" **\n"
-		FOLDER=../outputs/repeat-$r/joined
-		MODEL=./models/repeat-$r/experiences/me_min_lldelta-iter-100/$i
+		FOLDER=../../outputs/repeat-$r/joined
+		MODEL=../models/repeat-$r/experiences/me_min_lldelta-iter-100/$i
 		
 		for level in "${levels[@]}"
 		do

@@ -2,8 +2,10 @@ import sys
 
 if(len(sys.argv) > 1):
   tool = sys.argv[1]
+  if(len(sys.argv) > 2):
+  	classifier = sys.argv[2]
 else:
-  print "Usage: python " + sys.argv[0] + " <tool>\n"
+  print "Usage: python " + sys.argv[0] + " <tool> [classifier]\n"
   sys.exit()
 
 def get_avg(l):
@@ -36,7 +38,10 @@ def get_level_result(str):
 
 results_files = []
 for r in range(4):
-	f = open('../results/' + tool + '/repeat-' + str(r) + '/sigarra/sigarra.txt', 'r')
+	if classifier:
+		f = open('../results/' + tool + '/repeat-' + str(r) + '/sigarra/sigarra-'+classifier+'.txt', 'r')
+	else:
+		f = open('../results/' + tool + '/repeat-' + str(r) + '/sigarra/sigarra.txt', 'r')
 	results_files.append(f.read())
 	f.close()
 
@@ -121,7 +126,11 @@ for cat in cats:
 	to_file += "\tMFB1: {:05.2f}".format(m_fb1) 
 	to_file += '\t' + cat + '\n'
 
-f = open('../results/' + tool + '/avg/sigarra/sigarra-avg.txt', 'w')
+
+if classifier:
+	f = open('../results/' + tool + '/avg/sigarra/sigarra-avg-'+classifier+'.txt', 'w')
+else:
+	f = open('../results/' + tool + '/avg/sigarra/sigarra-avg.txt', 'w')
 f.write(to_file)
 f.close()
 

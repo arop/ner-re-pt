@@ -1,4 +1,5 @@
 import os
+from datascience import stats
 
 data_path = "../../../brat/data/sigarra-corpus-csv"
 
@@ -7,6 +8,8 @@ entity_tags = ["Pessoa","Organizacao","Localizacao","Curso","Data","Hora","Event
 
 total_entities = dict([(e,0) for e in entity_tags])
 total_avg_chars = []
+
+total_chars = []
 
 # list organic units
 for uo_dir in os.listdir(data_path):
@@ -36,8 +39,16 @@ for uo_dir in os.listdir(data_path):
 				number_chars.append(len(f.read()))
 				f.close()
 
+		total_chars.append([uo_dir] + number_chars)
+
 		avg_chars = (sum(number_chars)/len(number_chars))
 		total_avg_chars.append(avg_chars)
 		print uo_dir, avg_chars, entity_count
 
 print (sum(total_avg_chars)/len(total_avg_chars)), total_entities
+
+# print total_chars
+
+for c in total_chars:
+	print c[0]
+	stats.summary(c[1:])
