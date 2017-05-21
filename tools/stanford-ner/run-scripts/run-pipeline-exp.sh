@@ -9,11 +9,13 @@
 # time ./token-to-conll.sh
 
 # train
-for r in {0..3}
+# for r in {0..3}
+for r in 0
 do
 	printf "\n*****repeat "$r"*****\n"
 	# max iterations
-	for v in 10 50 100
+	# for v in 10 50 100
+	for v in 10
 	do
 		printf "\n*****max-iterations = "$v"*****\n"
 		printf "\n***training categories***\n"
@@ -26,16 +28,12 @@ do
 	done
 done
 
-# test - perform ner
-printf "\n***testing categories***\n"
-cd test && time ./test-cat-exp.sh ; cd - #1min30 r[1-3]
-printf "\n***testing filtered***\n"
-cd test && time ./test-filtered-exp.sh ; cd - #1min20 r[1-3]
-# printf "\n***testing types***\n"
-# cd test && time ./test-types-exp.sh ; cd - # not enough RAM
-# printf "\n***testing subtypes***\n"
-# cd test && time ./test-subtypes-exp.sh ; cd - # not enough RAM
+# # test - perform ner
+# printf "\n***testing categories***\n"
+# cd test && time ./test-cat-exp.sh ; cd -
+# printf "\n***testing filtered***\n"
+# cd test && time ./test-filtered-exp.sh ; cd -
 
-# Add IOB tags
-printf "\n*** Adding IOB tags ***\n"
-time ./add-IOB.sh
+# # Add IOB tags
+# printf "\n*** Adding IOB tags ***\n"
+# time ./add-IOB.sh
