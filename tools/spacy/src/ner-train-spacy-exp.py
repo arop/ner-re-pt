@@ -95,7 +95,7 @@ def main(model_dir=None):
         print('Setting tagger')
         nlp.tagger = Tagger(nlp.vocab, features=Tagger.feature_templates)
 
-    if(len(sys.argv) > 3):
+    if(len(sys.argv) > 4):
       	filetrain = sys.argv[1]
       	model_dir = sys.argv[2]
       	level = sys.argv[3]

@@ -15,5 +15,8 @@ do
 
 		printf "\n** experiences **\n"
 		python check-equal-exp.py $level $r iterations {10..120..10}
+
+		printf "\n** sigarra **\n"
+		python check-equal-sigarra.py $r
 	done
 done
