@@ -38,7 +38,7 @@ def get_standoff(line):
 		standoff.append((beginPos, endPos, tag))
 	return standoff, line
 
-input_file = open(filein,'r').read().splitlines()
+input_file = open(filein,'r').read().decode('UTF-8').splitlines()
 
 standoff_out = ""
 file_out = ""
@@ -53,9 +53,9 @@ for line in input_file:
 	file_out += standoff[1] +  '\n'
 
 file = open(fileout + '-standoff.ann','w')
-file.write(standoff_out)
+file.write(standoff_out.encode('UTF-8'))
 file.close()
 
 file = open(fileout + '-standoff.txt','w')
-file.write(file_out)
+file.write(file_out.encode('UTF-8'))
 file.close()

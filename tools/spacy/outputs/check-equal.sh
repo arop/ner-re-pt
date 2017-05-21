@@ -17,6 +17,7 @@ do
 		python check-equal-exp.py $level $r iterations {10..120..10}
 
 		printf "\n** sigarra **\n"
-		python check-equal-sigarra.py $r
+		# python check-equal-sigarra.py $r
+		python check-equal-sigarra.py $r default
 	done
 done

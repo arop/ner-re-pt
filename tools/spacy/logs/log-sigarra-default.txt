@@ -1,0 +1,105 @@
+
+*** repeat 0 ***
+Setting tagger
+Iteration: 0
+Iteration: 1
+Iteration: 2
+Iteration: 3
+Iteration: 4
+Iteration: 5
+Iteration: 6
+Iteration: 7
+Iteration: 8
+Iteration: 9
+
+real	5m41.767s
+user	5m41.724s
+sys	0m0.656s
+
+*** repeat 1 ***
+Setting tagger
+Iteration: 0
+Iteration: 1
+Iteration: 2
+Iteration: 3
+Iteration: 4
+Iteration: 5
+Iteration: 6
+Iteration: 7
+Iteration: 8
+Iteration: 9
+
+real	5m43.028s
+user	5m43.008s
+sys	0m0.828s
+
+*** repeat 2 ***
+Setting tagger
+Iteration: 0
+Iteration: 1
+Iteration: 2
+Iteration: 3
+Iteration: 4
+Iteration: 5
+Iteration: 6
+Iteration: 7
+Iteration: 8
+Iteration: 9
+
+real	5m37.576s
+user	5m37.436s
+sys	0m0.860s
+
+*** repeat 3 ***
+Setting tagger
+Iteration: 0
+Iteration: 1
+Iteration: 2
+Iteration: 3
+Iteration: 4
+Iteration: 5
+Iteration: 6
+Iteration: 7
+Iteration: 8
+Iteration: 9
+
+real	5m27.766s
+user	5m27.724s
+sys	0m0.656s
+
+real	22m30.141s
+user	22m29.892s
+sys	0m3.000s
+
+** repeat 0 **
+
+real	0m11.491s
+user	0m11.484s
+sys	0m0.708s
+
+** repeat 1 **
+
+real	0m11.575s
+user	0m11.556s
+sys	0m0.652s
+
+** repeat 2 **
+
+real	0m10.719s
+user	0m10.724s
+sys	0m0.536s
+
+** repeat 3 **
+
+real	0m12.133s
+user	0m12.100s
+sys	0m0.584s
+
+real	0m45.924s
+user	0m45.864s
+sys	0m2.480s
+
+
+real	22m43.393s
+user	22m43.100s
+sys	0m3.744s

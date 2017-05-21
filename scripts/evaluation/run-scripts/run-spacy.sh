@@ -17,18 +17,26 @@ do
 
 		# python ../src/avg-results.py spacy $level $r
 
-		for i in {10..120..10}
-		do
-			TOOL=../../../tools/spacy/outputs/repeat-$r/experiences/iterations/$i
-			OUT_RES=../results/spacy/repeat-$r/experiences/iterations/$i
-			../join-output-golden.sh $TOOL/$level.txt $TOOL/out-$level-gold.txt | ../conlleval > $OUT_RES/$level.txt
-		done
+		# experiences
+		# for i in {10..120..10}
+		# do
+		# 	TOOL=../../../tools/spacy/outputs/repeat-$r/experiences/iterations/$i
+		# 	OUT_RES=../results/spacy/repeat-$r/experiences/iterations/$i
+		# 	../join-output-golden.sh $TOOL/$level.txt $TOOL/out-$level-gold.txt | ../conlleval > $OUT_RES/$level.txt
+		# done
+
+		# SIGARRA
+		TOOL=../../../tools/spacy/outputs/repeat-$r/sigarra
+		OUT_RES=../results/spacy/repeat-$r/sigarra
+		../join-output-golden.sh $TOOL/sigarra-default.txt $TOOL/out-sigarra-default-gold.txt | ../conlleval > $OUT_RES/sigarra-default.txt
 	done
 
 	# python ../src/avg-results-all.py spacy $level
 
-	for i in {10..120..10}
-	do
-		python ../src/avg-results-experiences.py spacy $level iterations $i
-	done
+	# for i in {10..120..10}
+	# do
+	# 	python ../src/avg-results-experiences.py spacy $level iterations $i
+	# done
+
+	python ../src/avg-results-sigarra.py spacy default
 done

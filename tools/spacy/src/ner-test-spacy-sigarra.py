@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import spacy
 from pathlib import Path
 from spacy.pipeline import BeamEntityRecognizer
@@ -45,17 +47,19 @@ def get_testing_data(input_file):
 
 def output_gold(nlp, testing_data):
 	out = []
+
 	for raw_text, entity_offsets in testing_data:
 		doc = nlp.tokenizer(raw_text)
 		gold = biluo_tags_from_offsets(doc, entity_offsets)
 		out.append((doc,gold))
 	return out
 
-if(len(sys.argv) > 2):
+if(len(sys.argv) > 3):
   filein = sys.argv[1]
   model = sys.argv[2]
+  out = sys.argv[3]
 else:
-  print ("Usage: python " + sys.argv[0] + " <input training> <model>\n")
+  print ("Usage: python " + sys.argv[0] + " <input training> <model> <out>\n")
   sys.exit()
 
 MODEL_DIR = Path("./models")
@@ -93,6 +97,6 @@ for span in gold:
 to_gold = re.sub(r'\tU-(\w+)',r'\tB-\1',to_gold)
 to_gold = re.sub(r'\tL-(\w+)',r'\tI-\1',to_gold)
 
-f = open('outputs/out-'+model+'-gold.txt','w')
+f = open('outputs/'+out+'-gold.txt','w')
 f.write(to_gold.encode('UTF-8'))
 f.close()

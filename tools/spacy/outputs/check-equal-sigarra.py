@@ -2,12 +2,19 @@ import sys
 
 if len(sys.argv) > 1:
 	repeat = sys.argv[1]
+	default = False
+	if len(sys.argv) > 2:
+		default = True
 else:
 	print "Usage: " + sys.argv[0] + " <repeat>\n"
 	sys.exit()
 
-one = open('repeat-'+repeat+'/sigarra/sigarra.txt','r').read().splitlines()
-two = open('repeat-'+repeat+'/sigarra/out-sigarra-gold.txt','r').read().splitlines()
+if default:
+	one = open('repeat-'+repeat+'/sigarra/sigarra-default.txt','r').read().splitlines()
+	two = open('repeat-'+repeat+'/sigarra/out-sigarra-default-gold.txt','r').read().splitlines()
+else:
+	one = open('repeat-'+repeat+'/sigarra/sigarra.txt','r').read().splitlines()
+	two = open('repeat-'+repeat+'/sigarra/out-sigarra-gold.txt','r').read().splitlines()
 
 i = 0
 for i,line in enumerate(one):

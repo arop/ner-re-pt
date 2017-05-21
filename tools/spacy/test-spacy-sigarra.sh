@@ -7,5 +7,9 @@ do
 	FOLDER=../../scripts/filter-sigarra/sigarra-to-standoff/outputs/repeat-$r/
 	MODEL=repeat-$r/sigarra
 
-	time python "src/ner-test-spacy-sigarra.py" $FOLDER/"sigarra_test-standoff" $MODEL/sigarra
+	#OUT=repeat-$r/sigarra/out-sigarra
+	# time python "src/ner-test-spacy-sigarra.py" $FOLDER/"sigarra_test-standoff" $MODEL/sigarra
+	
+	OUT=repeat-$r/sigarra/out-sigarra-default
+	time python "src/ner-test-spacy-sigarra.py" $FOLDER/"sigarra_test-standoff" $MODEL/sigarra-default $OUT
 done
