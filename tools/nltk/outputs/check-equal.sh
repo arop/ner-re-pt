@@ -23,6 +23,6 @@ do
 		python check-equal-exp.py $level $r "DT" "dt_depth_cutoff" 2 5 {10..120..10}
 		
 		python check-equal-sigarra.py $r "NB"
+		python check-equal-sigarra.py $r "ME"
 	done
-
 done

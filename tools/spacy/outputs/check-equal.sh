@@ -14,6 +14,6 @@ do
 		done
 
 		printf "\n** experiences **\n"
-		python check-equal-exp.py $level $r iterations {10..60..10} 100
+		python check-equal-exp.py $level $r iterations {10..120..10}
 	done
 done
