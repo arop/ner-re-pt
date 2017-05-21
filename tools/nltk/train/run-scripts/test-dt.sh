@@ -9,8 +9,8 @@ do
 	printf "\n** repeat "$r" **\n"
 
 	# support cutoff
-	# for i in 3 {7..15}
-	for i in 16
+	# for i in 3 {7..16}
+	for i in {17..20}
 	do
 		printf "\n** support cutoff "$i" **\n"
 

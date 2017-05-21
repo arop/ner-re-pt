@@ -20,7 +20,7 @@ f = open(filein, 'r')
 file = f.read()
 f.close()
 
-trainFile = '../../outputs/repeat-' + repeat + '/experiences/' + param + '/' + value + '/t_' + level + '_train.txt\n'
+trainFile = '../../outputs/repeat-' + repeat + '/experiences/joined/t_' + level + '_train.txt\n'
 serializeTo = '../../models/repeat-' + repeat + '/experiences/' + param + '/' + value + '/' + level + '-ner-model.ser.gz\n'
 
 file = re.sub(r'trainFile = .+\n','trainFile = ' + trainFile, file)
