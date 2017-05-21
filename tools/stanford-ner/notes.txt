@@ -2,15 +2,12 @@ types and subtypes require more than 8gb of ram
 were trained using a different prop file, with less features
 
 --------------------
-**** TRAINING ****
--- DIFFERENT ENV --
-cat r1-f8
-cat r2-f2
-cat r3-f9
-
--- DONE BUT OUT OF MEMORY --
-cat r1-f9
-cat r2-f7
-
 each filtered takes ~5min
 each categories takes ~15min
+
+----------------------
+tolerance	double	1e-4	Convergence tolerance in optimization
+
+epsilon	double	0.01	Used only as a parameter in the Huber loss: this is the distance from 0 at which the loss changes from quadratic to linear
+
+maxIterations=20

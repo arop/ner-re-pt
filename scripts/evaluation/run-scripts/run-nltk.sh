@@ -46,11 +46,12 @@ do
 		# done
 
 		# DecisionTree
-		# for i in 3 {7..15}
-		# do
-		# 	FOLDER=dt_support_cutoff/$i
-		# 	../join-output-golden.sh $TOOL/$FOLDER/out-$level-DT.txt $GOLD/out-$level-gold.txt | ../conlleval > $OUT_RES/$FOLDER/$level.txt
-		# done
+		# for i in 3 {7..16}
+		for i in 16
+		do
+			FOLDER=dt_support_cutoff/$i
+			../join-output-golden.sh $TOOL/$FOLDER/out-$level-DT.txt $GOLD/out-$level-gold.txt | ../conlleval > $OUT_RES/$FOLDER/$level.txt
+		done
 
 		# for i in 0.03 0.04 0.05 0.06 0.07 0.08 0.09 0.1 0.11 0.12 0.13
 		# do
@@ -58,12 +59,11 @@ do
 		# 	../join-output-golden.sh $TOOL/$FOLDER/out-$level-DT.txt $GOLD/out-$level-gold.txt | ../conlleval > $OUT_RES/$FOLDER/$level.txt
 		# done
 
-		# for i in 5 {10..120..10}
-		for i in 2
-		do
-			FOLDER=dt_depth_cutoff/$i
-			../join-output-golden.sh $TOOL/$FOLDER/out-$level-DT.txt $GOLD/out-$level-gold.txt | ../conlleval > $OUT_RES/$FOLDER/$level.txt
-		done
+		# for i in 2 5 {10..120..10}
+		# do
+		# 	FOLDER=dt_depth_cutoff/$i
+		# 	../join-output-golden.sh $TOOL/$FOLDER/out-$level-DT.txt $GOLD/out-$level-gold.txt | ../conlleval > $OUT_RES/$FOLDER/$level.txt
+		# done
 
 
 		# SIGARRA
@@ -97,16 +97,16 @@ do
 	# done
 
 	# DecisionTree
-	# for v in 3 {7..15}
-	# do
-	# 	python ../src/avg-results-experiences.py nltk $level dt_support_cutoff $v
-	# done
-
-	# for v in 5 {10..120..10}
-	for v in 2
+	# for v in 3 {7..16}
+	for v in 16
 	do
-		python ../src/avg-results-experiences.py nltk $level dt_depth_cutoff $v
+		python ../src/avg-results-experiences.py nltk $level dt_support_cutoff $v
 	done
+
+	# for v in 2 5 {10..120..10}
+	# do
+	# 	python ../src/avg-results-experiences.py nltk $level dt_depth_cutoff $v
+	# done
 
 	# for v in 0.03 0.04 0.05 0.06 0.07 0.08 0.09 0.1 0.11 0.12 0.13
 	# do
