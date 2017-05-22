@@ -8,7 +8,7 @@ do
 	MODEL=repeat-$r/sigarra
 
 	OUT=repeat-$r/sigarra/out-sigarra
-	time python "src/ner-test-spacy-sigarra.py" $FOLDER/"sigarra_test-standoff" $MODEL/sigarra
+	time python "src/ner-test-spacy-sigarra.py" $FOLDER/"sigarra_test-standoff" $MODEL/sigarra $OUT
 	
 	# OUT=repeat-$r/sigarra/out-sigarra-default
 	# time python "src/ner-test-spacy-sigarra.py" $FOLDER/"sigarra_test-standoff" $MODEL/sigarra-default $OUT

@@ -73,9 +73,9 @@ do
 		# ../join-output-golden.sh $TOOL/out-sigarra-NB.txt $GOLD/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra-NB.txt
 
 		# ../join-output-golden.sh $TOOL/out-sigarra-ME.txt $GOLD/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra-ME.txt
-		../join-output-golden.sh $TOOL/out-sigarra-ME-default.txt $GOLD/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra-ME-default.txt
+		# ../join-output-golden.sh $TOOL/out-sigarra-ME-default.txt $GOLD/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra-ME-default.txt
 
-		# ../join-output-golden.sh $TOOL/out-sigarra-DT.txt $GOLD/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra-DT.txt
+		../join-output-golden.sh $TOOL/out-sigarra-DT.txt $GOLD/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra-DT.txt
 		# ../join-output-golden.sh $TOOL/out-sigarra-DT-default.txt $GOLD/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra-DT-default.txt
 
 	done
@@ -120,7 +120,7 @@ do
 	# SIGARRA
 	# python ../src/avg-results-sigarra.py nltk NB
 	# python ../src/avg-results-sigarra.py nltk ME
-	python ../src/avg-results-sigarra.py nltk ME-default
-	# python ../src/avg-results-sigarra.py nltk DT
+	# python ../src/avg-results-sigarra.py nltk ME-default
+	python ../src/avg-results-sigarra.py nltk DT
 	# python ../src/avg-results-sigarra.py nltk DT-default
 done

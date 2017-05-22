@@ -2,6 +2,7 @@ import sys
 
 if(len(sys.argv) > 1):
 	tool = sys.argv[1]
+	classifier = False
 	if(len(sys.argv) > 2):
 		classifier = sys.argv[2]
 else:

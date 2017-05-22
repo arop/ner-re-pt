@@ -28,7 +28,8 @@ do
 		# SIGARRA
 		TOOL=../../../tools/spacy/outputs/repeat-$r/sigarra
 		OUT_RES=../results/spacy/repeat-$r/sigarra
-		../join-output-golden.sh $TOOL/sigarra-default.txt $TOOL/out-sigarra-default-gold.txt | ../conlleval > $OUT_RES/sigarra-default.txt
+		../join-output-golden.sh $TOOL/sigarra.txt $TOOL/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra.txt
+		# ../join-output-golden.sh $TOOL/sigarra-default.txt $TOOL/out-sigarra-default-gold.txt | ../conlleval > $OUT_RES/sigarra-default.txt
 	done
 
 	# python ../src/avg-results-all.py spacy $level
@@ -38,5 +39,6 @@ do
 	# 	python ../src/avg-results-experiences.py spacy $level iterations $i
 	# done
 
-	python ../src/avg-results-sigarra.py spacy default
+	python ../src/avg-results-sigarra.py spacy
+	# python ../src/avg-results-sigarra.py spacy default
 done
