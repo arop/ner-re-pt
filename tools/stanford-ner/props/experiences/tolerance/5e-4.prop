@@ -38,3 +38,4 @@ wordShape=chris2useLC
 saveFeatureIndexToDisk = true
 
 #################### experiences
+tolerance=5e-4

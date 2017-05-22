@@ -1,6 +1,6 @@
 #!/bin/bash
 
-declare -a tolerances=("1e-3" "1e-4" "1e-5")
+declare -a tolerances=("1e-3" "1e-4" "1e-5" "5e-3" "5e-4" "5e-5")
 declare -a epsilon=("0.01" "0.02" "0.005") # for Huber
 declare -a levels=("cat" "filtered")
 
@@ -14,7 +14,7 @@ do
 	do
 		printf "** testing level - "$level" **\n"
 
-		printf "** useQuartic **\n"
+		# printf "** useQuartic **\n"
 		# CRF=edu.stanford.nlp.ie.crf.CRFClassifier
 		# TOKENIZER=edu.stanford.nlp.process.WhitespaceTokenizer
 		# CLASSIFIER=../../models/repeat-$r/experiences/useQuartic/$level"-ner-model.ser.gz"

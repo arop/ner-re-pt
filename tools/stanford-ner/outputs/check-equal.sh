@@ -11,4 +11,8 @@ do
 		#python check-equal.py "subtypes" $i
 		python check-equal.py "filtered" $i $r
 	done
+
+	printf "\n** experiences **\n"
+	python check-equal-exp.py "cat" $r "tolerance" "1e-3" "1e-4" "1e-5"
+	python check-equal-exp.py "filtered" $r "tolerance" "1e-3" "1e-4" "1e-5"
 done

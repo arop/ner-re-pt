@@ -1,6 +1,6 @@
 #!/bin/bash
 
-declare -a tolerances=("1e-3" "1e-4" "1e-5")
+declare -a tolerances=("1e-3" "1e-4" "1e-5" "5e-3" "5e-4" "5e-5")
 declare -a epsilon=("0.01" "0.02" "0.005") # for Huber
 
 for r in {0..3}
