@@ -1,0 +1,9 @@
+precision: 60.50	recall: 69.53	FB1: 64.62	M_FB1: 64.70	accuracy: 93.67
+precision: 96.71	recall: 84.44	FB1: 90.10	MFB1: 90.16	Hora
+precision: 09.86	recall: 17.87	FB1: 12.65	MFB1: 12.71	Evento
+precision: 49.89	recall: 57.41	FB1: 53.16	MFB1: 53.39	Organizacao
+precision: 38.65	recall: 51.25	FB1: 43.70	MFB1: 44.07	Curso
+precision: 52.57	recall: 56.71	FB1: 54.54	MFB1: 54.56	Pessoa
+precision: 55.14	recall: 58.93	FB1: 56.97	MFB1: 56.97	Localizacao
+precision: 86.66	recall: 89.83	FB1: 88.21	MFB1: 88.22	Data
+precision: 69.35	recall: 88.37	FB1: 76.30	MFB1: 77.71	UnidadeOrganica

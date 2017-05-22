@@ -25,7 +25,7 @@ do
 		# python check-equal-sigarra.py $r "NB"
 		# python check-equal-sigarra.py $r "ME"
 		# python check-equal-sigarra.py $r "ME-default"
-		python check-equal-sigarra.py $r "DT"
-		# python check-equal-sigarra.py $r "DT-default"
+		# python check-equal-sigarra.py $r "DT"
+		python check-equal-sigarra.py $r "DT-default"
 	done
 done
