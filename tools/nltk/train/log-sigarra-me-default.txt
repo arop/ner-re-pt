@@ -1,0 +1,86 @@
+
+** repeat 0 **
+loading ../../outputs/repeat-0/sigarra
+using chunked sentences from out-conll-sigarra.txt
+5197 chunks, training on 5197
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (140486 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ../models/repeat-0/sigarra/sigarra_Maxent-default.pickle
+
+real	3m19.044s
+user	3m13.568s
+sys	0m1.396s
+
+** repeat 1 **
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1310: RuntimeWarning: overflow encountered in power
+  exp_nf_delta = 2 ** nf_delta
+/usr/local/lib/python2.7/dist-packages/nltk/classify/maxent.py:1320: RuntimeWarning: invalid value encountered in divide
+  deltas -= (ffreq_empirical - sum1) / -sum2
+loading ../../outputs/repeat-1/sigarra
+using chunked sentences from out-conll-sigarra.txt
+5284 chunks, training on 5284
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (141731 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ../models/repeat-1/sigarra/sigarra_Maxent-default.pickle
+
+real	3m23.910s
+user	3m23.384s
+sys	0m1.200s
+
+** repeat 2 **
+loading ../../outputs/repeat-2/sigarra
+using chunked sentences from out-conll-sigarra.txt
+5259 chunks, training on 5259
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (141857 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ../models/repeat-2/sigarra/sigarra_Maxent-default.pickle
+
+real	3m13.748s
+user	3m13.348s
+sys	0m1.076s
+
+** repeat 3 **
+loading ../../outputs/repeat-3/sigarra
+using chunked sentences from out-conll-sigarra.txt
+5206 chunks, training on 5206
+training ClassifierChunker with ['Maxent'] classifier
+Constructing training corpus for classifier.
+Training classifier (138649 instances)
+training Maxent classifier
+  ==> Training (10 iterations)
+dumping ClassifierChunker to ../models/repeat-3/sigarra/sigarra_Maxent-default.pickle
+
+real	3m25.084s
+user	3m24.592s
+sys	0m1.156s
+
+real	13m21.894s
+user	13m14.948s
+sys	0m4.844s
+/home/arop/Desktop/ner-re-pt/tools/nltk/train
+
+** repeat 0 **
+
+** repeat 1 **
+
+** repeat 2 **
+
+** repeat 3 **
+
+real	0m51.759s
+user	0m51.504s
+sys	0m2.732s
+/home/arop/Desktop/ner-re-pt/tools/nltk/train
+
+real	14m13.752s
+user	14m6.536s
+sys	0m7.584s
