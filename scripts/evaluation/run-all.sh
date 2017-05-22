@@ -7,7 +7,7 @@
 # cd run-scripts && ./run-opennlp.sh ; cd -
 
 # nltk
-# cd run-scripts && ./run-nltk.sh ; cd -
+cd run-scripts && ./run-nltk.sh ; cd -
 
 # spacy
-cd run-scripts && ./run-spacy.sh ; cd -
+# cd run-scripts && ./run-spacy.sh ; cd -
