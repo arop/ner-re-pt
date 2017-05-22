@@ -11,8 +11,7 @@ do
 	printf "\n** repeat "$r" **\n"	
 
 	# support cutoff
-	# for i in 3 {7..16}
-	for i in {17..20}
+	for i in 3 {7..20}
 	do
 		printf "\n** support cutoff value "$i" **\n"
 		FOLDER=../../outputs/repeat-$r/joined

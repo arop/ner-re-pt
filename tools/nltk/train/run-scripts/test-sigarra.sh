@@ -11,6 +11,6 @@ do
 	MODELS=../models/repeat-$r/sigarra
 
 	# python $TEST $MODELS/sigarra_NaiveBayes.pickle $OUT/pos-sigarra-docs-test.txt $RESULTS/out-sigarra-NB.txt
-	python $TEST $MODELS/sigarra_Maxent.pickle $OUT/pos-sigarra-docs-test.txt $RESULTS/out-sigarra-ME.txt
-	# python $TEST $MODELS/sigarra_DecisionTree.pickle $OUT/pos-sigarra-docs-test.txt $RESULTS/out-sigarra-DT.txt
+	# python $TEST $MODELS/sigarra_Maxent.pickle $OUT/pos-sigarra-docs-test.txt $RESULTS/out-sigarra-ME.txt
+	python $TEST $MODELS/sigarra_DecisionTree.pickle $OUT/pos-sigarra-docs-test.txt $RESULTS/out-sigarra-DT.txt
 done
