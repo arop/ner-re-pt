@@ -15,26 +15,26 @@ do
 		printf "** testing level - "$level" **\n"
 
 		printf "** useQuartic **\n"
-		CRF=edu.stanford.nlp.ie.crf.CRFClassifier
-		TOKENIZER=edu.stanford.nlp.process.WhitespaceTokenizer
-		CLASSIFIER=../../models/repeat-$r/experiences/useQuartic/$level"-ner-model.ser.gz"
-		TXT=../../outputs/repeat-$r/experiences/useQuartic/t_$level"_test.txt-clean.txt"
-		OUT=../../outputs/repeat-$r/ner-results/experiences/useQuartic/out-$level".txt"
+		# CRF=edu.stanford.nlp.ie.crf.CRFClassifier
+		# TOKENIZER=edu.stanford.nlp.process.WhitespaceTokenizer
+		# CLASSIFIER=../../models/repeat-$r/experiences/useQuartic/$level"-ner-model.ser.gz"
+		# TXT=../../outputs/repeat-$r/joined/t_$level"_test.txt-clean.txt"
+		# OUT=../../outputs/repeat-$r/ner-results/experiences/useQuartic/out-$level".txt"
 
-		java -d64 -Xmx26g -cp ../stanford-corenlp.jar $CRF -tokenizerFactory $TOKENIZER -loadClassifier $CLASSIFIER -textFile $TXT -outputFormat tsv -encoding iso-8859-1 |  tr -s '\n' > $OUT
+		# java -d64 -Xmx26g -cp ../stanford-corenlp.jar $CRF -tokenizerFactory $TOKENIZER -loadClassifier $CLASSIFIER -textFile $TXT -outputFormat tsv -encoding iso-8859-1 |  tr -s '\n' > $OUT
 
 		##############################
-		# for v in "${tolerances[@]}"
-		# do
-		# 	printf "** tolerance - "$v" **\n"
-		# 	CRF=edu.stanford.nlp.ie.crf.CRFClassifier
-		# 	TOKENIZER=edu.stanford.nlp.process.WhitespaceTokenizer
-		# 	CLASSIFIER=../../models/repeat-$r/experiences/tolerance/$v/$level"-ner-model.ser.gz"
-		# 	TXT=../../outputs/repeat-$r/experiences/tolerance/$v/t_$level"_test.txt-clean.txt"
-		# 	OUT=../../outputs/repeat-$r/ner-results/experiences/tolerance/$v/out-$level".txt"
+		for v in "${tolerances[@]}"
+		do
+			printf "** tolerance - "$v" **\n"
+			CRF=edu.stanford.nlp.ie.crf.CRFClassifier
+			TOKENIZER=edu.stanford.nlp.process.WhitespaceTokenizer
+			CLASSIFIER=../../models/repeat-$r/experiences/tolerance/$v/$level"-ner-model.ser.gz"
+			TXT=../../outputs/repeat-$r/joined/t_$level"_test.txt-clean.txt"
+			OUT=../../outputs/repeat-$r/ner-results/experiences/tolerance/$v/out-$level".txt"
 
-		# 	java -d64 -Xmx26g -cp ../stanford-corenlp.jar $CRF -tokenizerFactory $TOKENIZER -loadClassifier $CLASSIFIER -textFile $TXT -outputFormat tsv -encoding iso-8859-1 |  tr -s '\n' > $OUT
-		# done
+			java -d64 -Xmx26g -cp ../stanford-corenlp.jar $CRF -tokenizerFactory $TOKENIZER -loadClassifier $CLASSIFIER -textFile $TXT -outputFormat tsv -encoding iso-8859-1 |  tr -s '\n' > $OUT
+		done
 
 		##############################
 		# for v in "${epsilon[@]}"
@@ -43,7 +43,7 @@ do
 		# 	CRF=edu.stanford.nlp.ie.crf.CRFClassifier
 		# 	TOKENIZER=edu.stanford.nlp.process.WhitespaceTokenizer
 		# 	CLASSIFIER=../../models/repeat-$r/experiences/epsilon/$v/$level"-ner-model.ser.gz"
-		# 	TXT=../../outputs/repeat-$r/experiences/epsilon/$v/t_$level"_test.txt-clean.txt"
+		# 	TXT=../../outputs/repeat-$r/joined/t_$level"_test.txt-clean.txt"
 		# 	OUT=../../outputs/repeat-$r/ner-results/experiences/epsilon/$v/out-$level".txt"
 
 		# 	java -d64 -Xmx26g -cp ../stanford-corenlp.jar $CRF -tokenizerFactory $TOKENIZER -loadClassifier $CLASSIFIER -textFile $TXT -outputFormat tsv -encoding iso-8859-1 |  tr -s '\n' > $OUT

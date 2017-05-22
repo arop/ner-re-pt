@@ -16,27 +16,27 @@ for r in {0..3}
 do
 	printf "\n*****repeat "$r"*****\n"
 
-	printf "\n***** useQuartic *****\n"
-	printf "\n***training categories***\n"
-	python ../src/change-prop-exp.py ../props/experiences/useQuartic/prop.prop cat $r "useQuartic" "none"
-	time java -d64 -Xmx28g -cp stanford-corenlp.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop "../props/experiences/useQuartic/prop.prop"
+	# printf "\n***** useQuartic *****\n"
+	# printf "\n***training categories***\n"
+	# python ../src/change-prop-exp.py ../props/experiences/useQuartic/prop.prop cat $r "useQuartic" "none"
+	# time java -d64 -Xmx28g -cp stanford-corenlp.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop "../props/experiences/useQuartic/prop.prop"
 
-	printf "\n***training filtered***\n"
-	python ../src/change-prop-exp.py ../props/experiences/useQuartic/prop.prop filtered $r "useQuartic" "none"
-	time java -d64 -Xmx28g -cp stanford-corenlp.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop "../props/experiences/useQuartic/prop.prop"
+	# printf "\n***training filtered***\n"
+	# python ../src/change-prop-exp.py ../props/experiences/useQuartic/prop.prop filtered $r "useQuartic" "none"
+	# time java -d64 -Xmx28g -cp stanford-corenlp.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop "../props/experiences/useQuartic/prop.prop"
 
 	# tolerance
-	# for v in "${tolerances[@]}"
-	# do
-	# 	printf "\n*****tolerance = "$v"*****\n"
-	# 	printf "\n***training categories***\n"
-	# 	python ../src/change-prop-exp.py ../props/experiences/tolerance/$v".prop" cat $r "tolerance" $v
-	# 	time java -d64 -Xmx28g -cp stanford-corenlp.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop "../props/experiences/tolerance/"$v".prop"
+	for v in "${tolerances[@]}"
+	do
+		printf "\n*****tolerance = "$v"*****\n"
+		printf "\n***training categories***\n"
+		python ../src/change-prop-exp.py ../props/experiences/tolerance/$v".prop" cat $r "tolerance" $v
+		time java -d64 -Xmx28g -cp stanford-corenlp.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop "../props/experiences/tolerance/"$v".prop"
 
-	# 	printf "\n***training filtered***\n"
-	# 	python ../src/change-prop-exp.py ../props/experiences/tolerance/$v".prop" filtered $r "tolerance" $v
-	# 	time java -d64 -Xmx28g -cp stanford-corenlp.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop "../props/experiences/tolerance/"$v".prop"
-	# done
+		printf "\n***training filtered***\n"
+		python ../src/change-prop-exp.py ../props/experiences/tolerance/$v".prop" filtered $r "tolerance" $v
+		time java -d64 -Xmx28g -cp stanford-corenlp.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop "../props/experiences/tolerance/"$v".prop"
+	done
 
 	# useHuber
 	# for v in "${epsilon[@]}"

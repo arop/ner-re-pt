@@ -31,18 +31,18 @@ do
 	python ../src/add-IOB.py $FOLDERG'/t_filtered_test.txt' $FOLDERG'/t_filtered_test-iob.txt'
 	
 	# useQuartic
-	FOLDER=../outputs/repeat-$r/ner-results/experiences/useQuartic
-	python ../src/add-IOB.py $FOLDER'/out-cat.txt' $FOLDER'/out-cat-iob.txt'
-	python ../src/add-IOB.py $FOLDER'/out-filtered.txt' $FOLDER'/out-filtered-iob.txt'
+	# FOLDER=../outputs/repeat-$r/ner-results/experiences/useQuartic
+	# python ../src/add-IOB.py $FOLDER'/out-cat.txt' $FOLDER'/out-cat-iob.txt'
+	# python ../src/add-IOB.py $FOLDER'/out-filtered.txt' $FOLDER'/out-filtered-iob.txt'
 
 	# # tolerance
-	# for v in "${tolerances[@]}"
-	# do
-	# 	FOLDER=../outputs/repeat-$r/ner-results/experiences/tolerance/$v
+	for v in "${tolerances[@]}"
+	do
+		FOLDER=../outputs/repeat-$r/ner-results/experiences/tolerance/$v
 	
-	# 	python ../src/add-IOB.py $FOLDER'/out-cat.txt' $FOLDER'/out-cat-iob.txt'
-	# 	python ../src/add-IOB.py $FOLDER'/out-filtered.txt' $FOLDER'/out-filtered-iob.txt'
-	# done
+		python ../src/add-IOB.py $FOLDER'/out-cat.txt' $FOLDER'/out-cat-iob.txt'
+		python ../src/add-IOB.py $FOLDER'/out-filtered.txt' $FOLDER'/out-filtered-iob.txt'
+	done
 
 	# # epsilon
 	# for v in "${epsilon[@]}"
