@@ -29,17 +29,30 @@ do
 	# 	time java -d64 -Xmx28g -cp stanford-corenlp.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop "../props/experiences/tolerance/"$v".prop"
 	# done
 
-	# useHuber
-	for v in "${epsilon[@]}"
+	# useHuber - epsilon
+	# for v in "${epsilon[@]}"
+	# do
+	# 	printf "\n*****epsilon = "$v"*****\n"
+	# 	printf "\n***training categories***\n"
+	# 	python ../src/change-prop-exp.py ../props/experiences/epsilon/$v".prop" cat $r "epsilon" $v
+	# 	time java -d64 -Xmx28g -cp stanford-corenlp.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop "../props/experiences/epsilon/"$v".prop"
+
+	# 	printf "\n***training filtered***\n"
+	# 	python ../src/change-prop-exp.py ../props/experiences/epsilon/$v".prop" filtered $r "epsilon" $v
+	# 	time java -d64 -Xmx28g -cp stanford-corenlp.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop "../props/experiences/epsilon/"$v".prop"
+	# done
+
+	# maxNGramLeng
+	for v in {4..7}
 	do
-		printf "\n*****epsilon = "$v"*****\n"
+		printf "\n*****maxNGramLeng = "$v"*****\n"
 		printf "\n***training categories***\n"
-		python ../src/change-prop-exp.py ../props/experiences/epsilon/$v".prop" cat $r "epsilon" $v
-		time java -d64 -Xmx28g -cp stanford-corenlp.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop "../props/experiences/epsilon/"$v".prop"
+		python ../src/change-prop-exp.py ../props/experiences/maxNGramLeng/$v".prop" cat $r "maxNGramLeng" $v
+		time java -d64 -Xmx28g -cp stanford-corenlp.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop "../props/experiences/maxNGramLeng/"$v".prop"
 
 		printf "\n***training filtered***\n"
-		python ../src/change-prop-exp.py ../props/experiences/epsilon/$v".prop" filtered $r "epsilon" $v
-		time java -d64 -Xmx28g -cp stanford-corenlp.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop "../props/experiences/epsilon/"$v".prop"
+		python ../src/change-prop-exp.py ../props/experiences/maxNGramLeng/$v".prop" filtered $r "maxNGramLeng" $v
+		time java -d64 -Xmx28g -cp stanford-corenlp.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop "../props/experiences/maxNGramLeng/"$v".prop"
 	done
 done
 

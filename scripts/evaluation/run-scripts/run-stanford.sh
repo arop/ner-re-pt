@@ -43,7 +43,19 @@ do
 
 			../join-output-golden.sh $IN_NER/out-$level-iob.txt $IN_GOLD/"t_"$level"_test-iob".txt | ../conlleval > $OUT_RES/$level.txt
 		done
+
+		for v in {4..7}
+		do
+			TOOL=../../../tools/stanford-ner
+			IN_NER=$TOOL/outputs/repeat-$r/ner-results/experiences/maxNGramLeng/$v
+			IN_GOLD=$TOOL/outputs/repeat-$r/joined
+			OUT_RES=../results/stanford-ner/repeat-$r/experiences/maxNGramLeng/$v
+
+			../join-output-golden.sh $IN_NER/out-$level-iob.txt $IN_GOLD/"t_"$level"_test-iob".txt | ../conlleval > $OUT_RES/$level.txt
+		done
 	done
+
+	# python ../src/avg-results-all.py stanford-ner $level
 
 	for v in "${tolerances[@]}"
 	do
@@ -55,5 +67,8 @@ do
 		python ../src/avg-results-experiences.py stanford-ner $level epsilon $v
 	done
 
-	python ../src/avg-results-all.py stanford-ner $level
+	for v in {4..7}
+	do
+		python ../src/avg-results-experiences.py stanford-ner $level maxNGramLeng $v
+	done
 done

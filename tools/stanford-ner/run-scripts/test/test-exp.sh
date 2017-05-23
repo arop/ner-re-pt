@@ -27,14 +27,28 @@ do
 		# done
 
 		##############################
-		for v in "${epsilon[@]}"
+		# for v in "${epsilon[@]}"
+		# do
+		# 	printf "** epsilon - "$v" **\n"
+		# 	CRF=edu.stanford.nlp.ie.crf.CRFClassifier
+		# 	TOKENIZER=edu.stanford.nlp.process.WhitespaceTokenizer
+		# 	CLASSIFIER=../../models/repeat-$r/experiences/epsilon/$v/$level"-ner-model.ser.gz"
+		# 	TXT=../../outputs/repeat-$r/joined/t_$level"_test.txt-clean.txt"
+		# 	OUT=../../outputs/repeat-$r/ner-results/experiences/epsilon/$v/out-$level".txt"
+
+		# 	java -d64 -Xmx26g -cp ../stanford-corenlp.jar $CRF -tokenizerFactory $TOKENIZER -loadClassifier $CLASSIFIER -textFile $TXT -outputFormat tsv -encoding iso-8859-1 |  tr -s '\n' > $OUT
+		# done
+
+		##############################
+		# maxNGramLeng
+		for v in {4..7}
 		do
 			printf "** epsilon - "$v" **\n"
 			CRF=edu.stanford.nlp.ie.crf.CRFClassifier
 			TOKENIZER=edu.stanford.nlp.process.WhitespaceTokenizer
-			CLASSIFIER=../../models/repeat-$r/experiences/epsilon/$v/$level"-ner-model.ser.gz"
+			CLASSIFIER=../../models/repeat-$r/experiences/maxNGramLeng/$v/$level"-ner-model.ser.gz"
 			TXT=../../outputs/repeat-$r/joined/t_$level"_test.txt-clean.txt"
-			OUT=../../outputs/repeat-$r/ner-results/experiences/epsilon/$v/out-$level".txt"
+			OUT=../../outputs/repeat-$r/ner-results/experiences/maxNGramLeng/$v/out-$level".txt"
 
 			java -d64 -Xmx26g -cp ../stanford-corenlp.jar $CRF -tokenizerFactory $TOKENIZER -loadClassifier $CLASSIFIER -textFile $TXT -outputFormat tsv -encoding iso-8859-1 |  tr -s '\n' > $OUT
 		done

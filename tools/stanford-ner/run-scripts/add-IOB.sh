@@ -40,9 +40,18 @@ do
 	# done
 
 	# epsilon
-	for v in "${epsilon[@]}"
+	# for v in "${epsilon[@]}"
+	# do
+	# 	FOLDER=../outputs/repeat-$r/ner-results/experiences/epsilon/$v
+	
+	# 	python ../src/add-IOB.py $FOLDER'/out-cat.txt' $FOLDER'/out-cat-iob.txt'
+	# 	python ../src/add-IOB.py $FOLDER'/out-filtered.txt' $FOLDER'/out-filtered-iob.txt'
+	# done
+
+	# maxNGramLeng
+	for v in {4..7}
 	do
-		FOLDER=../outputs/repeat-$r/ner-results/experiences/epsilon/$v
+		FOLDER=../outputs/repeat-$r/ner-results/experiences/maxNGramLeng/$v
 	
 		python ../src/add-IOB.py $FOLDER'/out-cat.txt' $FOLDER'/out-cat-iob.txt'
 		python ../src/add-IOB.py $FOLDER'/out-filtered.txt' $FOLDER'/out-filtered-iob.txt'
