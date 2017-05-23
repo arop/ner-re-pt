@@ -15,4 +15,7 @@ do
 	printf "\n** experiences **\n"
 	python check-equal-exp.py "cat" $r "tolerance" "1e-3" "1e-4" "1e-5" "5e-3" "5e-4" "5e-5"
 	python check-equal-exp.py "filtered" $r "tolerance" "1e-3" "1e-4" "1e-5" "5e-3" "5e-4" "5e-5"
+
+	python check-equal-exp.py "cat" $r "epsilon" 0.005 0.01 0.015 0.02 
+	python check-equal-exp.py "filtered" $r "epsilon" 0.005 0.01 0.015 0.02 
 done
