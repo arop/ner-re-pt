@@ -1,7 +1,7 @@
 #!/bin/bash
 
 declare -a tolerances=("1e-3" "1e-4" "1e-5" "5e-3" "5e-4" "5e-5")
-declare -a epsilon=("0.01" "0.02" "0.005") # for Huber
+declare -a epsilon=("0.01" "0.02" "0.005" "0.015") # for Huber, deprecated?
 
 for r in {0..3}
 do
@@ -29,27 +29,22 @@ do
 	FOLDERG=../outputs/repeat-$r/joined
 	python ../src/add-IOB.py $FOLDERG'/t_cat_test.txt' $FOLDERG'/t_cat_test-iob.txt'
 	python ../src/add-IOB.py $FOLDERG'/t_filtered_test.txt' $FOLDERG'/t_filtered_test-iob.txt'
-	
-	# useQuartic
-	# FOLDER=../outputs/repeat-$r/ner-results/experiences/useQuartic
-	# python ../src/add-IOB.py $FOLDER'/out-cat.txt' $FOLDER'/out-cat-iob.txt'
-	# python ../src/add-IOB.py $FOLDER'/out-filtered.txt' $FOLDER'/out-filtered-iob.txt'
 
-	# # tolerance
-	for v in "${tolerances[@]}"
-	do
-		FOLDER=../outputs/repeat-$r/ner-results/experiences/tolerance/$v
-	
-		python ../src/add-IOB.py $FOLDER'/out-cat.txt' $FOLDER'/out-cat-iob.txt'
-		python ../src/add-IOB.py $FOLDER'/out-filtered.txt' $FOLDER'/out-filtered-iob.txt'
-	done
-
-	# # epsilon
-	# for v in "${epsilon[@]}"
+	# tolerance
+	# for v in "${tolerances[@]}"
 	# do
-	# 	FOLDER=../outputs/repeat-$r/ner-results/experiences/epsilon/$v
+	# 	FOLDER=../outputs/repeat-$r/ner-results/experiences/tolerance/$v
 	
 	# 	python ../src/add-IOB.py $FOLDER'/out-cat.txt' $FOLDER'/out-cat-iob.txt'
 	# 	python ../src/add-IOB.py $FOLDER'/out-filtered.txt' $FOLDER'/out-filtered-iob.txt'
 	# done
+
+	# epsilon
+	for v in "${epsilon[@]}"
+	do
+		FOLDER=../outputs/repeat-$r/ner-results/experiences/epsilon/$v
+	
+		python ../src/add-IOB.py $FOLDER'/out-cat.txt' $FOLDER'/out-cat-iob.txt'
+		python ../src/add-IOB.py $FOLDER'/out-filtered.txt' $FOLDER'/out-filtered-iob.txt'
+	done
 done
