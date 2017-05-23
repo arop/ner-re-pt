@@ -4,7 +4,7 @@
 # evaluate results
 
 declare -a levels=("cat" "filtered") # levels=("cat" "types" "subtypes" "filtered")
-declare -a tolerances=("1e-3" "1e-4" "1e-5")
+declare -a tolerances=("1e-3" "1e-4" "1e-5" "5e-3" "5e-4" "5e-5")
 
 for level in "${levels[@]}"
 do
