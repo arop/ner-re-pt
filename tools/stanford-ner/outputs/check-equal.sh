@@ -18,4 +18,7 @@ do
 
 	python check-equal-exp.py "cat" $r "epsilon" 0.005 0.01 0.015 0.02 
 	python check-equal-exp.py "filtered" $r "epsilon" 0.005 0.01 0.015 0.02 
+
+	python check-equal-exp.py "cat" $r "maxNGramLeng" {4..7}
+	python check-equal-exp.py "filtered" $r "maxNGramLeng" {4..7}
 done

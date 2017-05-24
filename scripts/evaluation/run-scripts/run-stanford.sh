@@ -24,25 +24,25 @@ do
 		# python ../src/avg-results.py stanford-ner $level $r
 
 
-		for v in "${tolerances[@]}"
-		do
-			TOOL=../../../tools/stanford-ner
-			IN_NER=$TOOL/outputs/repeat-$r/ner-results/experiences/tolerance/$v
-			IN_GOLD=$TOOL/outputs/repeat-$r/joined
-			OUT_RES=../results/stanford-ner/repeat-$r/experiences/tolerance/$v
+		# for v in "${tolerances[@]}"
+		# do
+		# 	TOOL=../../../tools/stanford-ner
+		# 	IN_NER=$TOOL/outputs/repeat-$r/ner-results/experiences/tolerance/$v
+		# 	IN_GOLD=$TOOL/outputs/repeat-$r/joined
+		# 	OUT_RES=../results/stanford-ner/repeat-$r/experiences/tolerance/$v
 
-			../join-output-golden.sh $IN_NER/out-$level-iob.txt $IN_GOLD/"t_"$level"_test-iob".txt | ../conlleval > $OUT_RES/$level.txt
-		done
+		# 	../join-output-golden.sh $IN_NER/out-$level-iob.txt $IN_GOLD/"t_"$level"_test-iob".txt | ../conlleval > $OUT_RES/$level.txt
+		# done
 
-		for v in "${epsilons[@]}"
-		do
-			TOOL=../../../tools/stanford-ner
-			IN_NER=$TOOL/outputs/repeat-$r/ner-results/experiences/epsilon/$v
-			IN_GOLD=$TOOL/outputs/repeat-$r/joined
-			OUT_RES=../results/stanford-ner/repeat-$r/experiences/epsilon/$v
+		# for v in "${epsilons[@]}"
+		# do
+		# 	TOOL=../../../tools/stanford-ner
+		# 	IN_NER=$TOOL/outputs/repeat-$r/ner-results/experiences/epsilon/$v
+		# 	IN_GOLD=$TOOL/outputs/repeat-$r/joined
+		# 	OUT_RES=../results/stanford-ner/repeat-$r/experiences/epsilon/$v
 
-			../join-output-golden.sh $IN_NER/out-$level-iob.txt $IN_GOLD/"t_"$level"_test-iob".txt | ../conlleval > $OUT_RES/$level.txt
-		done
+		# 	../join-output-golden.sh $IN_NER/out-$level-iob.txt $IN_GOLD/"t_"$level"_test-iob".txt | ../conlleval > $OUT_RES/$level.txt
+		# done
 
 		for v in {4..7}
 		do
@@ -57,15 +57,15 @@ do
 
 	# python ../src/avg-results-all.py stanford-ner $level
 
-	for v in "${tolerances[@]}"
-	do
-		python ../src/avg-results-experiences.py stanford-ner $level tolerance $v
-	done
+	# for v in "${tolerances[@]}"
+	# do
+	# 	python ../src/avg-results-experiences.py stanford-ner $level tolerance $v
+	# done
 
-	for v in "${epsilons[@]}"
-	do
-		python ../src/avg-results-experiences.py stanford-ner $level epsilon $v
-	done
+	# for v in "${epsilons[@]}"
+	# do
+	# 	python ../src/avg-results-experiences.py stanford-ner $level epsilon $v
+	# done
 
 	for v in {4..7}
 	do
