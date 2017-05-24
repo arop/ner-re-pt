@@ -44,7 +44,7 @@ do
 		# 	../join-output-golden.sh $IN_NER/out-$level-iob.txt $IN_GOLD/"t_"$level"_test-iob".txt | ../conlleval > $OUT_RES/$level.txt
 		# done
 
-		for v in {4..7}
+		for v in {4..10}
 		do
 			TOOL=../../../tools/stanford-ner
 			IN_NER=$TOOL/outputs/repeat-$r/ner-results/experiences/maxNGramLeng/$v
@@ -67,7 +67,7 @@ do
 	# 	python ../src/avg-results-experiences.py stanford-ner $level epsilon $v
 	# done
 
-	for v in {4..7}
+	for v in {4..10}
 	do
 		python ../src/avg-results-experiences.py stanford-ner $level maxNGramLeng $v
 	done

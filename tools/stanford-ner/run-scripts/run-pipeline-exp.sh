@@ -43,7 +43,8 @@ do
 	# done
 
 	# maxNGramLeng
-	for v in {4..7}
+	# for v in {4..7}
+	for v in 8 9 10
 	do
 		printf "\n*****maxNGramLeng = "$v"*****\n"
 		printf "\n***training categories***\n"

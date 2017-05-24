@@ -41,7 +41,8 @@ do
 
 		##############################
 		# maxNGramLeng
-		for v in {4..7}
+		# for v in {4..7}
+		for v in 8 9 10
 		do
 			printf "** epsilon - "$v" **\n"
 			CRF=edu.stanford.nlp.ie.crf.CRFClassifier

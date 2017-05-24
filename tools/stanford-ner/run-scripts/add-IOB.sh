@@ -49,7 +49,8 @@ do
 	# done
 
 	# maxNGramLeng
-	for v in {4..7}
+	# for v in {4..7}
+	for v in 8 9 10
 	do
 		FOLDER=../outputs/repeat-$r/ner-results/experiences/maxNGramLeng/$v
 	
