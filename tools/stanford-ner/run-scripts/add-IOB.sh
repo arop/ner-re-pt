@@ -26,9 +26,9 @@ do
 
 	# experiences
 	# gold
-	FOLDERG=../outputs/repeat-$r/joined
-	python ../src/add-IOB.py $FOLDERG'/t_cat_test.txt' $FOLDERG'/t_cat_test-iob.txt'
-	python ../src/add-IOB.py $FOLDERG'/t_filtered_test.txt' $FOLDERG'/t_filtered_test-iob.txt'
+	# FOLDERG=../outputs/repeat-$r/joined
+	# python ../src/add-IOB.py $FOLDERG'/t_cat_test.txt' $FOLDERG'/t_cat_test-iob.txt'
+	# python ../src/add-IOB.py $FOLDERG'/t_filtered_test.txt' $FOLDERG'/t_filtered_test-iob.txt'
 
 	# tolerance
 	# for v in "${tolerances[@]}"
@@ -50,11 +50,19 @@ do
 
 	# maxNGramLeng
 	# for v in {4..7}
-	for v in 8 9 10
-	do
-		FOLDER=../outputs/repeat-$r/ner-results/experiences/maxNGramLeng/$v
+	# do
+	# 	FOLDER=../outputs/repeat-$r/ner-results/experiences/maxNGramLeng/$v
 	
-		python ../src/add-IOB.py $FOLDER'/out-cat.txt' $FOLDER'/out-cat-iob.txt'
-		python ../src/add-IOB.py $FOLDER'/out-filtered.txt' $FOLDER'/out-filtered-iob.txt'
-	done
+	# 	python ../src/add-IOB.py $FOLDER'/out-cat.txt' $FOLDER'/out-cat-iob.txt'
+	# 	python ../src/add-IOB.py $FOLDER'/out-filtered.txt' $FOLDER'/out-filtered-iob.txt'
+	# done
+
+	# sigarra
+	# gold
+	FOLDERG=../outputs/repeat-$r/sigarra
+	python ../src/add-IOB.py $FOLDERG'/t_sigarra_test.txt' $FOLDERG'/t_sigarra_test-iob.txt'
+
+	FOLDER=../outputs/repeat-$r/ner-results/sigarra
+	python ../src/add-IOB.py $FOLDER'/out-sigarra.txt' $FOLDER'/out-sigarra-iob.txt'
+	python ../src/add-IOB.py $FOLDER'/out-sigarra-default.txt' $FOLDER'/out-sigarra-default-iob.txt'
 done

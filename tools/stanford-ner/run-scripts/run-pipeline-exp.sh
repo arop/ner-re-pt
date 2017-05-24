@@ -44,17 +44,16 @@ do
 
 	# maxNGramLeng
 	# for v in {4..7}
-	for v in 8 9 10
-	do
-		printf "\n*****maxNGramLeng = "$v"*****\n"
-		printf "\n***training categories***\n"
-		python ../src/change-prop-exp.py ../props/experiences/maxNGramLeng/$v".prop" cat $r "maxNGramLeng" $v
-		time java -d64 -Xmx28g -cp stanford-corenlp.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop "../props/experiences/maxNGramLeng/"$v".prop"
+	# do
+	# 	printf "\n*****maxNGramLeng = "$v"*****\n"
+	# 	printf "\n***training categories***\n"
+	# 	python ../src/change-prop-exp.py ../props/experiences/maxNGramLeng/$v".prop" cat $r "maxNGramLeng" $v
+	# 	time java -d64 -Xmx28g -cp stanford-corenlp.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop "../props/experiences/maxNGramLeng/"$v".prop"
 
-		printf "\n***training filtered***\n"
-		python ../src/change-prop-exp.py ../props/experiences/maxNGramLeng/$v".prop" filtered $r "maxNGramLeng" $v
-		time java -d64 -Xmx28g -cp stanford-corenlp.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop "../props/experiences/maxNGramLeng/"$v".prop"
-	done
+	# 	printf "\n***training filtered***\n"
+	# 	python ../src/change-prop-exp.py ../props/experiences/maxNGramLeng/$v".prop" filtered $r "maxNGramLeng" $v
+	# 	time java -d64 -Xmx28g -cp stanford-corenlp.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop "../props/experiences/maxNGramLeng/"$v".prop"
+	# done
 done
 
 # test - perform ner

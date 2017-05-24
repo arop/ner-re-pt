@@ -1,0 +1,59 @@
+***tokenizing***
+
+***** repeat 0 *****
+
+***** sigarra *****
+Untokenizable: ‐ (U+2010, decimal: 8208)
+PTBTokenizer tokenized 162816 tokens at 235295.93 tokens per second.
+Untokenizable: ‐ (U+2010, decimal: 8208)
+PTBTokenizer tokenized 49331 tokens at 179415.35 tokens per second.
+
+***** repeat 1 *****
+
+***** sigarra *****
+Untokenizable: ‐ (U+2010, decimal: 8208)
+PTBTokenizer tokenized 164852 tokens at 457719.31 tokens per second.
+Untokenizable: ‐ (U+2010, decimal: 8208)
+PTBTokenizer tokenized 47295 tokens at 210572.50 tokens per second.
+
+***** repeat 2 *****
+
+***** sigarra *****
+Untokenizable: ‐ (U+2010, decimal: 8208)
+PTBTokenizer tokenized 164691 tokens at 511351.86 tokens per second.
+Untokenizable: ‑ (U+2011, decimal: 8209)
+PTBTokenizer tokenized 47456 tokens at 174481.95 tokens per second.
+
+***** repeat 3 *****
+
+***** sigarra *****
+Untokenizable: ‑ (U+2011, decimal: 8209)
+PTBTokenizer tokenized 160963 tokens at 521020.06 tokens per second.
+Untokenizable: ‐ (U+2010, decimal: 8208)
+PTBTokenizer tokenized 51184 tokens at 182728.24 tokens per second.
+
+real	0m6.555s
+user	0m9.576s
+sys	0m0.956s
+
+***token to conll***
+
+***** repeat 0 *****
+
+*** sigarra ***
+
+***** repeat 1 *****
+
+*** sigarra ***
+
+***** repeat 2 *****
+
+*** sigarra ***
+
+***** repeat 3 *****
+
+*** sigarra ***
+
+real	7m14.555s
+user	7m8.648s
+sys	0m5.868s
