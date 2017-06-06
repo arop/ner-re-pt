@@ -4,7 +4,7 @@ from lxml import etree
 
 #select first part of alt tag when there are no EM in it
 #select part where there is a tag if there are no tags in the other part
-#select part where there are the least amount of EM tags, when there is EM tags in each side
+#select part where there are the highest amount of EM tags, when there is EM tags in each side
 # NOTE: there are ALT with more than 2 sides
 
 #http://stackoverflow.com/questions/4624062/get-all-text-inside-a-tag-in-lxml
