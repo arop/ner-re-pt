@@ -1,0 +1,2740 @@
+--NO ENTITIES--
+
+91	113	Localizacao
+146	167	Evento
+183	197	Data
+223	244	Data
+253	258	Hora
+
+73	86	Pessoa
+92	141	Organizacao
+144	147	Organizacao
+160	174	Pessoa
+180	207	UnidadeOrganica
+
+37	59	Localizacao
+63	68	Localizacao
+71	84	Localizacao
+87	91	UnidadeOrganica
+95	102	Localizacao
+105	111	Localizacao
+114	120	Localizacao
+124	127	Hora
+
+15	28	Data
+73	78	Hora
+90	95	Hora
+151	164	Pessoa
+167	170	Organizacao
+173	178	Hora
+303	317	Pessoa
+320	324	UnidadeOrganica
+327	332	Hora
+360	365	Hora
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+9	40	Curso
+49	71	Pessoa
+
+4	25	Data
+28	39	Hora
+42	54	Localizacao
+58	98	UnidadeOrganica
+102	106	UnidadeOrganica
+
+183	205	Pessoa
+208	254	UnidadeOrganica
+265	292	Pessoa
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+10	52	Curso
+55	76	Pessoa
+
+0	14	Data
+17	22	Hora
+25	33	Localizacao
+
+10	52	Curso
+77	98	Pessoa
+
+--NO ENTITIES--
+
+13	41	Pessoa
+62	91	Pessoa
+108	162	Pessoa
+
+--NO ENTITIES--
+
+26	49	Pessoa
+
+--NO ENTITIES--
+
+8	41	Pessoa
+70	125	UnidadeOrganica
+
+44	66	Data
+160	238	Curso
+256	279	Pessoa
+363	379	Localizacao
+383	411	UnidadeOrganica
+448	469	Data
+476	482	Hora
+629	653	Pessoa
+656	683	Pessoa
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+22	41	Pessoa
+44	59	Pessoa
+
+0	23	Data
+26	31	Hora
+34	46	Localizacao
+49	52	Organizacao
+
+13	52	Evento
+56	86	Organizacao
+89	92	Organizacao
+115	138	Data
+141	146	Hora
+152	164	Localizacao
+168	171	Organizacao
+244	263	Pessoa
+
+55	68	Pessoa
+83	88	Curso
+89	92	Organizacao
+97	112	Pessoa
+128	132	UnidadeOrganica
+229	233	UnidadeOrganica
+234	238	UnidadeOrganica
+275	281	Organizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+17	32	Data
+
+91	106	Data
+389	410	Organizacao
+
+--NO ENTITIES--
+
+225	246	Organizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+144	165	Organizacao
+176	212	Localizacao
+302	325	Data
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	21	Organizacao
+24	45	Data
+87	108	Organizacao
+113	126	Pessoa
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+45	49	Data
+
+11	15	Data
+18	22	Data
+
+55	65	Data
+
+--NO ENTITIES--
+
+37	57	Data
+60	76	Data
+79	95	Data
+98	113	Data
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+43	53	Localizacao
+
+5	23	Data
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+132	144	Pessoa
+
+26	39	Data
+46	51	Hora
+57	65	Localizacao
+69	101	Organizacao
+
+91	105	Data
+109	119	Localizacao
+123	148	UnidadeOrganica
+167	189	Evento
+209	221	Data
+
+--NO ENTITIES--
+
+4	17	Data
+20	25	Hora
+26	34	Localizacao
+38	70	Organizacao
+71	104	Localizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+30	34	UnidadeOrganica
+
+17	29	Data
+
+163	178	Data
+381	427	UnidadeOrganica
+430	434	UnidadeOrganica
+
+--NO ENTITIES--
+
+221	242	Organizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+143	147	UnidadeOrganica
+254	275	Organizacao
+307	311	UnidadeOrganica
+
+--NO ENTITIES--
+
+52	60	Data
+169	173	UnidadeOrganica
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+75	110	Pessoa
+151	155	UnidadeOrganica
+164	188	Pessoa
+243	247	UnidadeOrganica
+248	276	Pessoa
+374	378	UnidadeOrganica
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	46	UnidadeOrganica
+49	72	Data
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+10	42	Curso
+56	101	Pessoa
+
+4	25	Data
+28	39	Hora
+42	53	Localizacao
+58	63	UnidadeOrganica
+66	70	UnidadeOrganica
+
+181	219	Pessoa
+223	228	UnidadeOrganica
+229	231	Organizacao
+243	284	Pessoa
+288	335	UnidadeOrganica
+336	371	Pessoa
+375	421	UnidadeOrganica
+422	441	Pessoa
+539	576	Pessoa
+579	584	UnidadeOrganica
+585	587	Organizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+74	95	Organizacao
+100	104	UnidadeOrganica
+168	172	UnidadeOrganica
+
+72	86	Data
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+9	22	Data
+75	95	Pessoa
+98	102	Data
+105	109	Data
+214	251	Organizacao
+254	258	Organizacao
+
+46	59	Data
+
+76	79	Hora
+85	88	Hora
+
+45	50	Data
+
+0	13	Data
+17	27	Localizacao
+31	56	UnidadeOrganica
+
+8	43	Localizacao
+82	87	Localizacao
+113	123	Localizacao
+157	167	Localizacao
+202	212	Localizacao
+222	236	Organizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+112	116	Organizacao
+119	166	Organizacao
+
+49	55	Localizacao
+59	77	Organizacao
+80	90	Data
+169	175	Localizacao
+178	192	Organizacao
+195	205	Data
+264	270	Localizacao
+283	296	Organizacao
+299	309	Data
+388	394	Localizacao
+397	407	Organizacao
+410	420	Data
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	15	Data
+18	23	Hora
+26	31	Hora
+
+8	17	Localizacao
+21	66	UnidadeOrganica
+88	139	Organizacao
+142	147	Organizacao
+213	226	Pessoa
+246	251	Organizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+36	44	Organizacao
+
+0	11	Data
+14	19	Hora
+22	30	Localizacao
+
+2	55	Organizacao
+58	62	Organizacao
+68	74	UnidadeOrganica
+
+92	100	Organizacao
+
+16	27	Data
+33	38	Hora
+44	52	Localizacao
+56	62	UnidadeOrganica
+
+59	80	Organizacao
+
+145	149	Organizacao
+
+71	75	Organizacao
+78	131	Organizacao
+132	206	UnidadeOrganica
+207	240	Localizacao
+243	251	Localizacao
+252	265	Pessoa
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+16	33	Pessoa
+38	68	Evento
+
+0	14	Data
+31	36	Hora
+39	54	Localizacao
+57	61	UnidadeOrganica
+
+2	32	Evento
+39	56	Pessoa
+74	166	Evento
+187	201	Data
+221	226	Hora
+232	247	Localizacao
+250	254	UnidadeOrganica
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	17	Pessoa
+32	48	Curso
+52	56	UnidadeOrganica
+
+127	131	Data
+134	138	Data
+283	287	Data
+290	294	Data
+398	402	Data
+405	409	Data
+439	443	Data
+446	450	Data
+583	587	Data
+590	594	Data
+684	688	Data
+691	695	Data
+779	783	Data
+786	790	Data
+812	841	Organizacao
+865	884	Data
+890	896	Localizacao
+899	906	Localizacao
+960	964	Data
+967	971	Data
+
+15	54	UnidadeOrganica
+58	62	UnidadeOrganica
+65	69	Data
+72	77	Localizacao
+83	107	UnidadeOrganica
+111	133	Organizacao
+139	168	UnidadeOrganica
+171	192	Organizacao
+195	200	Localizacao
+
+116	120	Data
+123	127	Data
+136	140	Data
+
+2	94	Evento
+205	239	Curso
+242	247	Curso
+251	263	Pessoa
+266	282	Pessoa
+361	370	UnidadeOrganica
+
+7	99	Evento
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	16	Data
+19	24	Hora
+
+42	52	Localizacao
+149	163	Data
+170	173	Hora
+
+38	50	Pessoa
+63	76	Curso
+119	182	Organizacao
+185	192	Organizacao
+248	262	Data
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	10	Data
+13	18	Hora
+21	33	Localizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+20	24	UnidadeOrganica
+
+17	21	Data
+
+44	48	UnidadeOrganica
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+19	23	Organizacao
+
+0	12	Localizacao
+
+55	67	Localizacao
+91	105	Data
+109	114	Hora
+
+135	142	Localizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+64	71	Localizacao
+
+15	28	Data
+31	54	Data
+
+45	65	Localizacao
+
+116	136	Localizacao
+
+112	117	Hora
+121	126	Hora
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+51	54	Organizacao
+57	95	Organizacao
+
+23	44	Data
+
+2	5	Organizacao
+10	28	Organizacao
+75	97	Data
+234	237	Organizacao
+
+82	85	Organizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+17	40	Data
+
+215	289	UnidadeOrganica
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+23	47	Pessoa
+52	74	Data
+80	85	Hora
+91	103	Localizacao
+107	111	UnidadeOrganica
+307	329	Data
+335	340	Hora
+346	358	Localizacao
+362	366	UnidadeOrganica
+540	584	Pessoa
+612	616	UnidadeOrganica
+644	679	Pessoa
+705	743	UnidadeOrganica
+746	772	Organizacao
+775	797	Organizacao
+800	830	Pessoa
+856	896	UnidadeOrganica
+899	961	UnidadeOrganica
+964	991	Pessoa
+1028	1084	UnidadeOrganica
+1087	1109	Organizacao
+1112	1142	Pessoa
+1169	1204	UnidadeOrganica
+1207	1228	Organizacao
+1231	1268	Pessoa
+1294	1340	UnidadeOrganica
+1343	1389	UnidadeOrganica
+1392	1431	Pessoa
+1457	1503	UnidadeOrganica
+1506	1529	UnidadeOrganica
+1532	1553	Organizacao
+1556	1583	Pessoa
+1609	1655	UnidadeOrganica
+1658	1681	UnidadeOrganica
+1684	1705	Organizacao
+
+--NO ENTITIES--
+
+27	48	Organizacao
+
+0	4	Data
+
+173	194	Organizacao
+
+65	72	Organizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	55	Evento
+
+4	23	Data
+27	40	Localizacao
+53	58	UnidadeOrganica
+61	65	UnidadeOrganica
+
+176	180	UnidadeOrganica
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+26	36	Data
+
+2	6	Organizacao
+9	56	Organizacao
+60	66	UnidadeOrganica
+
+79	99	Curso
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+175	179	Organizacao
+
+--NO ENTITIES--
+
+44	59	Data
+62	80	Data
+
+--NO ENTITIES--
+
+17	21	Organizacao
+24	71	Organizacao
+72	146	UnidadeOrganica
+147	179	Localizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	65	Evento
+
+0	23	Data
+40	67	Localizacao
+70	75	Localizacao
+
+2	67	Evento
+83	104	Data
+110	115	Hora
+119	124	Hora
+132	159	Localizacao
+176	218	Localizacao
+228	259	Localizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+5	18	Data
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+20	24	UnidadeOrganica
+
+126	149	Pessoa
+
+22	26	UnidadeOrganica
+27	50	Pessoa
+
+33	49	Pessoa
+67	71	Data
+75	79	UnidadeOrganica
+
+8	14	Localizacao
+
+--NO ENTITIES--
+
+96	102	Localizacao
+
+185	191	Localizacao
+
+--NO ENTITIES--
+
+42	46	Data
+
+11	37	Pessoa
+124	130	Localizacao
+192	227	Organizacao
+230	235	Organizacao
+242	268	Organizacao
+274	305	Organizacao
+311	354	Organizacao
+357	362	Organizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	4	UnidadeOrganica
+7	11	UnidadeOrganica
+
+52	55	Evento
+82	96	Data
+
+80	101	Organizacao
+104	108	UnidadeOrganica
+111	115	UnidadeOrganica
+162	195	Evento
+
+0	12	Pessoa
+15	27	Pessoa
+44	98	Curso
+101	113	Pessoa
+116	127	Pessoa
+166	179	Pessoa
+195	199	UnidadeOrganica
+
+13	25	Pessoa
+66	71	Data
+79	84	Localizacao
+104	112	Localizacao
+
+3	7	Data
+88	91	Evento
+
+--NO ENTITIES--
+
+54	58	Data
+
+3	6	Evento
+
+--NO ENTITIES--
+
+2	36	UnidadeOrganica
+127	152	Evento
+203	207	UnidadeOrganica
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+60	64	Data
+67	71	Data
+
+3	16	Data
+19	42	Data
+
+64	68	Data
+71	75	Data
+79	92	Data
+95	118	Data
+236	240	Data
+243	247	Data
+435	439	Data
+442	446	Data
+452	465	Data
+469	491	Data
+564	568	Data
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+38	42	Data
+45	49	Data
+
+11	15	Data
+18	22	Data
+
+129	133	UnidadeOrganica
+157	161	Data
+164	168	Data
+
+--NO ENTITIES--
+
+351	370	Data
+373	391	Data
+418	438	Data
+476	499	Data
+701	705	Data
+708	712	Data
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+31	35	UnidadeOrganica
+
+16	31	Pessoa
+34	50	Pessoa
+77	89	Pessoa
+153	172	Data
+
+29	44	Pessoa
+47	63	Pessoa
+90	102	Pessoa
+106	115	UnidadeOrganica
+141	152	Organizacao
+257	276	Data
+
+42	57	Pessoa
+101	105	UnidadeOrganica
+122	130	Localizacao
+166	199	Organizacao
+202	205	Organizacao
+211	227	Pessoa
+243	247	UnidadeOrganica
+265	268	Organizacao
+
+39	51	Pessoa
+89	98	UnidadeOrganica
+
+166	170	UnidadeOrganica
+173	188	Pessoa
+197	208	Pessoa
+226	260	Curso
+266	270	UnidadeOrganica
+274	278	Data
+281	285	Data
+
+54	79	Localizacao
+133	139	Organizacao
+
+--NO ENTITIES--
+
+28	40	Pessoa
+67	77	Organizacao
+81	95	Pessoa
+140	154	Pessoa
+157	166	Pessoa
+171	181	Organizacao
+
+33	48	Pessoa
+51	67	Pessoa
+92	104	Pessoa
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	20	Data
+37	50	Localizacao
+
+22	35	Localizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+66	111	Pessoa
+
+--NO ENTITIES--
+
+8	40	Pessoa
+55	99	UnidadeOrganica
+173	192	Organizacao
+297	319	Data
+437	482	Pessoa
+563	586	Data
+593	599	Hora
+605	621	Localizacao
+625	669	UnidadeOrganica
+714	737	Data
+744	750	Hora
+815	844	Pessoa
+847	886	Pessoa
+1000	1029	Pessoa
+1034	1057	Data
+1064	1070	Hora
+1214	1234	Pessoa
+
+--NO ENTITIES--
+
+0	43	Evento
+63	78	Pessoa
+88	104	Pessoa
+
+0	15	Data
+18	23	Hora
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+40	47	Organizacao
+214	221	Organizacao
+
+--NO ENTITIES--
+
+14	18	Data
+
+35	39	Data
+94	107	Data
+
+38	45	Organizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	4	UnidadeOrganica
+
+14	19	Organizacao
+
+2	23	UnidadeOrganica
+
+0	15	Pessoa
+63	84	Organizacao
+103	107	Organizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+41	56	Data
+
+23	46	Data
+
+25	40	Data
+86	107	Organizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+188	198	Data
+
+--NO ENTITIES--
+
+119	129	Data
+
+94	112	Organizacao
+118	156	Organizacao
+162	186	Organizacao
+192	225	Organizacao
+231	262	Organizacao
+268	317	Organizacao
+323	352	Organizacao
+358	376	Organizacao
+382	420	Organizacao
+559	564	Hora
+568	573	Hora
+580	585	Hora
+589	594	Hora
+606	616	Pessoa
+640	654	Pessoa
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+49	53	UnidadeOrganica
+
+0	19	Pessoa
+89	95	Organizacao
+
+113	161	UnidadeOrganica
+164	168	UnidadeOrganica
+298	302	UnidadeOrganica
+
+14	33	Pessoa
+49	101	Curso
+105	109	UnidadeOrganica
+175	179	UnidadeOrganica
+
+14	33	Pessoa
+
+--NO ENTITIES--
+
+267	286	Pessoa
+
+52	58	Organizacao
+86	99	Data
+125	136	Evento
+
+53	57	Data
+162	176	Pessoa
+
+78	101	UnidadeOrganica
+182	186	UnidadeOrganica
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+22	26	Data
+29	33	Data
+47	75	Curso
+78	110	Curso
+
+22	26	Data
+29	33	Data
+
+67	71	Data
+74	78	Data
+113	141	Curso
+147	179	Curso
+208	223	Data
+226	244	Data
+
+255	259	Data
+262	266	Data
+299	320	Organizacao
+
+63	69	UnidadeOrganica
+
+--NO ENTITIES--
+
+11	39	Curso
+57	89	Curso
+227	232	Hora
+236	241	Hora
+244	249	Hora
+253	258	Hora
+268	273	Hora
+277	282	Hora
+291	296	Hora
+300	305	Hora
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+4	23	Data
+
+0	16	Pessoa
+73	83	Data
+89	122	UnidadeOrganica
+131	136	Hora
+141	201	Evento
+
+70	75	Localizacao
+78	85	Localizacao
+101	109	Localizacao
+249	275	Localizacao
+
+50	61	Data
+
+--NO ENTITIES--
+
+0	48	Evento
+
+0	10	Localizacao
+13	25	Data
+28	34	Hora
+
+13	18	Organizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	35	Evento
+
+0	10	Localizacao
+13	25	Data
+28	31	Hora
+
+2	38	Evento
+117	128	Data
+131	150	Data
+168	174	Localizacao
+177	182	Localizacao
+
+2	6	Evento
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	46	Evento
+
+4	27	Data
+30	35	Hora
+38	44	UnidadeOrganica
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	122	Evento
+
+0	23	Data
+40	45	Hora
+48	73	Localizacao
+76	80	UnidadeOrganica
+
+13	24	Pessoa
+44	48	UnidadeOrganica
+182	235	Evento
+
+35	50	Data
+66	71	Hora
+77	102	Localizacao
+105	109	UnidadeOrganica
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+2	72	Evento
+104	115	Pessoa
+118	137	Pessoa
+153	157	UnidadeOrganica
+192	201	Data
+225	230	Data
+
+7	77	Evento
+98	109	Pessoa
+129	137	Organizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	4	UnidadeOrganica
+
+16	26	Data
+29	39	Data
+
+237	254	Organizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+71	81	Data
+
+110	116	Localizacao
+
+--NO ENTITIES--
+
+138	142	UnidadeOrganica
+230	234	UnidadeOrganica
+
+--NO ENTITIES--
+
+71	81	Data
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+31	35	UnidadeOrganica
+48	52	Data
+55	59	Data
+
+4	18	Data
+
+56	60	UnidadeOrganica
+
+23	27	Data
+30	34	Data
+
+42	46	UnidadeOrganica
+
+147	151	UnidadeOrganica
+299	303	Data
+
+2	6	UnidadeOrganica
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+16	36	Pessoa
+60	74	Data
+80	85	Hora
+91	103	Localizacao
+107	130	UnidadeOrganica
+157	184	Pessoa
+212	216	UnidadeOrganica
+232	243	Pessoa
+269	285	Organizacao
+288	297	Localizacao
+308	322	Pessoa
+338	383	Organizacao
+384	404	Organizacao
+407	421	Localizacao
+432	472	Pessoa
+498	530	UnidadeOrganica
+534	604	UnidadeOrganica
+614	662	Pessoa
+687	725	UnidadeOrganica
+729	777	UnidadeOrganica
+787	810	Pessoa
+845	883	UnidadeOrganica
+887	935	UnidadeOrganica
+
+--NO ENTITIES--
+
+0	28	Evento
+29	49	Organizacao
+
+0	15	Data
+18	23	Hora
+27	32	Hora
+35	44	Localizacao
+45	49	UnidadeOrganica
+
+13	29	Evento
+145	149	UnidadeOrganica
+213	233	Organizacao
+
+2	22	Organizacao
+
+95	111	Localizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+9	40	Curso
+49	75	Pessoa
+
+4	25	Data
+28	39	Hora
+42	54	Localizacao
+58	98	UnidadeOrganica
+102	106	UnidadeOrganica
+
+182	204	Pessoa
+207	253	UnidadeOrganica
+264	294	Pessoa
+299	323	Organizacao
+327	368	Organizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+72	86	Pessoa
+
+0	9	Data
+12	17	Hora
+22	31	Data
+34	38	Hora
+41	45	Data
+48	52	UnidadeOrganica
+
+26	40	Pessoa
+43	48	Organizacao
+149	189	Curso
+192	195	Curso
+201	205	UnidadeOrganica
+215	227	Data
+246	251	Hora
+256	268	Data
+292	296	Hora
+302	318	Localizacao
+321	325	Localizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	14	Pessoa
+33	82	Organizacao
+85	90	Organizacao
+93	97	Data
+142	183	UnidadeOrganica
+
+18	62	Curso
+65	87	UnidadeOrganica
+90	100	Localizacao
+103	110	Localizacao
+113	117	Data
+142	147	Organizacao
+150	154	Data
+
+6	10	Data
+161	206	UnidadeOrganica
+209	213	UnidadeOrganica
+219	223	UnidadeOrganica
+
+102	106	Data
+109	113	Data
+127	131	Data
+174	202	Curso
+
+79	88	UnidadeOrganica
+106	144	Organizacao
+147	150	Organizacao
+154	166	Organizacao
+169	182	Organizacao
+185	199	Organizacao
+202	243	Organizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+35	60	Pessoa
+
+0	10	Localizacao
+13	23	Data
+26	32	Hora
+
+0	28	Pessoa
+42	91	UnidadeOrganica
+119	140	Data
+158	164	Hora
+168	178	Localizacao
+203	237	Curso
+253	278	Pessoa
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	39	Evento
+
+0	18	Data
+21	36	Localizacao
+39	44	Localizacao
+
+2	41	Evento
+58	63	Localizacao
+71	81	Data
+300	309	Organizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+10	42	Curso
+
+16	46	Pessoa
+70	82	Data
+88	93	Hora
+99	130	Localizacao
+134	166	UnidadeOrganica
+172	195	UnidadeOrganica
+222	260	Pessoa
+288	292	UnidadeOrganica
+308	334	Pessoa
+351	413	Organizacao
+424	450	Pessoa
+476	508	UnidadeOrganica
+512	573	UnidadeOrganica
+584	618	Pessoa
+644	676	UnidadeOrganica
+680	728	UnidadeOrganica
+
+7	33	Pessoa
+58	90	UnidadeOrganica
+94	142	UnidadeOrganica
+
+--NO ENTITIES--
+
+0	16	Evento
+
+0	13	Data
+16	21	Hora
+24	38	Localizacao
+
+2	13	Evento
+92	140	UnidadeOrganica
+
+9	14	Hora
+40	45	Hora
+90	94	UnidadeOrganica
+103	122	Pessoa
+199	215	Pessoa
+338	354	Pessoa
+509	514	Hora
+550	557	Organizacao
+566	591	Pessoa
+673	686	Pessoa
+
+0	5	Hora
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+35	60	Pessoa
+
+0	10	Localizacao
+13	25	Data
+28	34	Hora
+
+0	20	Pessoa
+34	83	UnidadeOrganica
+113	136	Data
+154	160	Hora
+164	174	Localizacao
+199	233	Curso
+249	274	Pessoa
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+70	89	Data
+183	187	UnidadeOrganica
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+249	256	Organizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+28	32	UnidadeOrganica
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	4	UnidadeOrganica
+
+21	44	Data
+
+253	291	Organizacao
+294	303	Organizacao
+313	354	Organizacao
+357	362	Organizacao
+378	424	UnidadeOrganica
+427	431	UnidadeOrganica
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	4	UnidadeOrganica
+
+21	44	Data
+
+232	273	Organizacao
+276	281	Organizacao
+296	307	Organizacao
+410	448	Organizacao
+489	493	UnidadeOrganica
+528	532	UnidadeOrganica
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+5	26	Data
+29	46	Localizacao
+49	57	Localizacao
+
+2	54	Organizacao
+132	149	Localizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+10	42	Curso
+
+16	32	Pessoa
+56	69	Data
+75	80	Hora
+83	106	Localizacao
+110	168	UnidadeOrganica
+172	195	UnidadeOrganica
+222	257	Pessoa
+285	289	UnidadeOrganica
+304	338	Pessoa
+364	452	Organizacao
+462	491	Pessoa
+517	555	UnidadeOrganica
+559	604	Organizacao
+640	673	Pessoa
+698	720	UnidadeOrganica
+724	779	UnidadeOrganica
+789	813	Pessoa
+853	911	UnidadeOrganica
+915	963	UnidadeOrganica
+
+--NO ENTITIES--
+
+9	50	Curso
+60	95	Pessoa
+
+4	26	Data
+29	40	Hora
+43	53	Localizacao
+
+98	119	Pessoa
+122	168	UnidadeOrganica
+180	209	Pessoa
+212	260	UnidadeOrganica
+261	278	Pessoa
+281	328	UnidadeOrganica
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	4	UnidadeOrganica
+
+19	29	Data
+32	42	Data
+
+288	329	Organizacao
+332	337	Organizacao
+352	363	Organizacao
+460	463	Organizacao
+466	471	Organizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	15	Data
+18	23	Hora
+26	32	Localizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	4	UnidadeOrganica
+37	72	Organizacao
+75	110	Organizacao
+
+0	16	Data
+
+7	29	Data
+38	43	Hora
+140	160	Curso
+164	210	UnidadeOrganica
+236	271	Organizacao
+274	309	Organizacao
+
+27	73	UnidadeOrganica
+76	80	UnidadeOrganica
+235	265	Curso
+284	288	UnidadeOrganica
+
+8	29	Pessoa
+177	181	UnidadeOrganica
+
+--NO ENTITIES--
+
+0	54	Evento
+
+0	36	Localizacao
+40	43	Organizacao
+
+2	52	Organizacao
+55	81	Organizacao
+94	98	Organizacao
+121	135	Data
+139	175	Localizacao
+179	182	Organizacao
+186	240	Evento
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+3	18	Data
+21	31	Data
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+11	15	Data
+18	22	Data
+
+89	93	Data
+96	100	Data
+181	187	Localizacao
+249	271	Data
+274	295	Data
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+17	40	Data
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+16	31	Data
+34	52	Data
+
+26	31	Localizacao
+34	40	Localizacao
+177	183	Localizacao
+
+69	75	Localizacao
+250	256	Localizacao
+
+--NO ENTITIES--
+
+44	58	Data
+61	76	Data
+178	227	Localizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+9	51	UnidadeOrganica
+60	91	Pessoa
+
+4	25	Data
+28	39	Hora
+42	52	Localizacao
+
+159	191	Pessoa
+195	241	UnidadeOrganica
+252	293	Pessoa
+296	319	Organizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+13	24	Data
+
+229	242	Data
+
+121	133	Pessoa
+136	157	Organizacao
+161	173	Pessoa
+176	202	Organizacao
+207	218	Pessoa
+221	247	Organizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+33	52	Data
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	45	Evento
+48	52	UnidadeOrganica
+56	59	Localizacao
+
+0	15	Data
+18	23	Hora
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+80	81	Data
+85	89	Data
+
+--NO ENTITIES--
+
+75	94	Data
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	7	Organizacao
+
+17	39	Data
+
+93	108	Data
+309	352	Organizacao
+
+--NO ENTITIES--
+
+220	241	Organizacao
+
+--NO ENTITIES--
+
+183	203	Curso
+206	221	Curso
+224	241	Curso
+393	436	Organizacao
+
+54	72	Data
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+184	205	Organizacao
+386	393	Organizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+2	6	Organizacao
+60	82	Data
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	21	Organizacao
+24	46	Data
+60	103	Organizacao
+108	138	Pessoa
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+12	16	UnidadeOrganica
+71	75	Data
+
+40	44	Data
+113	134	Data
+
+94	98	Data
+
+40	44	Data
+87	108	Data
+
+73	77	UnidadeOrganica
+94	145	Organizacao
+151	156	Localizacao
+162	180	Pessoa
+183	215	Organizacao
+221	250	Localizacao
+256	267	Localizacao
+273	284	Pessoa
+287	309	Pessoa
+314	354	Localizacao
+360	366	Localizacao
+379	390	Pessoa
+393	418	Localizacao
+421	436	Localizacao
+440	458	Pessoa
+463	495	Localizacao
+499	515	Pessoa
+561	579	Pessoa
+629	647	Pessoa
+650	675	Organizacao
+679	692	Pessoa
+695	697	Localizacao
+700	712	Organizacao
+717	725	Pessoa
+728	730	Localizacao
+733	749	Organizacao
+
+117	121	UnidadeOrganica
+
+5	18	Data
+102	115	Data
+128	142	Data
+
+28	42	Data
+
+21	72	Organizacao
+78	83	Localizacao
+89	107	Pessoa
+110	142	Organizacao
+147	166	Pessoa
+167	196	Localizacao
+202	213	Localizacao
+219	230	Pessoa
+233	255	Pessoa
+258	270	Pessoa
+271	311	Localizacao
+317	323	Localizacao
+329	340	Pessoa
+343	358	Pessoa
+361	366	Organizacao
+367	392	Localizacao
+396	414	Pessoa
+417	433	Pessoa
+434	449	Localizacao
+453	471	Pessoa
+474	486	Pessoa
+487	519	Localizacao
+523	539	Pessoa
+542	557	Pessoa
+560	565	Organizacao
+603	621	Pessoa
+671	689	Pessoa
+692	717	Organizacao
+721	734	Pessoa
+737	739	Localizacao
+742	754	Organizacao
+759	767	Pessoa
+770	772	Localizacao
+775	791	Organizacao
+796	810	Pessoa
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+14	52	Localizacao
+
+17	35	Data
+
+2	40	Localizacao
+62	85	Data
+91	114	Organizacao
+
+48	67	Pessoa
+70	87	Pessoa
+104	115	Pessoa
+118	129	Pessoa
+132	157	Pessoa
+160	171	Pessoa
+174	184	Pessoa
+242	249	Localizacao
+273	283	Localizacao
+286	313	Localizacao
+316	331	Localizacao
+334	355	Localizacao
+358	373	Localizacao
+376	390	Localizacao
+393	400	Localizacao
+403	423	Localizacao
+
+106	113	Localizacao
+119	125	Localizacao
+
+106	113	Localizacao
+
+103	124	Data
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	4	UnidadeOrganica
+
+19	29	Data
+32	42	Data
+
+275	316	Organizacao
+319	324	Organizacao
+339	350	Organizacao
+453	491	Organizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+4	13	Data
+16	19	Hora
+
+38	47	Data
+155	179	Pessoa
+
+14	22	Localizacao
+25	35	Localizacao
+65	90	Organizacao
+
+--NO ENTITIES--
+
+53	77	Pessoa
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	15	Data
+18	23	Hora
+26	42	Localizacao
+
+48	72	Curso
+78	107	Curso
+135	141	Organizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	10	Data
+13	18	Hora
+21	41	Localizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+125	136	Data
+145	150	Hora
+156	176	Localizacao
+179	200	Localizacao
+203	212	Organizacao
+
+--NO ENTITIES--
+
+0	6	UnidadeOrganica
+
+0	22	Data
+39	44	Hora
+47	72	Localizacao
+75	79	UnidadeOrganica
+
+14	28	Data
+34	39	Hora
+45	70	Localizacao
+113	191	UnidadeOrganica
+194	200	UnidadeOrganica
+221	225	Data
+
+89	95	UnidadeOrganica
+122	136	Data
+231	246	Pessoa
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+15	30	Data
+
+43	46	UnidadeOrganica
+50	54	Data
+
+--NO ENTITIES--
+
+27	42	Data
+
+--NO ENTITIES--
+
+32	43	Data
+49	54	Hora
+60	68	Localizacao
+111	118	Organizacao
+
+44	49	Data
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+45	52	Localizacao
+
+17	34	Data
+
+2	22	Localizacao
+142	149	Localizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	15	Pessoa
+
+--NO ENTITIES--
+
+15	33	Data
+36	51	Pessoa
+64	79	Organizacao
+144	148	UnidadeOrganica
+294	306	Pessoa
+309	319	Pessoa
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+473	490	Pessoa
+532	552	Pessoa
+555	570	Pessoa
+573	586	Pessoa
+589	606	Pessoa
+609	618	Pessoa
+621	644	Pessoa
+647	662	Pessoa
+665	679	Pessoa
+682	698	Pessoa
+701	709	Pessoa
+712	726	Pessoa
+729	740	Pessoa
+743	763	Pessoa
+766	780	Pessoa
+783	799	Pessoa
+802	817	Pessoa
+820	833	Pessoa
+836	856	Pessoa
+859	874	Pessoa
+877	893	Pessoa
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+76	80	Data
+
+3	16	Data
+19	34	Data
+
+--NO ENTITIES--
+
+82	86	Data
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+129	150	Organizacao
+
+123	128	Hora
+132	137	Hora
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	4	UnidadeOrganica
+
+19	29	Data
+32	42	Data
+
+264	305	Organizacao
+308	313	Organizacao
+328	339	Organizacao
+415	418	Organizacao
+421	426	Organizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+21	80	Curso
+91	115	Pessoa
+
+0	21	Data
+24	29	Hora
+
+48	72	Pessoa
+120	130	Data
+138	143	Hora
+149	161	Localizacao
+165	213	UnidadeOrganica
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	11	Data
+14	18	Hora
+21	32	Localizacao
+
+3	53	Evento
+77	83	UnidadeOrganica
+
+129	148	Data
+
+30	34	Hora
+40	45	Hora
+49	60	Localizacao
+64	70	UnidadeOrganica
+98	112	Pessoa
+115	129	Pessoa
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+3	34	Evento
+
+48	52	Organizacao
+55	102	Organizacao
+103	177	UnidadeOrganica
+178	210	Localizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+10	15	Organizacao
+22	28	Organizacao
+
+46	54	Localizacao
+156	184	Organizacao
+205	226	Organizacao
+231	254	Organizacao
+257	261	UnidadeOrganica
+266	314	UnidadeOrganica
+
+82	90	Organizacao
+93	103	Data
+176	188	Organizacao
+191	201	Data
+274	285	Organizacao
+288	298	Data
+371	381	Organizacao
+384	394	Data
+467	485	Organizacao
+488	498	Data
+553	559	Organizacao
+562	572	Data
+650	664	Organizacao
+667	677	Data
+750	779	Organizacao
+782	792	Data
+865	881	Organizacao
+884	894	Data
+967	977	Organizacao
+980	990	Data
+1063	1079	Organizacao
+1082	1092	Data
+1165	1172	Organizacao
+1175	1185	Data
+1225	1231	Organizacao
+1234	1244	Data
+1313	1323	Data
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	4	UnidadeOrganica
+
+16	26	Data
+29	39	Data
+
+203	244	Organizacao
+247	252	Organizacao
+325	329	UnidadeOrganica
+377	381	UnidadeOrganica
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	4	UnidadeOrganica
+
+20	43	Data
+
+93	102	Curso
+105	115	Curso
+318	362	UnidadeOrganica
+365	369	UnidadeOrganica
+389	392	Organizacao
+395	431	Organizacao
+
+20	25	Organizacao
+28	69	Organizacao
+81	93	Organizacao
+96	143	Organizacao
+
+--NO ENTITIES--
+
+0	70	Evento
+
+0	13	Data
+16	21	Hora
+24	41	Localizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	15	Data
+18	23	Hora
+26	31	Hora
+
+14	27	Localizacao
+30	45	Localizacao
+49	70	Organizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+77	128	Organizacao
+206	212	Data
+215	218	Hora
+221	224	Hora
+255	268	Localizacao
+272	277	Localizacao
+288	293	Data
+296	299	Hora
+302	305	Hora
+322	341	Organizacao
+344	351	Localizacao
+362	367	Data
+370	373	Hora
+376	379	Hora
+382	401	Organizacao
+404	408	Localizacao
+419	424	Data
+427	430	Hora
+433	436	Hora
+439	458	Organizacao
+461	469	Localizacao
+622	627	Localizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	5	Data
+8	20	Data
+
+35	55	UnidadeOrganica
+
+35	45	Data
+
+132	176	UnidadeOrganica
+
+19	37	Data
+46	50	UnidadeOrganica
+74	79	Hora
+83	88	Hora
+105	110	Hora
+114	119	Hora
+135	158	Pessoa
+198	202	UnidadeOrganica
+227	231	UnidadeOrganica
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+358	363	Hora
+371	386	Data
+
+78	93	Data
+99	104	Hora
+146	150	UnidadeOrganica
+
+217	221	UnidadeOrganica
+
+26	31	Hora
+35	40	Hora
+47	52	Hora
+56	61	Hora
+
+--NO ENTITIES--
+
+111	156	UnidadeOrganica
+157	191	Localizacao
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+--NO ENTITIES--
+
+0	35	Evento
+
+0	15	Data
+18	23	Hora
+26	56	Organizacao
+
+17	52	Evento
+71	77	Organizacao
+103	118	Data
+123	169	Organizacao
+193	221	Organizacao
+226	257	Organizacao
+291	299	Hora
+314	344	Organizacao
+
+191	229	Localizacao
+
+56	73	Pessoa
+79	101	Organizacao
+145	159	Localizacao
+
+26	43	Pessoa
+81	93	Pessoa
+140	184	UnidadeOrganica
+
+--NO ENTITIES--
+
