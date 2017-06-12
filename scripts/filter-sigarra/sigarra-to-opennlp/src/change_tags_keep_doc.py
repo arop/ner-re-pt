@@ -5,7 +5,7 @@ if(len(sys.argv) > 2):
   filein = sys.argv[1]
   fileout = sys.argv[2]
 else:
-  print "Usage: python " + sys.argv[0] + " <input harem> <output file>\n"
+  print "Usage: python " + sys.argv[0] + " <input sigarra> <output file>\n"
   sys.exit()
 
 f = open(filein,'r')

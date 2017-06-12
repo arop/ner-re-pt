@@ -7,8 +7,8 @@ SCRIPT="../src/sentence-segmentation.py"
 for r in {0..3}
 do
 	printf "\n** repeat "$r" **\n"
-	# for i in {0..9}
-	# do
+	for i in {0..9}
+	do
 	# 	FOLDER=../outputs/repeat-$r/fold-$i
 	# 	printf "\n** fold "$i" **\n"
 	# 	python $SCRIPT $PATH_IN$FOLDER"/cat_train_doc.xml" $FOLDER"/cat_train_sent_doc.xml"
@@ -22,7 +22,13 @@ do
 
 	# 	python $SCRIPT $PATH_IN$FOLDER"/filtered_train_doc.xml" $FOLDER"/filtered_train_sent_doc.xml"
 	# 	python $SCRIPT $PATH_IN$FOLDER"/filtered_test_doc.xml" $FOLDER"/filtered_test_sent_doc.xml"
-	# done
+
+		FOLDER=../outputs/repeat-$r/sigarra/fold-$i
+		P_IN=$PATH_IN_SIGS/repeat-$r/fold-$i
+		printf "\n** sigarra **\n"
+		python $SCRIPT $P_IN"/sigarra_train_doc.xml" $FOLDER"/sigarra_train_sent_doc.xml"
+		python $SCRIPT $P_IN"/sigarra_test_doc.xml" $FOLDER"/sigarra_test_sent_doc.xml"
+	done
 
 	# FOLDER=../outputs/repeat-$r/joined
 	# printf "\n** experiences **\n"
@@ -38,9 +44,9 @@ do
 	# python $SCRIPT $PATH_IN$FOLDER"/filtered_train_doc.xml" $FOLDER"/filtered_train_sent_doc.xml"
 	# python $SCRIPT $PATH_IN$FOLDER"/filtered_test_doc.xml" $FOLDER"/filtered_test_sent_doc.xml"
 
-	FOLDER=../outputs/repeat-$r/sigarra
-	P_IN=$PATH_IN_SIGS/repeat-$r
-	printf "\n** sigarra **\n"
-	python $SCRIPT $P_IN"/sigarra_train_doc.xml" $FOLDER"/sigarra_train_sent_doc.xml"
-	python $SCRIPT $P_IN"/sigarra_test_doc.xml" $FOLDER"/sigarra_test_sent_doc.xml"
+	# FOLDER=../outputs/repeat-$r/sigarra
+	# P_IN=$PATH_IN_SIGS/repeat-$r
+	# printf "\n** sigarra **\n"
+	# python $SCRIPT $P_IN"/sigarra_train_doc.xml" $FOLDER"/sigarra_train_sent_doc.xml"
+	# python $SCRIPT $P_IN"/sigarra_test_doc.xml" $FOLDER"/sigarra_test_sent_doc.xml"
 done
