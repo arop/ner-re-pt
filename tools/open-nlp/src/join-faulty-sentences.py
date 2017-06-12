@@ -1,7 +1,7 @@
 import re
 import sys
 
-if(len(sys.argv) > 1):
+if(len(sys.argv) > 2):
   filein = sys.argv[1]
   fileout = sys.argv[2]
 else:
@@ -22,10 +22,12 @@ for line in f:
 	if (matched_start is not None) and (matched_end is not None): #there are both tags
 		if matched_start.start() > matched_end.start(): # <END> without starting tag
 			out_f[-1] += ' ' + line #concatenate with previous
+			print "STILL problems"
 		else: #normal case
 			out_f.append(line)
 	elif (matched_end is not None) and (matched_start is None): #only <END> tag
 		out_f[-1] += ' ' + line #concatenate with previous
+		print "STILL problems"
 	else: # only start tag or no tags at all
 		out_f.append(line)
 
