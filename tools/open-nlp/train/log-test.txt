@@ -1,0 +1,334 @@
+
+** performing ner sigarra **
+
+** repeat 0 **
+
+** fold 0 **
+Loading Token Name Finder model ... done (0.300s)
+
+
+Average: 1185.4 sent/s 
+Total: 1023 sent
+Runtime: 0.863s
+
+** fold 1 **
+Loading Token Name Finder model ... done (0.167s)
+
+
+Average: 978.5 sent/s 
+Total: 958 sent
+Runtime: 0.979s
+
+** fold 2 **
+Loading Token Name Finder model ... done (0.174s)
+
+
+Average: 1346.2 sent/s 
+Total: 910 sent
+Runtime: 0.676s
+
+** fold 3 **
+Loading Token Name Finder model ... done (0.163s)
+
+
+Average: 1362.0 sent/s 
+Total: 1012 sent
+Runtime: 0.743s
+
+** fold 4 **
+Loading Token Name Finder model ... done (0.178s)
+
+
+Average: 1460.0 sent/s 
+Total: 1095 sent
+Runtime: 0.75s
+
+** fold 5 **
+Loading Token Name Finder model ... done (0.164s)
+
+
+Average: 1424.2 sent/s 
+Total: 846 sent
+Runtime: 0.594s
+
+** fold 6 **
+Loading Token Name Finder model ... done (0.160s)
+
+
+Average: 1240.1 sent/s 
+Total: 1095 sent
+Runtime: 0.883s
+
+** fold 7 **
+Loading Token Name Finder model ... done (0.165s)
+
+
+Average: 1411.4 sent/s 
+Total: 1043 sent
+Runtime: 0.739s
+
+** fold 8 **
+Loading Token Name Finder model ... done (0.169s)
+
+
+Average: 1269.3 sent/s 
+Total: 952 sent
+Runtime: 0.75s
+
+** fold 9 **
+Loading Token Name Finder model ... done (0.183s)
+
+
+Average: 375.5 sent/s 
+Total: 89 sent
+Runtime: 0.237s
+
+** repeat 1 **
+
+** fold 0 **
+Loading Token Name Finder model ... done (0.188s)
+
+
+Average: 1396.3 sent/s 
+Total: 916 sent
+Runtime: 0.656s
+
+** fold 1 **
+Loading Token Name Finder model ... done (0.167s)
+
+
+Average: 1275.7 sent/s 
+Total: 1055 sent
+Runtime: 0.827s
+
+** fold 2 **
+Loading Token Name Finder model ... done (0.171s)
+
+
+Average: 1243.4 sent/s 
+Total: 1037 sent
+Runtime: 0.834s
+
+** fold 3 **
+Loading Token Name Finder model ... done (0.170s)
+
+
+Average: 1237.4 sent/s 
+Total: 1006 sent
+Runtime: 0.813s
+
+** fold 4 **
+Loading Token Name Finder model ... done (0.167s)
+
+
+Average: 1182.8 sent/s 
+Total: 1003 sent
+Runtime: 0.848s
+
+** fold 5 **
+Loading Token Name Finder model ... done (0.170s)
+
+
+Average: 1217.2 sent/s 
+Total: 880 sent
+Runtime: 0.723s
+
+** fold 6 **
+Loading Token Name Finder model ... done (0.163s)
+
+
+Average: 1547.8 sent/s 
+Total: 1037 sent
+Runtime: 0.67s
+
+** fold 7 **
+Loading Token Name Finder model ... done (0.166s)
+
+
+Average: 1374.3 sent/s 
+Total: 1039 sent
+Runtime: 0.756s
+
+** fold 8 **
+Loading Token Name Finder model ... done (0.172s)
+
+
+Average: 1105.9 sent/s 
+Total: 1023 sent
+Runtime: 0.925s
+
+** fold 9 **
+Loading Token Name Finder model ... done (0.173s)
+
+
+Average: 473.7 sent/s 
+Total: 27 sent
+Runtime: 0.057s
+
+** repeat 2 **
+
+** fold 0 **
+Loading Token Name Finder model ... done (0.162s)
+
+
+Average: 1413.5 sent/s 
+Total: 1005 sent
+Runtime: 0.711s
+
+** fold 1 **
+Loading Token Name Finder model ... done (0.162s)
+
+
+Average: 1000.0 sent/s 
+Total: 950 sent
+Runtime: 0.95s
+
+** fold 2 **
+Loading Token Name Finder model ... done (0.161s)
+
+
+Average: 1219.6 sent/s 
+Total: 994 sent
+Runtime: 0.815s
+
+** fold 3 **
+Loading Token Name Finder model ... done (0.193s)
+
+
+Average: 1457.4 sent/s 
+Total: 1077 sent
+Runtime: 0.739s
+
+** fold 4 **
+Loading Token Name Finder model ... done (0.210s)
+
+
+Average: 1316.2 sent/s 
+Total: 945 sent
+Runtime: 0.718s
+
+** fold 5 **
+Loading Token Name Finder model ... done (0.177s)
+
+
+Average: 1067.9 sent/s 
+Total: 897 sent
+Runtime: 0.84s
+
+** fold 6 **
+Loading Token Name Finder model ... done (0.161s)
+
+
+Average: 1375.6 sent/s 
+Total: 1084 sent
+Runtime: 0.788s
+
+** fold 7 **
+Loading Token Name Finder model ... done (0.163s)
+
+
+Average: 1530.0 sent/s 
+Total: 970 sent
+Runtime: 0.634s
+
+** fold 8 **
+Loading Token Name Finder model ... done (0.169s)
+
+
+Average: 1471.9 sent/s 
+Total: 1073 sent
+Runtime: 0.729s
+
+** fold 9 **
+Loading Token Name Finder model ... done (0.180s)
+
+
+Average: 571.4 sent/s 
+Total: 32 sent
+Runtime: 0.056s
+
+** repeat 3 **
+
+** fold 0 **
+Loading Token Name Finder model ... done (0.162s)
+
+
+Average: 1549.8 sent/s 
+Total: 1012 sent
+Runtime: 0.653s
+
+** fold 1 **
+Loading Token Name Finder model ... done (0.163s)
+
+
+Average: 1194.9 sent/s 
+Total: 987 sent
+Runtime: 0.826s
+
+** fold 2 **
+Loading Token Name Finder model ... done (0.175s)
+
+
+Average: 1479.5 sent/s 
+Total: 901 sent
+Runtime: 0.609s
+
+** fold 3 **
+Loading Token Name Finder model ... done (0.196s)
+
+
+Average: 1298.6 sent/s 
+Total: 1296 sent
+Runtime: 0.998s
+
+** fold 4 **
+Loading Token Name Finder model ... done (0.187s)
+
+
+Average: 1204.8 sent/s 
+Total: 947 sent
+Runtime: 0.786s
+
+** fold 5 **
+Loading Token Name Finder model ... done (0.246s)
+
+
+Average: 1295.7 sent/s 
+Total: 1043 sent
+Runtime: 0.805s
+
+** fold 6 **
+Loading Token Name Finder model ... done (0.190s)
+
+
+Average: 1363.5 sent/s 
+Total: 949 sent
+Runtime: 0.696s
+
+** fold 7 **
+Loading Token Name Finder model ... done (0.163s)
+
+
+Average: 1416.5 sent/s 
+Total: 891 sent
+Runtime: 0.629s
+
+** fold 8 **
+Loading Token Name Finder model ... done (0.163s)
+
+
+Average: 1619.9 sent/s 
+Total: 959 sent
+Runtime: 0.592s
+
+** fold 9 **
+Loading Token Name Finder model ... done (0.182s)
+
+
+Average: 285.7 sent/s 
+Total: 34 sent
+Runtime: 0.119s
+
+real	0m51.049s
+user	2m32.492s
+sys	0m7.620s
