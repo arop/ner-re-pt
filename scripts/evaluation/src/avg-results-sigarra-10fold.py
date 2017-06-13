@@ -1,13 +1,13 @@
 import sys
 
-if(len(sys.argv) > 1):
-	tool = sys.argv[1]
-	classifier = False
-	if(len(sys.argv) > 2):
-		classifier = sys.argv[2]
+if(len(sys.argv) > 3):
+  tool = sys.argv[1]
+  level = sys.argv[2]
+  repeat = sys.argv[3]
 else:
-	print "Usage: python " + sys.argv[0] + " <tool> [classifier]\n"
-	sys.exit()
+  print "Usage: python " + sys.argv[0] + " <tool> <level> <repeat>\n"
+  sys.exit()
+
 
 def get_avg(l):
 	if len(l) == 0:
@@ -35,39 +35,11 @@ def get_level_result(str):
 	out.append(("FB1",float( chunks[6] )))
 	return out, cats
 
-def get_accuracy_10fold(str):
-	chunks = str.split()
-	out = []
-
-	out.append(("accuracy",float( chunks[9] )))
-	out.append(("precision",float( chunks[1] )))
-	out.append(("recall",float( chunks[3] )))
-	out.append(("FB1",float( chunks[5] )))
-	out.append(("M_FB1",float( chunks[7] )))
-	return out
-
-def get_level_result_10fold(str):
-	chunks = str.split()
-	out = []
-	cats = chunks[8]
-
-	out.append(("category", chunks[8] ))
-	out.append(("precision",float( chunks[1] )))
-	out.append(("recall",float( chunks[3] )))
-	out.append(("FB1",float( chunks[5] )))
-	out.append(("M_FB1",float( chunks[7] )))
-	return out, cats
-
 #####################################
 
 results_files = []
-for r in range(4):
-	if classifier == "default":
-		f = open('../results/' + tool + '/repeat-' + str(r) + '/sigarra/sigarra-'+classifier+'.txt', 'r')
-	elif classifier == "10fold":
-		f = open('../results/' + tool + '/repeat-' + str(r) + '/sigarra/avg/sigarra-avg.txt', 'r')
-	else:
-		f = open('../results/' + tool + '/repeat-' + str(r) + '/sigarra/sigarra.txt', 'r')
+for i in range(10):
+	f = open('../results/' + tool + '/repeat-' + repeat + '/sigarra/fold-' + str(i) + '/' + level + '.txt', 'r')
 	results_files.append(f.read())
 	f.close()
 
@@ -75,22 +47,12 @@ for r in range(4):
 results = []
 cats = []
 for results_file in results_files:
-	if classifier == "10fold":
-		lines = results_file.splitlines()
-	else:
-		lines = results_file.splitlines()[1:]
+	lines = results_file.splitlines()[1:]
 	result = []
-
-	if classifier == "10fold":
-		result.append(get_accuracy_10fold(lines[0]))
-	else:
-		result.append(get_accuracy(lines[0]))
+	result.append(get_accuracy(lines[0]))
 
 	for line in lines[1:]:
-		if classifier == "10fold":
-			l = get_level_result_10fold(line)
-		else:
-			l = get_level_result(line)
+		l = get_level_result(line)
 		result.append(l[0])
 		cats.append(l[1])
 
@@ -162,13 +124,7 @@ for cat in cats:
 	to_file += "\tMFB1: {:05.2f}".format(m_fb1) 
 	to_file += '\t' + cat + '\n'
 
-
-if classifier == "default":
-	f = open('../results/' + tool + '/avg/sigarra/sigarra-avg-'+classifier+'.txt', 'w')
-elif classifier == "10fold":
-	f = open('../results/' + tool + '/avg/sigarra-10fold/sigarra-avg.txt', 'w')
-else:
-	f = open('../results/' + tool + '/avg/sigarra/sigarra-avg.txt', 'w')
+f = open('../results/' + tool + '/repeat-' + repeat + '/sigarra/avg/' + level + '-avg.txt', 'w')
 f.write(to_file)
 f.close()
 
