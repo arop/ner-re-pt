@@ -1,0 +1,10 @@
+processed 23454 tokens with 1438 phrases; found: 1361 phrases; correct: 1136.
+accuracy:  95.66%; precision:  83.47%; recall:  79.00%; FB1:  81.17
+            Curso: precision:  72.92%; recall:  60.34%; FB1:  66.04  48
+             Data: precision:  95.04%; recall:  93.41%; FB1:  94.22  343
+           Evento: precision:  25.71%; recall:  20.00%; FB1:  22.50  35
+             Hora: precision:  97.52%; recall:  99.37%; FB1:  98.43  161
+      Localizacao: precision:  65.31%; recall:  53.33%; FB1:  58.72  147
+      Organizacao: precision:  67.87%; recall:  70.42%; FB1:  69.12  221
+           Pessoa: precision:  86.10%; recall:  77.11%; FB1:  81.36  223
+  UnidadeOrganica: precision:  93.44%; recall:  91.94%; FB1:  92.68  183
