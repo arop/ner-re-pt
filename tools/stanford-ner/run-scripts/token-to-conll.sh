@@ -41,6 +41,13 @@ do
 	# python "../src/token-to-conll.py" "../outputs/repeat-"$r"/joined/t_filtered_test.txt"
 
 	printf "\n*** sigarra ***\n"
-	python "../src/token-to-conll-sigarra.py" "../outputs/repeat-"$r"/sigarra/t_sigarra_train.txt"
-	python "../src/token-to-conll-sigarra.py" "../outputs/repeat-"$r"/sigarra/t_sigarra_test.txt"
+	for i in {0..9}
+	do
+		printf "\n*** fold "$i" ***\n"
+		python "../src/token-to-conll-sigarra.py" "../outputs/repeat-"$r"/sigarra/fold-"$i"/t_sigarra_train.txt"
+		python "../src/token-to-conll-sigarra.py" "../outputs/repeat-"$r"/sigarra/fold-"$i"/t_sigarra_test.txt"
+	done
+
+	# python "../src/token-to-conll-sigarra.py" "../outputs/repeat-"$r"/sigarra/t_sigarra_train.txt"
+	# python "../src/token-to-conll-sigarra.py" "../outputs/repeat-"$r"/sigarra/t_sigarra_test.txt"
 done

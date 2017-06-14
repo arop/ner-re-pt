@@ -57,12 +57,24 @@ do
 	# 	python ../src/add-IOB.py $FOLDER'/out-filtered.txt' $FOLDER'/out-filtered-iob.txt'
 	# done
 
-	# sigarra
+	# SIGARRA
+	for i in {0..9}
+	do
+		printf "\n***** fold "$i" *****\n"
+		# gold
+		# FOLDERG=../outputs/repeat-$r/sigarra/fold-$i
+		# python ../src/add-IOB.py $FOLDERG'/t_sigarra_test.txt' $FOLDERG'/t_sigarra_test-iob.txt'
+
+		FOLDER=../outputs/repeat-$r/ner-results/sigarra/fold-$i
+		python ../src/add-IOB.py $FOLDER'/out-sigarra.txt' $FOLDER'/out-sigarra-iob.txt'
+		# python ../src/add-IOB.py $FOLDER'/out-sigarra-default.txt' $FOLDER'/out-sigarra-default-iob.txt'
+	done
+	
 	# gold
 	# FOLDERG=../outputs/repeat-$r/sigarra
 	# python ../src/add-IOB.py $FOLDERG'/t_sigarra_test.txt' $FOLDERG'/t_sigarra_test-iob.txt'
 
-	FOLDER=../outputs/repeat-$r/ner-results/sigarra
+	# FOLDER=../outputs/repeat-$r/ner-results/sigarra
 	# python ../src/add-IOB.py $FOLDER'/out-sigarra.txt' $FOLDER'/out-sigarra-iob.txt'
-	python ../src/add-IOB.py $FOLDER'/out-sigarra-default.txt' $FOLDER'/out-sigarra-default-iob.txt'
+	# python ../src/add-IOB.py $FOLDER'/out-sigarra-default.txt' $FOLDER'/out-sigarra-default-iob.txt'
 done

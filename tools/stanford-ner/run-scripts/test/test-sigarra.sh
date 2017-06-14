@@ -11,16 +11,27 @@ do
 	CRF=edu.stanford.nlp.ie.crf.CRFClassifier
 	TOKENIZER=edu.stanford.nlp.process.WhitespaceTokenizer
 
+
+	for i in {0..9}
+	do
+		printf "** testing sigarra fold "$i" **\n"
+		CLASSIFIER=../../models/repeat-$r/sigarra/fold-$i/"sigarra-ner-model.ser.gz"
+		TXT=../../outputs/repeat-$r/sigarra/fold-$i/"t_sigarra_test.txt-clean.txt"
+		OUT=../../outputs/repeat-$r/ner-results/sigarra/fold-$i/"out-sigarra.txt"
+
+		java -d64 -Xmx26g -cp ../stanford-corenlp.jar $CRF -tokenizerFactory $TOKENIZER -loadClassifier $CLASSIFIER -textFile $TXT -outputFormat tsv -encoding utf-8 |  tr -s '\n' > $OUT
+	done
+
 	# CLASSIFIER=../../models/repeat-$r/sigarra/"sigarra-ner-model.ser.gz"
 	# TXT=../../outputs/repeat-$r/sigarra/"t_sigarra_test.txt-clean.txt"
 	# OUT=../../outputs/repeat-$r/ner-results/sigarra/"out-sigarra.txt"
 
 	# java -d64 -Xmx26g -cp ../stanford-corenlp.jar $CRF -tokenizerFactory $TOKENIZER -loadClassifier $CLASSIFIER -textFile $TXT -outputFormat tsv -encoding utf-8 |  tr -s '\n' > $OUT
 
-	printf "** testing sigarra default **\n"
-	CLASSIFIER=../../models/repeat-$r/sigarra/"sigarra-default-ner-model.ser.gz"
-	TXT=../../outputs/repeat-$r/sigarra/"t_sigarra_test.txt-clean.txt"
-	OUT=../../outputs/repeat-$r/ner-results/sigarra/"out-sigarra-default.txt"
+	# printf "** testing sigarra default **\n"
+	# CLASSIFIER=../../models/repeat-$r/sigarra/"sigarra-default-ner-model.ser.gz"
+	# TXT=../../outputs/repeat-$r/sigarra/"t_sigarra_test.txt-clean.txt"
+	# OUT=../../outputs/repeat-$r/ner-results/sigarra/"out-sigarra-default.txt"
 
-	java -d64 -Xmx26g -cp ../stanford-corenlp.jar $CRF -tokenizerFactory $TOKENIZER -loadClassifier $CLASSIFIER -textFile $TXT -outputFormat tsv -encoding utf-8 |  tr -s '\n' > $OUT
+	# java -d64 -Xmx26g -cp ../stanford-corenlp.jar $CRF -tokenizerFactory $TOKENIZER -loadClassifier $CLASSIFIER -textFile $TXT -outputFormat tsv -encoding utf-8 |  tr -s '\n' > $OUT
 done

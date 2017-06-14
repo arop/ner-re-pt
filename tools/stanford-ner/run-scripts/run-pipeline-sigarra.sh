@@ -11,13 +11,25 @@
 for r in {0..3}
 do
 	printf "\n*****repeat "$r"*****\n"
+
+	for i in {0..9}
+	do
+		printf "\n***training sigarra***\n"
+		python ../src/change-prop-sigarra.py ../props/sigarra.prop sigarra $r $i
+		time java -d64 -Xmx28g -cp stanford-corenlp.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop "../props/sigarra.prop"
+
+		# printf "\n***training sigarra default ***\n"
+		# python ../src/change-prop-sigarra.py ../props/sigarra-default.prop sigarra-default $r $i
+		# time java -d64 -Xmx28g -cp stanford-corenlp.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop "../props/sigarra-default.prop"
+	done
+
 	# printf "\n***training sigarra***\n"
 	# python ../src/change-prop-sigarra.py ../props/sigarra.prop sigarra $r
 	# time java -d64 -Xmx28g -cp stanford-corenlp.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop "../props/sigarra.prop"
 
-	printf "\n***training sigarra default ***\n"
-	python ../src/change-prop-sigarra.py ../props/sigarra-default.prop sigarra-default $r
-	time java -d64 -Xmx28g -cp stanford-corenlp.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop "../props/sigarra-default.prop"
+	# printf "\n***training sigarra default ***\n"
+	# python ../src/change-prop-sigarra.py ../props/sigarra-default.prop sigarra-default $r
+	# time java -d64 -Xmx28g -cp stanford-corenlp.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop "../props/sigarra-default.prop"
 done
 
 # test - perform ner
