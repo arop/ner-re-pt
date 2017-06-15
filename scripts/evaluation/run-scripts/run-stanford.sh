@@ -61,7 +61,20 @@ do
 		OUT_RES=../results/stanford-ner/repeat-$r/sigarra
 
 		# ../join-output-golden.sh $IN_NER/out-sigarra-iob.txt $IN_GOLD/"t_sigarra_test-iob".txt | ../conlleval > $OUT_RES/sigarra.txt
-		../join-output-golden.sh $IN_NER/out-sigarra-default-iob.txt $IN_GOLD/"t_sigarra_test-iob".txt | ../conlleval > $OUT_RES/sigarra-default.txt
+		# ../join-output-golden.sh $IN_NER/out-sigarra-default-iob.txt $IN_GOLD/"t_sigarra_test-iob".txt | ../conlleval > $OUT_RES/sigarra-default.txt
+
+		for i in {0..9}
+		do
+			TOOL=../../../tools/stanford-ner
+			IN_NER=$TOOL/outputs/repeat-$r/ner-results/sigarra/fold-$i
+			IN_GOLD=$TOOL/outputs/repeat-$r/sigarra/fold-$i
+			OUT_RES=../results/stanford-ner/repeat-$r/sigarra/fold-$i
+
+			../join-output-golden.sh $IN_NER/out-sigarra-iob.txt $IN_GOLD/"t_sigarra_test-iob".txt | ../conlleval > $OUT_RES/sigarra.txt
+			# ../join-output-golden.sh $IN_NER/out-sigarra-default-iob.txt $IN_GOLD/"t_sigarra_test-iob".txt | ../conlleval > $OUT_RES/sigarra-default.txt
+		done
+
+		python ../src/avg-results-sigarra-10fold.py stanford-ner sigarra $r
 	done
 
 	# python ../src/avg-results-all.py stanford-ner $level
@@ -82,5 +95,7 @@ do
 	# done
 
 	# python ../src/avg-results-sigarra.py stanford-ner
-	python ../src/avg-results-sigarra.py stanford-ner default
+	# python ../src/avg-results-sigarra.py stanford-ner default
+
+	python ../src/avg-results-sigarra.py stanford-ner 10fold
 done
