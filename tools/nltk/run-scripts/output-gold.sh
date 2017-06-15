@@ -23,6 +23,13 @@ do
 	# done
 
 	printf "\n** sigarra **\n"
-	FOLDER=../outputs/repeat-$r/sigarra
-	python "../src/out-conll-gold.py" $FOLDER/t-sigarra-test-doc.txt $FOLDER/out-sigarra-gold.txt 'UTF-8'
+	for i in {0..9}
+	do
+		printf "\n** fold "$i" **\n"
+		FOLDER=../outputs/repeat-$r/sigarra/fold-$i
+		python "../src/out-conll-gold.py" $FOLDER/t-sigarra-test-doc.txt $FOLDER/out-sigarra-gold.txt 'UTF-8'
+	done
+
+	# FOLDER=../outputs/repeat-$r/sigarra
+	# python "../src/out-conll-gold.py" $FOLDER/t-sigarra-test-doc.txt $FOLDER/out-sigarra-gold.txt 'UTF-8'
 done

@@ -26,9 +26,18 @@ do
 	# 	python $SCRIPT $FOLDER/t-$level-test-doc.txt $FOLDER/pos-$level-docs-test.txt 'ISO-8859-1'
 	# done
 
-	FOLDER=../outputs/repeat-$r/sigarra
-	
 	printf "\n** sigarra **\n"
-	python $SCRIPT $FOLDER/t-sigarra-train-doc.txt $FOLDER/pos-sigarra-docs-train.txt 'UTF-8'
-	python $SCRIPT $FOLDER/t-sigarra-test-doc.txt $FOLDER/pos-sigarra-docs-test.txt 'UTF-8'
+	for i in {0..9}
+	do
+		printf "\n** fold "$i" **\n"
+		FOLDER=../outputs/repeat-$r/sigarra/fold-$i
+		
+		python $SCRIPT $FOLDER/t-sigarra-train-doc.txt $FOLDER/pos-sigarra-docs-train.txt 'UTF-8'
+		python $SCRIPT $FOLDER/t-sigarra-test-doc.txt $FOLDER/pos-sigarra-docs-test.txt 'UTF-8'
+	done
+
+	# FOLDER=../outputs/repeat-$r/sigarra
+	
+	# python $SCRIPT $FOLDER/t-sigarra-train-doc.txt $FOLDER/pos-sigarra-docs-train.txt 'UTF-8'
+	# python $SCRIPT $FOLDER/t-sigarra-test-doc.txt $FOLDER/pos-sigarra-docs-test.txt 'UTF-8'
 done

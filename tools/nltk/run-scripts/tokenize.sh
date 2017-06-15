@@ -30,9 +30,19 @@ do
 	# done
 
 	printf "\n** sigarra **\n"
-	FOLDER=../../open-nlp/outputs/repeat-$r/sigarra
-	OUT=../outputs/repeat-$r/sigarra
 
-	python $SCRIPT $FOLDER/sigarra_train_sent_doc.xml $OUT/t-sigarra-train-doc.txt 'UTF-8'
-	python $SCRIPT $FOLDER/sigarra_test_sent_doc.xml $OUT/t-sigarra-test-doc.txt 'UTF-8'
+	for i in {0..9}
+	do
+		FOLDER=../../open-nlp/outputs/repeat-$r/sigarra/fold-$i
+		OUT=../outputs/repeat-$r/sigarra/fold-$i
+
+		python $SCRIPT $FOLDER/sigarra_train_sent_doc.xml $OUT/t-sigarra-train-doc.txt 'UTF-8'
+		python $SCRIPT $FOLDER/sigarra_test_sent_doc.xml $OUT/t-sigarra-test-doc.txt 'UTF-8'
+	done
+
+	# FOLDER=../../open-nlp/outputs/repeat-$r/sigarra
+	# OUT=../outputs/repeat-$r/sigarra
+
+	# python $SCRIPT $FOLDER/sigarra_train_sent_doc.xml $OUT/t-sigarra-train-doc.txt 'UTF-8'
+	# python $SCRIPT $FOLDER/sigarra_test_sent_doc.xml $OUT/t-sigarra-test-doc.txt 'UTF-8'
 done

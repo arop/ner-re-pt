@@ -12,7 +12,8 @@ do
 		MODEL=models/repeat-$r/sigarra/fold-$i
 		RESULTS=results/repeat-$r/sigarra/fold-$i
 
-		bin/opennlp TokenNameFinder $MODEL/pt-ner-sigarra.bin < $FOLDER/sigarra_test_sent_doc-clean.xml > $RESULTS/out-sigarra.txt
+		# bin/opennlp TokenNameFinder $MODEL/pt-ner-sigarra.bin < $FOLDER/sigarra_test_sent_doc-clean.xml > $RESULTS/out-sigarra.txt
+		bin/opennlp TokenNameFinder $MODEL/pt-ner-sigarra-default.bin < $FOLDER/sigarra_test_sent_doc-clean.xml > $RESULTS/out-sigarra-default.txt
 	done
 
 	# FOLDER=../outputs/repeat-$r/sigarra
