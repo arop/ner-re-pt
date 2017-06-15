@@ -33,16 +33,17 @@ do
 	# 	done
 
 		# SIGARRA
-
 		for i in {0..9}
 		do
 			TOOL=../../../tools/open-nlp/outputs/repeat-$r/ner-results/sigarra/fold-$i
 			OUT_RES=../results/open-nlp/repeat-$r/sigarra/fold-$i
-			../join-output-golden.sh $TOOL/out-sigarra.txt $TOOL/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra.txt
-			# ../join-output-golden.sh $TOOL/out-sigarra-default.txt $TOOL/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra-default.txt
+
+			# ../join-output-golden.sh $TOOL/out-sigarra.txt $TOOL/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra.txt
+			../join-output-golden.sh $TOOL/out-sigarra-default.txt $TOOL/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra-default.txt
 		done
 
-		python ../src/avg-results-sigarra-10fold.py open-nlp sigarra $r
+		# python ../src/avg-results-sigarra-10fold.py open-nlp sigarra $r
+		python ../src/avg-results-sigarra-10fold.py open-nlp sigarra-default $r
 
 		# TOOL=../../../tools/open-nlp/outputs/repeat-$r/ner-results/sigarra
 		# OUT_RES=../results/open-nlp/repeat-$r/sigarra
@@ -63,5 +64,6 @@ do
 	# done
 
 	# python ../src/avg-results-sigarra.py open-nlp default
-	python ../src/avg-results-sigarra.py open-nlp 10fold
+	# python ../src/avg-results-sigarra.py open-nlp 10fold
+	python ../src/avg-results-sigarra.py open-nlp 10fold default
 done

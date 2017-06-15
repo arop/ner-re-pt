@@ -3,8 +3,12 @@ import sys
 if(len(sys.argv) > 1):
 	tool = sys.argv[1]
 	classifier = False
+	default10fold = False
+
 	if(len(sys.argv) > 2):
 		classifier = sys.argv[2]
+		if(len(sys.argv) > 3):
+			default10fold = True
 else:
 	print "Usage: python " + sys.argv[0] + " <tool> [classifier]\n"
 	sys.exit()
@@ -65,7 +69,11 @@ for r in range(4):
 	if classifier == "default":
 		f = open('../results/' + tool + '/repeat-' + str(r) + '/sigarra/sigarra-'+classifier+'.txt', 'r')
 	elif classifier == "10fold":
-		f = open('../results/' + tool + '/repeat-' + str(r) + '/sigarra/avg/sigarra-avg.txt', 'r')
+		if default10fold:
+			f = open('../results/' + tool + '/repeat-' + str(r) + '/sigarra/avg/sigarra-default-avg.txt', 'r')
+		else:	
+			f = open('../results/' + tool + '/repeat-' + str(r) + '/sigarra/avg/sigarra-avg.txt', 'r')
+
 	else:
 		f = open('../results/' + tool + '/repeat-' + str(r) + '/sigarra/sigarra.txt', 'r')
 	results_files.append(f.read())
@@ -166,7 +174,10 @@ for cat in cats:
 if classifier == "default":
 	f = open('../results/' + tool + '/avg/sigarra/sigarra-avg-'+classifier+'.txt', 'w')
 elif classifier == "10fold":
-	f = open('../results/' + tool + '/avg/sigarra-10fold/sigarra-avg.txt', 'w')
+	if default10fold:
+		f = open('../results/' + tool + '/avg/sigarra-10fold/sigarra-default-avg.txt', 'w')
+	else:
+		f = open('../results/' + tool + '/avg/sigarra-10fold/sigarra-avg.txt', 'w')
 else:
 	f = open('../results/' + tool + '/avg/sigarra/sigarra-avg.txt', 'w')
 f.write(to_file)
