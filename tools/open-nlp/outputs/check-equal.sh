@@ -26,7 +26,7 @@ do
 	for i in {0..9}
 	do
 		python check-equal-sigarra-10fold.py $r $i
-		# python check-equal-sigarra-10fold.py $r $i default
+		python check-equal-sigarra-10fold.py $r $i default
 	done
 
 	# python check-equal-sigarra.py $r

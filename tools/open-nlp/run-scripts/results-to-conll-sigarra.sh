@@ -13,8 +13,9 @@ do
 		OUTR=../outputs/repeat-$r/ner-results/sigarra/fold-$i
 		OUT=../outputs/repeat-$r/sigarra/fold-$i
 
-		python $SCRIPT $TRAIN"/out-sigarra.txt" $OUTR"/out-sigarra.txt" "UTF-8"
-		python $SCRIPT $OUT"/sigarra_test_sent_doc.xml" $OUTR"/out-sigarra-gold.txt" "sigarra"
+		# python $SCRIPT $TRAIN"/out-sigarra.txt" $OUTR"/out-sigarra.txt" "UTF-8"
+		python $SCRIPT $TRAIN"/out-sigarra-default.txt" $OUTR"/out-sigarra-default.txt" "UTF-8"
+		# python $SCRIPT $OUT"/sigarra_test_sent_doc.xml" $OUTR"/out-sigarra-gold.txt" "sigarra"
 	done
 
 	# TRAIN=../train/results/repeat-$r/sigarra
