@@ -109,7 +109,7 @@ Mais	O
 informação	O
 em	O
 :	O
-http://www.cetaps.com/?id=15​	O
+http://www.cetaps.com/?id=15	O
 FEUP	B-UnidadeOrganica
 |	O
 Bolsa	O
@@ -3837,7 +3837,9 @@ anexo	O
 e	O
 em	O
 :	O
-https://www.turkiyeburslari.gov.tr/en/english-home/ ou www.trscholarships.org	O
+https://www.turkiyeburslari.gov.tr/en/english-home/	O
+ou	O
+www.trscholarships.org	O
 .	O
 Inquéritos	O
 Pedagógicos	O
@@ -16994,7 +16996,10 @@ Allen	I-Localizacao
 Porto	I-Localizacao
 T.	O
 |	O
-+351 220 400 617	O
++351	O
+220	O
+400	O
+617	O
 E.	O
 |	O
 cpup@fpce.up.pt	O

@@ -24,4 +24,11 @@ do
 
 	printf "\n** sigarra **\n"
 	python check-equal-sigarra.py "sigarra" $r
+	python check-equal-sigarra.py "sigarra" $r default
+
+	for i in {0..9}
+	do
+		python check-equal-sigarra-10fold.py "sigarra" $r $i
+		# python check-equal-sigarra-10fold.py "sigarra" $r $i default
+	done
 done

@@ -1016,7 +1016,9 @@ disponível	O
 em	O
 vídeo	O
 na	O
-página www.facebook.com/FAUPorto, logo	O
+página	O
+www.facebook.com/FAUPorto,	O
+logo	O
 após	O
 o	O
 final	O
@@ -2366,7 +2368,8 @@ Rua	B-Localizacao
 dos	I-Localizacao
 Bragas	I-Localizacao
 ,	I-Localizacao
-223 4050-123	I-Localizacao
+223	I-Localizacao
+4050-123	I-Localizacao
 PORTO	I-Localizacao
 Tel.	O
 :	O
@@ -10215,7 +10218,10 @@ E-mail	O
 mnc@fcna.up.pt	O
 Telefone	O
 :	O
-+351 225 074 320	O
++351	O
+225	O
+074	O
+320	O
 SEMINÁRIOS	O
 ABERTOS	O
 |	O
@@ -11787,7 +11793,9 @@ Allen	I-Localizacao
 Porto	I-Localizacao
 T.	O
 |	O
-220 400 600	O
+220	O
+400	O
+600	O
 E.	O
 |	O
 oficina.descoberta@gmail.com	O
@@ -17694,7 +17702,10 @@ Empregabilidade	O
 https://www.facebook.com/geuporto	O
 empregabilidade@reit.up.pt	O
 www.up.pt/GAEE	O
-+351 22 040 8312	O
++351	O
+22	O
+040	O
+8312	O
 -LSB-	O
 inscrição	O
 antecipada	O

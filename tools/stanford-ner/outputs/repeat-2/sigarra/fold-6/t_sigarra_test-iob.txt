@@ -892,7 +892,9 @@ Allen	I-Localizacao
 Porto	I-Localizacao
 T.	O
 |	O
-220 400 600	O
+220	O
+400	O
+600	O
 E.	O
 |	O
 oficina.descoberta@gmail.com	O
@@ -12117,7 +12119,10 @@ E-mail	O
 mnc@fcna.up.pt	O
 Telefone	O
 :	O
-+351 225 074 320	O
++351	O
+225	O
+074	O
+320	O
 JOVENS	O
 EMPREENDEDORES	O
 Mobilidade	O

@@ -2327,7 +2327,9 @@ Bárbara	B-Pessoa
 Pereira	I-Pessoa
 telefone	O
 :	O
-225 074 320	O
+225	O
+074	O
+320	O
 e-mail	O
 :	O
 :	O
@@ -3936,7 +3938,10 @@ International	O
 Cooperation	O
 Tel	O
 :	O
-+351 220 408 034	O
++351	O
+220	O
+408	O
+034	O
 |	O
 international@reit.up.pt;	O
 bcosta@reit.up.pt	O
@@ -12178,7 +12183,8 @@ da	O
 FBAUP	B-UnidadeOrganica
 Telefone	O
 :	O
-22 5192427	O
+22	O
+5192427	O
 E-mail	O
 :	O
 world@fba.up.pt	O

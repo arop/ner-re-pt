@@ -6700,7 +6700,8 @@ Rua	B-Localizacao
 dos	I-Localizacao
 Bragas	I-Localizacao
 ,	I-Localizacao
-223 4050-123	I-Localizacao
+223	I-Localizacao
+4050-123	I-Localizacao
 PORTO	I-Localizacao
 Tel.	O
 :	O
@@ -7986,7 +7987,10 @@ E-mail	O
 mnc@fcna.up.pt	O
 Telefone	O
 :	O
-+351 225 074 320	O
++351	O
+225	O
+074	O
+320	O
 Lançamento	O
 do	O
 Livro	O
@@ -18780,7 +18784,8 @@ Rua	B-Localizacao
 dos	I-Localizacao
 Bragas	I-Localizacao
 ,	I-Localizacao
-223 4050-123	I-Localizacao
+223	I-Localizacao
+4050-123	I-Localizacao
 PORTO	I-Localizacao
 Tel.	O
 :	O

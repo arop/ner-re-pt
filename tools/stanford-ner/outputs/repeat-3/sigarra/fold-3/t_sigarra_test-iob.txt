@@ -5716,7 +5716,10 @@ E-mail	O
 mnc@fcna.up.pt	O
 Telefone	O
 :	O
-+351 225 074 320	O
++351	O
+225	O
+074	O
+320	O
 Escola	B-Evento
 de	I-Evento
 Inverno	I-Evento
@@ -12667,7 +12670,8 @@ Rua	B-Localizacao
 dos	I-Localizacao
 Bragas	I-Localizacao
 ,	I-Localizacao
-223 4050-123	I-Localizacao
+223	I-Localizacao
+4050-123	I-Localizacao
 PORTO	I-Localizacao
 Tel.	O
 :	O
@@ -18421,7 +18425,10 @@ Allen	I-Localizacao
 Porto	I-Localizacao
 T.	O
 |	O
-+351 220 400 617	O
++351	O
+220	O
+400	O
+617	O
 E.	O
 |	O
 cpup@fpce.up.pt	O
@@ -28941,7 +28948,9 @@ Bárbara	B-Pessoa
 Pereira	I-Pessoa
 telefone	O
 :	O
-225 074 320	O
+225	O
+074	O
+320	O
 e-mail	O
 :	O
 :	O
