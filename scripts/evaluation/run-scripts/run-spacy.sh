@@ -31,11 +31,12 @@ do
 		do
 			TOOL=../../../tools/spacy/outputs/repeat-$r/sigarra/fold-$i
 			OUT_RES=../results/spacy/repeat-$r/sigarra/fold-$i
-			../join-output-golden.sh $TOOL/sigarra.txt $TOOL/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra.txt
-			# ../join-output-golden.sh $TOOL/sigarra-default.txt $TOOL/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra-default.txt
+			# ../join-output-golden.sh $TOOL/sigarra.txt $TOOL/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra.txt
+			../join-output-golden.sh $TOOL/sigarra-default.txt $TOOL/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra-default.txt
 		done
 
 		python ../src/avg-results-sigarra-10fold.py spacy sigarra $r
+		python ../src/avg-results-sigarra-10fold.py spacy sigarra-default $r
 
 		# TOOL=../../../tools/spacy/outputs/repeat-$r/sigarra
 		# OUT_RES=../results/spacy/repeat-$r/sigarra
@@ -53,5 +54,6 @@ do
 	# python ../src/avg-results-sigarra.py spacy
 	# python ../src/avg-results-sigarra.py spacy default
 
-	python ../src/avg-results-sigarra.py spacy 10fold
+	# python ../src/avg-results-sigarra.py spacy 10fold
+	python ../src/avg-results-sigarra.py spacy 10fold default
 done

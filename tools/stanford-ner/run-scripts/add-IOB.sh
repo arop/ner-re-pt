@@ -66,8 +66,8 @@ do
 		# python ../src/add-IOB.py $FOLDERG'/t_sigarra_test.txt' $FOLDERG'/t_sigarra_test-iob.txt'
 
 		FOLDER=../outputs/repeat-$r/ner-results/sigarra/fold-$i
-		python ../src/add-IOB.py $FOLDER'/out-sigarra.txt' $FOLDER'/out-sigarra-iob.txt'
-		# python ../src/add-IOB.py $FOLDER'/out-sigarra-default.txt' $FOLDER'/out-sigarra-default-iob.txt'
+		# python ../src/add-IOB.py $FOLDER'/out-sigarra.txt' $FOLDER'/out-sigarra-iob.txt'
+		python ../src/add-IOB.py $FOLDER'/out-sigarra-default.txt' $FOLDER'/out-sigarra-default-iob.txt'
 	done
 	
 	# gold
