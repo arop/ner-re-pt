@@ -11,8 +11,11 @@ do
 		FOLDER=../../scripts/filter-sigarra/sigarra-to-standoff/outputs/repeat-$r/fold-$i
 		MODEL=repeat-$r/sigarra/fold-$i
 
-		OUT=repeat-$r/sigarra/fold-$i/out-sigarra
-		time python "src/ner-test-spacy-sigarra.py" $FOLDER/"sigarra_test-standoff" $MODEL/sigarra $OUT
+		# OUT=repeat-$r/sigarra/fold-$i/out-sigarra
+		# time python "src/ner-test-spacy-sigarra.py" $FOLDER/"sigarra_test-standoff" $MODEL/sigarra $OUT
+
+		OUT=repeat-$r/sigarra/fold-$i/out-sigarra-default
+		time python "src/ner-test-spacy-sigarra.py" $FOLDER/"sigarra_test-standoff" $MODEL/sigarra-default $OUT
 	done
 
 	# FOLDER=../../scripts/filter-sigarra/sigarra-to-standoff/outputs/repeat-$r/

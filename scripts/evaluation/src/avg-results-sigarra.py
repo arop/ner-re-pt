@@ -8,7 +8,7 @@ if(len(sys.argv) > 1):
 	if(len(sys.argv) > 2):
 		classifier = sys.argv[2]
 		if(len(sys.argv) > 3):
-			default10fold = True
+			default10fold = sys.argv[3]
 else:
 	print "Usage: python " + sys.argv[0] + " <tool> [classifier]\n"
 	sys.exit()
@@ -66,11 +66,11 @@ def get_level_result_10fold(str):
 
 results_files = []
 for r in range(4):
-	if classifier == "default":
+	if classifier == "default" or classifier in ['NB','ME','ME-default','DT','DT-default']:
 		f = open('../results/' + tool + '/repeat-' + str(r) + '/sigarra/sigarra-'+classifier+'.txt', 'r')
 	elif classifier == "10fold":
-		if default10fold:
-			f = open('../results/' + tool + '/repeat-' + str(r) + '/sigarra/avg/sigarra-default-avg.txt', 'r')
+		if default10fold in ['default','NB','ME','ME-default','DT','DT-default']:
+			f = open('../results/' + tool + '/repeat-' + str(r) + '/sigarra/avg/sigarra-'+default10fold+'-avg.txt', 'r')
 		else:	
 			f = open('../results/' + tool + '/repeat-' + str(r) + '/sigarra/avg/sigarra-avg.txt', 'r')
 
@@ -171,11 +171,11 @@ for cat in cats:
 	to_file += '\t' + cat + '\n'
 
 
-if classifier == "default":
+if classifier == "default" or classifier in ['NB','ME','ME-default','DT','DT-default']:
 	f = open('../results/' + tool + '/avg/sigarra/sigarra-avg-'+classifier+'.txt', 'w')
 elif classifier == "10fold":
-	if default10fold:
-		f = open('../results/' + tool + '/avg/sigarra-10fold/sigarra-default-avg.txt', 'w')
+	if default10fold in ['default','NB','ME','ME-default','DT','DT-default']:
+		f = open('../results/' + tool + '/avg/sigarra-10fold/sigarra-'+default10fold+'-avg.txt', 'w')
 	else:
 		f = open('../results/' + tool + '/avg/sigarra-10fold/sigarra-avg.txt', 'w')
 else:

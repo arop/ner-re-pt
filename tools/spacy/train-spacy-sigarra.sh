@@ -10,8 +10,8 @@ do
 		TRAIN=../../scripts/filter-sigarra/sigarra-to-standoff/outputs/repeat-$r/fold-$i
 		MODEL=models/repeat-$r/sigarra/fold-$i
 
-		time python "src/ner-train-spacy-sigarra.py" $TRAIN"/sigarra_train-standoff" $MODEL sigarra 110
-		# time python "src/ner-train-spacy-sigarra.py" $TRAIN"/sigarra_train-standoff" $MODEL sigarra-default 10
+		# time python "src/ner-train-spacy-sigarra.py" $TRAIN"/sigarra_train-standoff" $MODEL sigarra 110
+		time python "src/ner-train-spacy-sigarra.py" $TRAIN"/sigarra_train-standoff" $MODEL sigarra-default 10
 	done
 
 	# TRAIN=../../scripts/filter-sigarra/sigarra-to-standoff/outputs/repeat-$r/

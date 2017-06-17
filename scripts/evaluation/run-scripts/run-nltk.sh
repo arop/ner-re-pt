@@ -7,7 +7,7 @@ declare -a levels=("cat" "types" "subtypes" "filtered")
 for level in "${levels[@]}"
 do
 	for r in {0..3}
-	do
+	do	
 		# for i in {0..9}
 		# do
 		# 	TOOL=../../../tools/nltk/outputs/repeat-$r/ner-results/fold-$i
@@ -66,9 +66,9 @@ do
 
 
 		# SIGARRA
-		TOOL=../../../tools/nltk/outputs/repeat-$r/ner-results/sigarra
-		GOLD=../../../tools/nltk/outputs/repeat-$r/sigarra
-		OUT_RES=../results/nltk/repeat-$r/sigarra
+		# TOOL=../../../tools/nltk/outputs/repeat-$r/ner-results/sigarra
+		# GOLD=../../../tools/nltk/outputs/repeat-$r/sigarra
+		# OUT_RES=../results/nltk/repeat-$r/sigarra
 
 		# ../join-output-golden.sh $TOOL/out-sigarra-NB.txt $GOLD/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra-NB.txt
 
@@ -76,8 +76,28 @@ do
 		# ../join-output-golden.sh $TOOL/out-sigarra-ME-default.txt $GOLD/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra-ME-default.txt
 
 		# ../join-output-golden.sh $TOOL/out-sigarra-DT.txt $GOLD/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra-DT.txt
-		../join-output-golden.sh $TOOL/out-sigarra-DT-default.txt $GOLD/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra-DT-default.txt
+		# ../join-output-golden.sh $TOOL/out-sigarra-DT-default.txt $GOLD/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra-DT-default.txt
 
+		for i in {0..9}
+		do
+			TOOL=../../../tools/nltk/outputs/repeat-$r/ner-results/sigarra/fold-$i
+			GOLD=../../../tools/nltk/outputs/repeat-$r/sigarra/fold-$i
+			OUT_RES=../results/nltk/repeat-$r/sigarra/fold-$i
+
+			../join-output-golden.sh $TOOL/out-sigarra-NB.txt $GOLD/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra-NB.txt
+
+			../join-output-golden.sh $TOOL/out-sigarra-ME.txt $GOLD/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra-ME.txt
+			../join-output-golden.sh $TOOL/out-sigarra-ME-default.txt $GOLD/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra-ME-default.txt
+
+			../join-output-golden.sh $TOOL/out-sigarra-DT.txt $GOLD/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra-DT.txt
+			../join-output-golden.sh $TOOL/out-sigarra-DT-default.txt $GOLD/out-sigarra-gold.txt | ../conlleval > $OUT_RES/sigarra-DT-default.txt
+		done
+
+		python ../src/avg-results-sigarra-10fold.py nltk sigarra-NB $r
+		python ../src/avg-results-sigarra-10fold.py nltk sigarra-ME $r
+		python ../src/avg-results-sigarra-10fold.py nltk sigarra-ME-default $r
+		python ../src/avg-results-sigarra-10fold.py nltk sigarra-DT $r
+		python ../src/avg-results-sigarra-10fold.py nltk sigarra-DT-default $r
 	done
 
 	# python ../src/avg-results-all.py nltk $level-DT
@@ -122,5 +142,12 @@ do
 	# python ../src/avg-results-sigarra.py nltk ME
 	# python ../src/avg-results-sigarra.py nltk ME-default
 	# python ../src/avg-results-sigarra.py nltk DT
-	python ../src/avg-results-sigarra.py nltk DT-default
+	# python ../src/avg-results-sigarra.py nltk DT-default
+
+
+	python ../src/avg-results-sigarra.py nltk 10fold NB
+	python ../src/avg-results-sigarra.py nltk 10fold ME
+	python ../src/avg-results-sigarra.py nltk 10fold ME-default
+	python ../src/avg-results-sigarra.py nltk 10fold DT
+	python ../src/avg-results-sigarra.py nltk 10fold DT-default
 done
