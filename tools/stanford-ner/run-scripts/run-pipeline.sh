@@ -23,8 +23,8 @@ do
 		# cd train && time ./train.sh ; cd -
 
 		# printf "\n***training types***\n"
-		python ../src/change-prop.py ../props/prop.prop types $r $i
-		cd train && time ./train.sh ; cd - # not enough RAM
+		# python ../src/change-prop.py ../props/prop.prop types $r $i
+		# cd train && time ./train.sh ; cd - # not enough RAM
 
 		# printf "\n***training subtypes***\n"
 		python ../src/change-prop.py ../props/prop.prop subtypes $r $i
@@ -37,8 +37,8 @@ done
 # cd test && time ./test-cat.sh ; cd - #1min30 r[1-3]
 # printf "\n***testing filtered***\n"
 # cd test && time ./test-filtered.sh ; cd - #1min20 r[1-3]
-printf "\n***testing types***\n"
-cd test && time ./test-types.sh ; cd - # not enough RAM
+# printf "\n***testing types***\n"
+# cd test && time ./test-types.sh ; cd - # not enough RAM
 printf "\n***testing subtypes***\n"
 cd test && time ./test-subtypes.sh ; cd - # not enough RAM
 
