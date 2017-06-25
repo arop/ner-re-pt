@@ -13,4 +13,4 @@ Entity extraction using well-established tools (OpenNLP, Stanford CoreNLP, spaCy
 
 In colaboration with: [FEUP InfoLab](http://infolab.fe.up.pt/) and [INESC TEC](https://www.inesctec.pt/)
 
-For more information check [wiki](https://github.com/arop/ner-re-pt/wiki).
+For more information, regarding the developing process, guidelines for each tool, results obtained, resources created (trained NER models and annotated dataset) and more, check [wiki](https://github.com/arop/ner-re-pt/wiki).
