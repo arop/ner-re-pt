@@ -1,0 +1,5 @@
+processed 21129 tokens with 767 phrases; found: 1606 phrases; correct: 311.
+accuracy:  84.36%; precision:  19.36%; recall:  40.55%; FB1:  26.21
+      Localizacao: precision:  23.91%; recall:  47.06%; FB1:  31.71  435
+      Organizacao: precision:  18.61%; recall:  26.48%; FB1:  21.86  360
+           Pessoa: precision:  17.26%; recall:  47.78%; FB1:  25.36  811
