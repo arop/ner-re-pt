@@ -13,4 +13,7 @@
 # cd run-scripts && ./run-spacy.sh ; cd -
 
 # pampo
-cd run-scripts && ./run-pampo.sh ; cd -
+# cd run-scripts && ./run-pampo.sh ; cd -
+
+# crossed
+cd run-scripts && ./run-crossed.sh ; cd -

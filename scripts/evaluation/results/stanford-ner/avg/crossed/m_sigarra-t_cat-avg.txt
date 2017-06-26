@@ -1,0 +1,4 @@
+precision: 67.26	recall: 26.68	FB1: 37.80	AVG_M_FB1: 38.20	T_M_FB1: 38.21	accuracy: 93.41
+precision: 74.97	recall: 27.87	FB1: 40.07	AVG_M_FB1: 40.61	T_M_FB1: 40.63	PESSOA
+precision: 64.62	recall: 31.43	FB1: 41.51	AVG_M_FB1: 42.28	T_M_FB1: 42.29	LOCAL
+precision: 46.74	recall: 15.64	FB1: 23.07	AVG_M_FB1: 23.44	T_M_FB1: 23.44	ORGANIZACAO

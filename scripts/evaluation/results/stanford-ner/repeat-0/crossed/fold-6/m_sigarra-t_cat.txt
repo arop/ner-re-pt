@@ -1,0 +1,5 @@
+processed 9514 tokens with 455 phrases; found: 144 phrases; correct: 74.
+accuracy:  93.22%; precision:  51.39%; recall:  16.26%; FB1:  24.71
+            LOCAL: precision:  56.67%; recall:  24.82%; FB1:  34.52  60
+      ORGANIZACAO: precision:  21.43%; recall:   3.75%; FB1:   6.38  14
+           PESSOA: precision:  52.86%; recall:  15.55%; FB1:  24.03  70
