@@ -26,13 +26,13 @@ do
 	# python $SCRIPT $FOLDER'/pos-subtypes-docs-train.txt' $FOLDER'/t-subtypes-train-doc.txt' $FOLDER'/out-conll-subtypes.txt' 'ISO-8859-1'
 	# python $SCRIPT $FOLDER'/pos-filtered-docs-train.txt' $FOLDER'/t-filtered-train-doc.txt' $FOLDER'/out-conll-filtered.txt' 'ISO-8859-1'
 
-	printf "\n** sigarra **\n"
+	# printf "\n** sigarra **\n"
 
-	for i in {0..9}
-	do
-		FOLDER=../outputs/repeat-$r/sigarra/fold-$i
-		python $SCRIPT $FOLDER'/pos-sigarra-docs-train.txt' $FOLDER'/t-sigarra-train-doc.txt' $FOLDER'/out-conll-sigarra.txt' 'UTF-8'
-	done
+	# for i in {0..9}
+	# do
+	# 	FOLDER=../outputs/repeat-$r/sigarra/fold-$i
+	# 	python $SCRIPT $FOLDER'/pos-sigarra-docs-train.txt' $FOLDER'/t-sigarra-train-doc.txt' $FOLDER'/out-conll-sigarra.txt' 'UTF-8'
+	# done
 
 	# FOLDER=../outputs/repeat-$r/sigarra
 	# python $SCRIPT $FOLDER'/pos-sigarra-docs-train.txt' $FOLDER'/t-sigarra-train-doc.txt' $FOLDER'/out-conll-sigarra.txt' 'UTF-8'

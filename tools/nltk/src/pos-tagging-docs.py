@@ -6,6 +6,7 @@ if(len(sys.argv) > 3):
   filein = sys.argv[1]
   fileout = sys.argv[2]
   encoding = sys.argv[3]
+
 else:
   print "Usage: python " + sys.argv[0] + " <input> <output> <encoding>\n"
   sys.exit()
